@@ -21,7 +21,11 @@ html,body{margin:0;height:100%;background:#2e2417;
 .navlink{font-family:inherit;font-size:16px;color:var(--ink-soft);background:none;border:none;
   padding:5px 11px;border-radius:14px;cursor:pointer;letter-spacing:1px}
 .navlink:hover{background:rgba(122,59,29,.12);color:var(--accent)}
-#langbtn{margin-left:auto;font-family:inherit;font-size:14px;font-weight:600;letter-spacing:1px;
+#repolink{margin-left:auto}
+.iconlink{display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;
+  border-radius:14px;color:var(--ink-soft);text-decoration:none}
+.iconlink:hover{background:rgba(122,59,29,.12);color:var(--accent)}
+#langbtn{margin-left:8px;font-family:inherit;font-size:14px;font-weight:600;letter-spacing:1px;
   color:var(--ink-soft);background:var(--paper-hi);border:1px solid var(--paper-edge);
   padding:5px 12px;border-radius:14px;cursor:pointer;min-width:40px}
 #langbtn:hover{background:rgba(122,59,29,.12);color:var(--accent);border-color:var(--accent)}
@@ -147,8 +151,9 @@ ul.pregs li{padding:2px 0}
   #title{font-size:19px;letter-spacing:0}
   #title .sub{display:none}
   #nav{display:none}
+  #repolink{display:none}   /* GitHub link still reachable via the ☰ info modal */
   #navbtn{display:inline-flex;margin-left:6px}
-  #langbtn{padding:4px 9px;font-size:13px;min-width:34px}
+  #langbtn{margin-left:auto;padding:4px 9px;font-size:13px;min-width:34px}
   #searchwrap{margin-left:8px}
   #search{width:130px;font-size:15px;padding:5px 10px}
   #sresults{width:220px}
@@ -200,3 +205,6 @@ ul.pregs li{padding:2px 0}
 .mpage ol li{padding-left:2px}
 .mpage code{font-family:Consolas,"Courier New",monospace;font-size:14px;background:#e7d6ab;padding:1px 5px;border-radius:4px}
 .mpage b{color:var(--ink)}
+.mspread{margin-top:14px !important;padding:10px 14px;background:#efe1bd;border:1px solid var(--paper-edge);
+  border-radius:8px;font-size:15.5px !important}
+.mspread a{color:var(--accent);font-weight:600}
