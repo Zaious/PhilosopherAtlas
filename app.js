@@ -69,6 +69,7 @@ let selected = null;           // selected datum
 let selectedFull = null;       // its loaded full JSON
 let spiderCluster = null;      // {cx,cy,members} currently spiderfied
 let focusMode = true;          // on = dim others when one is selected (toggle in legend)
+let _spiderAnim = false;       // one-shot: animate the fan-out on the next redraw only
 
 // ---------- svg scaffold ----------
 const mapEl = document.getElementById('map');
@@ -148,8 +149,12 @@ function dominantTradition(members) {
 
 // ---------- render ----------
 function redraw() {
-  const pts = visibleData();
-  pts.forEach(d => { const s = screenXY(d); d._sx = s[0]; d._sy = s[1]; });
+  const pad = 80;   // keep points just off-screen so edges stay populated while panning
+  const all = visibleData();
+  all.forEach(d => { const s = screenXY(d); d._sx = s[0]; d._sy = s[1]; });
+  // viewport culling: at high zoom most points are off-screen — skip them entirely
+  // (kills the O(n²) clustering cost and the pile of off-screen filtered pins)
+  const pts = all.filter(d => d._sx >= -pad && d._sx <= W + pad && d._sy >= -pad && d._sy <= H + pad);
 
   // spider persists across zoom: re-anchor its fan from members' current screen centroid
   let spiderMembers = [];
@@ -192,7 +197,7 @@ function redraw() {
   let singles = [];
   clusters.forEach(c => { if (c.members.length === 1) singles.push({ d: c.members[0], x: c.cx, y: c.cy }); });
   spiderMembers.forEach(m => singles.push({ d: m, x: m._fx, y: m._fy, sp: true }));
-  if (selId) { const sd = pts.find(d => d.qid === selId); if (sd) singles.push({ d: sd, x: sd._sx, y: sd._sy, selHi: true }); }
+  if (selId) { const sd = all.find(d => d.qid === selId); if (sd) singles.push({ d: sd, x: sd._sx, y: sd._sy, selHi: true }); }
   const pin = gOverlay.selectAll('g.pin').data(singles, (s) => s.d.qid);
   pin.exit().remove();
   const pe = pin.enter().append('g').attr('class', 'pin').style('cursor', 'pointer')
@@ -201,7 +206,17 @@ function redraw() {
     .on('mouseleave', hideTip)
     .on('click', (e, s) => { e.stopPropagation(); selectPerson(s.d); });
   pe.append('circle').attr('class', 'pc');
-  const pm = pe.merge(pin).attr('transform', s => `translate(${s.x},${s.y})`);
+  const pm = pe.merge(pin);
+  if (_spiderAnim && spiderCluster) {
+    // fan-out: newly-entering spider members start at the cluster centroid and glide to their ring
+    const cx = spiderCluster.cx, cy = spiderCluster.cy;
+    pe.attr('transform', s => s.sp ? `translate(${cx},${cy})` : `translate(${s.x},${s.y})`);
+    pm.filter(s => !s.sp).interrupt('spider').attr('transform', s => `translate(${s.x},${s.y})`);
+    pm.filter(s => s.sp).interrupt('spider').transition('spider').duration(260).ease(d3.easeCubicOut)
+      .attr('transform', s => `translate(${s.x},${s.y})`);
+  } else {
+    pm.interrupt('spider').attr('transform', s => `translate(${s.x},${s.y})`);
+  }
   const pz = pinZoom();
   pm.select('circle.pc')
     .attr('r', s => pinR(s.d) * pz * (s.selHi ? 1.7 : 1))
@@ -215,11 +230,18 @@ function redraw() {
   // spider legs
   const legs = gOverlay.selectAll('line.leg').data(spiderMembers, m => m.qid);
   legs.exit().remove();
-  legs.enter().append('line').attr('class', 'leg').merge(legs)
-    .attr('x1', spiderCluster ? spiderCluster.cx : 0).attr('y1', spiderCluster ? spiderCluster.cy : 0)
-    .attr('x2', m => m._fx).attr('y2', m => m._fy);
+  const le = legs.enter().append('line').attr('class', 'leg');
+  const lm = le.merge(legs).attr('x1', spiderCluster ? spiderCluster.cx : 0).attr('y1', spiderCluster ? spiderCluster.cy : 0);
+  if (_spiderAnim && spiderCluster) {
+    le.attr('x2', spiderCluster.cx).attr('y2', spiderCluster.cy).attr('opacity', 0);
+    lm.interrupt('spider').transition('spider').duration(260).ease(d3.easeCubicOut)
+      .attr('x2', m => m._fx).attr('y2', m => m._fy).attr('opacity', 1);
+  } else {
+    lm.interrupt('spider').attr('x2', m => m._fx).attr('y2', m => m._fy).attr('opacity', 1);
+  }
   gOverlay.selectAll('line.leg').lower();
 
+  _spiderAnim = false;   // one-shot consumed
   drawTrail();
 }
 
@@ -267,6 +289,7 @@ function spiderfy(c) {
   const n = c.members.length, R = 20 + n * 3.4;
   c.members.forEach((m, i) => { const a = (i / n) * 2 * Math.PI - Math.PI / 2; m._fx = c.cx + R * Math.cos(a); m._fy = c.cy + R * Math.sin(a); });
   spiderCluster = { cx: c.cx, cy: c.cy, members: c.members, _spider: true };
+  _spiderAnim = true;   // animate this fan-out
   redraw();
 }
 function onClusterClick(e, c) {
