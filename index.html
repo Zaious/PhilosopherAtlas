@@ -3,20 +3,61 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Philosopher Atlas · 哲學家地圖</title>
-  <meta name="description" content="An interactive map of 235 philosophers across history and cultures, placed by a reproducible source-cited procedure (federal canon + k-value consensus) on a de-sovereignized basemap with time-synced historical borders.">
+  <title>哲學家地圖 Philosopher Atlas — 互動式哲學史工具</title>
+  <meta name="description" content="哲學家地圖 Philosopher Atlas 是一套互動式哲學史工具：235 位哲學家標於一張去主權化的世界地圖上，依可複現的來源程序（聯邦正典 × k 值共識）收錄，可捲動年代、顯示當年的歷史政體邊界。An interactive history-of-philosophy map and teaching tool covering 235 philosophers across traditions, on a de-sovereignized basemap with time-synced historical borders.">
+  <meta name="keywords" content="哲學家地圖, 哲學史, 哲學史工具, 哲學家, 哲學教育, 哲學系, 互動地圖, 思想史, history of philosophy, philosophy map, interactive philosophy, philosophers, philosophy timeline, philosophy education">
+  <meta name="author" content="Zaious">
   <link rel="canonical" href="https://philosopheratlas.chroniclecore.com/">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Philosopher Atlas · 哲學家地圖">
-  <meta property="og:description" content="An interactive map of 235 philosophers across history and cultures, placed by a reproducible source-cited procedure (federal canon + k-value consensus) on a de-sovereignized basemap with time-synced historical borders.">
+  <meta property="og:site_name" content="Philosopher Atlas · 哲學家地圖">
+  <meta property="og:title" content="哲學家地圖 Philosopher Atlas — 互動式哲學史工具">
+  <meta property="og:description" content="235 位哲學家標於去主權化的世界地圖上，依可複現的來源程序收錄，可捲動年代看歷史政體邊界。An interactive history-of-philosophy map and teaching tool.">
   <meta property="og:url" content="https://philosopheratlas.chroniclecore.com/">
-  <meta name="twitter:card" content="summary_large_image">
-  <link rel="stylesheet" href="style.css?v=20">
+  <meta property="og:locale" content="zh_TW">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="哲學家地圖 Philosopher Atlas — 互動式哲學史工具">
+  <meta name="twitter:description" content="235 位哲學家 × 去主權化地圖 × 時代同步歷史邊界。An interactive history-of-philosophy map & teaching tool.">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": ["WebApplication", "LearningResource"],
+    "name": "哲學家地圖 Philosopher Atlas",
+    "alternateName": "Philosopher Atlas",
+    "url": "https://philosopheratlas.chroniclecore.com/",
+    "description": "互動式哲學史工具：235 位哲學家標於去主權化的世界地圖上，依可複現的來源程序（聯邦正典 × k 值共識）收錄。An interactive history-of-philosophy map and teaching tool covering 235 philosophers across traditions.",
+    "inLanguage": ["zh-Hant", "en"],
+    "applicationCategory": "EducationalApplication",
+    "operatingSystem": "Any (modern web browser)",
+    "browserRequirements": "Requires JavaScript",
+    "isAccessibleForFree": true,
+    "learningResourceType": "Interactive map",
+    "educationalUse": ["Reference", "Teaching", "Self study"],
+    "teaches": "History of philosophy across cultures and eras",
+    "about": [
+      { "@type": "Thing", "name": "History of philosophy" },
+      { "@type": "Thing", "name": "Philosophy" },
+      { "@type": "Thing", "name": "Philosophers" }
+    ],
+    "audience": {
+      "@type": "EducationalAudience",
+      "educationalRole": ["educator", "student", "self learner"]
+    },
+    "creator": {
+      "@type": "Person",
+      "name": "Zaious",
+      "url": "https://www.linkedin.com/in/zaious/",
+      "sameAs": ["https://www.linkedin.com/in/zaious/", "https://github.com/Zaious"]
+    },
+    "license": "https://opensource.org/licenses/MIT"
+  }
+  </script>
+  <link rel="stylesheet" href="style.css?v=21">
 </head>
 <body>
   <div id="app">
     <header id="topbar">
-      <div id="title">哲學家地圖 <span class="sub">Philosopher Atlas</span></div>
+      <h1 id="title">哲學家地圖 <span class="sub">Philosopher Atlas</span></h1>
       <nav id="nav">
         <button class="navlink" data-p="intro"><span class="zhw">介紹</span><span class="enw">Intro</span></button>
         <button class="navlink" data-p="method"><span class="zhw">方法論</span><span class="enw">Method</span></button>
@@ -34,6 +75,13 @@
 
     <div id="map">
       <div id="loading">載入中…</div>
+      <noscript>
+        <div class="noscript-msg">
+          <h2>哲學家地圖 · Philosopher Atlas</h2>
+          <p>這是一套涵蓋 235 位哲學家的互動式哲學史工具，標於一張去主權化的世界地圖上。互動地圖需要 JavaScript；請開啟 JavaScript 以瀏覽，或到 <a href="https://github.com/Zaious/PhilosopherAtlas">GitHub</a> 查看資料。</p>
+          <p>An interactive history-of-philosophy map covering 235 philosophers across cultures and eras. The map needs JavaScript — enable it to explore, or browse the underlying data on <a href="https://github.com/Zaious/PhilosopherAtlas">GitHub</a>.</p>
+        </div>
+      </noscript>
     </div>
 
     <aside id="legend"></aside>
@@ -281,7 +329,7 @@
 
   <script src="vendor/d3.v7.min.js"></script>
   <script src="vendor/topojson-client.min.js"></script>
-  <script src="app.js?v=20"></script>
+  <script src="app.js?v=21"></script>
   <script>
     (function () {
       const modal = document.getElementById('about');
