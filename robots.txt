@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://philosopheratlas.chroniclecore.com/sitemap.xml

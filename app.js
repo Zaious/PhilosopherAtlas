@@ -1,5 +1,5 @@
 /* Philosopher Atlas — front-end (D3 v7, self-hosted, no build step).
-   Design: FRONTEND.md. Data: ../data/atlas_index.json + ../data/philosophers/{QID}.json
+   Design: FRONTEND.md. Data: ./data/atlas_index.json + ./data/philosophers/{QID}.json
    Aesthetic: old-map / parchment. Clustering: deterministic screen-space greedy. */
 'use strict';
 
@@ -295,7 +295,7 @@ async function selectPerson(d) {
   renderPanelLoading(d);
   redraw();                                                  // immediate: pull out + highlight selected, dim rest
   try {
-    selectedFull = await fetchJSON([`../data/philosophers/${d.qid}.json`, `./data/philosophers/${d.qid}.json`]);
+    selectedFull = await fetchJSON([`./data/philosophers/${d.qid}.json`, `../data/philosophers/${d.qid}.json`]);
   } catch (err) { selectedFull = null; }
   renderPanel(d, selectedFull);
   redraw();                                                  // draw the career trail
@@ -466,7 +466,7 @@ function fitToPoints() {
 async function boot() {
   console.log('[atlas] boot start');
   const [atlas, topo, rivers, lakes] = await Promise.all([
-    fetchJSON(['../data/atlas_index.json', './atlas_index.json']),
+    fetchJSON(['./data/atlas_index.json', '../data/atlas_index.json']),
     fetchJSON(['./basemap/countries-110m.json', 'basemap/countries-110m.json', './basemap/countries-50m.json']),
     fetchJSON(['./basemap/rivers-clipped.json', 'basemap/rivers-clipped.json', './basemap/rivers-110m.json']).catch(() => null),
     fetchJSON(['./basemap/lakes-110m.json', 'basemap/lakes-110m.json']).catch(() => null)

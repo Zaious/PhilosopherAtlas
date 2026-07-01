@@ -4,7 +4,7 @@ An interactive map of philosophers across history and cultures. **235 philosophe
 
 > We don't define "what a philosopher is" — we judge by a reproducible procedure: the union of several authoritative sources' own membership lists forms the pool; the more sources that list someone (the higher their **k**), the more central they are. If you disagree, argue with the procedure and the sources, not personal taste.
 
-🔗 Live: *(add your GitHub Pages URL here once enabled)* · 📦 Repo: [github.com/Zaious/PhilosopherAtlas](https://github.com/Zaious/PhilosopherAtlas) · 👤 [linkedin.com/in/zaious](https://www.linkedin.com/in/zaious/)
+🔗 Live: [philosopheratlas.chroniclecore.com](https://philosopheratlas.chroniclecore.com) · 📦 Repo: [github.com/Zaious/PhilosopherAtlas](https://github.com/Zaious/PhilosopherAtlas)
 
 ---
 
@@ -32,10 +32,9 @@ Full methodology, k-value derivation, and honesty guardrails are documented insi
 
 ```
 philosopher-atlas/
-├─ web/            frontend (static, no build step; D3 v7 self-hosted, no runtime CDN)
-│  ├─ index.html  app.js  style.css
-│  ├─ vendor/     d3, topojson (bundled)
-│  └─ basemap/    Natural Earth coastlines/rivers/lakes + historical border snapshots
+├─ index.html  app.js  style.css     frontend (static, no build step; D3 v7 self-hosted, no runtime CDN)
+├─ vendor/     d3, topojson (bundled)
+├─ basemap/    Natural Earth coastlines/rivers/lakes + historical border snapshots
 ├─ data/
 │  ├─ philosophers/{QID}.json   one file per person (single source of truth)
 │  └─ atlas_index.json          lightweight index consumed by the frontend
@@ -45,17 +44,17 @@ philosopher-atlas/
 
 ## Run locally
 
-Needs an HTTP server (`fetch` won't work over `file://`). Serve from the **project root** so `web/` can load `../data/` relatively:
+Needs an HTTP server (`fetch` won't work over `file://`). Serve from the **project root**:
 
 ```bash
 cd philosopher-atlas
 python -m http.server 8000
-# open http://localhost:8000/web/
+# open http://localhost:8000/
 ```
 
 ## Deploy (GitHub Pages)
 
-Deploy straight from the repo root — `web/index.html` loads data via `../data/` relative paths, and `data/` is a sibling of `web/`.
+Deploys straight from the repo root — `index.html` loads data via `./data/` relative paths. Currently served at a custom domain (`CNAME` file in the repo root) via Cloudflare DNS.
 
 ## Contributing
 
@@ -72,7 +71,7 @@ _(Planned: a form-based back end so people without Git can contribute too — se
 
 ## Data & licensing
 
-**Code** (`web/`, `scripts/`): [MIT](LICENSE) — free to use and modify, but the copyright notice must be retained.
+**Code** (`index.html`/`app.js`/`style.css`/`vendor/`, `scripts/`): [MIT](LICENSE) — free to use and modify, but the copyright notice must be retained.
 
 **Data** (`data/`): **CC BY-SA 4.0** — because it incorporates CC BY-SA sources (Wikipedia biography extracts, historical border data), it is shared under the same terms with attribution required.
 
@@ -123,7 +122,7 @@ Historical borders and some polity sequences are machine-derived and snapshot-ap
 
 ## 授權
 
-程式碼（`web/`、`scripts/`）：[MIT](LICENSE)，須保留著作權聲明。資料（`data/`）：**CC BY-SA 4.0**（因內含 CC BY-SA 來源）。逐來源授權詳見上方英文版表格。
+程式碼（`index.html`/`app.js`/`style.css`/`vendor/`、`scripts/`）：[MIT](LICENSE)，須保留著作權聲明。資料（`data/`）：**CC BY-SA 4.0**（因內含 CC BY-SA 來源）。逐來源授權詳見上方英文版表格。
 
 ## 維護者
 
