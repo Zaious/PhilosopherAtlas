@@ -1,0 +1,114 @@
+{
+  "id": "Q1064777",
+  "qid": "Q1064777",
+  "slug": "charles-hartshorne",
+  "name_zh": "哈特雄",
+  "name_en": "Charles Hartshorne",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 40.82,
+      "lon": -79.5214,
+      "place": "Kittanning",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Hopewell Culture",
+          "start": 100,
+          "end": 600
+        },
+        {
+          "polity": "Eastern North Amercian hunter-gatherers",
+          "start": 600,
+          "end": 1492
+        },
+        {
+          "polity": "𐓏𐒰𐓓𐒰𐓓𐒷  𐒼𐓂𐓊𐒻  𐓆𐒻𐒿𐒷  𐓀𐒰^𐓓𐒰^(Osage)",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Delaware",
+          "start": 1500,
+          "end": 1530
+        },
+        {
+          "polity": "Erie",
+          "start": 1530,
+          "end": 1783
+        },
+        {
+          "polity": "United States of America",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "United States",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "United States of America",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "United States",
+          "start": 1914,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 30.3,
+      "lon": -97.733333333,
+      "place": "Austin",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hartshorne, Charles"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hartshorne, Charles"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Kittanning",
+  "description": "American philosopher (1897–2000)",
+  "bio": null,
+  "bio_source": null,
+  "description_en": "American philosopher (1897–2000)",
+  "bio_en": "Charles Hartshorne (; June 5, 1897 – October 9, 2000) was an American philosopher who concentrated primarily on the philosophy of religion and metaphysics, but also contributed to ornithology. He developed the neoclassical idea of God and produced a modal proof of the existence of God that was a development of Anselm of Canterbury's ontological argument, which influenced Gödel's ontological proof.\nHartshorne is also noted for developing Alfred North Whitehead's process philosophy into process theology.",
+  "bio_en_source": "enwiki"
+}

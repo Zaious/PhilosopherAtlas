@@ -1,0 +1,136 @@
+{
+  "id": "Q1291953",
+  "qid": "Q1291953",
+  "slug": "guo-xiang",
+  "name_zh": "郭象",
+  "name_en": "Guo Xiang",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 252,
+  "death_year": 312,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 34.683,
+      "lon": 112.434,
+      "place": null,
+      "period": [
+        252,
+        312
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 200,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Toba Wei",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Guo Xiang"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Guo Xiang"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Guo Xiang [Kuo Hsiang]"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 4,
+  "sitelinks": 11,
+  "birth_place": null,
+  "description": "Chinese philosopher",
+  "bio": "郭象（252年？—312年），字子玄，西晉時期哲學家，玄學思潮的集大成者。\n生年不詳。早年擔任司徒掾，歷官黃門侍郎、豫州牧長史、太傅主簿。太尉王衍與郭象有交遊，王衍常說：「聽象語，如懸河瀉水，注而不竭。」郭象曾註釋《莊子》一書。他把《莊子》的比喻、隱喻變成推理和論證。郭象本人雖為玄學清談大師，但熱心追求權勢，本傳稱其「任職當權，燻灼內外」。錢穆批評郭象「曲說媚勢」。永嘉六年（312年）病卒。\n在郭象以前，早有向秀作《莊子注》，一說郭象剽竊向秀，但向秀的作品早佚，今日已無法確切查證。郭象雖為《莊子》作注，但思維與莊子不同。例如《逍遙遊》篇「堯讓天下於許由」原文是稱美許由隱居不仕，郭象則以為「若謂拱默乎山林之中，而後得稱無為者，此莊老之談所以見棄於當塗者。」《莊子》推崇許由，但郭象卻是稱許堯而貶抑許由。今日學界大都以為郭象是在向秀的基礎上「述而廣之」，加以發展。例如湯一介認為：「郭象的《莊子注》確實在向秀的《莊子注》基礎上有重要發展，以此說郭注是向注的『述而廣之』。」也有人說注《莊子》者，郭象以下有數十家，但郭象在某些義理上超越了莊子的範疇。北宋宗杲即稱：「曾見郭象注《莊子》，識者雲：卻是《莊子》注郭象。」",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese philosopher",
+  "bio_en": "Guo Xiang (Chinese: 郭象; pinyin: Guō Xiàng; Wade–Giles: Kuo Hsiang; 252–312) is credited with the first and most important revision of the text known as the Zhuangzi which, along with the Tao Te Ching, forms the textual and philosophical basis of the Taoist school of thought. He was also a scholar of xuanxue.",
+  "bio_en_source": "enwiki"
+}

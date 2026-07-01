@@ -1,0 +1,128 @@
+{
+  "id": "Q1325",
+  "qid": "Q1325",
+  "slug": "friedrich-hayek",
+  "name_zh": "弗瑞德呂希·海耶克",
+  "name_en": "Friedrich Hayek",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1899,
+  "death_year": 1992,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.208333333,
+      "lon": 16.3725,
+      "place": "Vienna",
+      "period": [
+        1899,
+        1992
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Austria Hungary",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Austro-Hungarian Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Austria",
+          "start": 1920,
+          "end": 1938
+        },
+        {
+          "polity": "Germany",
+          "start": 1938,
+          "end": 1945
+        },
+        {
+          "polity": "Austria",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 47.995,
+      "lon": 7.85,
+      "place": "Freiburg im Breisgau",
+      "period": [
+        1992,
+        1992
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hayek, Friedrich"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "The Fatal Conceit",
+      "title_zh": "致命的自負",
+      "year": 1988,
+      "qid": "Q3311574",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Constitution of Liberty",
+      "title_zh": "自由秩序原理",
+      "year": 1960,
+      "qid": "Q3108155",
+      "source": "wikidata"
+    },
+    {
+      "title": "Law, Legislation and Liberty",
+      "title_zh": "法律、立法與自由",
+      "year": null,
+      "qid": "Q2746822",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Road to Serfdom",
+      "title_zh": "通往奴役之路",
+      "year": 1944,
+      "qid": "Q1638194",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 111,
+  "birth_place": "Vienna",
+  "description": "奧地利經濟學家",
+  "bio": "弗裡德利希·奧古斯特·馮·海耶克，CH（德語：Friedrich August von Hayek，1899年5月8日—1992年3月23日），奧地利出生、後入籍英國的經濟學家、政治哲學家和社會理論家，是奧地利經濟學派和古典自由主義的重要代表人物之一。1974年，海耶克與瑞典經濟學家貢納爾·默達爾共同獲得諾貝爾經濟學獎。\n海耶克曾任教於英國倫敦政治經濟學院、美國芝加哥大學社會思想委員會和德國弗賴堡大學。他早期主要研究貨幣理論、資本理論和商業週期，其關於價格機制在協調分散經濟活動中的論述，被認為是其對經濟學的重要貢獻之一。後來，海耶克的研究逐漸轉向知識論、認知科學、法學、政治哲學和社會秩序等領域。其關於知識分散、自發秩序和競爭作為發現過程的論述，對經濟學、政治哲學和社會理論均產生了重要影響。\n海耶克批評中央計劃計劃、集體主義和社會主義經濟計算的可行性，並主張自由市場、法治、一般性規則和有限政府。他的代表作包括《價格與生產》《通往奴役之路》《自由憲章》《法律、立法與自由》和《致命的自負》。其中，《通往奴役之路》是其最具公共影響力的著作之一，截至2010年累計銷量超過200萬冊。1947年，他參與建立朝聖山學社。1984年獲英國名譽勛位。1991年獲美國總統自由勛章。",
+  "bio_source": "zhwiki",
+  "description_en": "Austrian and British economist (1899–1992)",
+  "bio_en": "Friedrich August von Hayek (8 May 1899 – 23 March 1992) was an Austrian economist and philosopher. He is known for his contributions to political economy, political philosophy and intellectual history. Hayek shared the 1974 Nobel Memorial Prize in Economic Sciences with Gunnar Myrdal for work on money and economic fluctuations, and the interdependence of economic, social and institutional phenomena. His account of how prices communicate information is widely regarded as an important contribution to economics that led to his receiving the prize. He was a notable member of the Austrian school of economics.\nDuring his teenage years, Hayek fought in World War I.",
+  "bio_en_source": "enwiki"
+}

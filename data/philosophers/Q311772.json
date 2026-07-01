@@ -1,0 +1,119 @@
+{
+  "id": "Q311772",
+  "qid": "Q311772",
+  "slug": "donald-davidson",
+  "name_zh": "唐納德·戴維森",
+  "name_en": "Donald Davidson",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 42.112411,
+      "lon": -72.547455,
+      "place": "Springfield",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Eastern North Amercian hunter-gatherers",
+          "start": 500,
+          "end": 1492
+        },
+        {
+          "polity": "Nipmuc",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Iroquois",
+          "start": 1500,
+          "end": 1530
+        },
+        {
+          "polity": "Pocumtuk",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Massachusetts Bay",
+          "start": 1650,
+          "end": 1715
+        },
+        {
+          "polity": "British American colonies",
+          "start": 1715,
+          "end": 1783
+        },
+        {
+          "polity": "United States of America",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "United States",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "United States of America",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "United States",
+          "start": 1914,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 37.870277777,
+      "lon": -122.268055555,
+      "place": "Berkeley",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Davidson, Donald"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Davidson, Donald"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Springfield",
+  "description": "American philosopher (1917–2003)",
+  "bio": "唐納德·赫伯特·戴維森（英語：Donald Davidson，1917年3月6日—2003年8月30日）20世紀下半葉美國最為著名和活躍的哲學家之一。他在1987年的文章《Knowing One's Own Mind》中提出了著名的哲學思想實驗「沼澤人」。",
+  "bio_source": "zhwiki",
+  "description_en": "American philosopher (1917–2003)",
+  "bio_en": "Donald Herbert Davidson (March 6, 1917 – August 30, 2003) was an American philosopher. He served as Slusser Professor of Philosophy at the University of California, Berkeley, from 1981 to 2003 after having also held teaching appointments at Stanford University, Rockefeller University, Princeton University, and the University of Chicago. Davidson was known for his charismatic personality and difficult writing style, as well as the systematic nature of his philosophy. His work exerted considerable influence in many areas of philosophy from the 1960s onward, particularly in philosophy of mind, philosophy of language, and action theory.",
+  "bio_en_source": "enwiki"
+}

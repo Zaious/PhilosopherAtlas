@@ -1,0 +1,136 @@
+{
+  "id": "Q319329",
+  "qid": "Q319329",
+  "slug": "wang-chong",
+  "name_zh": "王充",
+  "name_en": "Wang Chong",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 27,
+  "death_year": 97,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 30.018888888,
+      "lon": 120.8725,
+      "place": "Shangyu District",
+      "period": [
+        27,
+        97
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Jin Empire",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wang Chong"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wang Chong"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wang Chong [Wang Ch'ung]"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 4,
+  "sitelinks": 43,
+  "birth_place": "Shangyu District",
+  "description": "漢朝作家",
+  "bio": "王充（27年—約97年），字仲任，會稽郡上虞縣人（今浙江省紹興市上虞），東漢時計程車人與思想家。王充年輕時曾到京城洛陽的太學學習，學成後多年出任地方州郡縣的屬吏，罷官後致力著述，撰有《論衡》一書傳世，以批評當時虛妄的迷信與偽說。王充相信天地乃由氣構成，萬物由氣所生，想法接近蓋天說而反駁渾天說。王充提出天道自然無為，無知覺無意志，反對儒家的天人感應說與災異論，治術上主張無為而治。現實政治方面，王充為朝廷歌功頌德，神聖化東漢王朝統治。王充又主張命定論，相信人的吉凶禍福、壽夭、善惡，以至國家的興滅盛衰，都由天命支配，為善或作惡都不能改變命運。宗教方面，王充主張無鬼論，批評「人死為鬼」之說，否定靈魂死後存在。他卻相信世間有各種鬼妖或精靈。王充又批判當時流行的各種風俗禁忌與迷信，反對占卜算命。20世紀學者高度讚揚王充哲學及其《論衡》，稱之為「科學精神」的表現，或是「自然主義」哲學的典範。",
+  "bio_source": "zhwiki",
+  "description_en": "1st century Chinese meteorologist, astronomer, and philosopher",
+  "bio_en": "Wang Chong (Chinese: 王充; pinyin: Wáng Chōng; Wade–Giles: Wang Ch'ung; 27 – c. 97 AD), courtesy name Zhongren (仲任), was a Chinese astronomer, meteorologist, naturalist, philosopher, and writer active during the Eastern Han dynasty. He developed a rational, secular, naturalistic and mechanistic account of the world and of human beings and gave a materialistic explanation of the origin of the universe. His main work was the Lunheng (論衡, \"Critical Essays\").",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,139 @@
+{
+  "id": "Q212639",
+  "qid": "Q212639",
+  "slug": "maurice-merleauponty",
+  "name_zh": "莫里斯·梅洛-龐蒂",
+  "name_en": "Maurice Merleau-Ponty",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 47.2173,
+      "lon": -1.5534,
+      "place": "Rochefort",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Constantinus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Franks",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Neustria",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Carolingian Empire",
+          "start": 800,
+          "end": 900
+        },
+        {
+          "polity": "West Francia",
+          "start": 900,
+          "end": 1000
+        },
+        {
+          "polity": "Kingdom of France",
+          "start": 1000,
+          "end": 1200
+        },
+        {
+          "polity": "Angevin Empire",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "France",
+          "start": 1279,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.850530555,
+      "lon": 2.332233333,
+      "place": "6th arrondissement of Paris",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Merleau-Ponty, Maurice"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Merleau-Ponty, Maurice"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Merleau-Ponty, Maurice"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": null,
+  "birth_place": "Rochefort",
+  "description": "French phenomenological philosopher",
+  "bio": "莫里斯·梅洛-龐蒂（法語：Maurice Merleau-Ponty，法語：[mɔʁis mɛʁlopɔ̃ti]，1908年3月14日—1961年5月3日），著名哲學家、法國現象學運動的領導人物之一。",
+  "bio_source": "zhwiki",
+  "description_en": "French phenomenological philosopher",
+  "bio_en": "Maurice Jean Jacques Merleau-Ponty ( MUR-loh PON-tee; French: [mɔʁis mɛʁlo pɔ̃ti]; 14 March 1908 – 3 May 1961) was a French phenomenological philosopher, strongly influenced by Edmund Husserl and Martin Heidegger. The constitution of meaning in human experience was his main interest and he wrote on perception, art, politics, religion, biology, psychology, psychoanalysis, language, nature, and history. He was the lead editor of Les Temps modernes, the leftist magazine he established with Jean-Paul Sartre and Simone de Beauvoir in 1945.\nAt the core of Merleau-Ponty's philosophy is a sustained argument for the foundational role that perception plays in the human experience of the world.",
+  "bio_en_source": "enwiki"
+}

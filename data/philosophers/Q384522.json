@@ -1,0 +1,109 @@
+{
+  "id": "Q384522",
+  "qid": "Q384522",
+  "slug": "david-lewis",
+  "name_zh": "大衛·裡維斯",
+  "name_en": "David Lewis",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 41.2945,
+      "lon": -81.8554,
+      "place": "Oberlin",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Eastern North Amercian hunter-gatherers",
+          "start": 500,
+          "end": 1492
+        },
+        {
+          "polity": "Kaskaskia",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Delaware",
+          "start": 1500,
+          "end": 1530
+        },
+        {
+          "polity": "Erie",
+          "start": 1530,
+          "end": 1783
+        },
+        {
+          "polity": "United States of America",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "United States",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "United States of America",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "United States",
+          "start": 1914,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 40.352222222,
+      "lon": -74.656944444,
+      "place": "Princeton",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Lewis, David"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Lewis, David Kellogg"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Oberlin",
+  "description": "美國哲學家",
+  "bio": "大衛·凱洛格·劉易斯（英語：David Kellogg Lewis，1941年9月28日—2001年10月14日）是一位美國哲學家，被普遍認為是20世紀最重要的哲學家之一。1970年起，劉易斯短暫地在加州大學洛杉磯分校任教、後在普林斯頓大學任教直到死去。\n劉易斯在語言哲學、心靈哲學、機率哲學、認識論、哲學邏輯、美學、數學哲學、時間哲學、科學哲學都作出重要貢獻。他在這大部分領域中被認為是近幾十年最重要的人物之一。不過劉易斯關於形上學、語言哲學和語義學的作品最為著名。其中 On the Plurality of Worlds (1986) 和 Counterfactuals (1973) 更被認為是經典。他與羅伯特·斯塔納克關於邏輯與反事實條件的論述被各個哲學家和語言學家廣泛採用。他的形上學對模態實在論、反事實條件的發展、反事實因果和「休謨的隨附性」的地位產生了影響深遠的貢獻。在他詳盡的著作 On the Plurality of Worlds (1986) 中，他擁護模態實在論，認為邏輯空間的可能世界作為具體的實體存在，而我們的世界只是所有平等真實的可能世界之一。",
+  "bio_source": "zhwiki",
+  "description_en": "American philosopher (1941–2001)",
+  "bio_en": "David Kellogg Lewis (September 28, 1941 – October 14, 2001) was an American philosopher. Lewis taught briefly at UCLA and then at Princeton University from 1970 until his death. He is closely associated with Australia, whose philosophical community he visited almost annually for more than 30 years.\nLewis made significant contributions in the philosophy of mind, philosophy of probability, epistemology, philosophical logic, aesthetics, philosophy of mathematics, philosophy of time, and philosophy of science. In most of these fields he is considered among the most important figures of recent decades.",
+  "bio_en_source": "enwiki"
+}

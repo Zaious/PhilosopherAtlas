@@ -1,0 +1,193 @@
+{
+  "id": "Q171677",
+  "qid": "Q171677",
+  "slug": "roger-bacon",
+  "name_zh": "羅吉爾·培根",
+  "name_en": "Roger Bacon",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1220,
+  "death_year": 1292,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.0011,
+      "lon": -2.6825,
+      "place": "Ilchester",
+      "period": [
+        1220,
+        1292
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Angevin Empire",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "English territory",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "England",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "England and Ireland",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.751944444,
+      "lon": -1.257777777,
+      "place": "Oxford",
+      "period": [
+        1292,
+        1292
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bacon, Roger"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bacon, Roger"
+    }
+  ],
+  "works": [
+    {
+      "title": "Opus Majus",
+      "title_zh": "大著作",
+      "year": 1267,
+      "qid": "Q4373704",
+      "source": "wikidata"
+    },
+    {
+      "title": "Opus Minus",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q20949760",
+      "source": "wikidata"
+    },
+    {
+      "title": "Opus Tertium",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q20949775",
+      "source": "wikidata"
+    },
+    {
+      "title": "Summa Grammatica",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q26879382",
+      "source": "wikidata"
+    },
+    {
+      "title": "Compendium studii philosophiae",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q42188097",
+      "source": "wikidata"
+    },
+    {
+      "title": "Compendium studii theologiae",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q137605043",
+      "source": "wikidata"
+    },
+    {
+      "title": "De influentiis agentium",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q137605065",
+      "source": "wikidata"
+    },
+    {
+      "title": "De multiplicatione specierum",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q137605080",
+      "source": "wikidata"
+    },
+    {
+      "title": "De speculis comburentibus",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q137605088",
+      "source": "wikidata"
+    },
+    {
+      "title": "Greek grammar",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q137605106",
+      "source": "wikidata"
+    },
+    {
+      "title": "Secretum secretorum",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q137605111",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 93,
+  "birth_place": "Ilchester",
+  "description": "English polymath, philosopher and friar (c.1219/20–c.1292)",
+  "bio": "羅傑·培根（英語：Roger Bacon，1214年—1294年），英國方濟各會修士、哲學家、鍊金術士。他學識淵博，著作涉及當時所知的各門類知識，並對阿拉伯世界的科學進展十分熟悉。提倡經驗主義，主張透過實驗獲得知識。",
+  "bio_source": "zhwiki",
+  "description_en": "English polymath, philosopher and friar (c.1219/20–c.1292)",
+  "bio_en": "Roger Bacon (; Latin: Rogerus or Rogerius Baconus, Baconis, also Frater Rogerus; c. 1219/20 – c. 1292), also known by the scholastic accolade Doctor Mirabilis, was a medieval English polymath, philosopher, scientist, theologian and Franciscan friar who placed considerable emphasis on the study of nature through empiricism. Intertwining his Catholic faith with scientific thinking, Roger Bacon is considered one of the greatest polymaths of the medieval period.\nIn the early modern era, he was regarded as a wizard and particularly famed for the story of his mechanical or necromantic brazen head.",
+  "bio_en_source": "enwiki"
+}

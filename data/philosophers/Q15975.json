@@ -1,0 +1,87 @@
+{
+  "id": "Q15975",
+  "qid": "Q15975",
+  "slug": "montesquieu",
+  "name_zh": "孟德斯鳩",
+  "name_en": "Montesquieu",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1689,
+  "death_year": 1755,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 47.322,
+      "lon": 0.6827,
+      "place": "Château de la Brède",
+      "period": [
+        1689,
+        1755
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1650,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        1755,
+        1755
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Montesquieu"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "The Spirit of the Laws",
+      "title_zh": "論法的精神",
+      "year": 1748,
+      "qid": "Q514727",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 157,
+  "birth_place": "Château de la Brède",
+  "description": "法國思想家",
+  "bio": "拉布雷德暨孟德斯鳩男爵夏爾·路易·德·塞孔達（法語：Charles Louis de Secondat, baron de La Brède et Montesquieu，1689年1月18日—1755年2月10日），通稱孟德斯鳩，法國啟蒙時期政治哲學家、歷史學家、社會學家、作家與法官。\n1689年，孟德斯鳩出生於波爾多的一個貴族家庭。1713年，孟德斯鳩因父親逝世，承襲了拉布雷德男爵（Baron de La Brède）的爵位。1716年，孟德斯鳩因伯父逝世，承襲了孟德斯鳩男爵（Baron de Montesquieu）的爵位與波爾多高等法院院長的職位。1721年，孟德斯鳩匿名發表《波斯人信札》諷刺了法國攝政時期的種種亂象。1728年，孟德斯鳩成為法蘭西學術院院士，隨後週遊歐洲諸國。回國後，孟德斯鳩於1734年發表《羅馬盛衰原因論》，探討了羅馬帝國衰亡的原因。\n1747年後，孟德斯鳩幾近失明，但他仍在秘書的幫助下，於次年推出其代表作《論法的精神》。在《論法的精神》中，孟德斯鳩提出了三權分立的理論，認為行政權、立法權與司法權應當分離，以避免滋生專制。1754年，孟德斯鳩準備回鄉養老，不料染上流行病，並於次年在巴黎病逝，終年66歲。",
+  "bio_source": "zhwiki",
+  "description_en": "French philosopher (1689–1755)",
+  "bio_en": "Charles Louis de Secondat, baron de La Brède et de Montesquieu (18 January 1689 – 10 February 1755), generally referred to as simply Montesquieu, was a French judge, intellectual, historian, and political philosopher.\nHe is the principal source of the theory of separation of powers, which is implemented in many constitutions throughout the world. He is also known for doing more than any other author to secure the place of the word despotism in the political lexicon.",
+  "bio_en_source": "enwiki"
+}

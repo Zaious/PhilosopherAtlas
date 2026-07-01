@@ -1,0 +1,234 @@
+{
+  "id": "Q33760",
+  "qid": "Q33760",
+  "slug": "bertrand-russell",
+  "name_zh": "伯特蘭·羅素",
+  "name_en": "Bertrand Russell",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1872,
+  "death_year": 1970,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.745061111,
+      "lon": -2.7256,
+      "place": "Trellech",
+      "period": [
+        1872,
+        1970
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 52.9202,
+      "lon": -4.0979,
+      "place": "Plas Penrhyn",
+      "period": [
+        1970,
+        1970
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.929811111,
+      "lon": -4.066302777,
+      "place": "Penrhyndeudraeth",
+      "period": [
+        1970,
+        1970
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 53,
+      "lon": -1,
+      "place": "England",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Russell, Bertrand"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Russell, Bertrand"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Russell, Bertrand"
+    }
+  ],
+  "works": [
+    {
+      "title": "In Praise of Idleness and Other Essays",
+      "title_zh": "赋闲礼讚",
+      "year": 1935,
+      "qid": "Q2317772",
+      "source": "wikidata"
+    },
+    {
+      "title": "A History of Western Philosophy",
+      "title_zh": "西方哲學史",
+      "year": 1945,
+      "qid": "Q133740",
+      "source": "wikidata"
+    },
+    {
+      "title": "My Philosophical Development",
+      "title_zh": "我的哲學的發展",
+      "year": 1959,
+      "qid": "Q6946277",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Problems of Philosophy",
+      "title_zh": "哲學問題",
+      "year": 1912,
+      "qid": "Q3393210",
+      "source": "wikidata"
+    },
+    {
+      "title": "Principia Mathe",
+      "title_zh": "數學原理",
+      "year": 1917,
+      "qid": "Q163335",
+      "source": "wikidata"
+    },
+    {
+      "title": "Human society in ethics and politics",
+      "title_zh": "倫理學與政治學中的人類社會",
+      "year": 1954,
+      "qid": "Q98654800",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Principles of Mathematics",
+      "title_zh": "數學原則",
+      "year": 1903,
+      "qid": "Q7758358",
+      "source": "wikidata"
+    },
+    {
+      "title": "幸福之路",
+      "title_zh": "幸福之路",
+      "year": 1930,
+      "qid": "Q3821889",
+      "source": "wikidata"
+    },
+    {
+      "title": "Power: A New Social Analysis",
+      "title_zh": null,
+      "year": 1938,
+      "qid": "Q466376",
+      "source": "wikidata"
+    },
+    {
+      "title": "Marriage and Morals",
+      "title_zh": null,
+      "year": 1929,
+      "qid": "Q522520",
+      "source": "wikidata"
+    },
+    {
+      "title": "Introduction to Mathematical Philosophy",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q544347",
+      "source": "wikidata"
+    },
+    {
+      "title": "Human Knowledge: Its Scope and Limits",
+      "title_zh": null,
+      "year": 1948,
+      "qid": "Q5900442",
+      "source": "wikidata"
+    },
+    {
+      "title": "Wisdom of the West",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q16128222",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Autobiography of Bertrand Russell",
+      "title_zh": null,
+      "year": 1967,
+      "qid": "Q16547570",
+      "source": "wikidata"
+    },
+    {
+      "title": "Proposed Roads to Freedom",
+      "title_zh": null,
+      "year": 1919,
+      "qid": "Q19086253",
+      "source": "wikidata"
+    },
+    {
+      "title": "Justice in war time",
+      "title_zh": null,
+      "year": 1917,
+      "qid": "Q50374964",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 185,
+  "birth_place": "Trellech",
+  "description": "英國數學家",
+  "bio": "第三代羅素伯爵伯特蘭·亞瑟·威廉·羅素（英語：Bertrand Arthur William Russell, 3rd Earl Russell，1872年5月18日—1970年2月2日），英國哲學家、數學家和邏輯學家，致力於哲學的大眾化、普及化。曾在劍橋大學三一學院擔任哲學教授，他寫了許多著作，其中包括經典著作《西方哲學史》。\n在數學哲學上採取弗雷格的邏輯主義立場，認為數學可以化約到邏輯，哲學可以像邏輯一樣形式系統化，主張邏輯原子論。\n1920年7月，羅素申請了一年假，前往中國和日本講學，對中國學術界有相當影響。1950年，羅素獲得諾貝爾文學獎，以表彰其「西歐思想，言論自由最勇敢的君子，卓越的活力，勇氣，智慧與感受性，代表了諾貝爾獎的原意和精神」。",
+  "bio_source": "zhwiki",
+  "description_en": "British philosopher and logician (1872–1970)",
+  "bio_en": "Bertrand Arthur William Russell, 3rd Earl Russell (18 May 1872 – 2 February 1970), was an English philosopher, logician, mathematician, and public intellectual. He influenced mathematics, logic, set theory, and various areas of analytic philosophy.\nHe was one of the early 20th century's prominent logicians and a founder of analytic philosophy, along with his predecessor Gottlob Frege, his friend and colleague G. E. Moore, and his student and protégé Ludwig Wittgenstein. Russell with Moore led the British \"revolt against idealism\".",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "Q43936",
+  "qid": "Q43936",
+  "slug": "william-of-ockham",
+  "name_zh": "奧坎的威廉",
+  "name_en": "William of Ockham",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1287,
+  "death_year": 1349,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.298,
+      "lon": -0.461,
+      "place": "Ockham",
+      "period": [
+        1287,
+        1349
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "English territory",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "England",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "England and Ireland",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.1375,
+      "lon": 11.575,
+      "place": "Munich",
+      "period": [
+        1349,
+        1349
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Ockham, William of"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Ockham, William of"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Heytesbury, William"
+    }
+  ],
+  "works": [
+    {
+      "title": "Sum of Logic",
+      "title_zh": null,
+      "year": 1488,
+      "qid": "Q3776169",
+      "source": "wikidata"
+    },
+    {
+      "title": "De connexione virtutum",
+      "title_zh": null,
+      "year": 1400,
+      "qid": "Q135840511",
+      "source": "wikidata"
+    },
+    {
+      "title": "Tractatus de praedestinatione et de praescientia dei respectu futurorum contingentium",
+      "title_zh": null,
+      "year": 1400,
+      "qid": "Q135840540",
+      "source": "wikidata"
+    },
+    {
+      "title": "Dialogus",
+      "title_zh": null,
+      "year": 1400,
+      "qid": "Q135840544",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 97,
+  "birth_place": "Ockham",
+  "description": "英國聖方濟各會修士、邏輯學家（1287－1347）",
+  "bio": "奧坎的威廉（William of Ockham/Occam，約1287年—1347年4月10日），又譯為奧卡姆、奧康，出生於英格蘭的薩裡郡奧坎（Ockham），在大學註冊為奧坎的威廉。14世紀邏輯學家、聖方濟各會修士。",
+  "bio_source": "zhwiki",
+  "description_en": "English Franciscan friar and theologian (c.1287–1347)",
+  "bio_en": "William of Ockham or Occam ( OK-əm; Latin: Guillelmus de Ockham; c. 1287 – 9/10 April 1347) was an English Franciscan friar, scholastic philosopher and theologian. He is considered to be one of the major figures of medieval thought and was at the centre of the major intellectual and political controversies of the 14th century. The nominalists of the fifteenth century regarded him as one of the founders of their movement. He is widely known for Occam's razor, the methodological principle that bears his name. He produced significant works on logic, physics and theology.",
+  "bio_en_source": "enwiki"
+}

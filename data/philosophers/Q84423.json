@@ -1,0 +1,146 @@
+{
+  "id": "Q84423",
+  "qid": "Q84423",
+  "slug": "martin-buber",
+  "name_zh": "馬丁·布伯",
+  "name_en": "Martin Buber",
+  "tradition": "jewish",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1878,
+  "death_year": 1965,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.208333333,
+      "lon": 16.3725,
+      "place": "Vienna",
+      "period": [
+        1878,
+        1965
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Austrian Empire",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "Austria Hungary",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Austro-Hungarian Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Austria",
+          "start": 1920,
+          "end": 1938
+        },
+        {
+          "polity": "Germany",
+          "start": 1938,
+          "end": 1945
+        },
+        {
+          "polity": "Austria",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 31.776679,
+      "lon": 35.234156,
+      "place": "Jerusalem",
+      "period": [
+        1965,
+        1965
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.641527777,
+      "lon": 8.645,
+      "place": "Heppenheim",
+      "period": [
+        1916,
+        1938
+      ],
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Buber, Martin"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Buber, Martin"
+    }
+  ],
+  "works": [
+    {
+      "title": "I and Thou",
+      "title_zh": "我與你",
+      "year": 1923,
+      "qid": "Q1244092",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q1216062",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1216062",
+      "source": "wikidata"
+    },
+    {
+      "title": "A Land of Two Peoples",
+      "title_zh": null,
+      "year": 1983,
+      "qid": "Q115180653",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 79,
+  "birth_place": "Vienna",
+  "description": "猶太人哲學家（1878—1965）",
+  "bio": "馬丁·布伯（德語：Martin Buber，1878年2月8日—1965年6月13日），奧地利-以色列-猶太人哲學家、翻譯家、教育家，他的研究工作集中於宗教有神論、人際關係和團體。馬丁·布伯的著作，具有富於感染力的、有時如同詩歌般的寫作風格，以及鮮明的主題：重述哈西德派傳說、《聖經》注釋和形上學對話。馬丁·布伯是一位文化錫安主義者，他活躍於德國和以色列的猶太人團體和教育團體。他還是一位堅定的在巴勒斯坦實施一國解決方案（與兩國解決方案相對）的支持者，贊同在猶太人國家以色列建國後，建立一個以色列和阿拉伯國家的地區性聯邦。他的影響遍及整個人文學科，特別是在社會心理學、社會哲學和宗教存在主義領域。",
+  "bio_source": "zhwiki",
+  "description_en": "German Jewish Existentialist philosopher and theologian (1878–1965)",
+  "bio_en": "Martin Buber (German: [ˈmaʁtiːn̩ ˈbuːbɐ] ; Hebrew: מרטין בובר; Yiddish: מארטין בובער; 8 February 1878 – 13 June 1965) was an Austrian-Israeli philosopher best known for his philosophy of dialogue, a form of existentialism centered on the distinction between the I–Thou relationship and the I–It relationship. \nBorn in Vienna, Buber came from a family of observant Jews, but broke with Jewish custom to pursue secular studies in philosophy. He produced writings about Zionism and worked with various bodies within the Zionist movement extensively over a nearly 50-year period spanning his time in Europe and the Near East.",
+  "bio_en_source": "enwiki"
+}

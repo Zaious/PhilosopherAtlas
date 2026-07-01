@@ -1,0 +1,114 @@
+{
+  "id": "Q41155",
+  "qid": "Q41155",
+  "slug": "heraclitus",
+  "name_zh": "海勒克萊特斯",
+  "name_en": "Heraclitus",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -534,
+  "death_year": -470,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.939722,
+      "lon": 27.340833,
+      "place": "Ephesus",
+      "period": [
+        -534,
+        -470
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Diocletianus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 800
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 800,
+          "end": 1400
+        },
+        {
+          "polity": "Beylik of Aydin",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1492,
+          "end": 1920
+        },
+        {
+          "polity": "Greece",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Turkey",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 37.939722,
+      "lon": 27.348611,
+      "place": "Ephesus",
+      "period": [
+        -470,
+        -470
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Heraclitus"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Heraclitus"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 146,
+  "birth_place": "Ephesus",
+  "description": "古希臘哲學家",
+  "bio": "赫拉克利特（古希臘語：Ἡράκλειτος，前540年—前480年），古希臘前蘇格拉底哲學家，以弗所學派創始人，相傳生性憂鬱，被稱為「泣之哲人」。他的文章僅有殘篇存世，好用隱喻、悖論，致使後世解釋紛紜，後人稱「晦澀者」。",
+  "bio_source": "zhwiki",
+  "description_en": "Greek philosopher (late 6th/early 5th-century BC)",
+  "bio_en": "Heraclitus (; Ancient Greek: Ἡράκλειτος, romanized: Hērákleitos; fl. c. 500 BC) was an ancient Greek pre-Socratic philosopher from the city of Ephesus, which was then part of the Persian Empire. He exerts a wide influence on Western philosophy, both ancient and modern, through the works of such authors as Plato, Aristotle, the Stoics, Georg Wilhelm Friedrich Hegel, Friedrich Nietzsche, and Martin Heidegger.\nLittle is known of Heraclitus's life. He wrote a single work, of which only fragments survive. Even in ancient times, his paradoxical philosophy, appreciation for wordplay, and cryptic, oracular epigrams earned him the epithets \"the dark\" and \"the obscure\".",
+  "bio_en_source": "enwiki"
+}

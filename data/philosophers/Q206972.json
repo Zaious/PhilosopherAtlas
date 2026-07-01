@@ -1,0 +1,94 @@
+{
+  "id": "Q206972",
+  "qid": "Q206972",
+  "slug": "olympe-de-gouges",
+  "name_zh": "奧蘭普·德古熱",
+  "name_en": "Olympe de Gouges",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1748,
+  "death_year": 1793,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 44.017222222,
+      "lon": 1.355,
+      "place": "Montauban",
+      "period": [
+        1748,
+        1793
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1715,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        1793,
+        1793
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Gouges, Olympe de"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Declaration of the Rights of Woman and the Female Citizen",
+      "title_zh": "婦女和女性公民權利宣言",
+      "year": 1791,
+      "qid": "Q730868",
+      "source": "wikidata"
+    },
+    {
+      "title": "Zamore et Mirza",
+      "title_zh": null,
+      "year": 1784,
+      "qid": "Q25389160",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 78,
+  "birth_place": "Montauban",
+  "description": "French playwright and political activist (1748–1793)",
+  "bio": "奧蘭普·德古熱（法語：Olympe de Gouges，1748年5月7日—1793年11月3日），也譯為奧林普·德·古日，原名瑪麗·古茲（Marie Gouze），法國女權主義者、劇作家、政治活動家，其有關女權主義和廢奴主義的作品擁有大量受眾。\n出生於法國西南部，德·古日在1780年代於巴黎開始她多產的劇作家生涯。她是人權的熱情倡導者，也是法國最早公開反對奴隸制的聲音之一。她的劇本和小冊子涵蓋了各種議題，包括離婚與婚姻、兒童權利、失業和社會保障。除了劇作家和政治活動家身份，她在法國大革命之前也曾是名不見經傳的女演員。德·古日歡迎法國大革命的爆發，作為民主的擁護者，德古熱一直尋求法國女性與男性的權利平等。但當平等權利未能延伸至女性時，她很快便感到失望。1791年，為了回應1789年《人類與公民權利宣言》，德·古日發表了《女性與女性公民權宣言》，其中她挑戰男性權威的做法，並提倡女性的平等權利。\n她是法國革命期間少數為婦女爭取權利的人士，革命期間她也出版了許多社會問題論述和若干劇本。\n在法國大革命恐怖統治中，德古熱因攻擊馬克西米利安·羅伯斯庇爾政權且與吉倫特派關係密切而被送上斷頭臺。",
+  "bio_source": "zhwiki",
+  "description_en": "French playwright and political activist (1748–1793)",
+  "bio_en": "Olympe de Gouges (French: [ɔlɛ̃p də ɡuʒ] ; born Marie Gouze; 7 May 1748 – 3 November 1793) was a French playwright and political activist. She is best known for her Declaration of the Rights of Woman and of the Female Citizen and other writings on women's rights and abolitionism.\nBorn in southwestern France, de Gouges began her prolific career as a playwright in Paris in the 1780s. A passionate advocate of human rights, she was one of France's earliest public opponents of slavery. Her plays and pamphlets spanned a wide variety of issues including divorce and marriage, children's rights, unemployment and social security.",
+  "bio_en_source": "enwiki"
+}

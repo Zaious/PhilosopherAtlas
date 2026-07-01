@@ -1,0 +1,141 @@
+{
+  "id": "Q125551",
+  "qid": "Q125551",
+  "slug": "parmenides",
+  "name_zh": "巴門尼德",
+  "name_en": "Parmenides",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -514,
+  "death_year": -469,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 40.159444444,
+      "lon": 15.154444444,
+      "place": "Velia",
+      "period": [
+        -514,
+        -469
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Maximian)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Ostrogoths",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Lombard duchies",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Dutchy of Benevento",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Sicily",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Aragón",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Naples",
+          "start": 1530,
+          "end": 1783
+        },
+        {
+          "polity": "Kingdom of the Two Sicilies",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 38.5,
+      "lon": 23,
+      "place": "Ancient Greece",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Parmenides"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Parmenides"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 112,
+  "birth_place": "Velia",
+  "description": "前蘇格拉底哲學家",
+  "bio": "愛利亞的巴門尼德（古希臘語：Παρμενίδης ὁ Ἐλεάτης，約前515年—前445年），前5世紀古希臘哲學家，是最重要的「前蘇格拉底」哲學家之一，是埃利亞學派的一員。生於埃利亞，主要著作是用韻文寫成的《論自然》，如今只剩下殘篇，他認為真實不會變動，世間的一切變化都是幻象，因此人不可憑感官來認識真實。",
+  "bio_source": "zhwiki",
+  "description_en": "late 6th/early 5th century BC Greek pre-Socratic philosopher",
+  "bio_en": "Parmenides of Elea (; Ancient Greek: Παρμενίδης ὁ Ἐλεάτης; fl. late sixth or early fifth century BC) was a pre-Socratic Greek philosopher from Elea in Magna Graecia (Southern Italy).\nParmenides was born in the Greek colony of Elea to a wealthy and illustrious family. The exact date of his birth is not known with certainty; on the one hand, according to the doxographer Diogenes Laërtius, Parmenides flourished in the period immediately preceding 500 BC, which would place his year of birth around 540 BC; on the other hand, in the dialogue Parmenides Plato portrays him as visiting Athens at the age of 65, when Socrates was a young man, c. 450 BC, which, if true, suggests a po…",
+  "bio_en_source": "enwiki"
+}

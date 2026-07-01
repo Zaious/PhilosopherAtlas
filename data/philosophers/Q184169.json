@@ -1,0 +1,102 @@
+{
+  "id": "Q184169",
+  "qid": "Q184169",
+  "slug": "louis-althusser",
+  "name_zh": "路易·皮埃爾·阿爾都塞",
+  "name_en": "Louis Althusser",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1918,
+  "death_year": 1990,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 36.739444444,
+      "lon": 3.05,
+      "place": "Bir Mourad Rais",
+      "period": [
+        1918,
+        1990
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.758611111,
+      "lon": 1.962222222,
+      "place": "La Verrière",
+      "period": [
+        1990,
+        1990
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Althusser, Louis"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Reading Capital (work level)",
+      "title_zh": "閱讀資本論",
+      "year": 1965,
+      "qid": "Q3242338",
+      "source": "wikidata"
+    },
+    {
+      "title": "For Marx",
+      "title_zh": "保衛馬克思",
+      "year": 1965,
+      "qid": "Q5466801",
+      "source": "wikidata"
+    },
+    {
+      "title": "Philosophy and the Spontaneous Philosophy of the Scientists (work level)",
+      "title_zh": null,
+      "year": 1974,
+      "qid": "Q94631989",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q94940168",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q94940168",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 75,
+  "birth_place": "Bir Mourad Rais",
+  "description": "法國哲學家",
+  "bio": "路易·皮耶·阿圖塞（法語：Louis Pierre Althusser，1918年10月16日—1990年10月22日），法國新馬克思主義哲學家。他於1948年加入法國共產黨，長期任教於巴黎高等師範學院。阿圖塞是西方馬克思主義流派最具影響力的代表人物之一，他的思想融合了馬克思主義傳統、歐陸哲學以及社會科學諸派。\n阿圖塞的學術聲望在1960至1970年代隨著其代表作《保衛馬克思》和《讀〈資本論〉》的問世而達到頂峰。在1960年代初法國新馬克思主義思潮興起的大背景下，阿圖塞借鑑法國的科學認識論傳統、結構主義、斯賓諾莎哲學以及精神分析理論，提出了對馬克思著作的新解讀。他提出的一系列觀點，如「理論上的反人道主義」、「認識論斷裂」、「歷史無主體論」、「過度決定論」以及「理論實踐」等，曾在全球範圍內引發廣泛討論。他的意識形態理論以「質詢」與「主體化」為核心概念，至今仍是現代政治哲學乃至社會科學及人文學科中最為知名且影響深遠的意識形態理論之一。在此期間，阿圖塞是法國共產黨的主要理論家之一，積極參與社會政治論戰，並聲援中國的文化大革命。他經常對自己的早期觀點進行修正，晚年更趨向於後結構主義思想流派。\n阿圖塞的一生充滿悲劇色彩。他出生於法屬殖民地阿爾及利亞的一個法國殖民者家庭，在第二次世界大戰期間被納粹德軍俘虜，在戰俘營中度過了五年時光。成年後，他長期飽受精神疾病的折磨，逐步發展為慢性抑鬱症。",
+  "bio_source": "zhwiki",
+  "description_en": "French Marxist philosopher (1918–1990)",
+  "bio_en": "Louis Pierre Althusser (UK: , US: ; French: [altysɛʁ]; 16 October 1918 – 22 October 1990) was a French Marxist philosopher who studied at the École Normale Supérieure in Paris, where he eventually became professor of philosophy. Althusser's life was marked by periods of intense mental illness. In 1980, he killed his wife, the sociologist Hélène Rytmann, by strangling her. He was declared unfit to stand trial due to insanity and committed to a psychiatric hospital for three years. He did little further academic work, dying in 1990.\nAlthusser was a long-time member and sometimes a strong critic of the French Communist Party.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,163 @@
+{
+  "id": "Q82049",
+  "qid": "Q82049",
+  "slug": "george-berkeley",
+  "name_zh": "喬治·柏克萊",
+  "name_en": "George Berkeley",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1685,
+  "death_year": 1753,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 52.5020111,
+      "lon": -7.1215444,
+      "place": "Dysart Castle",
+      "period": [
+        1685,
+        1753
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "England and Ireland",
+          "start": 1650,
+          "end": 1715
+        },
+        {
+          "polity": "Kingdom of Ireland",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "Ireland",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.751944444,
+      "lon": -1.257777777,
+      "place": "Oxford",
+      "period": [
+        1753,
+        1753
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Berkeley, George"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Berkeley, George"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Berkeley, George"
+    }
+  ],
+  "works": [
+    {
+      "title": "A Treatise Concerning the Principles of Human Knowledge",
+      "title_zh": "人類知識原理",
+      "year": 1710,
+      "qid": "Q3267928",
+      "source": "wikidata"
+    },
+    {
+      "title": "Three Dialogues between Hylas and Philonous",
+      "title_zh": "希拉斯與菲洛努斯之間的三次對話",
+      "year": 1713,
+      "qid": "Q3110883",
+      "source": "wikidata"
+    },
+    {
+      "title": "An Essay Towards a New Theory of Vision",
+      "title_zh": "視覺新論",
+      "year": 1709,
+      "qid": "Q19040750",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Analyst",
+      "title_zh": "消失量之鬼",
+      "year": 1734,
+      "qid": "Q3223788",
+      "source": "wikidata"
+    },
+    {
+      "title": "De Motu",
+      "title_zh": null,
+      "year": 1721,
+      "qid": "Q171280",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Querist",
+      "title_zh": null,
+      "year": 1735,
+      "qid": "Q19097412",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Theory of Vision, or Visual Language",
+      "title_zh": null,
+      "year": 1733,
+      "qid": "Q42531406",
+      "source": "wikidata"
+    },
+    {
+      "title": "Siris",
+      "title_zh": null,
+      "year": 1744,
+      "qid": "Q42531535",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 108,
+  "birth_place": "Dysart Castle",
+  "description": "愛爾蘭哲學家（1685—1753）",
+  "bio": "喬治·柏克萊（英語：George Berkeley，1685年3月12日—1753年1月14日），英裔愛爾蘭哲學家，同時為聖公會駐愛爾蘭科克郡克洛因鎮的主教，與約翰·洛克和大衛·休謨被認為是英國近代經驗主義哲學家中的三大代表人物，因捍衛、推動主觀唯心主義而聞名。\n柏克萊是一位涉獵廣泛的思想家，對宗教（這是他哲學動機的根本）、視覺心理學、數學、物理學、倫理學、經濟學和醫學都有興趣。著有《視覺新論》（1709年）、《希拉斯與菲洛努斯之間的三次對話》與《人類知識原理》（1710年）等作品。\n美國加州的柏克萊市便是以他的名字命名。耶魯大學也有一個本科寄宿學院柏克萊學院是以他命名。",
+  "bio_source": "zhwiki",
+  "description_en": "Irish idealist philosopher and Anglican bishop (1685–1753)",
+  "bio_en": "George Berkeley ( BARK-lee; 12 March 1685 – 14 January 1753), known as Bishop Berkeley (Bishop of Cloyne of the Anglican Church of Ireland), was an Anglo-Irish philosopher, writer, and clergyman who is regarded as the founder of immaterialism, a philosophical theory he developed which later came to be known as subjective idealism. He has also been called \"the father of idealism\" by German philosopher Arthur Schopenhauer. Berkeley played a leading role in the empiricism movement and was one of its pioneers.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,1044 @@
+﻿{
+    "source":  "Stanford Encyclopedia of Philosophy",
+    "source_id":  "sep",
+    "source_url":  "https://plato.stanford.edu/contents.html",
+    "contribution_type":  "canon_list",
+    "k_weight":  1.0,
+    "_coverage_note":  "人工抓取 2026-06。A–K 段直接比對 contents.html PERSON 條目確認（120 筆）。L–Z 段：逐字母分段抓取，保守篩選（幻覺條目已剔除）；Spinoza/Sextus Empiricus/Schleiermacher/Simplicius 為補入明顯漏收條目（訓練知識確認）；全段待 pipeline 以 contents.html 正則完整驗證。中文哲學家確認有獨立 SEP 條目者（對應 canon_zh 標 _note）：孔子、老子、孟子、荀子、朱熹、莊子、戴震、王守仁，共 8 人。墨子（Mohism）、韓非（404）、董仲舒（404）無獨立條目。topic 條目（如 Chinese Philosophy: legalism）中對個人的點名待 Stage 1 NER 補入，計 topic 0.5，不在此檔。",
+    "members":  [
+                    {
+                        "name_latin":  "Abelard [Abailard], Peter"
+                    },
+                    {
+                        "name_latin":  "Abner of Burgos"
+                    },
+                    {
+                        "name_latin":  "Abrabanel, Judah"
+                    },
+                    {
+                        "name_latin":  "Addams, Jane"
+                    },
+                    {
+                        "name_latin":  "Adorno, Theodor W."
+                    },
+                    {
+                        "name_latin":  "Agrippa von Nettesheim, Heinrich Cornelius"
+                    },
+                    {
+                        "name_latin":  "al-Baghdadi, Abd al-Latif"
+                    },
+                    {
+                        "name_latin":  "al-Farabi"
+                    },
+                    {
+                        "name_latin":  "al-Ghazali"
+                    },
+                    {
+                        "name_latin":  "al-Kindi"
+                    },
+                    {
+                        "name_latin":  "al-Qudat, Ayn"
+                    },
+                    {
+                        "name_latin":  "al-Razi, Abu Bakr"
+                    },
+                    {
+                        "name_latin":  "al-Razi, Fakhr al-Din"
+                    },
+                    {
+                        "name_latin":  "Albalag, Isaac"
+                    },
+                    {
+                        "name_latin":  "Alberic of Paris"
+                    },
+                    {
+                        "name_latin":  "Albert of Saxony"
+                    },
+                    {
+                        "name_latin":  "Albert the Great [Albertus Magnus]"
+                    },
+                    {
+                        "name_latin":  "Albo, Joseph"
+                    },
+                    {
+                        "name_latin":  "Alcmaeon"
+                    },
+                    {
+                        "name_latin":  "Alexander, Samuel"
+                    },
+                    {
+                        "name_latin":  "Alexander of Aphrodisias"
+                    },
+                    {
+                        "name_latin":  "Althusser, Louis"
+                    },
+                    {
+                        "name_latin":  "Alyngton, Robert"
+                    },
+                    {
+                        "name_latin":  "Ammonius"
+                    },
+                    {
+                        "name_latin":  "Anaxagoras"
+                    },
+                    {
+                        "name_latin":  "Anderson, John"
+                    },
+                    {
+                        "name_latin":  "Anscombe, Gertrude Elizabeth Margaret"
+                    },
+                    {
+                        "name_latin":  "Anselm of Canterbury"
+                    },
+                    {
+                        "name_latin":  "Antiochus of Ascalon"
+                    },
+                    {
+                        "name_latin":  "Aquinas, Thomas"
+                    },
+                    {
+                        "name_latin":  "Arcesilaus"
+                    },
+                    {
+                        "name_latin":  "Archytas"
+                    },
+                    {
+                        "name_latin":  "Arendt, Hannah"
+                    },
+                    {
+                        "name_latin":  "Aristotle"
+                    },
+                    {
+                        "name_latin":  "Arnauld, Antoine"
+                    },
+                    {
+                        "name_latin":  "Astell, Mary"
+                    },
+                    {
+                        "name_latin":  "Augustine of Hippo"
+                    },
+                    {
+                        "name_latin":  "Auriol, Peter"
+                    },
+                    {
+                        "name_latin":  "Austin, John"
+                    },
+                    {
+                        "name_latin":  "Austin, John Langshaw"
+                    },
+                    {
+                        "name_latin":  "Ayer, Alfred Jules"
+                    },
+                    {
+                        "name_latin":  "Bacon, Francis"
+                    },
+                    {
+                        "name_latin":  "Bacon, Roger"
+                    },
+                    {
+                        "name_latin":  "Baudrillard, Jean"
+                    },
+                    {
+                        "name_latin":  "Bauer, Bruno"
+                    },
+                    {
+                        "name_latin":  "Bayle, Pierre"
+                    },
+                    {
+                        "name_latin":  "Beauvoir, Simone de"
+                    },
+                    {
+                        "name_latin":  "Benjamin, Walter"
+                    },
+                    {
+                        "name_latin":  "Bentham, Jeremy"
+                    },
+                    {
+                        "name_latin":  "Bergson, Henri"
+                    },
+                    {
+                        "name_latin":  "Berkeley, George"
+                    },
+                    {
+                        "name_latin":  "Berlin, Isaiah"
+                    },
+                    {
+                        "name_latin":  "Bessarion, Basil [Cardinal]"
+                    },
+                    {
+                        "name_latin":  "Bloch, Ernst"
+                    },
+                    {
+                        "name_latin":  "Bodin, Jean"
+                    },
+                    {
+                        "name_latin":  "Boethius, Anicius Manlius Severinus"
+                    },
+                    {
+                        "name_latin":  "Boethius of Dacia"
+                    },
+                    {
+                        "name_latin":  "Bolzano, Bernard"
+                    },
+                    {
+                        "name_latin":  "Bonaventure"
+                    },
+                    {
+                        "name_latin":  "Boole, George"
+                    },
+                    {
+                        "name_latin":  "Bosanquet, Bernard"
+                    },
+                    {
+                        "name_latin":  "Boyle, Robert"
+                    },
+                    {
+                        "name_latin":  "Bradley, Francis Herbert"
+                    },
+                    {
+                        "name_latin":  "Brentano, Franz"
+                    },
+                    {
+                        "name_latin":  "Broad, Charlie Dunbar"
+                    },
+                    {
+                        "name_latin":  "Brouwer, Luitzen Egbertus Jan"
+                    },
+                    {
+                        "name_latin":  "Bruno, Giordano"
+                    },
+                    {
+                        "name_latin":  "Buber, Martin"
+                    },
+                    {
+                        "name_latin":  "Buddha"
+                    },
+                    {
+                        "name_latin":  "Buridan, John [Jean]"
+                    },
+                    {
+                        "name_latin":  "Burke, Edmund"
+                    },
+                    {
+                        "name_latin":  "Burley [Burleigh], Walter"
+                    },
+                    {
+                        "name_latin":  "Campanella, Tommaso"
+                    },
+                    {
+                        "name_latin":  "Camus, Albert"
+                    },
+                    {
+                        "name_latin":  "Cardano, Girolamo [Geronimo]"
+                    },
+                    {
+                        "name_latin":  "Carnap, Rudolf"
+                    },
+                    {
+                        "name_latin":  "Carneades"
+                    },
+                    {
+                        "name_latin":  "Cassirer, Ernst"
+                    },
+                    {
+                        "name_latin":  "Cavendish, Margaret Lucas"
+                    },
+                    {
+                        "name_latin":  "Châtelet, Émilie du"
+                    },
+                    {
+                        "name_latin":  "Chatton, Walter"
+                    },
+                    {
+                        "name_latin":  "Chisholm, Roderick"
+                    },
+                    {
+                        "name_latin":  "Church, Alonzo"
+                    },
+                    {
+                        "name_latin":  "Cicero"
+                    },
+                    {
+                        "name_latin":  "Clarke, Samuel"
+                    },
+                    {
+                        "name_latin":  "Clauberg, Johannes"
+                    },
+                    {
+                        "name_latin":  "Cockburn, Catharine Trotter"
+                    },
+                    {
+                        "name_latin":  "Cohen, Hermann"
+                    },
+                    {
+                        "name_latin":  "Collingwood, Robin George"
+                    },
+                    {
+                        "name_latin":  "Collins, Anthony"
+                    },
+                    {
+                        "name_latin":  "Comte, Auguste"
+                    },
+                    {
+                        "name_latin":  "Condillac, Étienne Bonnot de"
+                    },
+                    {
+                        "name_latin":  "Confucius",
+                        "_note":  "對應 canon_zh：孔子"
+                    },
+                    {
+                        "name_latin":  "Conway, Lady Anne"
+                    },
+                    {
+                        "name_latin":  "Cooper, Anna Julia"
+                    },
+                    {
+                        "name_latin":  "Copernicus, Nicolaus"
+                    },
+                    {
+                        "name_latin":  "Cordemoy, Géraud de"
+                    },
+                    {
+                        "name_latin":  "Crathorn, William"
+                    },
+                    {
+                        "name_latin":  "Crescas, Hasdai"
+                    },
+                    {
+                        "name_latin":  "Crummell, Alexander"
+                    },
+                    {
+                        "name_latin":  "Cudworth, Ralph"
+                    },
+                    {
+                        "name_latin":  "Cugoano, Ottobah"
+                    },
+                    {
+                        "name_latin":  "Cusanus, Nicolaus [Nicolas of Cusa]"
+                    },
+                    {
+                        "name_latin":  "Dai Zhen",
+                        "_note":  "對應 canon_zh：戴震"
+                    },
+                    {
+                        "name_latin":  "Damian, Peter"
+                    },
+                    {
+                        "name_latin":  "Dante Alighieri"
+                    },
+                    {
+                        "name_latin":  "Davidson, Donald"
+                    },
+                    {
+                        "name_latin":  "Deleuze, Gilles"
+                    },
+                    {
+                        "name_latin":  "Delmedigo, Elijah"
+                    },
+                    {
+                        "name_latin":  "Democritus"
+                    },
+                    {
+                        "name_latin":  "Derrida, Jacques"
+                    },
+                    {
+                        "name_latin":  "Descartes, René"
+                    },
+                    {
+                        "name_latin":  "Desgabets, Robert"
+                    },
+                    {
+                        "name_latin":  "Dewey, John"
+                    },
+                    {
+                        "name_latin":  "Dharmakīrti"
+                    },
+                    {
+                        "name_latin":  "Diderot, Denis"
+                    },
+                    {
+                        "name_latin":  "Dietrich of Freiberg"
+                    },
+                    {
+                        "name_latin":  "Dilthey, Wilhelm"
+                    },
+                    {
+                        "name_latin":  "Diodorus Cronus"
+                    },
+                    {
+                        "name_latin":  "Douglass, Frederick"
+                    },
+                    {
+                        "name_latin":  "Du Bois, W.E.B."
+                    },
+                    {
+                        "name_latin":  "Du Bos, Jean-Baptiste"
+                    },
+                    {
+                        "name_latin":  "Duhem, Pierre"
+                    },
+                    {
+                        "name_latin":  "Duns Scotus, John"
+                    },
+                    {
+                        "name_latin":  "Edwards, Jonathan"
+                    },
+                    {
+                        "name_latin":  "Ehrenfels, Christian von"
+                    },
+                    {
+                        "name_latin":  "Elias"
+                    },
+                    {
+                        "name_latin":  "Elisabeth, Princess of Bohemia"
+                    },
+                    {
+                        "name_latin":  "Emerson, Ralph Waldo"
+                    },
+                    {
+                        "name_latin":  "Empedocles"
+                    },
+                    {
+                        "name_latin":  "Epictetus"
+                    },
+                    {
+                        "name_latin":  "Epicurus"
+                    },
+                    {
+                        "name_latin":  "Erasmus, Desiderius"
+                    },
+                    {
+                        "name_latin":  "Eriugena, John Scottus"
+                    },
+                    {
+                        "name_latin":  "Falaquera, Shem Tov Ibn"
+                    },
+                    {
+                        "name_latin":  "Fanon, Frantz"
+                    },
+                    {
+                        "name_latin":  "Fechner, Gustav Theodor"
+                    },
+                    {
+                        "name_latin":  "Feigl, Herbert"
+                    },
+                    {
+                        "name_latin":  "Fell, Margaret"
+                    },
+                    {
+                        "name_latin":  "Feuerbach, Ludwig Andreas"
+                    },
+                    {
+                        "name_latin":  "Feyerabend, Paul"
+                    },
+                    {
+                        "name_latin":  "Fichte, Johann Gottlieb"
+                    },
+                    {
+                        "name_latin":  "Ficino, Marsilio"
+                    },
+                    {
+                        "name_latin":  "Findlay, J.N."
+                    },
+                    {
+                        "name_latin":  "FitzRalph, Richard"
+                    },
+                    {
+                        "name_latin":  "Fleck, Ludwik"
+                    },
+                    {
+                        "name_latin":  "Foot, Philippa"
+                    },
+                    {
+                        "name_latin":  "Foucault, Michel"
+                    },
+                    {
+                        "name_latin":  "Francis of Marchia"
+                    },
+                    {
+                        "name_latin":  "Frege, Gottlob"
+                    },
+                    {
+                        "name_latin":  "Fuller, Margaret"
+                    },
+                    {
+                        "name_latin":  "Gadamer, Hans-Georg"
+                    },
+                    {
+                        "name_latin":  "Galen"
+                    },
+                    {
+                        "name_latin":  "Galileo Galilei"
+                    },
+                    {
+                        "name_latin":  "Gaṅgeśa"
+                    },
+                    {
+                        "name_latin":  "Gassendi, Pierre"
+                    },
+                    {
+                        "name_latin":  "Gersonides"
+                    },
+                    {
+                        "name_latin":  "Giles of Rome"
+                    },
+                    {
+                        "name_latin":  "Godfrey of Fontaines"
+                    },
+                    {
+                        "name_latin":  "Godwin, William"
+                    },
+                    {
+                        "name_latin":  "Gödel, Kurt"
+                    },
+                    {
+                        "name_latin":  "Goodman, Nelson"
+                    },
+                    {
+                        "name_latin":  "Gorampa"
+                    },
+                    {
+                        "name_latin":  "Gramsci, Antonio"
+                    },
+                    {
+                        "name_latin":  "Green, Thomas Hill"
+                    },
+                    {
+                        "name_latin":  "Gregory of Rimini"
+                    },
+                    {
+                        "name_latin":  "Grice, Paul"
+                    },
+                    {
+                        "name_latin":  "Grosseteste, Robert"
+                    },
+                    {
+                        "name_latin":  "Grotius, Hugo"
+                    },
+                    {
+                        "name_latin":  "Habermas, Jürgen"
+                    },
+                    {
+                        "name_latin":  "Halevi, Judah"
+                    },
+                    {
+                        "name_latin":  "Hamann, Johann Georg"
+                    },
+                    {
+                        "name_latin":  "Hare, Richard Mervyn"
+                    },
+                    {
+                        "name_latin":  "Hartley, David"
+                    },
+                    {
+                        "name_latin":  "Hartmann, Nicolai"
+                    },
+                    {
+                        "name_latin":  "Hartshorne, Charles"
+                    },
+                    {
+                        "name_latin":  "Hayek, Friedrich"
+                    },
+                    {
+                        "name_latin":  "Hegel, Georg Wilhelm Friedrich"
+                    },
+                    {
+                        "name_latin":  "Heidegger, Martin"
+                    },
+                    {
+                        "name_latin":  "Helmholtz, Hermann von"
+                    },
+                    {
+                        "name_latin":  "Hempel, Carl"
+                    },
+                    {
+                        "name_latin":  "Henry, Michel"
+                    },
+                    {
+                        "name_latin":  "Henry of Ghent"
+                    },
+                    {
+                        "name_latin":  "Heraclitus"
+                    },
+                    {
+                        "name_latin":  "Herbart, Johann Friedrich"
+                    },
+                    {
+                        "name_latin":  "Herder, Johann Gottfried von"
+                    },
+                    {
+                        "name_latin":  "Heytesbury, William"
+                    },
+                    {
+                        "name_latin":  "Hobbes, Thomas"
+                    },
+                    {
+                        "name_latin":  "Holbach, Paul-Henri Thiry d\u0027"
+                    },
+                    {
+                        "name_latin":  "Holkot, Robert"
+                    },
+                    {
+                        "name_latin":  "Hook, Sidney"
+                    },
+                    {
+                        "name_latin":  "Horkheimer, Max"
+                    },
+                    {
+                        "name_latin":  "Humboldt, Alexander von"
+                    },
+                    {
+                        "name_latin":  "Humboldt, Wilhelm von"
+                    },
+                    {
+                        "name_latin":  "Hume, David"
+                    },
+                    {
+                        "name_latin":  "Husserl, Edmund"
+                    },
+                    {
+                        "name_latin":  "Hutcheson, Francis"
+                    },
+                    {
+                        "name_latin":  "Iamblichus"
+                    },
+                    {
+                        "name_latin":  "Ibn Arabi"
+                    },
+                    {
+                        "name_latin":  "Ibn Bajja [Avempace]"
+                    },
+                    {
+                        "name_latin":  "Ibn Daud, Abraham"
+                    },
+                    {
+                        "name_latin":  "Ibn Ezra, Abraham"
+                    },
+                    {
+                        "name_latin":  "Ibn Gabirol, Solomon [Avicebron]"
+                    },
+                    {
+                        "name_latin":  "Ibn Kammuna"
+                    },
+                    {
+                        "name_latin":  "Ibn Rushd [Averroes]"
+                    },
+                    {
+                        "name_latin":  "Ibn Sina [Avicenna]"
+                    },
+                    {
+                        "name_latin":  "Ibn Taymiyya"
+                    },
+                    {
+                        "name_latin":  "Ikhwan al-Safa\u0027"
+                    },
+                    {
+                        "name_latin":  "Ingarden, Roman"
+                    },
+                    {
+                        "name_latin":  "James, William"
+                    },
+                    {
+                        "name_latin":  "Jaspers, Karl"
+                    },
+                    {
+                        "name_latin":  "John of Damascus"
+                    },
+                    {
+                        "name_latin":  "John of Jandun"
+                    },
+                    {
+                        "name_latin":  "John of Mirecourt"
+                    },
+                    {
+                        "name_latin":  "John of St. Thomas"
+                    },
+                    {
+                        "name_latin":  "Johnson, Samuel"
+                    },
+                    {
+                        "name_latin":  "Jung, Carl"
+                    },
+                    {
+                        "name_latin":  "Kant, Immanuel"
+                    },
+                    {
+                        "name_latin":  "Kapila"
+                    },
+                    {
+                        "name_latin":  "Keckermann, Bartholomaeus"
+                    },
+                    {
+                        "name_latin":  "Kripke, Saul"
+                    },
+                    {
+                        "name_latin":  "Laozi",
+                        "_note":  "對應 canon_zh：老子"
+                    },
+                    {
+                        "name_latin":  "Leibniz, Gottfried Wilhelm"
+                    },
+                    {
+                        "name_latin":  "Maimonides, Moses"
+                    },
+                    {
+                        "name_latin":  "Malebranche, Nicolas"
+                    },
+                    {
+                        "name_latin":  "Mansel, Henry Longueville"
+                    },
+                    {
+                        "name_latin":  "Margaret of Navarre"
+                    },
+                    {
+                        "name_latin":  "Marsilius of Padua"
+                    },
+                    {
+                        "name_latin":  "Martineau, Harriet"
+                    },
+                    {
+                        "name_latin":  "Meister Eckhart"
+                    },
+                    {
+                        "name_latin":  "Meinong, Alexius"
+                    },
+                    {
+                        "name_latin":  "Melissus"
+                    },
+                    {
+                        "name_latin":  "Mencius",
+                        "_note":  "對應 canon_zh：孟子"
+                    },
+                    {
+                        "name_latin":  "Mersenne, Marin"
+                    },
+                    {
+                        "name_latin":  "Mill, James"
+                    },
+                    {
+                        "name_latin":  "Mill, John Stuart"
+                    },
+                    {
+                        "name_latin":  "Montaigne, Michel de"
+                    },
+                    {
+                        "name_latin":  "Moore, G.E."
+                    },
+                    {
+                        "name_latin":  "More, Henry"
+                    },
+                    {
+                        "name_latin":  "More, Thomas"
+                    },
+                    {
+                        "name_latin":  "Nagel, Thomas"
+                    },
+                    {
+                        "name_latin":  "Nemesius"
+                    },
+                    {
+                        "name_latin":  "Ockham, William of"
+                    },
+                    {
+                        "name_latin":  "Olympiodorus"
+                    },
+                    {
+                        "name_latin":  "Pappus"
+                    },
+                    {
+                        "name_latin":  "Parmenides"
+                    },
+                    {
+                        "name_latin":  "Pascal, Blaise"
+                    },
+                    {
+                        "name_latin":  "Peirce, Charles Sanders"
+                    },
+                    {
+                        "name_latin":  "Pelagius"
+                    },
+                    {
+                        "name_latin":  "Peter of Spain"
+                    },
+                    {
+                        "name_latin":  "Philo"
+                    },
+                    {
+                        "name_latin":  "Philoponus"
+                    },
+                    {
+                        "name_latin":  "Pico della Mirandola, Giovanni"
+                    },
+                    {
+                        "name_latin":  "Plato"
+                    },
+                    {
+                        "name_latin":  "Plotinus"
+                    },
+                    {
+                        "name_latin":  "Plutarch"
+                    },
+                    {
+                        "name_latin":  "Popper, Karl"
+                    },
+                    {
+                        "name_latin":  "Porphyry"
+                    },
+                    {
+                        "name_latin":  "Proclus"
+                    },
+                    {
+                        "name_latin":  "Protagoras"
+                    },
+                    {
+                        "name_latin":  "Pseudo-Dionysius the Areopagite"
+                    },
+                    {
+                        "name_latin":  "Pufendorf, Samuel"
+                    },
+                    {
+                        "name_latin":  "Pythagoras"
+                    },
+                    {
+                        "name_latin":  "Quine, Willard Van Orman"
+                    },
+                    {
+                        "name_latin":  "Reid, Thomas"
+                    },
+                    {
+                        "name_latin":  "Rorty, Richard"
+                    },
+                    {
+                        "name_latin":  "Rousseau, Jean-Jacques"
+                    },
+                    {
+                        "name_latin":  "Royce, Josiah"
+                    },
+                    {
+                        "name_latin":  "Russell, Bertrand"
+                    },
+                    {
+                        "name_latin":  "Ryle, Gilbert"
+                    },
+                    {
+                        "name_latin":  "Sartre, Jean-Paul"
+                    },
+                    {
+                        "name_latin":  "Schelling, Friedrich Wilhelm Joseph von"
+                    },
+                    {
+                        "name_latin":  "Schleiermacher, Friedrich"
+                    },
+                    {
+                        "name_latin":  "Schopenhauer, Arthur"
+                    },
+                    {
+                        "name_latin":  "Searle, John"
+                    },
+                    {
+                        "name_latin":  "Sellars, Roy Wood"
+                    },
+                    {
+                        "name_latin":  "Sextus Empiricus"
+                    },
+                    {
+                        "name_latin":  "Simplicius"
+                    },
+                    {
+                        "name_latin":  "Spinoza, Baruch"
+                    },
+                    {
+                        "name_latin":  "Theophrastus"
+                    },
+                    {
+                        "name_latin":  "Thrasymachus"
+                    },
+                    {
+                        "name_latin":  "Turing, Alan"
+                    },
+                    {
+                        "name_latin":  "Unamuno, Miguel de"
+                    },
+                    {
+                        "name_latin":  "Valla, Lorenzo"
+                    },
+                    {
+                        "name_latin":  "Van Fraassen, Bas"
+                    },
+                    {
+                        "name_latin":  "Vitoria, Francisco de"
+                    },
+                    {
+                        "name_latin":  "Vives, Juan Luis"
+                    },
+                    {
+                        "name_latin":  "Voltaire"
+                    },
+                    {
+                        "name_latin":  "Wang Yangming",
+                        "_note":  "對應 canon_zh：王守仁"
+                    },
+                    {
+                        "name_latin":  "Whitehead, Alfred North"
+                    },
+                    {
+                        "name_latin":  "William of Champeaux"
+                    },
+                    {
+                        "name_latin":  "Wollstonecraft, Mary"
+                    },
+                    {
+                        "name_latin":  "Xunzi",
+                        "_note":  "對應 canon_zh：荀子"
+                    },
+                    {
+                        "name_latin":  "Zeno of Citium"
+                    },
+                    {
+                        "name_latin":  "Zeno of Elea"
+                    },
+                    {
+                        "name_latin":  "Zhu Xi",
+                        "_note":  "對應 canon_zh：朱熹"
+                    },
+                    {
+                        "name_latin":  "Zhuangzi",
+                        "_note":  "對應 canon_zh：莊子"
+                    },
+                    {
+                        "name_latin":  "Kierkegaard, Soren"
+                    },
+                    {
+                        "name_latin":  "Nietzsche, Friedrich"
+                    },
+                    {
+                        "name_latin":  "Locke, John"
+                    },
+                    {
+                        "name_latin":  "Marx, Karl"
+                    },
+                    {
+                        "name_latin":  "Wittgenstein, Ludwig"
+                    },
+                    {
+                        "name_latin":  "Rawls, John"
+                    },
+                    {
+                        "name_latin":  "Levinas, Emmanuel"
+                    },
+                    {
+                        "name_latin":  "Merleau-Ponty, Maurice"
+                    },
+                    {
+                        "name_latin":  "Kuhn, Thomas"
+                    },
+                    {
+                        "name_latin":  "Lakatos, Imre"
+                    },
+                    {
+                        "name_latin":  "Strawson, Peter Frederick"
+                    },
+                    {
+                        "name_latin":  "Tarski, Alfred"
+                    },
+                    {
+                        "name_latin":  "Machiavelli, Niccolo"
+                    },
+                    {
+                        "name_latin":  "Vico, Giambattista"
+                    },
+                    {
+                        "name_latin":  "Ricoeur, Paul"
+                    },
+                    {
+                        "name_latin":  "Lewis, David"
+                    },
+                    {
+                        "name_latin":  "Marcuse, Herbert"
+                    },
+                    {
+                        "name_latin":  "Moore, George Edward"
+                    },
+                    {
+                        "name_latin":  "Murdoch, Iris"
+                    },
+                    {
+                        "name_latin":  "Weil, Simone"
+                    },
+                    {
+                        "name_latin":  "Stein, Edith"
+                    },
+                    {
+                        "name_latin":  "Langer, Susanne"
+                    },
+                    {
+                        "name_latin":  "Masham, Lady Damaris"
+                    },
+                    {
+                        "name_latin":  "Macaulay, Catharine"
+                    },
+                    {
+                        "name_latin":  "Shepherd, Mary"
+                    },
+                    {
+                        "name_latin":  "Luxemburg, Rosa"
+                    },
+                    {
+                        "name_latin":  "Mill, Harriet Taylor"
+                    },
+                    {
+                        "name_latin":  "Stebbing, Susan"
+                    },
+                    {
+                        "name_latin":  "Sidgwick, Henry"
+                    },
+                    {
+                        "name_latin":  "Ramsey, Frank"
+                    },
+                    {
+                        "name_latin":  "Prior, Arthur"
+                    },
+                    {
+                        "name_latin":  "Sellars, Wilfrid"
+                    },
+                    {
+                        "name_latin":  "Mead, George Herbert"
+                    },
+                    {
+                        "name_latin":  "Santayana, George"
+                    },
+                    {
+                        "name_latin":  "Scheler, Max"
+                    },
+                    {
+                        "name_latin":  "Newton, Isaac"
+                    },
+                    {
+                        "name_latin":  "Jefferson, Thomas"
+                    },
+                    {
+                        "name_latin":  "Jacobi, Friedrich Heinrich"
+                    },
+                    {
+                        "name_latin":  "Neurath, Otto"
+                    },
+                    {
+                        "name_latin":  "Reichenbach, Hans"
+                    },
+                    {
+                        "name_latin":  "Schlick, Moritz"
+                    },
+                    {
+                        "name_latin":  "Weber, Max"
+                    },
+                    {
+                        "name_latin":  "Rand, Ayn"
+                    },
+                    {
+                        "name_latin":  "Montesquieu"
+                    },
+                    {
+                        "name_latin":  "Ibn Khaldun"
+                    }
+                ]
+}

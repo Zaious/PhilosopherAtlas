@@ -1,0 +1,97 @@
+{
+  "id": "Q5264",
+  "qid": "Q5264",
+  "slug": "hippocrates",
+  "name_zh": "希波克拉底",
+  "name_en": "Hippocrates",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -459,
+  "death_year": -369,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 36.815277777,
+      "lon": 27.110277777,
+      "place": "Kos",
+      "period": [
+        -459,
+        -369
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Byzantine Empire",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1492,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 39.638493,
+      "lon": 22.413061,
+      "place": "Larissa",
+      "period": [
+        -369,
+        -369
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 39.641667,
+      "lon": 22.416667,
+      "place": "Larissa",
+      "period": [
+        -369,
+        -369
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hippocrates"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 173,
+  "birth_place": "Kos",
+  "description": "古希臘醫師",
+  "bio": "希波克拉底（古希臘文：Ἱπποκράτης，前460年—前370年），為古希臘伯里克利時代之醫師，約生於西元前460年，後世人普遍認為其為醫學史上傑出人物之一。在其所身處之上古時代，醫學不發達，他卻能將醫學發展成為專業學科，使之與巫術及哲學分離，並創立以之為名的醫學學派，對古希臘之醫學發展貢獻良多，故今人多尊稱之為「醫學之父」。\n世人往往將其文集諸位作者的成就、奉行其醫學原則的醫師及其本人之事蹟相混淆，以致於今天，對其真實想法、所書之文、所做之事知之甚微。然而，其仍被認為對臨床醫學貢獻甚多，並總先世醫學之大成，堪稱古醫師之典範。而其所訂立之醫師誓言，更成為後世醫師之道德綱領，直至今天。\n約卒於西元前370年，享年90歲。",
+  "bio_source": "zhwiki",
+  "description_en": "Greek physician (c. 460 – c. 370 BC)",
+  "bio_en": "Hippocrates of Kos (; Ancient Greek: Ἱπποκράτης ὁ Κῷος, romanized: Hippokrátēs ho Kôios; c. 460 – c. 370 BC), also known as Hippocrates II, named after his grandfather Hippocrates I (also Hippocrates of Kos or Hippocrates I of Kos) was a Greek physician and philosopher of the classical period who is considered one of the most outstanding figures in the history of medicine. He is traditionally referred to as the \"Father of Medicine\" in recognition of his lasting contributions to the field, such as the use of prognosis and clinical observation, the systematic categorization of diseases, and the (later discredited) formulation of humoral theory.",
+  "bio_en_source": "enwiki"
+}

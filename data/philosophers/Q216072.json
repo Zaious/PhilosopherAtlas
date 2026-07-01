@@ -1,0 +1,175 @@
+{
+  "id": "Q216072",
+  "qid": "Q216072",
+  "slug": "xunzi",
+  "name_zh": "荀子",
+  "name_en": "Xunzi",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -312,
+  "death_year": -230,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 36.128,
+      "lon": 112.254,
+      "place": "Zhao",
+      "period": [
+        -312,
+        -230
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Sixteen Kingdoms",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Toba Wei",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 30.422777777,
+      "lon": 112.173333333,
+      "place": "Chu",
+      "period": [
+        -230,
+        -230
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Xunzi"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Xunzi"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Xunzi [Hsün Tzu]"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Xunzi"
+    }
+  ],
+  "works": [
+    {
+      "title": "Xunzi",
+      "title_zh": "荀子",
+      "year": null,
+      "qid": "Q6722310",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 5,
+  "sitelinks": 68,
+  "birth_place": "Zhao",
+  "description": "中國哲學家",
+  "bio": "荀子（約公元前316年—約公元前237年至公元前235年），名況，被尊稱為荀卿，又稱孫卿，中國戰國時代儒家學者和思想家，趙國人，曾擔任齊國稷下學宮祭酒、楚國蘭陵令，到趙國、秦國遊說諸侯，宣揚儒學和傳授六經，批評子思、孟子等其他儒者及墨家、道家等其他學派，有韓非、李斯等弟子，著作後世編為《荀子》一書。作為先秦儒家代表人物，與孔子、孟子合稱孔孟荀。\n荀子祖述孔子，重視道德倫理，提倡仁義、禮義和忠信，集先秦禮論之大成，重視以禮修身和禮制教育。他相信性惡論，人與生俱來本無道德，若放縱情慾不加節制，將互相仇恨和鬥爭；道德價值是後天人為建構的，由聖人創造，以規範和美化人性。荀子重視人的理性和學習能力，認為善行是後天學習而得的，人人都有學習禮義的能力；君子應憑著個人修養，鍥而不捨的努力，日積月累養成美德。政治上荀子提調尊君，強調君主確立社會秩序與道德教化的作用，彰顯儒家的聖王理想與政教合一的觀念。荀子主張任用賢能，國君把政務交與大臣處理；國家要控制思想，打擊異端邪說，以法律補充禮制以維繫社會秩序。自然論方面，荀子傾向唯物主義，認為天地並無意志，不信墨家天人感應和鬼神之說，提出利用自然和改造自然。\n荀子受譽為一代大儒，地位崇高，對後世特別是漢代的儒學思想與政治文化影響頗深。在宋、元、明三朝曾從祀於孔廟；但因其性惡論及曾抨擊孟子，自宋代以來也受不少儒者批評，被視為孔門異端（至少是「歧出」），甚至是法家人物。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese Confucian philosopher (c. 310 – after 238 BCE)",
+  "bio_en": "Xunzi (荀子, Xúnzǐ, lit. 'Master Xun'; c. 310 – c. after 238 BCE), born Xun Kuang, was a late Warring States period Confucian Chinese philosopher, often ranked as the third great Confucian philosopher of antiquity after his predecessors Confucius and Mencius. By his time, Confucianism had suffered considerable criticism from Taoist and Mohist thinkers, and Xunzi is traditionally regarded as a synthesizer of these traditions with earlier Confucian thought. The result was a thorough and cohesive revision of Confucianism, which was crucial to the philosophy's ability to flourish in the Han dynasty and throughout the later history of East Asia.",
+  "bio_en_source": "enwiki"
+}

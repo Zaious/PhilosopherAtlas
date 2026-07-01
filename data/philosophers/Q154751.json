@@ -1,0 +1,332 @@
+{
+  "id": "Q154751",
+  "qid": "Q154751",
+  "slug": "nicholas-of-cusa",
+  "name_zh": "尼古拉",
+  "name_en": "Nicholas of Cusa",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1401,
+  "death_year": 1464,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 49.916111111,
+      "lon": 7.069444444,
+      "place": "Bernkastel-Kues",
+      "period": [
+        1401,
+        1464
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1400,
+          "end": 1783
+        },
+        {
+          "polity": "Prussia",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (France)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 42.78200427,
+      "lon": 12.40692635,
+      "place": "Todi",
+      "period": [
+        1464,
+        1464
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Nicholas of Cusa"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "De docta ignorantia",
+      "title_zh": "有知識的無知",
+      "year": 1440,
+      "qid": "Q1180614",
+      "source": "wikidata"
+    },
+    {
+      "title": "De deo abscondito",
+      "title_zh": null,
+      "year": 1445,
+      "qid": "Q137706952",
+      "source": "wikidata"
+    },
+    {
+      "title": "De quaerendo deum",
+      "title_zh": null,
+      "year": 1445,
+      "qid": "Q137706953",
+      "source": "wikidata"
+    },
+    {
+      "title": "De filiatione dei",
+      "title_zh": null,
+      "year": 1445,
+      "qid": "Q137706954",
+      "source": "wikidata"
+    },
+    {
+      "title": "De transmutationibus geometricis",
+      "title_zh": null,
+      "year": 1445,
+      "qid": "Q137706955",
+      "source": "wikidata"
+    },
+    {
+      "title": "De dato patris luminum",
+      "title_zh": null,
+      "year": 1446,
+      "qid": "Q137706956",
+      "source": "wikidata"
+    },
+    {
+      "title": "De Genesi",
+      "title_zh": null,
+      "year": 1447,
+      "qid": "Q137706957",
+      "source": "wikidata"
+    },
+    {
+      "title": "Apologia doctae ignorantiae",
+      "title_zh": null,
+      "year": 1449,
+      "qid": "Q137706958",
+      "source": "wikidata"
+    },
+    {
+      "title": "Idiota de mente",
+      "title_zh": null,
+      "year": 1450,
+      "qid": "Q137706962",
+      "source": "wikidata"
+    },
+    {
+      "title": "De arithmeticis complementis",
+      "title_zh": null,
+      "year": 1450,
+      "qid": "Q137706964",
+      "source": "wikidata"
+    },
+    {
+      "title": "De pace fidei",
+      "title_zh": null,
+      "year": 1453,
+      "qid": "Q137706967",
+      "source": "wikidata"
+    },
+    {
+      "title": "De icona. De visione Dei",
+      "title_zh": null,
+      "year": 1453,
+      "qid": "Q137706969",
+      "source": "wikidata"
+    },
+    {
+      "title": "De mathematicis complementis",
+      "title_zh": null,
+      "year": 1454,
+      "qid": "Q137706971",
+      "source": "wikidata"
+    },
+    {
+      "title": "De caesarea circuli quadratura",
+      "title_zh": null,
+      "year": 1457,
+      "qid": "Q137706975",
+      "source": "wikidata"
+    },
+    {
+      "title": "De aequalitate",
+      "title_zh": null,
+      "year": 1459,
+      "qid": "Q137706977",
+      "source": "wikidata"
+    },
+    {
+      "title": "De principio",
+      "title_zh": null,
+      "year": 1459,
+      "qid": "Q137706978",
+      "source": "wikidata"
+    },
+    {
+      "title": "Trialogus de possest",
+      "title_zh": null,
+      "year": 1460,
+      "qid": "Q137706980",
+      "source": "wikidata"
+    },
+    {
+      "title": "Reformatio generalis",
+      "title_zh": null,
+      "year": 1460,
+      "qid": "Q137706981",
+      "source": "wikidata"
+    },
+    {
+      "title": "Cribratio Alkorani",
+      "title_zh": null,
+      "year": 1461,
+      "qid": "Q137706983",
+      "source": "wikidata"
+    },
+    {
+      "title": "Directio speculantis, seu De non aliud",
+      "title_zh": null,
+      "year": 1462,
+      "qid": "Q137706984",
+      "source": "wikidata"
+    },
+    {
+      "title": "De apice theoriae",
+      "title_zh": null,
+      "year": 1464,
+      "qid": "Q137706988",
+      "source": "wikidata"
+    },
+    {
+      "title": "De auctoritate praesidendi in concilio generali",
+      "title_zh": null,
+      "year": 1434,
+      "qid": "Q139395081",
+      "source": "wikidata"
+    },
+    {
+      "title": "De coniecturis",
+      "title_zh": null,
+      "year": 1442,
+      "qid": "Q139396462",
+      "source": "wikidata"
+    },
+    {
+      "title": "Dialogus concludens Amedistarum errorem",
+      "title_zh": null,
+      "year": 1441,
+      "qid": "Q139396593",
+      "source": "wikidata"
+    },
+    {
+      "title": "Conpendium",
+      "title_zh": null,
+      "year": 1463,
+      "qid": "Q139398656",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q139400346",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q139400346",
+      "source": "wikidata"
+    },
+    {
+      "title": "De venatione Dei",
+      "title_zh": null,
+      "year": 1462,
+      "qid": "Q139401434",
+      "source": "wikidata"
+    },
+    {
+      "title": "De concordantia catholica",
+      "title_zh": null,
+      "year": 1433,
+      "qid": "Q1180601",
+      "source": "wikidata"
+    },
+    {
+      "title": "De ludo globi",
+      "title_zh": null,
+      "year": 1463,
+      "qid": "Q5244595",
+      "source": "wikidata"
+    },
+    {
+      "title": "De beryllo",
+      "title_zh": null,
+      "year": 1458,
+      "qid": "Q131840818",
+      "source": "wikidata"
+    },
+    {
+      "title": "Reparatio calendarii",
+      "title_zh": null,
+      "year": 1436,
+      "qid": "Q137706949",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 83,
+  "birth_place": "Bernkastel-Kues",
+  "description": "德國哲學家（1401—1464）",
+  "bio": "尼各老·馮·庫斯主教（德語：Nicholaus von Kues；1401年—1464年）曾任天主教布里克森教區主教是文藝復興時期神聖羅馬帝國神學家，在德意志的庫斯出生。他寫有許多拉丁文論著，包括宗教和哲學著作。他最著名的論著《有知識的無知》（1440年）。該書論述了人類對上帝的理解。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher (1401 – 1464)",
+  "bio_en": "Nicholas of Cusa (1401 – 11 August 1464), also referred to as Nicholas of Kues and Nicolaus Cusanus (), was a German Catholic bishop and polymath active as a philosopher, theologian, jurist, mathematician, and astronomer. One of the first German proponents of Renaissance humanism, he made spiritual and political contributions to European culture. A notable example of this is his mystical or spiritual writings on \"learned ignorance\", as well as his participation in power struggles between Rome and the German states of the Holy Roman Empire.\nAs papal legate to Germany from 1446, he was appointed cardinal for his merits by Pope Nicholas V in 1448 and Prince-Bishop of Brixen two years later.",
+  "bio_en_source": "enwiki"
+}

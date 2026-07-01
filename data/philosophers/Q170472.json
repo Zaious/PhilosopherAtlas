@@ -1,0 +1,81 @@
+{
+  "id": "Q170472",
+  "qid": "Q170472",
+  "slug": "origen",
+  "name_zh": "俄利根",
+  "name_en": "Origen",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 184,
+  "death_year": 254,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 31.1975,
+      "lon": 29.8925,
+      "place": "Alexandria",
+      "period": [
+        184,
+        254
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 33.266666666,
+      "lon": 35.2,
+      "place": "Tyre",
+      "period": [
+        254,
+        254
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 32.5011,
+      "lon": 34.8923,
+      "place": "Caesarea Maritima",
+      "period": [
+        254,
+        254
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Origen of Alexandria"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 83,
+  "birth_place": "Alexandria",
+  "description": "Christian scholar, ascetic, and theologian (c. 185 – c. 253)",
+  "bio": "俄利根（古希臘語：Ὠριγένης Ōrigénēs，拉丁語：Origenes Adamantius，185年—254年）或譯奧利金、奧利振，生於亞歷山卓港，卒於該撒利亞，是基督教中希臘教父的代表人物之一，更是亞歷山太學派的重要代表人物之一，為神學家和哲學家。在神學上，他採用希臘哲學的概念，提出「永恆受生」的概念來解說聖父與聖子關係，對基督教影響至今。他的著作對基督教神學發展有很大的影響力，但是他的數項神學主張被在第二次君士坦丁堡公會議中被定為異端，因此天主教會與東正教會皆未將他列為聖人。",
+  "bio_source": "zhwiki",
+  "description_en": "Christian scholar, ascetic, and theologian (c. 185 – c. 253)",
+  "bio_en": "Origen of Alexandria (c. 185 – c. 253), also known as Origen Adamantius, was an early Christian scholar, ascetic, and theologian who was born and spent the first half of his career in Alexandria. He was a prolific writer who wrote roughly 2,000 treatises in multiple branches of theology, including textual criticism, biblical exegesis and hermeneutics, homiletics, and spirituality. He was one of the most influential and controversial figures in early Christian theology, apologetics, and asceticism.",
+  "bio_en_source": "enwiki"
+}

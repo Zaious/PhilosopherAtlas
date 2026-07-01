@@ -1,0 +1,105 @@
+{
+  "id": "Q2466384",
+  "qid": "Q2466384",
+  "slug": "lu-jiuyuan",
+  "name_zh": "陸九淵",
+  "name_en": "Lu Jiuyuan",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1139,
+  "death_year": 1193,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 27.9,
+      "lon": 116.75,
+      "place": "Jinxi County",
+      "period": [
+        1139,
+        1193
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Song Empire",
+          "start": 1100,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Lu Jiuyuan"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Lu Jiuyuan"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 20,
+  "birth_place": "Jinxi County",
+  "description": "南宋理學家 (1139-1192)",
+  "bio": "陸九淵（1139年—1193年），字子靜，江西撫州金溪（今江西省金谿縣）人。南宋哲學家，陸王心學的代表人物。因講學象山書院（位於今江西省貴溪市），世稱「象山先生」，學術界常稱其為「陸象山」。兄陸九韶、陸九齡，均儒學名家，兄弟合稱「三陸」。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese scholar (1139-1192)",
+  "bio_en": "Lu Jiuyuan (Chinese: 陸九淵; pinyin: Lù Jiǔyuān; 1139–1192), or Lu Xiangshan (陸象山; Lù Xiàngshān), was a Chinese philosopher and writer who founded the school of the universal mind, the second most influential Neo-Confucian school. He was a contemporary and the main rival of Zhu Xi.\nIn East Asia and the Western World, he is known by his honorific name rather than his private name.",
+  "bio_en_source": "enwiki"
+}

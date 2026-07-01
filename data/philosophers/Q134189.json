@@ -1,0 +1,143 @@
+{
+  "id": "Q134189",
+  "qid": "Q134189",
+  "slug": "plotinus",
+  "name_zh": "普羅提諾",
+  "name_en": "Plotinus",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 205,
+  "death_year": 270,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 27.186944444,
+      "lon": 31.171388888,
+      "place": "Asyut",
+      "period": [
+        205,
+        270
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 200,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Diocletianus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 700
+        },
+        {
+          "polity": "Umayyad Caliphate",
+          "start": 700,
+          "end": 800
+        },
+        {
+          "polity": "Abbasid Caliphate",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Fatimid Caliphate",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Mamluke Sultanate",
+          "start": 1279,
+          "end": 1530
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "Egypt",
+          "start": 1715,
+          "end": 1783
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Egypt",
+          "start": 1815,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 41.266666666,
+      "lon": 13.75,
+      "place": "Minturno",
+      "period": [
+        270,
+        270
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Plotinus"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Plotinus"
+    }
+  ],
+  "works": [
+    {
+      "title": "Enneads",
+      "title_zh": "九章集",
+      "year": null,
+      "qid": "Q1156747",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 101,
+  "birth_place": "Asyut",
+  "description": "Hellenistic Platonist philosopher and founder of Neoplatonism (c. 204/5–270)",
+  "bio": "普羅提諾（希臘語：Πλωτίνος ，英語：Plotinus ；205年-270年），又譯柏羅丁、普洛丁，是新柏拉圖學派哲學家，被譽為新柏拉圖主義之父。\n普羅提諾出生於埃及，青年時在亞歷山大港求學，並一直居住到39歲。他的老師是柏拉圖學派成員安莫尼烏斯·薩卡斯。\n大部分關於普羅提諾的記載都來自他的學生波菲利（公元232－304年）所編纂的普羅提諾的《六部九章集》的序言中。幾個世紀以來，他關於形上學的文章在不斷影響著天主教，猶太教，諾斯底教以及伊斯蘭的形上學哲學家與神秘主義學者，此外，他還創造了關於宗教的具有影響力的神學概念。\n普羅提諾主張有神論，同時主張神秘主義。他不是基督徒，但他的哲學對當時基督教的教父哲學產生了極大影響。",
+  "bio_source": "zhwiki",
+  "description_en": "Hellenistic Platonist philosopher and founder of Neoplatonism (c. 204/5–270)",
+  "bio_en": "Plotinus (; Ancient Greek: Πλωτῖνος, Plōtînos; c. 204/5 – 270 AD) was an ancient Greek philosopher, born and raised in Roman Egypt. He is widely regarded by modern scholars as the founder of Neoplatonism. \nPlotinus was a student of the self-taught philosopher Ammonius Saccas, who belonged to the Platonic tradition. Historians in the 19th century coined the term \"Neoplatonism\" to describe Plotinus and his philosophy. This philosophical tradition was vastly influential during late antiquity, the Middle Ages, and the Renaissance.\nIn his metaphysical writings, Plotinus described three fundamental principles: the One, the Intellect, and the Soul.",
+  "bio_en_source": "enwiki"
+}

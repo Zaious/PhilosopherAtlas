@@ -1,0 +1,212 @@
+{
+  "id": "Q9554",
+  "qid": "Q9554",
+  "slug": "martin-luther",
+  "name_zh": "馬丁·路德",
+  "name_en": "Martin Luther",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1483,
+  "death_year": 1546,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.516666666,
+      "lon": 11.55,
+      "place": "Eisleben",
+      "period": [
+        1483,
+        1546
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1400,
+          "end": 1783
+        },
+        {
+          "polity": "Saxony",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Prussia",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (Soviet)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "East Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 50.966111111,
+      "lon": 10.306388888,
+      "place": "Wartburg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.97484,
+      "lon": 11.03016615,
+      "place": "St. Augustine's Monastery",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.978055555,
+      "lon": 11.028888888,
+      "place": "Erfurt",
+      "period": [
+        1501,
+        1508
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.1315889,
+      "lon": 11.6399609,
+      "place": "Magdeburg",
+      "period": [
+        1497,
+        1498
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.8671,
+      "lon": 12.6484,
+      "place": "Lutherstadt Wittenberg",
+      "period": [
+        1508,
+        null
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.974722222,
+      "lon": 10.324444444,
+      "place": "Eisenach",
+      "period": [
+        1498,
+        1501
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.594166666,
+      "lon": 11.454722222,
+      "place": "Mansfeld",
+      "period": [
+        1484,
+        1497
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Luther, Martin"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Ninety-five Theses",
+      "title_zh": "九十五條論綱",
+      "year": 1517,
+      "qid": "Q157506",
+      "source": "wikidata"
+    },
+    {
+      "title": "Luther Bible",
+      "title_zh": "路德版聖經",
+      "year": 1534,
+      "qid": "Q1571095",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 257,
+  "birth_place": "Eisleben",
+  "description": "神學家",
+  "bio": "馬丁·路德 OSA（德語：Martin Luther，發音：[ˈmaʁtiːn ˈlʊtɐ] ，1483年11月10日—1546年2月18日），德意志神學家、哲學家，神聖羅馬帝國教會司鐸兼神學教授。其於十六世紀初發起德意志宗教改革，後來擴充套件為影響全歐洲的宗教改革，並促成新教的興起。路德強烈質疑贖罪券，反對聖座關於藉金錢換取上帝赦罪的教導。1517年，路德在威登堡諸聖堂門前貼出了《關於贖罪券效能的辯論》（即《九十五條論綱》），討論教會腐敗問題，並分別於1520年和1521年拒絕教宗良十世與神聖羅馬皇帝查理五世要求他撤回相關檔案的命令。這導致路德最終被聖座判處破門律，同時被神聖羅馬帝國定罪。\n路德指出，救恩是上帝的恩典，是祂白白給予人類的禮物。他認為救贖並不是透過善功，而是單單藉信靠耶穌基督作為救贖者而獲得的。路德的神學教導《聖經》是上帝啟示的唯一來源， 這無疑是挑戰教宗權威。他更指出天主教會強調的等級制度（即聖統制）明顯違反了《新約聖經》中「信徒皆祭司」的教義。接受路德神學思想的人普遍被稱為路德宗信徒。\n路德將拉丁語《聖經》翻譯成平民慣用的德意志方言，使之更淺白易明，此舉對教會和德國文化產生了巨大的影響。其《路德版聖經》也促進了現代標準德語的發展，為當時的翻譯學作出諸多貢獻，更影響了後來英語《詹姆士王聖經》的刊行。路德的詩歌著作亦影響了教會歌唱的發展。",
+  "bio_source": "zhwiki",
+  "description_en": "German priest and theologian (1483–1546)",
+  "bio_en": "Martin Luther ( LOO-thər; German: [ˈmaʁtiːn ˈlʊtɐ] ; 10 November 1483 – 18 February 1546) was a German priest, theologian, author, hymnwriter, professor, and former Augustinian friar. Luther was the seminal figure of the Protestant Reformation, and his theological beliefs form the basis of Lutheranism. He is considered one of the most influential figures in Western and Christian history.\nBorn in Eisleben, Luther was ordained to the priesthood in 1507. He came to reject various teachings and practices of the Roman Catholic Church, in particular the view on indulgences and papal authority.",
+  "bio_en_source": "enwiki"
+}

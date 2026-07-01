@@ -1,0 +1,171 @@
+{
+  "id": "Q184530",
+  "qid": "Q184530",
+  "slug": "gerolamo-cardano",
+  "name_zh": "吉羅拉莫·卡爾達諾",
+  "name_en": "Gerolamo Cardano",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1501,
+  "death_year": 1576,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 45.185280555,
+      "lon": 9.155,
+      "place": "Pavia",
+      "period": [
+        1501,
+        1576
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1500,
+          "end": 1530
+        },
+        {
+          "polity": "Milan",
+          "start": 1530,
+          "end": 1783
+        },
+        {
+          "polity": "Milano (Austria)",
+          "start": 1783,
+          "end": 1800
+        },
+        {
+          "polity": "Lombardy",
+          "start": 1800,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 41.893055555,
+      "lon": 12.482777777,
+      "place": "Rome",
+      "period": [
+        1576,
+        1576
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 45.466944444,
+      "lon": 9.19,
+      "place": "Milan",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 45.407777777,
+      "lon": 11.873333333,
+      "place": "Padua",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 44.493888888,
+      "lon": 11.342777777,
+      "place": "Bologna",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Cardano, Girolamo [Geronimo]"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Ars Magna",
+      "title_zh": "大術",
+      "year": 1545,
+      "qid": "Q1231083",
+      "source": "wikidata"
+    },
+    {
+      "title": "gimbal",
+      "title_zh": "平衡環架",
+      "year": null,
+      "qid": "Q1146104",
+      "source": "wikidata"
+    },
+    {
+      "title": "De subtilitate rerum",
+      "title_zh": null,
+      "year": 1559,
+      "qid": "Q3020494",
+      "source": "wikidata"
+    },
+    {
+      "title": "Hieronymi Cardani medici Mediolanensis Contradicentium medicorum liber primus [-secundus]",
+      "title_zh": null,
+      "year": 1548,
+      "qid": "Q51411101",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 80,
+  "birth_place": "Pavia",
+  "description": "義大利數學家、醫生、占星學家（1501－1576）",
+  "bio": "吉羅拉莫·卡丹諾（義大利語：Girolamo Cardano，義大利語發音：[dʒiˈrɔːlamo karˈdaːno]，1501年9月24日—1576年9月21日），義大利文藝復興時期百科全書式的學者，主要成就在數學、物理、醫學方面。",
+  "bio_source": "zhwiki",
+  "description_en": "Italian Renaissance mathematician, physician, astrologer (1501-1576)",
+  "bio_en": "Gerolamo Cardano (Italian: [dʒeˈrɔːlamo karˈdaːno]; also Girolamo or Geronimo; French: Jérôme Cardan; Latin: Hieronymus Cardanus; 24 September 1501– 21 September 1576) was an Italian polymath whose interests and proficiencies ranged through those of mathematician, physician, biologist, physicist, chemist, astrologer, astronomer, philosopher, music theorist, writer, and gambler. He became one of the most influential mathematicians of the Renaissance and one of the key figures in the foundation of probability; he introduced the binomial coefficients and the binomial theorem in the Western world.",
+  "bio_en_source": "enwiki"
+}

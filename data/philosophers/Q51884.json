@@ -1,0 +1,122 @@
+{
+  "id": "Q51884",
+  "qid": "Q51884",
+  "slug": "john-of-damascus",
+  "name_zh": "大馬士革的約翰",
+  "name_en": "John of Damascus",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 675,
+  "death_year": 749,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 33.513,
+      "lon": 36.292,
+      "place": "Damascus",
+      "period": [
+        675,
+        749
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 600,
+          "end": 700
+        },
+        {
+          "polity": "Umayyad Caliphate",
+          "start": 700,
+          "end": 800
+        },
+        {
+          "polity": "Abbasid Caliphate",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Fatimid Caliphate",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Mamluke Sultanate",
+          "start": 1279,
+          "end": 1530
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1530,
+          "end": 1920
+        },
+        {
+          "polity": "Syria (France)",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Syria",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 31.705,
+      "lon": 35.331,
+      "place": "Holy Lavra of Saint Sabbas",
+      "period": [
+        749,
+        749
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "John of Damascus"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Trojeručica",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1539066",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 80,
+  "birth_place": "Damascus",
+  "description": "Christian monk, priest, hymnographer and apologist (675/6-749)",
+  "bio": "大馬士革的聖若望（阿拉伯語：يوحنا الدمشقي，拉丁化：Yuḥannā Al Demashqi；希臘語：Ιωάννης Δαμασκήνος，拉丁化：Iôannês Damaskênos；拉丁語：Iohannes Damascenus，約676年—749年12月4日），天主教譯為聖若望·達瑪森（St. John Damascene），生於大馬士革的基督宗教神學家、詩人及聖樂家。",
+  "bio_source": "zhwiki",
+  "description_en": "Christian monk, priest, hymnographer and apologist (675/6-749)",
+  "bio_en": "John of Damascus or John Damascene, born Yūḥana ibn Manṣūr ibn Sarjūn, was a Christian monk, priest, hymnographer, and apologist. He was born and raised in Damascus c. AD 675 or AD 676; the precise date and place of his death is not known, though tradition places it at his monastery, Mar Saba, near Jerusalem, on 4 December AD 749. A polymath whose fields of interest and contribution included law, theology, philosophy, and music, he was given the by-name of Chrysorroas (Χρυσορρόας, literally \"streaming with gold\", i.e. \"the golden speaker\").",
+  "bio_en_source": "enwiki"
+}

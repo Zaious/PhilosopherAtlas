@@ -1,0 +1,142 @@
+{
+  "id": "Q38193",
+  "qid": "Q38193",
+  "slug": "arthur-schopenhauer",
+  "name_zh": "亞瑟·叔本華",
+  "name_en": "Arthur Schopenhauer",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1788,
+  "death_year": 1860,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 54.3482907,
+      "lon": 18.6540233,
+      "place": "Gdańsk",
+      "period": [
+        1788,
+        1860
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Kingdom of Poland (Royal Prussia)",
+          "end": 1793,
+          "start": 1454
+        },
+        {
+          "polity": "Kingdom of Prussia",
+          "end": 1871,
+          "start": 1793
+        },
+        {
+          "polity": "German Empire",
+          "end": 1918,
+          "start": 1871
+        },
+        {
+          "polity": "Free City of Danzig",
+          "end": 1939,
+          "start": 1920
+        },
+        {
+          "polity": "Nazi Germany",
+          "end": 1945,
+          "start": 1939
+        },
+        {
+          "polity": "Poland",
+          "end": null,
+          "start": 1945
+        }
+      ],
+      "polity_source": "curated"
+    },
+    {
+      "lat": 50.110555555,
+      "lon": 8.682222222,
+      "place": "Frankfurt",
+      "period": [
+        1860,
+        1860
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 53.55,
+      "lon": 10,
+      "place": "Hamburg",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Schopenhauer, Arthur"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Schopenhauer, Arthur"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Schopenhauer, Arthur"
+    }
+  ],
+  "works": [
+    {
+      "title": "Parerga and Paralipomena",
+      "title_zh": "附錄與補遺",
+      "year": 1851,
+      "qid": "Q929229",
+      "source": "wikidata"
+    },
+    {
+      "title": "The World as Will and Representation",
+      "title_zh": "作為意志和表象的世界",
+      "year": 1819,
+      "qid": "Q560352",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 173,
+  "birth_place": "Gdańsk",
+  "description": "德國哲學家",
+  "bio": "阿圖爾·叔本華（德語：Arthur Schopenhauer，發音：[ˈaʁtuːɐ̯ ˈʃoːpn̩haʊɐ] ；1788年2月22日—1860年9月21日），德國哲學家，唯意志論主義的開創者，其思想對近代的學術界、文化界影響極為深遠。不同於同時代的費希特、謝林、黑格爾，叔本華並無取消物自體，他繼承了康德對物自體和表象之間的區分，認為它是可以透過直觀而被認識的，並且將其確定為意志。叔本華認為，意志是獨立於時間和空間的，它同時亦包括所有的理性與知識，我們只能透過沉思來擺脫它。叔本華把他著名的悲觀主義哲學與此學說聯絡在一起，認為被意志所支配最終只會帶來虛無和痛苦。他對心靈屈從於器官、慾望和衝動的壓抑、扭曲的理解啟發了日後的精神分析學和心理學。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher (1788-1860)",
+  "bio_en": "Arthur Schopenhauer (22 February 1788 – 21 September 1860) was a German philosopher and writer. He is known for his 1818 work The World as Will and Representation (expanded in 1844), which characterizes the phenomenal world as the manifestation of a blind and irrational noumenal will. Building on the transcendental idealism of Immanuel Kant, Schopenhauer developed an atheistic metaphysical and ethical system that rejected the contemporaneous ideas of German idealism.\nSchopenhauer was among the first philosophers in the Western tradition to share and affirm significant tenets of Indian philosophy, such as asceticism, denial of the self, and the notion of the world-as-appearance.",
+  "bio_en_source": "enwiki"
+}

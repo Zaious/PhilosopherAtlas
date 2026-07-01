@@ -1,0 +1,73 @@
+{
+  "id": "Q171303",
+  "qid": "Q171303",
+  "slug": "zeno-of-citium",
+  "name_zh": "季蒂昂的芝諾",
+  "name_en": "Zeno of Citium",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -333,
+  "death_year": -262,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 34.929597,
+      "lon": 33.629471,
+      "place": "Kition",
+      "period": [
+        -333,
+        -262
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 600,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 37.984166666,
+      "lon": 23.728055555,
+      "place": "Athens",
+      "period": [
+        -262,
+        -262
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Zeno of Citium"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 91,
+  "birth_place": "Kition",
+  "description": "古希臘哲學家，斯多葛派創始人",
+  "bio": "季蒂昂的芝諾（Ζήνων ὁ Κιτιεύς；Zeno of Citium；約前334年—約前262年）是希臘化時代哲學家，斯多噶學派的創始人。他生於賽普勒斯的季蒂昂，後長期定居並講學於雅典，約在公元前301年起於雅典集市的彩繪柱廊（Stoa Poikile）授徒，學派因講學地點得名「斯多噶」。",
+  "bio_source": "zhwiki",
+  "description_en": "Greek philosopher, founder of Stoicism",
+  "bio_en": "Zeno of Citium (; Koine Greek: Ζήνων ὁ Κιτιεύς, Zēnōn ho Kitieus; c. 334 – c. 262 BC) was a Hellenistic philosopher   from Citium (Κίτιον, Kition), Cyprus. \nHe was the founder of the Stoic school of philosophy, which he taught in Athens from about 300 BC.\nBased on the moral ideas of the Cynics, Stoicism laid great emphasis on goodness and peace of mind gained from living a life of virtue in accordance with nature. It proved very popular, and flourished as one of the major schools of philosophy from the Hellenistic period through to the Roman era, and enjoyed revivals in the Renaissance as Neostoicism and in the current era as Modern Stoicism.",
+  "bio_en_source": "enwiki"
+}

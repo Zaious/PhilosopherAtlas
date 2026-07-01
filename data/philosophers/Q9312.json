@@ -1,0 +1,169 @@
+{
+  "id": "Q9312",
+  "qid": "Q9312",
+  "slug": "immanuel-kant",
+  "name_zh": "伊曼努爾·康德",
+  "name_en": "Immanuel Kant",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1724,
+  "death_year": 1804,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 54.711472222,
+      "lon": 20.509305555,
+      "place": "Königsberg",
+      "period": [
+        1724,
+        1804
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Monastic State of the Teutonic Knights",
+          "end": 1525,
+          "start": 1255
+        },
+        {
+          "polity": "Duchy of Prussia",
+          "end": 1701,
+          "start": 1525
+        },
+        {
+          "polity": "Kingdom of Prussia",
+          "end": 1871,
+          "start": 1701
+        },
+        {
+          "polity": "German Empire",
+          "end": 1918,
+          "start": 1871
+        },
+        {
+          "polity": "Weimar Republic",
+          "end": 1933,
+          "start": 1918
+        },
+        {
+          "polity": "Nazi Germany",
+          "end": 1945,
+          "start": 1933
+        },
+        {
+          "polity": "Soviet Union",
+          "end": 1991,
+          "start": 1945
+        },
+        {
+          "polity": "Russian Federation",
+          "end": null,
+          "start": 1991
+        }
+      ],
+      "polity_source": "curated"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Kant, Immanuel"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Kant, Immanuel"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Kant, Immanuel"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Metaphysics of Morals",
+      "title_zh": "道德形而上學",
+      "year": 1797,
+      "qid": "Q1214817",
+      "source": "wikidata"
+    },
+    {
+      "title": "Religion within the Bounds of Bare Reason",
+      "title_zh": "單純理性限度內的宗教",
+      "year": 1793,
+      "qid": "Q1215763",
+      "source": "wikidata"
+    },
+    {
+      "title": "Answering the Question: What Is Enlightenment?",
+      "title_zh": "回答這個問題：什麼是啓蒙？",
+      "year": 1784,
+      "qid": "Q812981",
+      "source": "wikidata"
+    },
+    {
+      "title": "Critique of Practical Reason",
+      "title_zh": "實踐理性批判",
+      "year": 1788,
+      "qid": "Q870851",
+      "source": "wikidata"
+    },
+    {
+      "title": "Groundwork of the Metaphysic of Morals",
+      "title_zh": "道德形上學探本",
+      "year": null,
+      "qid": "Q1550565",
+      "source": "wikidata"
+    },
+    {
+      "title": "Critique of Pure Reason",
+      "title_zh": "純粹理性批判",
+      "year": 1781,
+      "qid": "Q220002",
+      "source": "wikidata"
+    },
+    {
+      "title": "Prolegomena to Any Future Metaphysics",
+      "title_zh": "任何一種能夠作為科學出現的未來形而上學導論",
+      "year": 1783,
+      "qid": "Q1761342",
+      "source": "wikidata"
+    },
+    {
+      "title": "Critique of Judgment",
+      "title_zh": "判斷力批判",
+      "year": 1790,
+      "qid": "Q1056332",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 251,
+  "birth_place": "Königsberg",
+  "description": "德國哲學家（1724—1804）",
+  "bio": "伊曼努爾·康德（德語：Immanuel Kant；1724年4月22日—1804年2月12日），啟蒙時代德意志哲學家，德國古典哲學創始人，其學說深深影響近代西方哲學，並開啟了德國唯心主義和康德義務主義等諸多流派。 並且影響後世，誕生了新康德主義。康德是啟蒙運動時期最後一位主要哲學家，是德國思想界的代表人物。他調和了勒內·笛卡兒的理性主義與法蘭西斯·培根的經驗主義，被認為是繼蘇格拉底、柏拉圖和亞里斯多德後，西方最具影響力的思想家之一。\n康德有其自成一派的思想系統，其中核心的三大著作被合稱為「三大批判」，即《純粹理性批判》、《實踐理性批判》和《判斷力批判》，這三部作品有系統地分別闡述他的知識學、倫理學和美學思想。《純粹理性批判》尤其得到學術界重視，標誌著哲學研究的主要方向由本體論轉向認識論，是西方哲學史上劃時代的鉅著。此外，康德在宗教哲學、法律哲學和歷史哲學方面也有重要論著。康德哲學理論的一個基本出發點是，認為將感性直觀（經驗）轉化為知識的能力——純粹知性概念（即「範疇」），以及將知識外的理念（如上帝，靈魂不朽，自由意志）加以實踐的能力——純粹理性概念，都是理性的功能，是人與生俱來的，沒有它們我們就無法理解世界。\n他的認識論與倫理學分別是論證知識和道德的，他批判和吸收了英國經驗主義（休謨、貝克萊）與歐陸的理性主義（主要是沃爾夫-萊布尼茲的理性傳統），對德國唯心主義（費希特和黑格爾）與浪漫主義影響深遠。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher (1724-1804)",
+  "bio_en": "Immanuel Kant (born Emanuel Kant; 22 April 1724 – 12 February 1804) was a German philosopher. Born in Königsberg in the Kingdom of Prussia, he is considered one of the central thinkers of the Enlightenment. His comprehensive and systematic works in epistemology, metaphysics, logic, ethics, aesthetics, political theory, and the philosophy of religion have made him one of the most influential and highly discussed figures in modern Western philosophy.\nKant's philosophy is centered on the human subject and motivated by the desire to secure the possibility of both knowledge and morality against the threats of skepticism and determinism.",
+  "bio_en_source": "enwiki"
+}

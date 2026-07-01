@@ -1,0 +1,83 @@
+{
+  "id": "Q360135",
+  "qid": "Q360135",
+  "slug": "kang-youwei",
+  "name_zh": "康有為",
+  "name_en": "Kang Youwei",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1858,
+  "death_year": 1927,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 23.03139,
+      "lon": 113.13732,
+      "place": "Nanhai District",
+      "period": [
+        1858,
+        1927
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 36.116666666,
+      "lon": 120.4,
+      "place": "Qingdao",
+      "period": [
+        1927,
+        1927
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Kang Youwei"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 48,
+  "birth_place": "Nanhai District",
+  "description": "中國學者、政治家",
+  "bio": "康有為（1858年3月19日—1927年3月31日），原名祖詒，字廣廈，號長素，又號明夷、更生、西樵山人、遊存叟、天遊化人，廣東省廣州府南海縣丹灶蘇村人，人稱康南海，清末維新變法派主要發起者，光緒廿一年（1895年）進士，曾與弟子梁啟超合作戊戌變法。變法失敗後，被慈禧太后通緝而出逃。1912年宣統退位後，康有為繼續反對共和，1917年曾與張勛合作，發動兵變，擁立宣統帝，是為丁巳復闢，但四日之內就被段祺瑞討平。國共合作和聯俄容共開展後，康有為積極聯絡北洋軍人吳佩孚等反對孫文、馮玉祥。1927年，康在青島逝世。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese politician and scholar (1858-1927)",
+  "bio_en": "Kang Youwei (19 March 1858 – 31 March 1927) was a Chinese political thinker and reformer in the late Qing dynasty. His increasing closeness to and influence over the young Guangxu Emperor sparked conflict between the emperor and his adoptive mother, the regent Empress Dowager Cixi.  His ideas were influential in the abortive Hundred Days' Reform. Following the coup by Cixi that ended the reform, Kang was forced to flee. He continued to advocate for a Chinese constitutional monarchy after the founding of the Republic of China.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "Q77194",
+  "qid": "Q77194",
+  "slug": "francis-herbert-bradley",
+  "name_zh": null,
+  "name_en": "Francis Herbert Bradley",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.23602,
+      "lon": 14.20471,
+      "place": "Kuckau",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Proto-Slavs",
+          "start": 700,
+          "end": 800
+        },
+        {
+          "polity": "Slavonic tribes",
+          "start": 800,
+          "end": 900
+        },
+        {
+          "polity": "Slavic tribes",
+          "start": 900,
+          "end": 1000
+        },
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1000,
+          "end": 1783
+        },
+        {
+          "polity": "Saxony",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (Soviet)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "East Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.233541,
+      "lon": 14.197327,
+      "place": "Panschwitz",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bradley, Francis Herbert"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bradley, F.H."
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Kuckau",
+  "description": "Sorbian-language writer",
+  "bio": null,
+  "bio_source": null,
+  "description_en": "Sorbian-language writer",
+  "bio_en": "Jakub Bart-Ćišinski (Polish: [ˈjakub ˈbart t͡ɕiˈɕij̃ski] ; 20 August 1856 in Kuckau – 16 October 1909 in Panschwitz), also known as Łužičan, Jakub Bart Kukowski, was a Sorbian poet, writer and playwright, translator of Czech, Polish, Italian and German literature. He produced his works in Upper Sorbian. He is also an inventor of modern Upper Sorbian poetic language. He has been described as \"the classical writer of Sorbian literature.\"\nAs a Sorbian writer, he felt that writing the Sorbian language and using it for literature and for education would be important for preserving the vitality and distinctiveness of Sorbian culture.",
+  "bio_en_source": "enwiki"
+}

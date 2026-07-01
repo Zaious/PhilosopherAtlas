@@ -1,0 +1,136 @@
+{
+  "id": "Q459865",
+  "qid": "Q459865",
+  "slug": "wang-bi",
+  "name_zh": "王弼",
+  "name_en": "Wang Bi",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 226,
+  "death_year": 249,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 35.383333333,
+      "lon": 116.083333333,
+      "place": "Juye County",
+      "period": [
+        226,
+        249
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 200,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Toba Wei",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wang Bi"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wang Bi"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wang Bi [Wang Pi]"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 4,
+  "sitelinks": 24,
+  "birth_place": "Juye County",
+  "description": "三國時代曹魏經學家、易學家",
+  "bio": "王弼（226年—249年），字輔嗣，山陽郡高平縣（今山東省濟寧市微山縣西北）人，三國時代曹魏經學家、易學家，魏晉玄學的主要代表人物之一。\n父親是王業，兄長是王宏。祖父王凱是王粲的族兄，祖母是劉表之女（《博物記》）。\n為《道德經》和《易經》撰寫註解，對後世影響甚大。由於漢代、三國《道德經》的注釋本大多失傳，王弼的《道德經注》成了本書流傳至今的最早注釋本。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese philosopher and author",
+  "bio_en": "Wang Bi (Chinese: 王弼; 226–249), courtesy name Fusi (Chinese: 輔嗣), was a Chinese philosopher and politician. During his brief career, he produced commentaries on the Tao Te Ching and I Ching which were highly influential in Chinese philosophy.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,170 @@
+{
+  "id": "Q57188",
+  "qid": "Q57188",
+  "slug": "ernst-cassirer",
+  "name_zh": "恩斯特·卡西爾",
+  "name_en": "Ernst Cassirer",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.11,
+      "lon": 17.0325,
+      "place": "Breslau",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Kingdom of Bohemia",
+          "end": 1526,
+          "start": 1335
+        },
+        {
+          "polity": "Habsburg Monarchy",
+          "end": 1742,
+          "start": 1526
+        },
+        {
+          "polity": "Kingdom of Prussia",
+          "end": 1871,
+          "start": 1742
+        },
+        {
+          "polity": "German Empire",
+          "end": 1918,
+          "start": 1871
+        },
+        {
+          "polity": "Weimar Republic",
+          "end": 1933,
+          "start": 1918
+        },
+        {
+          "polity": "Nazi Germany",
+          "end": 1945,
+          "start": 1933
+        },
+        {
+          "polity": "Poland",
+          "end": null,
+          "start": 1945
+        }
+      ],
+      "polity_source": "curated"
+    },
+    {
+      "lat": 40.712777777,
+      "lon": -74.006111111,
+      "place": "New York City",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.516666666,
+      "lon": 13.383333333,
+      "place": "Berlin",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 53.55,
+      "lon": 10,
+      "place": "Hamburg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.816666666,
+      "lon": 8.766666666,
+      "place": "Marburg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 59.849760548,
+      "lon": 17.638946597,
+      "place": "Uppsala",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 57.7075,
+      "lon": 11.9675,
+      "place": "Gothenburg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.751944444,
+      "lon": -1.257777777,
+      "place": "Oxford",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Cassirer, Ernst"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Cassirer, Ernst"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Breslau",
+  "description": "德國哲學家",
+  "bio": "恩斯特·卡西勒（義大利語：Ernst Alfred Cassirer，1874年7月28日—1945年4月13日），德國哲學家，生於西里西亞佈雷斯勞（今波蘭弗羅茨瓦夫），於1939年成為瑞典公民，死於美國紐約。受學於馬爾堡的新康德主義傳統，卡西爾發展出一套獨特的文化哲學。\n《符號形式的哲學》是卡西爾在文化哲學方面的重要著作。此外，他亦撰寫了一系列關於認識論、科學論、哲學史的著作。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher (1874–1945)",
+  "bio_en": "Ernst Alfred Cassirer ( kah-SEER-ər, kə-; German: [ˈɛʁnst kaˈsiːʁɐ]; July 28, 1874 – April 13, 1945) was a German philosopher and historian of philosophy. Trained within the Marburg school of neo-Kantianism, he initially followed his mentor Hermann Cohen in attempting to supply an idealistic philosophy of science.\nAfter Cohen's death in 1918, Cassirer developed a theory of symbolism and used it to expand the \"logic and psychology of thought\" into a more general \"logic of the cultural sciences\". Cassirer was one of the leading 20th-century advocates of philosophical idealism.",
+  "bio_en_source": "enwiki"
+}

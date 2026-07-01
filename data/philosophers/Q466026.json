@@ -1,0 +1,68 @@
+{
+  "id": "Q466026",
+  "qid": "Q466026",
+  "slug": "susanne-langer",
+  "name_zh": "蘇珊·朗格",
+  "name_en": "Susanne Langer",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 40.728333,
+      "lon": -73.994167,
+      "place": "Manhattan",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 41.317222222,
+      "lon": -72.303055555,
+      "place": "Old Lyme",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Langer, Susanne"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Langer, Susanne K."
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Manhattan",
+  "description": "American philosopher (1895–1985)",
+  "bio": null,
+  "bio_source": null,
+  "description_en": "American philosopher (1895–1985)",
+  "bio_en": "Susanne Katherina Langer (; née Knauth; December 20, 1895 – July 17, 1985) was an American philosopher, writer, and educator known for her theories on the influences of art on the mind. She was one of the earliest American women to achieve an academic career in philosophy. Langer is best remembered for her 1942 book Philosophy in a New Key, which was followed by a sequel, Feeling and Form: A Theory of Art, in 1953. In 1960, Langer was elected a Fellow of the American Academy of Arts and Sciences.",
+  "bio_en_source": "enwiki"
+}

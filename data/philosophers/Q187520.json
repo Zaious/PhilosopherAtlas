@@ -1,0 +1,123 @@
+{
+  "id": "Q187520",
+  "qid": "Q187520",
+  "slug": "charles-sanders-peirce",
+  "name_zh": "查爾斯·桑德斯·皮爾士",
+  "name_en": "Charles Sanders Peirce",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1839,
+  "death_year": 1914,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 42.375,
+      "lon": -71.106111111,
+      "place": "Cambridge",
+      "period": [
+        1839,
+        1914
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United States",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "United States of America",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "United States",
+          "start": 1914,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 41.324166666,
+      "lon": -74.802777777,
+      "place": "Milford",
+      "period": [
+        1914,
+        1914
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 41.3414,
+      "lon": -74.7659,
+      "place": "Arisbe",
+      "period": [
+        1887,
+        1914
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Peirce, Charles Sanders"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Peirce, Charles Sanders"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Peirce, Charles Sanders"
+    }
+  ],
+  "works": [
+    {
+      "title": "Photometric Researches",
+      "title_zh": null,
+      "year": 1878,
+      "qid": "Q42194240",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 79,
+  "birth_place": "Cambridge",
+  "description": "美國哲學家，邏輯學家，數學家和科學家",
+  "bio": "查爾斯·桑德斯·皮爾士（英語：Charles Sanders Peirce，/pɜːrs/ PURSS；1839年9月10日—1914年4月19日），中文常譯為皮爾斯或帕爾斯，是美國哲學家、邏輯學家與數學家，被譽為「實用主義之父」。伯特蘭·羅素曾稱其為：「十九世紀後期最有獨創性的思想家之一，當然也是有史以來最偉大的美國思想家。」",
+  "bio_source": "zhwiki",
+  "description_en": "American philosopher, logician, mathematician, and scientist (1839-1914)",
+  "bio_en": "Charles Sanders Peirce ( PURSS; September 10, 1839 – April 19, 1914) was an American scientist, mathematician, logician, and philosopher who is sometimes known as \"the father of pragmatism\". According to philosopher Paul Weiss, writing in 1934, Peirce was \"the most original and versatile of America's philosophers and America's greatest logician\". Bertrand Russell wrote in 1959, \"he was one of the most original minds of the later nineteenth century and certainly the greatest American thinker ever\". \nEducated as a chemist and employed as a scientist for thirty years, Peirce made major contributions to logic, such as theories of relations and quantification. C. I.",
+  "bio_en_source": "enwiki"
+}

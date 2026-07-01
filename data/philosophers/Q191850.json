@@ -1,0 +1,114 @@
+{
+  "id": "Q191850",
+  "qid": "Q191850",
+  "slug": "tommaso-campanella",
+  "name_zh": "托馬索·康帕內拉",
+  "name_en": "Tommaso Campanella",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1568,
+  "death_year": 1639,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 38.483333333,
+      "lon": 16.466666666,
+      "place": "Stilo",
+      "period": [
+        1568,
+        1639
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Naples",
+          "start": 1530,
+          "end": 1783
+        },
+        {
+          "polity": "Kingdom of the Two Sicilies",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        1639,
+        1639
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Campanella, Tommaso"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "The City of the Sun",
+      "title_zh": "太陽城 (著作)",
+      "year": 1623,
+      "qid": "Q913656",
+      "source": "wikidata"
+    },
+    {
+      "title": "Poesie",
+      "title_zh": null,
+      "year": 1622,
+      "qid": "Q113148434",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 77,
+  "birth_place": "Stilo",
+  "description": "Italian philosopher, theologian, astrologer, and poet (1568-1639)",
+  "bio": "託馬索·康帕內拉（義大利語：Tommaso Campanella，1568年9月5日—1639年5月21日），原名喬瓦尼·多米尼克·康帕內拉（Giovanni Domenico Campanella），義大利哲學家、神學家、占星學家和詩人。康帕內拉的宗教思想較為激進，曾多次被捕，前後在獄中度過近三十年。最著名的著作是《太陽城》，他在這本書中借航海家與招待所管理員的對話，描繪了一個完全廢除私有制的社會，啟發了後來烏託邦社會主義的眾多理論與實踐。",
+  "bio_source": "zhwiki",
+  "description_en": "Italian philosopher, theologian, astrologer, and poet (1568-1639)",
+  "bio_en": "Tommaso Campanella (Italian: [tomˈmaːzo kampaˈnɛlla]; 5 September 1568 – 21 May 1639), baptized Giovanni Domenico Campanella, was an Italian Dominican friar, philosopher, theologian, astrologer, and poet.\nCampanella was prosecuted by the Roman Inquisition for heresy in 1594 and was confined to house arrest for two years. Accused of conspiring against the Spanish rulers of Calabria in 1599, he was tortured and sent to prison, where he spent 27 years. He wrote his most significant works during this time, including The City of the Sun, a utopia describing an egalitarian theocratic society where property is held in common.",
+  "bio_en_source": "enwiki"
+}

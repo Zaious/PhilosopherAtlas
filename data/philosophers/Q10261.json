@@ -1,0 +1,120 @@
+{
+  "id": "Q10261",
+  "qid": "Q10261",
+  "slug": "pythagoras",
+  "name_zh": "畢達哥拉斯",
+  "name_en": "Pythagoras",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -582,
+  "death_year": -490,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.689444,
+      "lon": 26.943056,
+      "place": "Samos",
+      "period": [
+        -582,
+        -490
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 40.383126,
+      "lon": 16.822782,
+      "place": "Metapontum",
+      "period": [
+        -490,
+        -490
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 40.416077777,
+      "lon": 16.816763888,
+      "place": "Metapontum",
+      "period": [
+        -490,
+        -490
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 39.083333333,
+      "lon": 17.116666666,
+      "place": "Crotone",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Pythagoras"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Platonic solid",
+      "title_zh": "正凸多面體",
+      "year": null,
+      "qid": "Q188745",
+      "source": "wikidata"
+    },
+    {
+      "title": "Pythagorean triple",
+      "title_zh": "勾股數",
+      "year": null,
+      "qid": "Q208225",
+      "source": "wikidata"
+    },
+    {
+      "title": "Pythagorean theorem",
+      "title_zh": "勾股定理",
+      "year": null,
+      "qid": "Q11518",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 207,
+  "birth_place": "Samos",
+  "description": "古希臘哲學家、數學家",
+  "bio": "畢達哥拉斯（希臘語：Πυθαγόρας，前570年—前495年）是一名古希臘哲學家、數學家和音樂理論家，畢達哥拉斯主義的創立者。\n畢達哥拉斯認為數學可以解釋世界上的一切事物，對數字痴迷到幾近崇拜；同時認為一切真理都可以用比例、平方及直角三角形去反映和證實：譬如主張平方數「100」意味「公正」。畢達哥拉斯主義是指他與其追隨者所持的秘教和形上學的思想學說，他們都深受數學所影響，如數秘術的生命靈數、彩虹數字學、生命藍圖數字學。",
+  "bio_source": "zhwiki",
+  "description_en": "Greek philosopher and mathematician (c. 570 – c. 495 BC)",
+  "bio_en": "Pythagoras of Samos (Ancient Greek: Πυθαγόρας; c. 570 – c. 495 BC) was an ancient Ionian Greek philosopher, polymath, and the eponymous founder of Pythagoreanism. His political and religious teachings were well known in Magna Graecia and influenced the philosophies of Plato, Aristotle, and, through them, Western philosophy. Modern scholars disagree regarding Pythagoras's education and influences, but most agree that he travelled to Croton in southern Italy around 530 BC, where he founded a school in which initiates were allegedly sworn to secrecy and lived a communal, ascetic lifestyle.\nIn antiquity, Pythagoras was credited with mathematical and scientific discoveries, su…",
+  "bio_en_source": "enwiki"
+}

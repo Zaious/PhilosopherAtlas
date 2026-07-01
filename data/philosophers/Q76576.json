@@ -1,0 +1,117 @@
+{
+  "id": "Q76576",
+  "qid": "Q76576",
+  "slug": "friedrich-schleiermacher",
+  "name_zh": "弗里德里希·施萊爾馬赫",
+  "name_en": "Friedrich Schleiermacher",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1768,
+  "death_year": 1834,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.11,
+      "lon": 17.0325,
+      "place": "Wrocław",
+      "period": [
+        1768,
+        1834
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Kingdom of Bohemia",
+          "end": 1526,
+          "start": 1335
+        },
+        {
+          "polity": "Habsburg Monarchy",
+          "end": 1742,
+          "start": 1526
+        },
+        {
+          "polity": "Kingdom of Prussia",
+          "end": 1871,
+          "start": 1742
+        },
+        {
+          "polity": "German Empire",
+          "end": 1918,
+          "start": 1871
+        },
+        {
+          "polity": "Weimar Republic",
+          "end": 1933,
+          "start": 1918
+        },
+        {
+          "polity": "Nazi Germany",
+          "end": 1945,
+          "start": 1933
+        },
+        {
+          "polity": "Poland",
+          "end": null,
+          "start": 1945
+        }
+      ],
+      "polity_source": "curated"
+    },
+    {
+      "lat": 52.516666666,
+      "lon": 13.383333333,
+      "place": "Berlin",
+      "period": [
+        1834,
+        1834
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Schleiermacher, Friedrich"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Christian Faith",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q29187833",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 66,
+  "birth_place": "Wrocław",
+  "description": "德國神學家、哲學家、聖經學家",
+  "bio": "弗里德里希·丹尼爾·恩斯特·史萊馬赫（又譯為士來馬赫，德語：Friedrich Daniel Ernst Schleiermacher；1768年11月21日—1834年2月12日），德國19世紀神學家及哲學家，被稱為現代神學、現代詮釋之父，主張神的臨在性，也就是強調宗教「感覺」。",
+  "bio_source": "zhwiki",
+  "description_en": "German theologian, philosopher, and biblical scholar (1768-1834)",
+  "bio_en": "Friedrich Daniel Ernst Schleiermacher (; German: [ˈfʁiːdʁɪç ˈʃlaɪɐˌmaxɐ]; 21 November 1768 – 12 February 1834) was a German Reformed theologian, pastor, philosopher, and biblical scholar known for his attempt to reconcile the criticisms of the Enlightenment with traditional Protestant Christianity. He also became influential in the evolution of higher criticism, and his work forms part of the foundation of the modern field of hermeneutics.  Because of his profound effect on subsequent Christian thought, he is often called the \"Father of Modern Liberal Theology\" and is considered an early leader in liberal Christianity.",
+  "bio_en_source": "enwiki"
+}

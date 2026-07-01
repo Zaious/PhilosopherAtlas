@@ -1,0 +1,115 @@
+{
+  "id": "Q192374",
+  "qid": "Q192374",
+  "slug": "marsilio-ficino",
+  "name_zh": "馬爾西利奧·費奇諾",
+  "name_en": "Marsilio Ficino",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1433,
+  "death_year": 1499,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 43.616666666,
+      "lon": 11.466666666,
+      "place": "Figline Valdarno",
+      "period": [
+        1433,
+        1499
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1400,
+          "end": 1530
+        },
+        {
+          "polity": "Florence",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Tuscany",
+          "start": 1650,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 43.807917,
+      "lon": 11.250282,
+      "place": "Villa Medici at Careggi",
+      "period": [
+        1499,
+        1499
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 43.771388888,
+      "lon": 11.254166666,
+      "place": "Florence",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Ficino, Marsilio"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Ficino, Marsilio"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 72,
+  "birth_place": "Figline Valdarno",
+  "description": "Italian philosopher and Catholic priest (1433–1499)",
+  "bio": "馬爾西利奧·費奇諾（英語：Marsilio Ficino，1433年—1499年），文藝復興時期歐洲學者。他主要在他人的資助下，從事講學和寫作。文藝復興時期佛羅倫斯的新柏拉圖主義的捍衛者。他的柏拉圖和其他希臘作家的著作的拉丁語翻譯為文藝復興人文主義學術確立了卓越的標準。",
+  "bio_source": "zhwiki",
+  "description_en": "Italian philosopher and Catholic priest (1433–1499)",
+  "bio_en": "Marsilio Ficino (Italian: [marˈsiːljo fiˈtʃiːno]; Latin name: Marsilius Ficinus; 19 October 1433 – 1 October 1499) was an Italian scholar and Catholic priest who was one of the most influential humanist philosophers of the early Italian Renaissance. He was an astrologer, a reviver of Neoplatonism in touch with the major academics of his day, and the first translator of Plato's complete extant works into Latin. His Florentine Academy, an attempt to revive Plato's Academy, influenced the direction and tenor of the Italian Renaissance and the development of European philosophy.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,186 @@
+{
+  "id": "Q2054",
+  "qid": "Q2054",
+  "slug": "seneca",
+  "name_zh": "塞內卡",
+  "name_en": "Seneca",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -4,
+  "death_year": 65,
+  "date_certainty": "approximate",
+  "active_regions": [
+    {
+      "lat": 37.884762,
+      "lon": -4.776386,
+      "place": "Corduba",
+      "period": [
+        -4,
+        65
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Maximian)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Visigoths",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Visigothic Kingdom",
+          "start": 600,
+          "end": 700
+        },
+        {
+          "polity": "Umayyad Caliphate",
+          "start": 700,
+          "end": 800
+        },
+        {
+          "polity": "Emirate of Córdoba",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Caliphate of Córdoba",
+          "start": 1000,
+          "end": 1100
+        },
+        {
+          "polity": "Almoravid dynasty",
+          "start": 1100,
+          "end": 1200
+        },
+        {
+          "polity": "Almohad Caliphate",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "Castile",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Castille",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Spain",
+          "start": 1530,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 41.893055555,
+      "lon": 12.482777777,
+      "place": "Rome",
+      "period": [
+        65,
+        65
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 42.15,
+      "lon": 9.083333333,
+      "place": "Corsica",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Seneca, Lucius Annaeus"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Epistulae morales ad Lucilium",
+      "title_zh": "道德書簡",
+      "year": null,
+      "qid": "Q720535",
+      "source": "wikidata"
+    },
+    {
+      "title": "Medea",
+      "title_zh": "美狄亞",
+      "year": null,
+      "qid": "Q3332727",
+      "source": "wikidata"
+    },
+    {
+      "title": "De Brevitate Vitae",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1180596",
+      "source": "wikidata"
+    },
+    {
+      "title": "De Vita Beata",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1180753",
+      "source": "wikidata"
+    },
+    {
+      "title": "De ira",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q3704115",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 157,
+  "birth_place": "Corduba",
+  "description": "古羅馬哲學家、政治家、劇作家",
+  "bio": "小盧修斯·阿內烏斯·塞內卡（拉丁語：Lucius Annaeus Seneca minor，前4年—65年），通稱塞內卡或小塞內卡，又譯塞內加。老塞內卡之子，生於哥多華，古羅馬斯多葛主義哲學家、劇作家、政治家。成長於羅馬。曾任尼祿皇帝的導師及顧問，但被指控參與皮索尼安陰謀，65年被賜死。",
+  "bio_source": "zhwiki",
+  "description_en": "Roman Stoic philosopher, statesman and dramatist (c. 4 BCE–65 CE)",
+  "bio_en": "Lucius Annaeus Seneca the Younger ( SEN-ik-ə; c. 4 BC – AD 65), usually known mononymously as Seneca, was a Stoic philosopher of Ancient Rome, a statesman, a dramatist, and in one work, a satirist, from the post-Augustan age of Latin literature.\nSeneca was born in Colonia Patricia Corduba in Hispania, and was trained in rhetoric and philosophy in Greece. His father was Seneca the Elder, his elder brother was Lucius Junius Gallio Annaeanus, and his nephew was the poet Lucan. In AD 41, Seneca was exiled to the island of Corsica under emperor Claudius, but was allowed to return in 49 to become a tutor to Nero.",
+  "bio_en_source": "enwiki"
+}

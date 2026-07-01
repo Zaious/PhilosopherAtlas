@@ -1,0 +1,125 @@
+{
+  "id": "Q1147782",
+  "qid": "Q1147782",
+  "slug": "xiang-xiu",
+  "name_zh": "向秀",
+  "name_en": "Xiang Xiu",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 35.089,
+      "lon": 112.95,
+      "place": null,
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Toba Wei",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Xiang Xiu"
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Xiang Xiu"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": null,
+  "description": "竹林七賢之一",
+  "bio": "向秀（227年—272年），字子期，河內懷縣（今河南武陟西南）人，魏晉玄學家、作家，竹林七賢之一。",
+  "bio_source": "zhwiki",
+  "description_en": "3rd century Chinese scholar and writer",
+  "bio_en": "Xiang Xiu (Chinese: 向秀) is one of the Seven Sages of the Bamboo Grove.\nHis most famous contribution is a commentary on the Zhuangzi, which was later used and amended by Guo Xiang. After his friend Xi Kang (Ji Kang) was killed by the ruling Jin dynasty, Xiang carefully interpreted his previous antagonistic words to the emperor, Sima Zhao in a new light. Thus he avoided the charge of treason, unlike his friend.\nHe wrote the work Xiang Xiu Biequan (\"Separate Biography\").",
+  "bio_en_source": "enwiki"
+}

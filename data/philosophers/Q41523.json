@@ -1,0 +1,105 @@
+{
+  "id": "Q41523",
+  "qid": "Q41523",
+  "slug": "plutarch",
+  "name_zh": "普魯塔克",
+  "name_en": "Plutarch",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 40,
+  "death_year": 120,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 38.495182,
+      "lon": 22.8434315,
+      "place": "Chaeronea",
+      "period": [
+        40,
+        120
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Galerius)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 800
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 800,
+          "end": 1492
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1492,
+          "end": 1880
+        },
+        {
+          "polity": "Greece",
+          "start": 1880,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Plutarch"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Parallel Lives",
+      "title_zh": "希臘羅馬名人傳",
+      "year": 110,
+      "qid": "Q842337",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q19740354",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q19740354",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 159,
+  "birth_place": "Chaeronea",
+  "description": "Greek philosopher and historian (c. AD 46 – after AD 119)",
+  "bio": "普魯塔克（希臘語：Πλούταρχος，拉丁語：Plutarchus，約46年—125年），又譯蒲魯塔克，生活於羅馬時代的希臘作家，以《比較列傳》（常稱為《希臘羅馬名人傳》或《希臘羅馬英豪列傳》）一書留名後世。他的作品在文藝復興時期大受歡迎，蒙田對他推崇備至，莎士比亞不少劇作都取材於他的記載。",
+  "bio_source": "zhwiki",
+  "description_en": "Greek philosopher and historian (c. AD 46 – after AD 119)",
+  "bio_en": "Plutarch (; Ancient Greek: Πλούταρχος, Ploútarchos, Koine Greek: [ˈplúːtarkʰos]; before AD 50 – after 120) was a Greek and later Roman Middle Platonist philosopher, historian, biographer, essayist, and priest at the Temple of Apollo in Delphi. He is known primarily for his Parallel Lives, a series of biographies of illustrious Greeks and Romans, and Moralia, a collection of essays and speeches. Upon becoming a Roman citizen, he was possibly named Lucius Mestrius Plutarchus (Λούκιος Μέστριος Πλούταρχος).",
+  "bio_en_source": "enwiki"
+}

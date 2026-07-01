@@ -1,0 +1,135 @@
+{
+  "id": "Q9191",
+  "qid": "Q9191",
+  "slug": "ren-descartes",
+  "name_zh": "勒內·笛卡兒",
+  "name_en": "René Descartes",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1596,
+  "death_year": 1650,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 46.973611111,
+      "lon": 0.697777777,
+      "place": "Descartes",
+      "period": [
+        1596,
+        1650
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1530,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 59.329444444,
+      "lon": 18.068611111,
+      "place": "Stockholm",
+      "period": [
+        1650,
+        1650
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 47.699722222,
+      "lon": -0.076111111,
+      "place": "La Flèche",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 46.581111111,
+      "lon": 0.335277777,
+      "place": "Poitiers",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Descartes, René"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Descartes, René"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Descartes, René"
+    }
+  ],
+  "works": [
+    {
+      "title": "Discourse on the Method",
+      "title_zh": "談談方法",
+      "year": 1637,
+      "qid": "Q731224",
+      "source": "wikidata"
+    },
+    {
+      "title": "La Géométrie",
+      "title_zh": null,
+      "year": 1638,
+      "qid": "Q210113",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Description of the Human Body",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1180645",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 249,
+  "birth_place": "Descartes",
+  "description": "法國哲學家、數學家（1596－1650）",
+  "bio": "勒內·笛卡兒（法語：René Descartes，發音：[ʁəne dekaʁt] ；1596年3月31日—1650年2月11日），法國哲學家、數學家和科學家。他在荷蘭度過了大部分事業生涯，曾為荷蘭軍隊服務。作為荷蘭黃金時代最著名的知識分子之一，笛卡兒也被廣泛認為是近代哲學和解析幾何的創始人之一。\n笛卡兒哲學的許多元素在亞里斯多德學派晚期、16世紀復興的斯多葛主義或奧古斯丁等早期哲學家中都有先例。在他的自然哲學中，其與經院哲學的區別主要有兩點：第一，他拒絕將有形的實體分解為物質和形式；其次，在解釋自然現象時，他拒絕任何訴諸神聖或自然的最終目的。在他的神學中，他堅持天主創造行為的絕對自由。笛卡兒拒絕接受先前哲學家的權威，經常將他的觀點與他之前的哲學家區分開來。在現代早期關於情感的論文《靈魂的激情》（法語：Les Passions de l'âme）的開篇部分，笛卡兒甚至斷言他將在這個主題上寫作，「就好像以前沒有人寫過這些問題一樣」。他最著名的哲學陳述是「我思故我在」（拉丁語：Cogito, ergo sum），見於《談談方法》和《哲學原理》（拉丁語：Principia Philosophiae）（類似的概念曾於約1554年由戈麥斯·佩雷拉提出）。\n笛卡兒常被認為是近代哲學的重要先驅，他在很大程度上被認為促使17世紀人們對認識論日益關注。",
+  "bio_source": "zhwiki",
+  "description_en": "French philosopher, mathematician, and scientist (1596–1650)",
+  "bio_en": "René Descartes ( day-KART, also  DAY-kart; French: [ʁəne dekaʁt] ; 31 March 1596 – 11 February 1650) was a French philosopher, scientist,  logician, and mathematician, widely considered a seminal figure in the emergence of modern philosophy and science during the Renaissance era. Mathematics was paramount to his method of inquiry, and he connected the previously separate fields of geometry and algebra into analytic geometry.\nRefusing to accept the authority of previous philosophers, Descartes frequently set his views apart from the philosophers who preceded him.",
+  "bio_en_source": "enwiki"
+}

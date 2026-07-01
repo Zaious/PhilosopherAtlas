@@ -1,0 +1,123 @@
+{
+  "id": "Q8778",
+  "qid": "Q8778",
+  "slug": "galen",
+  "name_zh": "蓋倫",
+  "name_en": "Galen",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 129,
+  "death_year": 300,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 39.116667,
+      "lon": 27.183333,
+      "place": "Pergamon",
+      "period": [
+        129,
+        300
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Diocletianus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 800
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 800,
+          "end": 1400
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1400,
+          "end": 1920
+        },
+        {
+          "polity": "Greece",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Turkey",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 41.893055555,
+      "lon": 12.482777777,
+      "place": "Rome",
+      "period": [
+        300,
+        300
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Galen"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Galen"
+    }
+  ],
+  "works": [
+    {
+      "title": "De atra bile",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q134726999",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 134,
+  "birth_place": "Pergamon",
+  "description": "羅馬醫生，外科醫生和哲學家",
+  "bio": "克勞狄烏斯·加倫（希臘語：Κλαύδιος Γαληνός，拉丁語：Claudius Galenus，129年—200年），亦被稱為佩加蒙的加倫（英語：Galen of Pergamon），是古羅馬的希臘裔醫學家及哲學家，主要作品有《氣質》《本能》《關於自然科學的三篇論文》。 是古代史中最多作品的醫學研究者，他的見解和理論是歐洲起支配性的醫學理論，長達一千年之久。所影響的學科有解剖學、生理學、病理學、藥理學及神經內科，在醫學領域以外的影響有哲學及邏輯。逝世於羅馬。\n加倫的父親是阿伊柳斯·尼孔，是富有的希臘建築師，對學術有興趣。加倫接受了全面的教育，預備他成為醫師及哲學家。加倫出生於古城帕加馬（現今土耳其的貝爾加馬）。加倫頻繁的旅行，在定居羅馬之前就已接觸許多的醫學理論以及發現，他在羅馬為許多社會中的顯要人士服務，最終成為幾位羅馬皇帝的宮廷醫生。\n加倫對醫學及解剖學的瞭解主要是受到體液學說（是指人體是由血液、黏液、黃膽汁和黑膽汁等四種體液組成的學說）影響，和古希臘醫學家希波克拉底的論點相近。加倫的醫學觀點影響西方醫學科學的時間超過1300年。加倫的解剖學主要是以解剖猴科和豬的結果為主，不過因為猴科動物的臉部表情太像人類，因此他後來改為解剖豬或是其他動物。加倫不解剖人體的原因是當時法律嚴格禁止對活的人體或屍體進行解剖。加倫會鼓勵學生去看死去的角鬥士，或是觀察屍體清洗，以便更加熟悉人體。",
+  "bio_source": "zhwiki",
+  "description_en": "2nd-century Greek physician, surgeon and philosopher",
+  "bio_en": "Aelius Galenus or Claudius Galenus (Greek: Κλαύδιος Γαληνός; September 129 – c. 216 CE), often anglicized as Galen () or Galen of Pergamon, was a Roman and Greek physician, surgeon, and philosopher. Considered to be one of the most accomplished of all medical researchers of antiquity, Galen influenced the development of various scientific disciplines, including anatomy, physiology, pathology, pharmacology, and neurology, as well as philosophy and logic.\nThe son of Aelius Nicon, a wealthy Greek architect with scholarly interests, Galen received a comprehensive education that prepared him for a successful career as a physician and philosopher.",
+  "bio_en_source": "enwiki"
+}

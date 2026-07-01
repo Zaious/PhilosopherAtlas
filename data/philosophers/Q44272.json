@@ -1,0 +1,135 @@
+{
+  "id": "Q44272",
+  "qid": "Q44272",
+  "slug": "michel-foucault",
+  "name_zh": "米歇爾·傅柯",
+  "name_en": "Michel Foucault",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1926,
+  "death_year": 1984,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 46.581111111,
+      "lon": 0.335277777,
+      "place": "Poitiers",
+      "period": [
+        1926,
+        1984
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.832222222,
+      "lon": 2.355555555,
+      "place": "13th arrondissement of Paris",
+      "period": [
+        1984,
+        1984
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 47,
+      "lon": 2,
+      "place": "France",
+      "period": [
+        1952,
+        1984
+      ],
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Foucault, Michel"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Foucault, Michel"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Order of Things",
+      "title_zh": "詞與物",
+      "year": 1966,
+      "qid": "Q1215306",
+      "source": "wikidata"
+    },
+    {
+      "title": "The History of Sexuality",
+      "title_zh": "性史",
+      "year": 1976,
+      "qid": "Q2704365",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Archaeology of Knowledge",
+      "title_zh": "知識考古學",
+      "year": 1969,
+      "qid": "Q2704678",
+      "source": "wikidata"
+    },
+    {
+      "title": "Discipline and Punish",
+      "title_zh": "規訓與懲罰",
+      "year": 1975,
+      "qid": "Q334370",
+      "source": "wikidata"
+    },
+    {
+      "title": "L'usage des plaisirs",
+      "title_zh": null,
+      "year": 1984,
+      "qid": "Q22084669",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 125,
+  "birth_place": "Poitiers",
+  "description": "法國哲學家（1926－1984）",
+  "bio": "保羅－米歇爾·傅柯（法語：Paul-Michel Foucault，1926年10月15日—1984年6月25日），是一名法國哲學家和思想史學家、社會理論家、語言學家、文學評論家、性學家。他對文學評論及其理論、哲學（尤其在法語國家中）、批評理論、歷史學、科學史（尤其醫學史）、批評教育學和知識社會學有很大的影響。他被認為是一個後現代主義者和後結構主義者，但也有人認為他的早期作品，尤其是《詞與物》還是結構主義的。他本人對這個分類並不欣賞，他認為自己是繼承了現代主義的傳統。他認為後現代主義這個詞本身就非常的含糊。\n有人就他的結構主義或後結構主義的傾向質疑他的政治活動。在這一點上他的處境與諾姆·杭士基、喬治·萊考夫和珍·雅各等人相同。傅柯的思想多有受到尼采影響之處。2007年，《時代高等教育指南》把他列為最多人引述的人文科學學者。\n傅柯在華語學界中有一定的影響力，包括一些介紹傅柯思想以及應用其思想的分析及批判。",
+  "bio_source": "zhwiki",
+  "description_en": "French philosopher (1926–1984)",
+  "bio_en": "Paul-Michel Foucault (UK:  FOO-koh, US:  foo-KOH; French: [pɔl miʃɛl fuko]; 15 October 1926 – 25 June 1984) was a French historian of ideas and philosopher, who was also an author, literary critic, political activist, and teacher. Foucault's theories primarily addressed the relationships between power, knowledge and liberty, and he analyzed how they are used as a form of social control through multiple institutions. Though often cited as a structuralist and postmodernist, Foucault rejected these labels and sought to critique authority without limits on himself.",
+  "bio_en_source": "enwiki"
+}

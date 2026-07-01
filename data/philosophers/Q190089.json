@@ -1,0 +1,109 @@
+{
+  "id": "Q190089",
+  "qid": "Q190089",
+  "slug": "duns-scotus",
+  "name_zh": "鄧斯·司各脫",
+  "name_en": "Duns Scotus",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1266,
+  "death_year": 1308,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 55.7784,
+      "lon": -2.3426,
+      "place": "Duns",
+      "period": [
+        1266,
+        1308
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Scotland",
+          "start": 1200,
+          "end": 1492
+        },
+        {
+          "polity": "Scottland",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Scotland",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Scottalnd",
+          "start": 1650,
+          "end": 1715
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 50.942222222,
+      "lon": 6.957777777,
+      "place": "Cologne",
+      "period": [
+        1308,
+        1308
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Duns Scotus, John"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Duns Scotus, John"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 77,
+  "birth_place": "Duns",
+  "description": "Scottish Franciscan friar and philosopher (c. 1265/66–1308)",
+  "bio": "真福若望·董思高（英語：Blessed John Duns Scotus，約1265年—1308年），史稱鄧斯·司各脫（也譯作司各特），蘇格蘭中世紀時期的經院哲學家、神學家、唯實論者。他提出了物質具有思維能力的推測，其論據是天主是萬能的，故而可以讓物質具備思維的能力。著有《巴黎論著》、《牛津論著》、《問題論叢》等。\n他曾在牛津大學學習，後在牛津大學和巴黎大學任教。在科倫去世。主要著作有《彼得·郎巴德的<教父名言集>論疏》和《論靈魂》等。他反對實在論，強調實體總是單個的物體，「共相」不能離開個性而獨立存在。認為物質或質料是萬物統一的基礎，提出「在靈魂中有物質」的命題，猜測到物質可以有思維的性質。在認識論上，強調從個別經驗事物出發來研究問題，認為一切觀念都是從感覺經驗中得來的。倫理學上，提倡意志自由，反映了市民階級個性獨立的要求。他曾對託馬斯·阿奎那的神學哲學體系進行過尖銳的批判，故有「銳利的學者」之稱。他的學說具有鮮明的唯物主義傾向，對17世紀英國唯物主義哲學產生過重要影響。\n中文版聖經思高本的翻譯機構「思高聖經學會」，奉他為主保聖人。",
+  "bio_source": "zhwiki",
+  "description_en": "Scottish Franciscan friar and philosopher (c. 1265/66–1308)",
+  "bio_en": "John Duns Scotus ( dunz SKOH-təs; Ecclesiastical Latin: [duns ˈskɔtus], \"Duns the Scot\"; c. 1265/66 – 8 November 1308) was a Scottish Catholic priest and Franciscan friar, university professor, philosopher and theologian. He is considered among the most important philosopher-theologians in Western Christendom during the last part of the medieval period, together with Thomas Aquinas, Bonaventure and William of Ockham.\nDuns Scotus has had considerable influence on both Catholic and secular thought.",
+  "bio_en_source": "enwiki"
+}

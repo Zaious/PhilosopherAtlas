@@ -1,0 +1,125 @@
+{
+  "id": "Q444264",
+  "qid": "Q444264",
+  "slug": "catharine-trotter-cockburn",
+  "name_zh": "CKD",
+  "name_en": "Catharine Trotter Cockburn",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "uncertain",
+  "active_regions": [
+    {
+      "lat": 51.507,
+      "lon": -0.128,
+      "place": null,
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Constantinus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Anglo-Saxons",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Cantia",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Essex",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "England",
+          "start": 1000,
+          "end": 1200
+        },
+        {
+          "polity": "Angevin Empire",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "English territory",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "England",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "England and Ireland",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Cockburn, Catharine Trotter"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Cockburn, Catharine Trotter"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": null,
+  "description": "維基媒體消歧義頁",
+  "bio": "CKD可以指：\n\n慢性腎臟病（Chronic kidney disease）\nČKD（Českomoravská Kolben-Daněk）：前捷克斯洛伐克的一家大型機械工業集團。\n克魯克特城機場\n全散裝料（Complete Knock—Down）：是將一個成品的所有零件以套件的方式出口的方式，到目的地後可以人工組裝成成品。",
+  "bio_source": "zhwiki",
+  "description_en": "Wikimedia disambiguation page",
+  "bio_en": "CKD may refer to:\n\nChiara Costanza, under her DJ alias Chiara Kickdrum\nChronic kidney disease, a slowly progressive loss of renal function\nČKD (Českomoravská Kolben-Daněk), an engineering company in the Czech Republic\nComplete knock down, a complete kit needed to assemble a product\nCount Key Data, a disk architecture used in IBM mainframe computers\nCrooked Creek Airport in Alaska, United States (IATA airport code)",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,149 @@
+{
+  "id": "Q70986",
+  "qid": "Q70986",
+  "slug": "li-ao",
+  "name_zh": "李敖",
+  "name_en": "Li Ao",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 45.75,
+      "lon": 126.633333,
+      "place": "Harbin",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "1",
+          "start": 100,
+          "end": 600
+        },
+        {
+          "polity": "Göktürks",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Ouighurs",
+          "start": 800,
+          "end": 900
+        },
+        {
+          "polity": "Khitans",
+          "start": 900,
+          "end": 1100
+        },
+        {
+          "polity": "Mongols",
+          "start": 1100,
+          "end": 1200
+        },
+        {
+          "polity": "Mongol Empire",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Chagatai Khanate",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Manchuria",
+          "start": 1920,
+          "end": 1938
+        },
+        {
+          "polity": "Empire of Japan",
+          "start": 1938,
+          "end": 1945
+        },
+        {
+          "polity": "Manchuria",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "China",
+          "start": 1960,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 25.1191,
+      "lon": 121.52,
+      "place": "Taipei Veterans General Hospital",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Li Ao"
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Li Ao"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Harbin",
+  "description": "台灣作家及評論家",
+  "bio": "李敖（1935年4月25日—2018年3月18日），字敖之、幼名安辰，臺灣作家、歷史學家、政治評論人、政治人物。\n李敖出生哈爾濱，1960年代因在臺灣《文星》雜誌撰文為胡適辯護，批判中國文化，力主全盤西化而成名。早年少論政，後逐漸反對國民黨在臺灣的一黨專政及個人崇拜，反對承認中華民國在臺統治的合法性。20世紀70年代參與推動民主化的黨外運動，作為政治犯兩度入獄。1987年臺灣解嚴後，多次參選，2000年代表新黨參加2000年中華民國總統選舉，2005至2008年任無黨籍立法委員。李敖還主持《李敖有話說》、《李敖語妙天下》等電視節目。\n李敖有濃厚的自由主義、民族主義色彩，反對蔣家和中國國民黨的獨裁統治，反美以及反日。1990年代臺灣民主化後，他也反對民進黨及臺灣獨立，支援兩岸統一。晚年肯定中國共產黨實現民族復興，也呼籲中國的言論自由。",
+  "bio_source": "zhwiki",
+  "description_en": "Taiwanese writer (1935-2018)",
+  "bio_en": "Li Ao (Chinese: 李敖; pinyin: Lǐ Áo; Pe̍h-ōe-jī: Lí Ngô͘; 25 April 1935 – 18 March 2018), also spelled Lee Ao, was a Taiwanese writer, politician, and public intellectual. He wrote more than 100 books, primarily on historical and political topics, and developed a reputation as a confrontational political firebrand.\nLi rose to prominence in the early 1960s through his articles in Wen Hsing (1957–1988), an intellectual Taiwanese magazine where he defended Hu Shih, criticized traditional Chinese culture, and advocated for complete Westernization, igniting a cultural debate over Chinese and Western ideologies.",
+  "bio_en_source": "enwiki"
+}

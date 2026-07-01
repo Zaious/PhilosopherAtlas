@@ -1,0 +1,101 @@
+{
+  "id": "Q189597",
+  "qid": "Q189597",
+  "slug": "philo-of-alexandria",
+  "name_zh": "斐洛",
+  "name_en": "Philo of Alexandria",
+  "tradition": "jewish",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -14,
+  "death_year": 50,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 31.1975,
+      "lon": 29.8925,
+      "place": "Alexandria",
+      "period": [
+        -14,
+        50
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Philo of Alexandria"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Philo"
+    }
+  ],
+  "works": [
+    {
+      "title": "On the Embassy to Gaius",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q3229044",
+      "source": "wikidata"
+    },
+    {
+      "title": "About the contemplative life",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q5684990",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q19231189",
+      "title_zh": null,
+      "year": 1910,
+      "qid": "Q19231189",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q19231341",
+      "title_zh": null,
+      "year": 1909,
+      "qid": "Q19231341",
+      "source": "wikidata"
+    },
+    {
+      "title": "Against Flaccus",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q41088032",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 74,
+  "birth_place": "Alexandria",
+  "description": "羅馬哲學家",
+  "bio": "斐洛（拉丁語：Philo，古希臘語：Φίλων，希伯來語：יְדִידְיָה，前20年—50年）是生於亞歷山卓的猶太裔哲學家和政治家。斐洛是嘗試將宗教信仰與哲學理性相結合的第一人，故在哲學史和宗教史上有獨特地位，更被視為希臘化時期猶太教哲學的代表人物和基督教神學的先驅。他的哲學對猶太教和其後的基督教發展有極深遠影響。",
+  "bio_source": "zhwiki",
+  "description_en": "Hellenistic Jewish philosopher who lived in Alexandria (c. 20 BCE-c. 50 CE)",
+  "bio_en": "Philo of Alexandria (; Ancient Greek: Φίλων, romanized: Phílōn; Hebrew: יְדִידְיָה, romanized: Yəḏīḏyāh; c. 20 BCE – c.  50 CE), also called Philō Judæus, was a Hellenistic Jewish philosopher who lived in Alexandria, in the Roman province of Egypt.\nThe only event in Philo's life that can be decisively dated is his representation of the Alexandrian Jews in a delegation to the Roman emperor Caligula in 40 CE following civil strife between the Jewish and Greek communities of Alexandria.\nPhilo was a leading writer of the Hellenistic Jewish community in Alexandria, Egypt.",
+  "bio_en_source": "enwiki"
+}

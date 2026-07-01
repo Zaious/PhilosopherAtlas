@@ -1,0 +1,123 @@
+{
+  "id": "Q76509",
+  "qid": "Q76509",
+  "slug": "karl-jaspers",
+  "name_zh": "卡爾·雅斯貝爾斯",
+  "name_en": "Karl Jaspers",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1883,
+  "death_year": 1969,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 53.143888888,
+      "lon": 8.213888888,
+      "place": "Oldenburg",
+      "period": [
+        1883,
+        1969
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (UK)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 47.560555555,
+      "lon": 7.590555555,
+      "place": "Basel",
+      "period": [
+        1969,
+        1969
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.412222222,
+      "lon": 8.71,
+      "place": "Heidelberg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Jaspers, Karl"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Axial Age",
+      "title_zh": "軸心世紀",
+      "year": null,
+      "qid": "Q340742",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 97,
+  "birth_place": "Oldenburg",
+  "description": "德國哲學家",
+  "bio": "卡爾·特奧多·雅斯培（德語：Karl Theodor Jaspers，1883年2月23日—1969年2月26日），舊譯雅斯培，德國哲學家和精神病學家，基督教存在主義的代表，1967年他成為瑞士公民。\n他在自己的《歷史的起源與目標》中提出著名的「軸心時代」觀點。\n雅斯培被看作是存在哲學(Existenzphilosophie)的傑出代表人物，他將存在哲學與讓-保羅·薩特的存在主義進行了嚴格的區分。他是漢娜·阿倫特的老師，並和她終為友，同時曾同她有長達十年的書信往來。他還曾和馬丁·海德格爾有著書信來往——納粹統治期間被中斷——而戰後只偶爾進行書信的交流。他同馬克斯·韋伯、漢斯·瓦爾特·葛魯勒還有庫爾特·施奈德都保持了長年的友誼。\n雅斯培為精神病學的科學發展作出了根本的貢獻。他的哲學作品對宗教哲學、歷史哲學和跨文化哲學影響頗深。他寫的有關哲學的導論獲得了很大的銷量，也因此為公眾所熟知。",
+  "bio_source": "zhwiki",
+  "description_en": "German-Swiss psychiatrist and philosopher (1883–1969)",
+  "bio_en": "Karl Theodor Jaspers (; German: [kaʁl ˈjaspɐs] ; 23 February 1883 – 26 February 1969) was a German-Swiss psychiatrist and philosopher who had a strong influence on modern theology, psychiatry, and philosophy. His 1913 work General Psychopathology influenced many later diagnostic criteria, and argued for a distinction between \"primary\" and \"secondary\" delusions. \nAfter being trained in and practising psychiatry, Jaspers turned to philosophical inquiry and attempted to develop an innovative philosophical system. He was often viewed as a major exponent of existentialism in Germany, though he did not accept the label.",
+  "bio_en_source": "enwiki"
+}

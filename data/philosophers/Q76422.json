@@ -1,0 +1,152 @@
+{
+  "id": "Q76422",
+  "qid": "Q76422",
+  "slug": "ludwig-feuerbach",
+  "name_zh": "路德維希·費爾巴哈",
+  "name_en": "Ludwig Feuerbach",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1804,
+  "death_year": 1872,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.539722222,
+      "lon": 12.150833333,
+      "place": "Landshut",
+      "period": [
+        1804,
+        1872
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Bavaria",
+          "start": 1800,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (USA)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 49.453888888,
+      "lon": 11.0775,
+      "place": "Nuremberg",
+      "period": [
+        1872,
+        1872
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.4636,
+      "lon": 11.1108,
+      "place": "Rechenberg",
+      "period": [
+        1859,
+        1872
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.35,
+      "lon": 10.7,
+      "place": "Bruckberg",
+      "period": [
+        1836,
+        1859
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Feuerbach, Ludwig Andreas"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "The Essence of Christianity",
+      "title_zh": "基督教的本質",
+      "year": 1841,
+      "qid": "Q1170769",
+      "source": "wikidata"
+    },
+    {
+      "title": "Thoughts on Death and Immortality",
+      "title_zh": "關於死和不死的思想",
+      "year": 1830,
+      "qid": "Q22677377",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 106,
+  "birth_place": "Landshut",
+  "description": "德國哲學家（1804－1872）",
+  "bio": "路德維希·安德烈亞斯·費爾巴哈（德語：Ludwig Andreas Feuerbach，發音：[ˈluːtvɪç ˈfɔʏɐbax]；1804年7月28日—1872年9月13日），德國哲學家。出生於巴伐利亞選侯國下拜恩地區的首府蘭茨胡特，逝於同一州的紐倫堡，是德國法學家保羅·約翰·安塞爾姆·馮·費爾巴哈的第四個兒子。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher and anthropologist (1804–1872)",
+  "bio_en": "Ludwig Andreas Feuerbach ( FOIR-bahkh; German: [ˈluːtvɪç ˈfɔʏɐbax]; 28 July 1804 – 13 September 1872) was a German philosopher and anthropologist who was a leading figure among the Young Hegelians. He is best known for his 1841 book, The Essence of Christianity, which argued that God is a projection of the essential attributes of humanity. His critique of religion formed the basis for his advocacy of atheism, materialism, and sensualism. His thought served as a critical bridge between the philosophy of Georg Wilhelm Friedrich Hegel and that of Karl Marx.\nThe son of a distinguished jurist, Feuerbach studied theology at Heidelberg before moving to Berlin to study directly under Hegel.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "Q36330",
+  "qid": "Q36330",
+  "slug": "giordano-bruno",
+  "name_zh": "佐丹奴·布魯諾",
+  "name_en": "Giordano Bruno",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1548,
+  "death_year": 1600,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 40.925875,
+      "lon": 14.528564,
+      "place": "Nola",
+      "period": [
+        1548,
+        1600
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Naples",
+          "start": 1530,
+          "end": 1783
+        },
+        {
+          "polity": "Kingdom of the Two Sicilies",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 41.893055555,
+      "lon": 12.482777777,
+      "place": "Rome",
+      "period": [
+        1600,
+        1600
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.8671,
+      "lon": 12.6484,
+      "place": "Lutherstadt Wittenberg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bruno, Giordano"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bruno, Giordano"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 150,
+  "birth_place": "Nola",
+  "description": "義大利科學家、哲學家（1548－1600）",
+  "bio": "焦爾達諾·布魯諾（義大利語：Giordano Bruno，拉丁語：Iordanus Brunus Nolanus；1548年—1600年2月17日），原名菲利波·布魯諾（Filippo Bruno），文藝復興時期義大利哲學家、鍊金術士、詩人、宇宙理論家與神秘主義者。他以其宇宙學理論聞名於世，這些理論在概念上推廣並延伸了當時方興未艾的哥白尼模型。他深研「赫耳墨斯主義」，並以神秘學的路徑探索宇宙。他大膽主張星星即是遠方的太陽，各自擁有行星系統，且這些行星極可能孕育生命。此外，他堅稱宇宙無邊無際，絕無中心。\n布魯諾隨後因多項異端指控受羅馬宗教裁判所審判，罪名包括否認永恆懲罰、三位一體、基督神性、聖母處子身以及聖餐變體論等核心教義。教會對其泛神論與靈魂轉世之說深感威脅，判決其異端罪名成立。1600年，布魯諾於羅馬鮮花廣場被處以火刑。他死後聲名鵲起，19世紀與20世紀初的評論家多將其奉為科學界的殉道者。部分史家認為其受審主因並非宇宙論，而是源於其對宗教與來世的激進見解；但亦有學者持相反意見，主張宇宙觀才是致死之由。無論如何，布魯諾案至今仍被視為思想自由與近代科學萌芽史上的里程碑。\n除宇宙論外，布魯諾對「記憶宮殿」等記憶術亦有豐碩著述。史學家法蘭西絲·葉慈（Frances Yates）指出，布魯諾深受先蘇格拉底學派的恩培多克勒、新柏拉圖主義以及赫密士主義，以及圍繞希臘化時期「三重偉大的赫密士」之傳說的薰陶。",
+  "bio_source": "zhwiki",
+  "description_en": "Italian Dominican friar, philosopher and mathematician (1548–1600)",
+  "bio_en": "Giordano Bruno ( jor-DAH-noh BROO-noh; Italian: [dʒorˈdaːno ˈbruːno]; Latin: Iordanus Brunus Nolanus; born Filippo Bruno; February 1548 – 17 February 1600) was a Neopolitan philosopher, Dominican friar and priest, poet, alchemist, astronomer, cosmological theorist, and esotericist. He is known for his cosmological theories, which conceptually extended to include the then-novel Copernican model. He practised Hermeticism and took a mystical approach to exploring the universe.",
+  "bio_en_source": "enwiki"
+}

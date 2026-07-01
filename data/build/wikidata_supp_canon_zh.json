@@ -1,0 +1,2142 @@
+﻿{
+    "head":  {
+                 "vars":  [
+                              "person",
+                              "personLabel",
+                              "zh",
+                              "birth",
+                              "death",
+                              "birthPlaceLabel",
+                              "coord",
+                              "sitelinks"
+                          ]
+             },
+    "results":  {
+                    "bindings":  [
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q379836"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(113.0274 22.5151)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Huicheng Subdistrict"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "梁启超"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "35"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1873-02-23T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1929-01-19T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Liang Chi-chao"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q724293"
+                                                    },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "僧肇"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "17"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0374-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0414-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Sengzhao"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q724293"
+                                                    },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "僧肇"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "17"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0384-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0414-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Sengzhao"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q2466384"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(116.75 27.9)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Jinxi County"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "陸九淵"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "20"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1139-04-02T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1193-01-17T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Lu Jiuyuan"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q553520"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(103.898888888 30.798611111)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Pidu District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "揚雄"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "27"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "-0052-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0018-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Yang Xiong"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q197338"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(114.345 34.795)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Kaifeng"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "張載"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "26"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1020-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1077-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Zhang Zai"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q445626"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(116.2633 37.69189)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Jing County"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "董仲舒"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "34"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "-0178-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "-0103-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Dong Zhongshu"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q1195906"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(120.97655 31.38674)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Kunshan"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "顧炎武"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "25"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1613-07-15T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1682-02-15T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Gu Yanwu"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q2466384"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(116.75 27.9)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Jinxi County"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "陸九淵"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "20"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1139-04-02T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1193-01-17T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Lu Jiuyuan"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q558192"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(114.38202 31.05675)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Huangpi District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "程顥"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "20"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1032-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1085-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Cheng Hao"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q360135"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(113.13732 23.03139)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Nanhai District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "康有為"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "48"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1858-03-19T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1927-03-31T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Kang Youwei"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q360135"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(113.13732 23.03139)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Nanhai District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "康有為"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "48"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1858-03-19T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1927-03-31T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Kang Youwei"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q558192"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(114.36991 30.87505)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Huangpi District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "程顥"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "20"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1032-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1085-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Cheng Hao"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q714374"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(112.58568 26.89676)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Hengyang"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "王夫之"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "28"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1619-10-07T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1692-02-18T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Wang Fuzhi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q459865"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(116.083333333 35.383333333)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Juye County"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "王弼"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "24"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0226-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0249-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Wang Bi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q378462"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(121.15463 30.037195)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Yuyao City"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "王陽明"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "46"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1472-11-09T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1529-01-19T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Wang Yangming"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q459865"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(116.083333333 35.383333333)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Juye County"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "王弼"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "24"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0226-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0249-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Wang Bi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q558192"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(114.38202 31.05675)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Huangpi District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "程颢"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "20"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1032-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1085-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Cheng Hao"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q714374"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(112.58568 26.89676)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Hengyang"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "王夫之"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "28"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1619-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1692-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Wang Fuzhi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q558192"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(114.36991 30.87505)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Huangpi District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "程颢"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "20"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1032-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1085-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Cheng Hao"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q1362266"
+                                                    },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "公孙龙"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "26"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "-0324-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "-0249-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Gongsun Long"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q47667"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(121.469166666 31.2325)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Shanghai"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "胡適"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "40"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1891-12-17T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1962-02-24T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Hu Shih"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q1362266"
+                                                    },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "公孫龍"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "26"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "-0324-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "-0249-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Gongsun Long"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q197338"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(114.345 34.795)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Kaifeng"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "張載"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "26"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1020-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1077-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Zhang Zai"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q197962"
+                                                    },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "周敦颐"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "30"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1017-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1073-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Zhou Dunyi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q553520"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(103.898888888 30.798611111)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Pidu District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "揚雄"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "27"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "-0052-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0018-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Yang Xiong"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q345012"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(112.22515 22.70027)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Xinxing County"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "惠能"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "35"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0638-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0713-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Huineng"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q558380"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(114.38202 31.05675)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Huangpi District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "程颐"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "24"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1033-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1107-10-12T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Cheng Yi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q379836"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(113.0274 22.5151)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Huicheng Subdistrict"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "梁啟超"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "35"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1873-02-23T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1929-01-19T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Liang Chi-chao"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q558380"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(114.36991 30.87505)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Huangpi District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "程颐"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "24"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1033-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1107-10-12T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Cheng Yi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q714374"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(112.58568 26.89676)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Hengyang"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "王夫之"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "28"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1619-10-07T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1692-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Wang Fuzhi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q558380"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(114.38202 31.05675)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Huangpi District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "程頤"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "24"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1033-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1107-10-12T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Cheng Yi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q724293"
+                                                    },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "僧肇"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "17"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0384-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0414-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Sengzhao"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q714369"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(118.1828 29.78949)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Xiuning County"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "戴震"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "24"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1724-01-19T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1777-07-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Dai Zhen"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q558380"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(114.36991 30.87505)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Huangpi District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "程頤"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "24"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1033-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1107-10-12T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Cheng Yi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q714374"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(112.58568 26.89676)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Hengyang"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "王夫之"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "28"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1619-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1692-02-18T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Wang Fuzhi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q345012"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(112.22515 22.70027)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Xinxing County"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "惠能"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "35"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0638-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0713-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Huineng"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q1291953"
+                                                    },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "郭象"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "11"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0252-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0312-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Guo Xiang"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q1291953"
+                                                    },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "郭象"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "11"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0252-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0312-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Guo Xiang"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q445626"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(116.2633 37.69189)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Jing County"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "董仲舒"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "34"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "-0178-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "-0103-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Dong Zhongshu"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q724293"
+                                                    },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "僧肇"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "17"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0374-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0414-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Sengzhao"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q714374"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(112.58568 26.89676)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Hengyang"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "王夫之"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "28"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1619-10-07T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1692-02-18T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Wang Fuzhi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q1195906"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(120.97655 31.38674)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Kunshan"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "顧炎武"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "25"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1613-07-15T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1682-02-15T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Gu Yanwu"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q714374"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(112.58568 26.89676)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Hengyang"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "王夫之"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "28"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1619-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1692-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Wang Fuzhi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q360135"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(113.13732 23.03139)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Nanhai District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "康有為"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "48"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1858-03-19T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1927-02-28T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Kang Youwei"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q378462"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(121.15463 30.037195)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Yuyao City"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "王陽明"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "46"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1472-11-09T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1529-01-19T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Wang Yangming"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q360135"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(113.13732 23.03139)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Nanhai District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "康有為"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "48"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1858-03-19T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1927-02-28T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Kang Youwei"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q319329"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(120.8725 30.018888888)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Shangyu District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "王充"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "43"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0027-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0097-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Wang Chong"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q31754"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(121.15463 30.037195)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Yuyao City"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "黄宗羲"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "18"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1610-09-24T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1695-08-12T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Huang Zongxi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q714374"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(112.58568 26.89676)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Hengyang"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "王夫之"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "28"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1619-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1692-02-18T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Wang Fuzhi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q47667"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(121.469166666 31.2325)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Shanghai"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh-hant",
+                                                    "type":  "literal",
+                                                    "value":  "胡適"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "40"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1891-12-17T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1962-02-24T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Hu Shih"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q714369"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(118.1828 29.78949)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Xiuning County"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "戴震"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "24"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1724-01-19T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1777-07-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Dai Zhen"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q714374"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(112.58568 26.89676)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Hengyang"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "王夫之"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "28"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1619-10-07T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "1692-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Wang Fuzhi"
+                                                         }
+                                     },
+                                     {
+                                         "person":  {
+                                                        "type":  "uri",
+                                                        "value":  "http://www.wikidata.org/entity/Q319329"
+                                                    },
+                                         "coord":  {
+                                                       "datatype":  "http://www.opengis.net/ont/geosparql#wktLiteral",
+                                                       "type":  "literal",
+                                                       "value":  "Point(120.8725 30.018888888)"
+                                                   },
+                                         "birthPlaceLabel":  {
+                                                                 "xml:lang":  "en",
+                                                                 "type":  "literal",
+                                                                 "value":  "Shangyu District"
+                                                             },
+                                         "zh":  {
+                                                    "xml:lang":  "zh",
+                                                    "type":  "literal",
+                                                    "value":  "王充"
+                                                },
+                                         "sitelinks":  {
+                                                           "datatype":  "http://www.w3.org/2001/XMLSchema#integer",
+                                                           "type":  "literal",
+                                                           "value":  "43"
+                                                       },
+                                         "birth":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0027-01-01T00:00:00Z"
+                                                   },
+                                         "death":  {
+                                                       "datatype":  "http://www.w3.org/2001/XMLSchema#dateTime",
+                                                       "type":  "literal",
+                                                       "value":  "0097-01-01T00:00:00Z"
+                                                   },
+                                         "personLabel":  {
+                                                             "xml:lang":  "en",
+                                                             "type":  "literal",
+                                                             "value":  "Wang Chong"
+                                                         }
+                                     }
+                                 ]
+                }
+}

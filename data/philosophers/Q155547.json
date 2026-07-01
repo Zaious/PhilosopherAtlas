@@ -1,0 +1,133 @@
+{
+  "id": "Q155547",
+  "qid": "Q155547",
+  "slug": "johann-gottfried-herder",
+  "name_zh": "約翰·哥特弗雷德·赫爾德",
+  "name_en": "Johann Gottfried Herder",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1744,
+  "death_year": 1803,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 53.915277777,
+      "lon": 19.927222222,
+      "place": "Morąg",
+      "period": [
+        1744,
+        1803
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Duchy of Prussia",
+          "end": 1701,
+          "start": 1525
+        },
+        {
+          "polity": "Kingdom of Prussia",
+          "end": 1871,
+          "start": 1701
+        },
+        {
+          "polity": "German Empire",
+          "end": 1918,
+          "start": 1871
+        },
+        {
+          "polity": "Weimar Republic",
+          "end": 1933,
+          "start": 1918
+        },
+        {
+          "polity": "Nazi Germany",
+          "end": 1945,
+          "start": 1933
+        },
+        {
+          "polity": "Poland",
+          "end": null,
+          "start": 1945
+        }
+      ],
+      "polity_source": "curated"
+    },
+    {
+      "lat": 50.981111111,
+      "lon": 11.329444444,
+      "place": "Weimar",
+      "period": [
+        1803,
+        1803
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Herder, Johann Gottfried von"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Treatise on the Origin of Language",
+      "title_zh": "論語言的起源",
+      "year": 1772,
+      "qid": "Q15888552",
+      "source": "wikidata"
+    },
+    {
+      "title": "Der Cid. Nach Spanischen Romanzen besungen                         durch Johann Gottfried Herder",
+      "title_zh": null,
+      "year": 1805,
+      "qid": "Q139910079",
+      "source": "wikidata"
+    },
+    {
+      "title": "Stimmen der Völker in Liedern",
+      "title_zh": null,
+      "year": 1807,
+      "qid": "Q1678727",
+      "source": "wikidata"
+    },
+    {
+      "title": "Sculpture",
+      "title_zh": null,
+      "year": 1778,
+      "qid": "Q15888506",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 102,
+  "birth_place": "Morąg",
+  "description": "German philosopher, theologian, poet (1744–1803)",
+  "bio": "約翰·哥特弗利德·赫爾德（德語：Johann Gottfried Herder，姓或譯赫德；1744年8月25日—1803年12月18日），德國哲學家、路德派神學家、詩人，出生於神聖羅馬帝國。其作品《論語言的起源》（德語：Abhandlung über den Ursprung der Sprache；英語：Treatise on the Origin of Language）成為浪漫主義早期狂飆運動的基礎。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher, theologian, poet (1744–1803)",
+  "bio_en": "Johann Gottfried von Herder ( HUR-dər; German: [ˈjoːhan ˈɡɔtfʁiːt ˈhɛʁdɐ]; 25 August 1744 – 18 December 1803) was a German philosopher, theologian, pastor, poet, and literary critic. Herder is associated with the Age of Enlightenment, Sturm und Drang, and Weimar Classicism. He was a Romantic philosopher and poet who argued that true German culture was to be discovered among the common people (das Volk). He also stated that it was through folk songs, folk poetry, and folk dances that the true spirit of the nation (der Volksgeist) was popularized.",
+  "bio_en_source": "enwiki"
+}

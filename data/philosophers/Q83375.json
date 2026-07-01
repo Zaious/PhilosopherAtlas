@@ -1,0 +1,170 @@
+{
+  "id": "Q83375",
+  "qid": "Q83375",
+  "slug": "empedocles",
+  "name_zh": "恩培多克勒",
+  "name_en": "Empedocles",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -493,
+  "death_year": -433,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.292327369,
+      "lon": 13.593570883,
+      "place": "Akragas",
+      "period": [
+        -493,
+        -433
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Maximian)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Vandals",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 800,
+          "end": 900
+        },
+        {
+          "polity": "Emirate of Sicily",
+          "start": 900,
+          "end": 1100
+        },
+        {
+          "polity": "Dutchy of Benevento",
+          "start": 1100,
+          "end": 1279
+        },
+        {
+          "polity": "Sicily",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Aragón",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Sicily",
+          "start": 1530,
+          "end": 1783
+        },
+        {
+          "polity": "Kingdom of the Two Sicilies",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 37.750834514,
+      "lon": 14.993220288,
+      "place": "Mount Etna",
+      "period": [
+        -433,
+        -433
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Empedocles"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Empedocles"
+    }
+  ],
+  "works": [
+    {
+      "title": "On Nature",
+      "title_zh": null,
+      "year": -470,
+      "qid": "Q11879849",
+      "source": "wikidata"
+    },
+    {
+      "title": "Purifications",
+      "title_zh": null,
+      "year": -475,
+      "qid": "Q11888967",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 107,
+  "birth_place": "Akragas",
+  "description": "5th century BC Greek philosopher",
+  "bio": "恩培多克勒（希臘語：Ἐμπεδοκλῆς，前490年—前430年），又譯恩貝多克利，公元前5世紀的古希臘哲學家、自然科學家、政治人物、演說家、詩人，相傳他也是醫生、醫學作家、術士和占卜家。西西里島的阿格里根特人，作為政治人物的他在其家鄉備受爭議並遭到流放，不得返回。他的生平富神話色彩，相傳他為證明自己的神性，投進埃特納火山而亡，但是火山卻將他的青銅涼鞋噴射出來，顯示他的不誠實。另一個傳說是他跳進火山，向他的門徒證明他的不朽；他相信他在經火之後會作為神回到人間。後世騷人墨客常以此為詩材。\n作為前蘇格拉底時期哲學家，恩培多克勒受到當時佔據主流的畢達哥拉斯學派和埃利亞學派思想的影響。他像巴門尼德一樣用韻文寫作。相傳能夠體現其哲學思想的兩部長詩《論自然》(Περὶ φύσεως)和《淨化》(Καθαρμοί)以及他的一篇散文《醫論》目前只留下古人記載的約450行殘篇。",
+  "bio_source": "zhwiki",
+  "description_en": "5th century BC Greek philosopher",
+  "bio_en": "Empedocles (; Ancient Greek: Ἐμπεδοκλῆς; c. 494 – c. 434 BC, fl. 444–443 BC) was a Greek pre-Socratic philosopher and a native citizen of Akragas, a Greek city in Sicily. Empedocles' philosophy is known best for originating the cosmogonic theory of the four classical elements. He also proposed forces he called Love and Strife which would mix and separate the elements, respectively.\nEmpedocles challenged the practice of animal sacrifice and killing animals for food. He developed a distinctive doctrine of reincarnation. He is generally considered the last Greek philosopher to have recorded his ideas in verse.",
+  "bio_en_source": "enwiki"
+}

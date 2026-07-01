@@ -1,0 +1,221 @@
+{
+  "id": "Q9235",
+  "qid": "Q9235",
+  "slug": "georg-wilhelm-friedrich-hegel",
+  "name_zh": "格奧爾格·威廉·弗里德里希·黑格爾",
+  "name_en": "Georg Wilhelm Friedrich Hegel",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1770,
+  "death_year": 1831,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.7775,
+      "lon": 9.18,
+      "place": "Stuttgart",
+      "period": [
+        1770,
+        1831
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1715,
+          "end": 1783
+        },
+        {
+          "polity": "Württemberg",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (USA)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 52.516666666,
+      "lon": 13.383333333,
+      "place": "Berlin",
+      "period": [
+        1831,
+        1831
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 46.94798,
+      "lon": 7.44743,
+      "place": "Bern",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.110555555,
+      "lon": 8.682222222,
+      "place": "Frankfurt",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.453888888,
+      "lon": 11.0775,
+      "place": "Nuremberg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.412222222,
+      "lon": 8.71,
+      "place": "Heidelberg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hegel, Georg Wilhelm Friedrich"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hegel, Georg Wilhelm Friedrich"
+    }
+  ],
+  "works": [
+    {
+      "title": "Lectures on the Philosophy of Religion",
+      "title_zh": "宗教哲學講演錄",
+      "year": 1833,
+      "qid": "Q6512443",
+      "source": "wikidata"
+    },
+    {
+      "title": "Lectures on the Philosophy of History",
+      "title_zh": "哲學史講演錄",
+      "year": 1837,
+      "qid": "Q1210941",
+      "source": "wikidata"
+    },
+    {
+      "title": "Elements of the Philosophy of Right",
+      "title_zh": "法哲學原理",
+      "year": 1821,
+      "qid": "Q1486412",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Phenomenology of Spirit",
+      "title_zh": "精神現象學",
+      "year": 1807,
+      "qid": "Q877510",
+      "source": "wikidata"
+    },
+    {
+      "title": "Encyclopedia of the Philosophical Sciences",
+      "title_zh": "哲學科學百科全書綱要",
+      "year": 1817,
+      "qid": "Q919699",
+      "source": "wikidata"
+    },
+    {
+      "title": "Lectures on Aesthetics",
+      "title_zh": "美學",
+      "year": 1835,
+      "qid": "Q1045336",
+      "source": "wikidata"
+    },
+    {
+      "title": "Science of Logic",
+      "title_zh": "大邏輯",
+      "year": 1812,
+      "qid": "Q374811",
+      "source": "wikidata"
+    },
+    {
+      "title": "Lectures on the History of Philosophy",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q6512440",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 192,
+  "birth_place": "Stuttgart",
+  "description": "德國古典哲學家",
+  "bio": "蓋歐格·威廉·弗里德里希·黑格爾（德語：Georg Wilhelm Friedrich Hegel，縮寫作G. W. F. Hegel，1770年8月27日—1831年11月14日），德國19世紀哲學家，德國唯心主義的代表人物之一。\n黑格爾發展出一套全面的哲學體系，將現實解釋為一個統一整體。通常被稱為絕對唯心主義。這個體系的核心概念是「精神」（Geist），黑格爾將其闡述為人類透過理性的發展這一歷史程序來認識自身的過程。\n黑格爾的思想影響深遠又具有爭議性。在他去世後，其追隨者分裂為老黑格爾派和青年黑格爾派。後者包括路德維希·費爾巴哈和卡爾·馬克思，他們將其辯證法應用於唯物主義。在20世紀，他的思想在法國黑格爾主義與批判理論等思想傳統中得到進一步發展，並成為存在主義的重要參考點。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher and theologian (1770–1831)",
+  "bio_en": "Georg Wilhelm Friedrich Hegel (27 August 1770 – 14 November 1831) was a German philosopher and a major figure in the tradition of German idealism. His influence on Western philosophy extends across a wide range of topics—from metaphysical issues in epistemology and ontology, to political philosophy, to philosophy of art and philosophy of religion.\nHegel was born in Stuttgart. His life spanned the transitional period between the Enlightenment and the Romantic movement. His thought was shaped by the French Revolution and the Napoleonic wars, events which he interpreted from a philosophical perspective.",
+  "bio_en_source": "enwiki"
+}

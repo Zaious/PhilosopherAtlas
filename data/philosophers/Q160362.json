@@ -1,0 +1,130 @@
+{
+  "id": "Q160362",
+  "qid": "Q160362",
+  "slug": "theophrastus",
+  "name_zh": "泰奧弗拉斯托斯",
+  "name_en": "Theophrastus",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -370,
+  "death_year": -286,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 39.168611,
+      "lon": 25.931389,
+      "place": "Eresos",
+      "period": [
+        -370,
+        -286
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 37.984166666,
+      "lon": 23.728055555,
+      "place": "Athens",
+      "period": [
+        -286,
+        -286
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Theophrastus"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "History of Plants",
+      "title_zh": "植物誌",
+      "year": null,
+      "qid": "Q17156420",
+      "source": "wikidata"
+    },
+    {
+      "title": "Characters",
+      "title_zh": "人物誌 (泰奧弗拉斯托斯)",
+      "year": null,
+      "qid": "Q3231273",
+      "source": "wikidata"
+    },
+    {
+      "title": "Metaphysics",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q3333485",
+      "source": "wikidata"
+    },
+    {
+      "title": "On the causes of plants",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q16536650",
+      "source": "wikidata"
+    },
+    {
+      "title": "De sensu",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q63183551",
+      "source": "wikidata"
+    },
+    {
+      "title": "Callisthenes, or On Pain",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q136348540",
+      "source": "wikidata"
+    },
+    {
+      "title": "On Wealth",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q136388953",
+      "source": "wikidata"
+    },
+    {
+      "title": "Περὶ νόμων (Peri nomon)",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q136503473",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 98,
+  "birth_place": "Eresos",
+  "description": "Greek philosopher (c.371-c.287 BC)",
+  "bio": "泰奧弗拉斯托斯（古希臘語：Θεόφραστος，轉寫：Theόphrastos，也稱提奧弗拉斯特，約前371年－約前287年），公元前4世紀的古希臘哲學家和科學家，先後受敎於柏拉圖和亞里斯多德，後來接替亞里斯多德，領導其「逍遙學派」。Θεόφραστος解作「神的代言人」，並非真名，據說是亞里斯多德見他口才出眾而替他起的名。\n明代傳教士利瑪竇於著作中引用泰奧弗拉斯托斯語錄，將其名譯為「竇法德」。",
+  "bio_source": "zhwiki",
+  "description_en": "Greek philosopher (c.371-c.287 BC)",
+  "bio_en": "Theophrastus (; Ancient Greek: Θεόφραστος, romanized: Theophrastos, lit. 'godly phrased'; c. 371 – c. 287 BC) was an ancient Greek philosopher and naturalist. A native of Eresos in Lesbos, he was Aristotle's close colleague and successor as head of the Lyceum, the Peripatetic school of philosophy in Athens. Theophrastus wrote numerous treatises across all areas of philosophy, working to support, improve, expand, and develop the Aristotelian system. He made significant contributions to various fields, including ethics, metaphysics, botany, and natural history.",
+  "bio_en_source": "enwiki"
+}

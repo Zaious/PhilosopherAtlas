@@ -1,0 +1,111 @@
+{
+  "id": "Q558380",
+  "qid": "Q558380",
+  "slug": "cheng-yi",
+  "name_zh": "程頤",
+  "name_en": "Cheng Yi",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1033,
+  "death_year": 1107,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 31.05675,
+      "lon": 114.38202,
+      "place": "Huangpi District",
+      "period": [
+        1033,
+        1107
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Cheng Yi"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Cheng Yi"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Cheng Yi"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 4,
+  "sitelinks": 24,
+  "birth_place": "Huangpi District",
+  "description": "Chinese philosopher (1033–1107)",
+  "bio": "程頤（1033年—1107年），字正叔，世居中山，北宋河南伊川（今河南省洛陽市伊川縣）人，世稱伊川先生，北宋理學家、教育家，歷官汝州團練推官、西京國子監教授。與其胞兄程顥共創「洛學」，人稱「二程」，為理學奠定了基礎。後追封洛國公，配祀孔廟。程顥、程頤學術思想略有不同，程顥主張「明心見性」，重視「氣」，為學「力行」，影響了陸九淵。程頤主張「格物致知」，重視「理」，為學「窮理」，影響朱熹。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese philosopher (1033–1107)",
+  "bio_en": "Cheng Yi (1033–1107), also known by various other names and romanizations, was a Chinese classicist, essayist, philosopher, and politician of the Song Dynasty. He worked with his older brother Cheng Hao. Like his brother, he was a student of Zhou Dunyi, a friend of Shao Yong, and a nephew of Zhang Zai. The five of them, along with Sima Guang, are called the Six Great Masters by his follower Zhu Xi. He became a prominent figure in neo-Confucianism, and the philosophy of Cheng Yi, Cheng Hao and Zhu Xi is referred to as the Cheng–Zhu school or the Rationalistic School.",
+  "bio_en_source": "enwiki"
+}

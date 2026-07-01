@@ -1,0 +1,226 @@
+{
+  "id": "Q9358",
+  "qid": "Q9358",
+  "slug": "friedrich-nietzsche",
+  "name_zh": "弗里德里希·尼采",
+  "name_en": "Friedrich Nietzsche",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1844,
+  "death_year": 1900,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.240833333,
+      "lon": 12.116111111,
+      "place": "Röcken",
+      "period": [
+        1844,
+        1900
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Prussia",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (Soviet)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "East Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 50.981111111,
+      "lon": 11.329444444,
+      "place": "Weimar",
+      "period": [
+        1900,
+        1900
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 47.560555555,
+      "lon": 7.590555555,
+      "place": "Basel",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.735277777,
+      "lon": 7.102222222,
+      "place": "Bonn",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.3406321,
+      "lon": 12.3747329,
+      "place": "Leipzig",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.152095,
+      "lon": 11.809819,
+      "place": "Naumburg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.1417,
+      "lon": 11.7495,
+      "place": "Schulpforte",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Nietzsche, Friedrich"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Nietzsche, Friedrich"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Nietzsche, Friedrich"
+    }
+  ],
+  "works": [
+    {
+      "title": "Thus Spoke Zarathustra",
+      "title_zh": "查拉圖斯特拉如是說",
+      "year": 1885,
+      "qid": "Q199774",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Birth of Tragedy",
+      "title_zh": "悲劇的誕生",
+      "year": 1872,
+      "qid": "Q1053359",
+      "source": "wikidata"
+    },
+    {
+      "title": "On the Advantage and Disadvantage of History for Life",
+      "title_zh": null,
+      "year": 1874,
+      "qid": "Q1283184",
+      "source": "wikidata"
+    },
+    {
+      "title": "Untimely Meditations",
+      "title_zh": null,
+      "year": 1873,
+      "qid": "Q1605652",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q19230492",
+      "title_zh": null,
+      "year": 1876,
+      "qid": "Q19230492",
+      "source": "wikidata"
+    },
+    {
+      "title": "Schopenhauer as Educator",
+      "title_zh": null,
+      "year": 1874,
+      "qid": "Q108737025",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q120609061",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q120609061",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 254,
+  "birth_place": "Röcken",
+  "description": "德國哲學家（1844－1900）",
+  "bio": "弗里德里希·威廉·尼采（德語：Friedrich Wilhelm Nietzsche，發音：[ˈfʁiːdʁɪç ˈvɪlhɛlm ˈniːtʃə, - ˈniːtsʃə] ；1844年10月15日—1900年8月25日），德國哲學家、詩人、文化批評家、古典語言學家和作曲人，其著作對現代哲學影響深遠。轉向研究哲學前尼采是古典語文學家，他也以創作詩歌和音樂為副業。\n24歲時，在完成學業後，他被任命為巴塞爾大學古典語文學副教授。1879 年，他因健康原因辭去教職。此後，他開始四處旅行，以尋找適合其健康狀態的環境，主要是在義大利和瑞士。在隨後的十幾年裡，他完成了他的主要著作中的大部分。1889年起，尼采已精神失常，他在餘生中接受母親及妹妹的照護，最後於1900年去世。\n尼采的作品涵蓋了哲學論戰、詩歌創作、文化批評及小說等領域，他表現出對格言體和反諷的喜愛。他的哲學思想的一個主要特點是對真理的強烈批判和支援觀點主義。他批判宗教和基督教道德並提出主奴道德。他對生命以一種美學式的肯定來回應「上帝已死」和虛無主義危機。他將人類描述為競爭意志的表達，並將其總體理解為權力意志。他還提出了一些有影響力的概念，如超人和永恆輪迴。在他晚期的作品中，他越來越關注個體的創造力以克服傳統文化和道德，以追求新的價值和審美健康。他的作品涉及廣泛的主題，包括藝術、語言學、歷史、音樂、宗教、悲劇、文化、科學。\n叔本華的哲學給年輕的尼采留下了特別深刻的印象。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher (1844-1900)",
+  "bio_en": "Friedrich Wilhelm Nietzsche (15 October 1844 – 25 August 1900) was a German philosopher and writer who started his career as a classical philologist and turned to philosophy early in his academic career. In 1869, at age 24, he was appointed Professor of Classical Philology at the University of Basel. Plagued by health problems for most of his life, he resigned from the university in 1879. He afterward lived as an independent writer, spending much of his life in relative solitude and financial insecurity while moving between Switzerland, Italy, and southern France in search of climates that might alleviate his condition, and in the following decade, he completed much of his core writing.",
+  "bio_en_source": "enwiki"
+}

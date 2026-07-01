@@ -1,0 +1,154 @@
+{
+  "id": "Q9391",
+  "qid": "Q9391",
+  "slug": "ludwig-wittgenstein",
+  "name_zh": "路德維希·維根斯坦",
+  "name_en": "Ludwig Wittgenstein",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1889,
+  "death_year": 1951,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.2378,
+      "lon": 16.2861,
+      "place": "Neuwaldegg",
+      "period": [
+        1889,
+        1951
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Austria Hungary",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Austro-Hungarian Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Austria",
+          "start": 1920,
+          "end": 1938
+        },
+        {
+          "polity": "Germany",
+          "start": 1938,
+          "end": 1945
+        },
+        {
+          "polity": "Austria",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 52.208055555,
+      "lon": 0.1225,
+      "place": "Cambridge",
+      "period": [
+        1951,
+        1951
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 47.816666666,
+      "lon": 16.25,
+      "place": "Wiener Neustadt",
+      "period": [
+        1921,
+        1925
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 61.490277777,
+      "lon": 7.600555555,
+      "place": "Skjolden",
+      "period": [
+        1913,
+        1914
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wittgenstein, Ludwig"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wittgenstein, Ludwig"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wittgenstein, Ludwig"
+    }
+  ],
+  "works": [
+    {
+      "title": "Philosophical Investigations",
+      "title_zh": "哲學研究",
+      "year": 1953,
+      "qid": "Q772496",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q655717",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q655717",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 171,
+  "birth_place": "Neuwaldegg",
+  "description": "英國-奧地利哲學家（1889—1951）",
+  "bio": "路德維希·約瑟夫·約翰·維根斯坦（德語：Ludwig Josef Johann Wittgenstein；1889年4月26日—1951年4月29日），奧地利哲學家，後入英國籍。維根斯坦是20世紀最具影響力的哲學家之一，其研究領域主要在邏輯學、語言哲學、心靈哲學和數學哲學等方面。\n1929年至1947年，維根斯坦任教於劍橋大學。 他生前出版的著作不多，只有1921年的《邏輯哲學論》、一篇論文、一篇書評以及一本奧地利小學生的字典。 他的大量手稿於死後編輯出版，其中最著名的是出版於1953年的《哲學研究》，被認為是引導了語言哲學新的走向。一項調查顯示，此書被認為是20世紀哲學最重要的作品之一，作為「20世紀哲學的跨領域傑作，吸引了不同專業和哲學方向的興趣」。\n維根斯坦的哲學常被劃分為早期與晚期，早期的代表作為《邏輯哲學論》，而晚期代表作為《哲學研究》。 「早期維根斯坦思想」關注世界與命題間的邏輯構造，此時的維根斯坦相信，我們可透過這類構造解決所有哲學問題。但是「晚期維根斯坦思想」否定了《邏輯哲學論》中的大部分設想，認為詞語的意義只在給定的語言遊戲中才可更好理解。\n維根斯坦生於維也納鉅富家族，1913年從父親那裡繼承了巨額遺產。一戰前，他「向《Der Brenner》雜誌編輯路德維希·馮·菲克挑選的有需要的詩人和藝術家提供了慷慨資助，其中包括格奧爾格·特拉克爾、萊納·瑪利亞·裡爾克和建築師阿道夫·路斯。",
+  "bio_source": "zhwiki",
+  "description_en": "Austrian philosopher and logician (1889–1951)",
+  "bio_en": "Ludwig Josef Johann Wittgenstein ( VIT-gən-s(h)tyne; Austrian German: [ˈluːdvɪç ˈjoːsɛf ˈjoːhan ˈvɪtɡn̩ʃtaɪn]; 26 April 1889 – 29 April 1951) was an Austro-British philosopher who worked in logic, philosophy of mathematics, philosophy of mind, and philosophy of language.\nWittgenstein was born in Vienna into one of Europe's richest families. From 1911 to 1913, he studied at the University of Cambridge under Bertrand Russell, and interacted closely with others including John Maynard Keynes and G. E. Moore. During this time, he inherited a fortune, part of which he donated to various poets and artists. He also began what would become his first important philosophical work.",
+  "bio_en_source": "enwiki"
+}

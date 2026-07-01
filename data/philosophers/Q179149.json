@@ -1,0 +1,98 @@
+{
+  "id": "Q179149",
+  "qid": "Q179149",
+  "slug": "antisthenes",
+  "name_zh": "安提西尼",
+  "name_en": "Antisthenes",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -444,
+  "death_year": -364,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.937222222,
+      "lon": 23.644722222,
+      "place": "Piraeus",
+      "period": [
+        -444,
+        -364
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Galerius)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 800
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 800,
+          "end": 1492
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1492,
+          "end": 1880
+        },
+        {
+          "polity": "Greece",
+          "start": 1880,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 37.984166666,
+      "lon": 23.728055555,
+      "place": "Athens",
+      "period": [
+        -364,
+        -364
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Antisthenes"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 87,
+  "birth_place": "Piraeus",
+  "description": "古希臘哲學家，創立犬儒學派",
+  "bio": "安提西尼（希臘語：Ἀντισθένης，約前445年—約前365年），或譯為安提斯泰尼，是一名古希臘哲學家，蘇格拉底弟子之一。他生活在雅典，是犬儒學派的奠基人和主要代表。\n在他活著的時候安提西尼應該是雅典最著名的哲學家之一。比他年長20歲的蘇格拉底是他的老師，柏拉圖和他是同代人，他是犬儒學派哲學家錫諾普的第歐根尼的老師。在哲學史中安提西尼常與其他六名同代的哲學家一起被稱為小蘇格拉底。\n除了兩份短小的演講練習外安提西尼的著作沒有能夠流傳下來。今天我們對他的生平和理論的認知全部來自其他古代作家的敘述。總而言之流傳的內容和數目不理想。最重要的文獻來源來自安提西尼的同代人色諾芬和亞里斯多德以及3世紀時的哲學史學家第歐根尼·拉爾修。\n安提西尼最有名的見解是他蔑視奢侈和富貴，提倡自給自足。在邏輯方面他研究了定義和命題等問題，在知識論方面他反對柏拉圖的理型論，對理型的存在提出懷疑。此外他還討論過政治問題以及對荷馬的作品寫過注釋。",
+  "bio_source": "zhwiki",
+  "description_en": "Greek philosopher, founder of Cynicism (c.446–c.366 BCE)",
+  "bio_en": "Antisthenes (; Ancient Greek: Ἀντισθένης, pronounced [an.tis.tʰén.ε:s]; c. 446 – c. 366 BCE) was a Greek philosopher and a pupil of Socrates. Antisthenes first learned rhetoric under Gorgias before becoming an ardent disciple of Socrates. He adopted and developed the ethical side of Socrates' teachings, advocating an ascetic life lived in accordance with virtue. Later writers regarded him as the founder of Cynic philosophy.",
+  "bio_en_source": "enwiki"
+}

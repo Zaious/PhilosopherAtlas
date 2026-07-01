@@ -1,0 +1,78 @@
+{
+  "id": "Q156349",
+  "qid": "Q156349",
+  "slug": "sarvepalli-radhakrishnan",
+  "name_zh": "薩瓦帕利·拉達克里希南",
+  "name_en": "Sarvepalli Radhakrishnan",
+  "tradition": "indian",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1888,
+  "death_year": 1975,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 13.18333333,
+      "lon": 79.63333333,
+      "place": "Tiruttani",
+      "period": [
+        1888,
+        1975
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "British Raj",
+          "start": 1880,
+          "end": 1945
+        },
+        {
+          "polity": "India",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 13.0825,
+      "lon": 80.275,
+      "place": "Chennai",
+      "period": [
+        1975,
+        1975
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Radhakrishnan, Sarvepalli"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 87,
+  "birth_place": "Tiruttani",
+  "description": "2nd President and 1st Vice President of India, Indian philosopher and politician (1888–1975)",
+  "bio": "薩瓦帕利·拉達克里希南爵士（泰盧固語：సర్వేపల్లి రాధాకృష్ణ，羅馬化：Sarvēpalli rādhākr̥ṣṇa，英語：Sir Sarvepalli Radhakrishnan，1888年9月5日—1975年4月17日），傳統譯法為羅陀奎師那（rādhākṛṣṇa），功績勳章獲得者，印度哲學家，政治家。拉達克里希南爵士曾擔任印度第一任副總統（1952-1962年）和印度第二任總統（1962–1967年）。\n拉達克里希南是印度20世紀傑出的宗教比較和哲學研究者，曾擔任牛津大學的斯伯丁東方宗教與倫理學教授（1936-1952年）。拉達克里希南的哲學從吠檀多不二論出發，曾於1926年，1929年和1930年擔任牛津大學曼徹斯特學院的厄普頓講師。拉達克里希南於1931年獲得騎士勳章，1954年獲得印度最高公民獎，於1963年獲得OM。1930年，他被任命為芝加哥大學宗教比較的哈斯克爾講師。",
+  "bio_source": "zhwiki",
+  "description_en": "2nd President and 1st Vice President of India, Indian philosopher and politician (1888–1975)",
+  "bio_en": "Sarvepalli Radhakrishnan (; 5 September 1888 – 17 April 1975) was an Indian academic, philosopher and statesman who served as the Vice President of India from 1952 to 1962 and President of India from 1962 to 1967. He was the ambassador of India to the Soviet Union from 1949 to 1952. He was also the vice-chancellor of Banaras Hindu University from 1939 to 1948 and the vice-chancellor of Andhra University from 1931 to 1936.",
+  "bio_en_source": "enwiki"
+}

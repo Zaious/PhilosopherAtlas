@@ -1,0 +1,156 @@
+{
+  "id": "Q47739",
+  "qid": "Q47739",
+  "slug": "zhuang-zhou",
+  "name_zh": "莊子",
+  "name_en": "Zhuang Zhou",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -368,
+  "death_year": -287,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 34.42592,
+      "lon": 115.64673,
+      "place": "Shangqiu",
+      "period": [
+        -368,
+        -287
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Toba Wei",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Zhuangzi"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Zhuangzi"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Zhuangzi [Chuang-Tzu]"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Zhuangzi"
+    }
+  ],
+  "works": [
+    {
+      "title": "Zhuangzi",
+      "title_zh": "莊子",
+      "year": null,
+      "qid": "Q1074987",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 5,
+  "sitelinks": 98,
+  "birth_place": "Shangqiu",
+  "description": "中國戰國時期思想家",
+  "bio": "莊子（約前369年—前286年），莊氏，名周，一說字子休，約與孟子同時，宋國蒙人，曾任漆園吏。為中國戰國中期思想家、哲學家、文學家，是道家學派的代表人物，老子思想的繼承和發展者，後世將他和老子並稱為「老莊」。在西元742年，唐玄宗天寶初，詔封莊周為南華真人，稱其著書《莊子》為南華經，在四庫全書之中歸類為子部道家類。宋徽宗時，他被追封為「微妙元通真君」。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese Taoist philosopher (c. 369–286 BC)",
+  "bio_en": "Zhuang Zhou (US: , UK: ), honorifically often known as Zhuangzi (US: ), was an influential Chinese philosopher who lived around the 4th century BCE during the Warring States period, a period of great development in Chinese philosophy, the Hundred Schools of Thought. He is credited with writing—in part or in whole—a work known by his name, the Zhuangzi, which is one of two foundational texts of Taoism, alongside the Tao Te Ching.",
+  "bio_en_source": "enwiki"
+}

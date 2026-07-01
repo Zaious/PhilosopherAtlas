@@ -1,0 +1,126 @@
+{
+  "id": "Q76826",
+  "qid": "Q76826",
+  "slug": "max-horkheimer",
+  "name_zh": "麥克斯·霍克海默",
+  "name_en": "Max Horkheimer",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1895,
+  "death_year": 1973,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.8323,
+      "lon": 9.1685,
+      "place": "Zuffenhausen",
+      "period": [
+        1895,
+        1973
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (USA)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 49.453888888,
+      "lon": 11.0775,
+      "place": "Nuremberg",
+      "period": [
+        1973,
+        1973
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Horkheimer, Max"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Dialectic of Enlightenment",
+      "title_zh": "啟蒙辯證法",
+      "year": 1944,
+      "qid": "Q1208415",
+      "source": "wikidata"
+    },
+    {
+      "title": "Eclipse of Reason",
+      "title_zh": "工具理性批判",
+      "year": 1947,
+      "qid": "Q5333038",
+      "source": "wikidata"
+    },
+    {
+      "title": "Gesammelte Schriften",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q17416494",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 65,
+  "birth_place": "Zuffenhausen",
+  "description": "德國哲學家（Max Horkheimer，1895—1973）",
+  "bio": "麥克斯·霍克海默（德語：Max Horkheimer，1895年2月14日—1973年7月7日），是一位德國哲學家、社會學家，法蘭克福學派的創始人之一。\n霍克海默1895年2月14日生於斯圖加特一個工廠主家庭。1922年在法蘭克福大學獲哲學博士學位。1925年任該大學教授，後兼任哲學系主任。1930年任法蘭克福大學社會研究所所長，創辦了《社會研究雜誌》，廣泛吸收了一批經濟學家、哲學家、心理學家和歷史學，致力於對現代資本主義社會進行多學科的綜合研究。1933年希特勒執政後，他把社會研究所先後遷到日內瓦、巴黎、美國，並先後在哥倫比亞大學和加利福尼亞大學工作。1949-1950年他把社會研究所遷返法蘭克福，仍任所長。1953年退休。1973年7月7日卒於德國紐倫堡。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher and sociologist (1895–1973)",
+  "bio_en": "Max Horkheimer ( HORK-hy-mər; German: [ˈhɔɐ̯kˌhaɪmɐ]; 14 February 1895 – 7 July 1973) was a German philosopher and sociologist best known for his role in developing critical theory as director of the Institute for Social Research, commonly associated with the Frankfurt School.\nAdvancing a materialist theory of reason and society, Horkheimer analyzed the rise of instrumental reason, the erosion of the concept of truth, the decline of individual autonomy, the social-psychological roots of authoritarianism, and the reproduction of domination under modern capitalism.",
+  "bio_en_source": "enwiki"
+}

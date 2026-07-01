@@ -1,0 +1,87 @@
+{
+  "id": "Q83041",
+  "qid": "Q83041",
+  "slug": "anaxagoras",
+  "name_zh": "阿那克薩哥拉",
+  "name_en": "Anaxagoras",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -499,
+  "death_year": -427,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 38.35816667,
+      "lon": 26.76758333,
+      "place": "Klazomenai",
+      "period": [
+        -499,
+        -427
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 40.346685,
+      "lon": 26.699162,
+      "place": "Lampsacus",
+      "period": [
+        -427,
+        -427
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 40.343889,
+      "lon": 26.683611,
+      "place": "Lampsacus",
+      "period": [
+        -427,
+        -427
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Anaxagoras"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Anaxagoras"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 112,
+  "birth_place": "Klazomenai",
+  "description": "古希臘哲學家",
+  "bio": "阿那克薩哥拉（希臘語：Αναξαγόρας，前500年—前428年），伊奧尼亞人，古希臘哲學家、科學家，他首先把哲學帶到雅典，影響了蘇格拉底的思想。",
+  "bio_source": "zhwiki",
+  "description_en": "5th-century BC Greek philosopher",
+  "bio_en": "Anaxagoras (; Ancient Greek: Ἀναξαγόρας, Anaxagóras, 'lord of the assembly'; c. 500 BC – c. 428 BC) was a Pre-Socratic Greek philosopher. Born in Clazomenae at a time when Asia Minor was under the control of the Persian Empire, Anaxagoras came to Athens. In later life he was charged with impiety and went into exile in Lampsacus.\nResponding to the claims of Parmenides on the impossibility of change, Anaxagoras introduced the concept of Nous (Cosmic Mind) as an ordering force. He also gave several novel scientific accounts of natural phenomena, including the notion of panspermia, that life exists throughout the universe and could be distributed everywhere.",
+  "bio_en_source": "enwiki"
+}

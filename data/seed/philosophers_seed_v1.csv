@@ -1,0 +1,146 @@
+﻿id,name_zh,name_native,birth_year,death_year,date_certainty,tradition,centrality,place_name,lat,lon,school,works
+phil-0001,泰利斯,Θαλῆς,-624,-546,approx,greek,core,Miletus,37.53,27.28,presocratic,On Nature (lost)
+phil-0002,阿那克西曼德,Ἀναξίμανδρος,-610,-546,approx,greek,core,Miletus,37.53,27.28,presocratic,On Nature (lost)
+phil-0003,畢達哥拉斯,Πυθαγόρας,-570,-495,disputed,greek,core,Samos,37.75,26.98,presocratic,—
+phil-0004,赫拉克利特,Ἡράκλειτος,-535,-475,approx,greek,core,Ephesus,37.94,27.34,presocratic,On Nature (fragments)
+phil-0005,巴門尼德,Παρμενίδης,-515,-450,approx,greek,core,Elea,40.16,15.15,presocratic,On Nature
+phil-0006,芝諾(伊利亞),Ζήνων ὁ Ἐλεάτης,-490,-430,approx,greek,core,Elea,40.16,15.15,presocratic,Paradoxes
+phil-0007,恩培多克勒,Ἐμπεδοκλῆς,-494,-434,approx,greek,core,Akragas,37.31,13.59,presocratic,On Nature; Purifications
+phil-0008,德謨克利特,Δημόκριτος,-460,-370,approx,greek,core,Abdera,40.94,24.97,atomism,fragments
+phil-0009,普羅泰戈拉,Πρωταγόρας,-490,-420,approx,greek,core,Abdera,40.94,24.97,sophism,Truth (lost)
+phil-0010,蘇格拉底,Σωκράτης,-470,-399,approx,greek,core,Athens,37.98,23.73,socratic,—(述而不作)
+phil-0011,柏拉圖,Πλάτων,-428,-348,approx,greek,core,Athens,37.98,23.73,platonism,Republic; Phaedo; Symposium
+phil-0012,亞里斯多德,Ἀριστοτέλης,-384,-322,exact,greek,core,Athens,37.98,23.73,aristotelianism,Nicomachean Ethics; Metaphysics; Organon
+phil-0013,第歐根尼,Διογένης,-412,-323,approx,greek,core,Athens,37.98,23.73,cynicism,—
+phil-0014,伊比鳩魯,Ἐπίκουρος,-341,-270,approx,greek,core,Athens,37.98,23.73,epicureanism,Letter to Menoeceus
+phil-0015,季蒂昂的芝諾,Ζήνων ὁ Κιτιεύς,-334,-262,approx,greek,core,Athens,37.98,23.73,stoicism,—(斯多葛創始)
+phil-0016,皮浪,Πύρρων,-360,-270,approx,greek,core,Elea,40.16,15.15,skepticism,—
+phil-0017,普羅提諾,Πλωτῖνος,204,270,approx,greek,core,Rome,41.9,12.5,neoplatonism,Enneads
+phil-0018,西塞羅,Marcus Tullius Cicero,-106,-43,exact,greco_roman,contested,Rome,41.9,12.5,stoicism,De Officiis; De Natura Deorum
+phil-0019,塞內卡,Lucius Annaeus Seneca,-4,65,approx,greco_roman,core,Rome,41.9,12.5,stoicism,Letters to Lucilius
+phil-0020,愛比克泰德,Ἐπίκτητος,50,135,approx,greco_roman,core,Nicopolis,39.02,20.73,stoicism,Enchiridion; Discourses
+phil-0021,馬可·奧理略,Marcus Aurelius,121,180,exact,greco_roman,core,Rome,41.9,12.5,stoicism,Meditations
+phil-0022,塞克斯圖斯·恩丕里柯,Σέξτος Ἐμπειρικός,160,210,approx,greco_roman,core,Alexandria,31.2,29.92,skepticism,Outlines of Pyrrhonism
+phil-0023,希帕提婭,Ὑπατία,350,415,approx,greek,contested,Alexandria,31.2,29.92,neoplatonism,commentaries (lost)
+phil-0024,奧古斯丁,Aurelius Augustinus,354,430,exact,european,core,Hippo,36.9,7.77,patristics,Confessions; City of God
+phil-0025,波愛修斯,Boethius,477,524,approx,european,core,Rome,41.9,12.5,scholasticism,Consolation of Philosophy
+phil-0026,安瑟倫,Anselmus,1033,1109,approx,european,core,Canterbury,51.28,1.08,scholasticism,Proslogion; Monologion
+phil-0027,阿伯拉爾,Petrus Abaelardus,1079,1142,exact,european,core,Paris,48.86,2.35,scholasticism,Sic et Non
+phil-0028,多瑪斯·阿奎那,Thomas Aquinas,1225,1274,approx,european,core,Naples,40.85,14.27,scholasticism,Summa Theologiae
+phil-0029,鄧斯·司各脫,Johannes Duns Scotus,1266,1308,approx,european,core,Oxford,51.75,-1.26,scholasticism,Ordinatio
+phil-0030,奧卡姆的威廉,William of Ockham,1287,1347,approx,european,core,Munich,48.14,11.58,scholasticism,Summa Logicae
+phil-0031,馬基維利,Niccolò Machiavelli,1469,1527,exact,european,contested,Florence,43.77,11.26,political_theory,The Prince; Discourses
+phil-0032,蒙田,Michel de Montaigne,1533,1592,exact,european,core,Bordeaux,44.84,-0.58,skepticism,Essais
+phil-0033,法蘭西斯·培根,Francis Bacon,1561,1626,exact,european,core,London,51.51,-0.13,empiricism,Novum Organum
+phil-0034,霍布斯,Thomas Hobbes,1588,1679,exact,european,core,London,51.51,-0.13,social_contract,Leviathan
+phil-0035,笛卡兒,René Descartes,1596,1650,exact,european,core,Amsterdam,52.37,4.9,rationalism,Meditations; Discourse on Method
+phil-0036,斯賓諾莎,Baruch Spinoza,1632,1677,exact,european,core,The Hague,52.08,4.31,rationalism,Ethics
+phil-0037,洛克,John Locke,1632,1704,exact,european,core,London,51.51,-0.13,empiricism,Essay Concerning Human Understanding
+phil-0038,萊布尼茲,Gottfried Wilhelm Leibniz,1646,1716,exact,european,core,Hanover,52.37,9.73,rationalism,Monadology
+phil-0039,柏克萊,George Berkeley,1685,1753,exact,european,core,Dublin,53.35,-6.26,empiricism,Principles of Human Knowledge
+phil-0040,孟德斯鳩,Montesquieu,1689,1755,exact,european,core,Bordeaux,44.84,-0.58,enlightenment,The Spirit of the Laws
+phil-0041,伏爾泰,Voltaire,1694,1778,exact,european,core,Paris,48.86,2.35,enlightenment,Candide; Philosophical Letters
+phil-0042,休謨,David Hume,1711,1776,exact,european,core,Edinburgh,55.95,-3.19,empiricism,A Treatise of Human Nature
+phil-0043,盧梭,Jean-Jacques Rousseau,1712,1778,exact,european,core,Geneva,46.2,6.14,social_contract,The Social Contract; Emile
+phil-0044,亞當·斯密,Adam Smith,1723,1790,exact,european,contested,Glasgow,55.86,-4.25,enlightenment,The Wealth of Nations; Moral Sentiments
+phil-0045,康德,Immanuel Kant,1724,1804,exact,european,core,Konigsberg,54.71,20.45,german_idealism,Critique of Pure Reason
+phil-0046,邊沁,Jeremy Bentham,1748,1832,exact,european,core,London,51.51,-0.13,utilitarianism,Principles of Morals and Legislation
+phil-0047,費希特,J. G. Fichte,1762,1814,exact,european,core,Berlin,52.52,13.4,german_idealism,Science of Knowledge
+phil-0048,黑格爾,G. W. F. Hegel,1770,1831,exact,european,core,Berlin,52.52,13.4,german_idealism,Phenomenology of Spirit
+phil-0049,謝林,F. W. J. Schelling,1775,1854,exact,european,core,Jena,50.93,11.59,german_idealism,System of Transcendental Idealism
+phil-0050,叔本華,Arthur Schopenhauer,1788,1860,exact,european,core,Frankfurt,50.11,8.68,romanticism,The World as Will and Representation
+phil-0051,孔德,Auguste Comte,1798,1857,exact,european,core,Paris,48.86,2.35,positivism,Course of Positive Philosophy
+phil-0052,約翰·斯圖亞特·彌爾,John Stuart Mill,1806,1873,exact,european,core,London,51.51,-0.13,utilitarianism,On Liberty; Utilitarianism
+phil-0053,齊克果,Søren Kierkegaard,1813,1855,exact,european,core,Copenhagen,55.68,12.57,existentialism,Either/Or; Fear and Trembling
+phil-0054,馬克思,Karl Marx,1818,1883,exact,european,contested,London,51.51,-0.13,marxism,Capital; Communist Manifesto
+phil-0055,尼采,Friedrich Nietzsche,1844,1900,exact,european,core,Basel,47.56,7.59,existentialism,Thus Spoke Zarathustra; Genealogy of Morals
+phil-0056,弗雷格,Gottlob Frege,1848,1925,exact,european,core,Jena,50.93,11.59,analytic,Begriffsschrift; Foundations of Arithmetic
+phil-0057,胡塞爾,Edmund Husserl,1859,1938,exact,european,core,Freiburg,47.99,7.85,phenomenology,Logical Investigations; Ideas
+phil-0058,柏格森,Henri Bergson,1859,1941,exact,european,core,Paris,48.86,2.35,process,Creative Evolution
+phil-0059,杜威,John Dewey,1859,1952,exact,european,core,New York,40.71,-74.01,pragmatism,Democracy and Education
+phil-0060,懷特海,Alfred North Whitehead,1861,1947,exact,european,core,Harvard,42.37,-71.12,process,Process and Reality
+phil-0061,羅素,Bertrand Russell,1872,1970,exact,european,core,Cambridge UK,52.2,0.12,analytic,Principia Mathematica
+phil-0062,摩爾,G. E. Moore,1873,1958,exact,european,core,Cambridge UK,52.2,0.12,analytic,Principia Ethica
+phil-0063,維根斯坦,Ludwig Wittgenstein,1889,1951,exact,european,core,Cambridge UK,52.2,0.12,ordinary_language,Tractatus; Philosophical Investigations
+phil-0064,海德格,Martin Heidegger,1889,1976,exact,european,core,Freiburg,47.99,7.85,phenomenology,Being and Time
+phil-0065,卡爾納普,Rudolf Carnap,1891,1970,exact,european,core,Vienna,48.21,16.37,logical_positivism,The Logical Structure of the World
+phil-0066,霍克海默,Max Horkheimer,1895,1973,exact,european,core,Frankfurt,50.11,8.68,critical_theory,Dialectic of Enlightenment
+phil-0067,阿多諾,Theodor W. Adorno,1903,1969,exact,european,core,Frankfurt,50.11,8.68,critical_theory,Negative Dialectics; Dialectic of Enlightenment
+phil-0068,漢娜·鄂蘭,Hannah Arendt,1906,1975,exact,european,core,New York,40.71,-74.01,political_theory,The Human Condition
+phil-0069,列維納斯,Emmanuel Lévinas,1906,1995,exact,european,core,Paris,48.86,2.35,phenomenology,Totality and Infinity
+phil-0070,沙特,Jean-Paul Sartre,1905,1980,exact,european,core,Paris,48.86,2.35,existentialism,Being and Nothingness
+phil-0071,梅洛龐蒂,Maurice Merleau-Ponty,1908,1961,exact,european,core,Paris,48.86,2.35,phenomenology,Phenomenology of Perception
+phil-0072,西蒙·波娃,Simone de Beauvoir,1908,1986,exact,european,core,Paris,48.86,2.35,existentialism,The Second Sex
+phil-0073,蒯因,W. V. O. Quine,1908,2000,exact,european,core,Harvard,42.37,-71.12,analytic,Two Dogmas of Empiricism; Word and Object
+phil-0074,呂格爾,Paul Ricœur,1913,2005,exact,european,core,Paris,48.86,2.35,hermeneutics,Time and Narrative; Oneself as Another
+phil-0075,卡繆,Albert Camus,1913,1960,exact,european,contested,Paris,48.86,2.35,existentialism,The Myth of Sisyphus; The Rebel
+phil-0076,高達美,Hans-Georg Gadamer,1900,2002,exact,european,core,Heidelberg,49.4,8.69,hermeneutics,Truth and Method
+phil-0077,波普爾,Karl Popper,1902,1994,exact,european,core,London,51.51,-0.13,analytic,The Logic of Scientific Discovery
+phil-0078,羅爾斯,John Rawls,1921,2002,exact,european,core,Harvard,42.37,-71.12,political_theory,A Theory of Justice
+phil-0079,傅柯,Michel Foucault,1926,1984,exact,european,core,Paris,48.86,2.35,poststructuralism,Discipline and Punish; The Order of Things
+phil-0080,德勒茲,Gilles Deleuze,1925,1995,exact,european,core,Paris,48.86,2.35,poststructuralism,Difference and Repetition
+phil-0081,德希達,Jacques Derrida,1930,2004,exact,european,core,Paris,48.86,2.35,poststructuralism,Of Grammatology
+phil-0082,皮爾士,Charles Sanders Peirce,1839,1914,exact,european,core,Harvard,42.37,-71.12,pragmatism,How to Make Our Ideas Clear
+phil-0083,威廉·詹姆斯,William James,1842,1910,exact,european,core,Harvard,42.37,-71.12,pragmatism,Pragmatism; Varieties of Religious Experience
+phil-0084,桑塔亞那,George Santayana,1863,1952,exact,european,core,Harvard,42.37,-71.12,pragmatism,The Life of Reason
+phil-0085,老子,老子,-571,-471,disputed,chinese,core,Luoyang,34.62,112.45,daoism,道德經
+phil-0086,孔子,孔丘,-551,-479,exact,chinese,core,Qufu,35.6,116.99,confucianism,論語(弟子輯)
+phil-0087,孫子,孫武,-544,-496,disputed,chinese,contested,Jixia,36.83,118.31,military_strategy,孫子兵法
+phil-0088,墨子,墨翟,-470,-391,approx,chinese,core,Qufu,35.6,116.99,mohism,墨子
+phil-0089,莊子,莊周,-369,-286,approx,chinese,core,Zou,35.4,117.0,daoism,莊子(南華經)
+phil-0090,孟子,孟軻,-372,-289,approx,chinese,core,Zou,35.4,117.0,confucianism,孟子
+phil-0091,荀子,荀況,-310,-235,approx,chinese,core,Jixia,36.83,118.31,confucianism,荀子
+phil-0092,韓非,韓非,-280,-233,approx,chinese,core,Luoyang,34.62,112.45,legalism,韓非子
+phil-0093,公孫龍,公孫龍,-320,-250,approx,chinese,core,Jixia,36.83,118.31,school_of_names,公孫龍子
+phil-0094,董仲舒,董仲舒,-179,-104,approx,chinese,core,Luoyang,34.62,112.45,confucianism,春秋繁露
+phil-0095,王充,王充,27,100,approx,chinese,core,Luoyang,34.62,112.45,han_learning,論衡
+phil-0096,王弼,王弼,226,249,exact,chinese,core,Luoyang,34.62,112.45,neo_daoism,老子注; 周易注
+phil-0097,周敦頤,周敦頤,1017,1073,exact,chinese,core,Beijing,39.9,116.4,neo_confucianism,太極圖說; 通書
+phil-0098,張載,張載,1020,1077,exact,chinese,core,Beijing,39.9,116.4,neo_confucianism,正蒙
+phil-0099,程頤,程頤,1033,1107,exact,chinese,core,Luoyang,34.62,112.45,neo_confucianism,易傳
+phil-0100,朱熹,朱熹,1130,1200,exact,chinese,core,Beijing,39.9,116.4,neo_confucianism,四書章句集注
+phil-0101,陸九淵,陸九淵,1139,1193,exact,chinese,core,Beijing,39.9,116.4,school_of_mind,象山語錄
+phil-0102,王陽明,王守仁,1472,1529,exact,chinese,core,Beijing,39.9,116.4,school_of_mind,傳習錄
+phil-0103,王夫之,王夫之,1619,1692,exact,chinese,core,Hengyang,26.89,112.57,neo_confucianism,讀通鑑論; 張子正蒙注
+phil-0104,戴震,戴震,1724,1777,exact,chinese,core,Beijing,39.9,116.4,han_learning,孟子字義疏證
+phil-0105,馮友蘭,馮友蘭,1895,1990,exact,chinese,core,Beijing,39.9,116.4,new_confucianism,中國哲學史; 新理學
+phil-0106,牟宗三,牟宗三,1909,1995,exact,chinese,core,Beijing,39.9,116.4,new_confucianism,心體與性體
+phil-0107,佛陀(釋迦牟尼),सिद्धार्थ गौतम,-563,-483,disputed,indian,core,Lumbini,27.47,83.28,early_buddhism,—(經藏結集)
+phil-0108,大雄,महावीर,-599,-527,disputed,indian,core,Magadha,24.7,84.99,jainism,—
+phil-0109,帕坦伽利,पतञ्जलि,-200,150,disputed,indian,core,Magadha,24.7,84.99,yoga,Yoga Sutras
+phil-0110,龍樹,नागार्जुन,150,250,approx,indian,core,Nalanda,25.14,85.44,madhyamaka,中論 (Mūlamadhyamakakārikā)
+phil-0111,無著,असङ्ग,300,370,approx,indian,core,Nalanda,25.14,85.44,yogacara,攝大乘論
+phil-0112,世親,वसुबन्धु,316,396,approx,indian,core,Nalanda,25.14,85.44,yogacara,唯識三十頌; 俱舍論
+phil-0113,陳那,दिग्नाग,480,540,approx,indian,core,Nalanda,25.14,85.44,buddhist_logic,集量論
+phil-0114,法稱,धर्मकीर्ति,600,660,approx,indian,core,Nalanda,25.14,85.44,buddhist_logic,量評釋
+phil-0115,商羯羅,आदि शङ्कर,700,750,approx,indian,core,Kaladi,10.17,76.43,advaita_vedanta,梵經注; 示教千則
+phil-0116,羅摩奴闍,रामानुज,1017,1137,approx,indian,core,Sriperumbudur,12.97,79.94,vishishtadvaita,Sri Bhashya
+phil-0117,摩陀婆,मध्वाचार्य,1238,1317,approx,indian,core,Udupi,13.34,74.75,dvaita,Brahma Sutra Bhashya
+phil-0118,奧羅賓多,Sri Aurobindo,1872,1950,exact,indian,core,Pondicherry,11.93,79.83,neo_vedanta,The Life Divine
+phil-0119,拉達克里希南,S. Radhakrishnan,1888,1975,exact,indian,core,Pondicherry,11.93,79.83,neo_vedanta,Indian Philosophy
+phil-0120,克里希那穆提,Jiddu Krishnamurti,1895,1986,exact,indian,contested,Pondicherry,11.93,79.83,neo_vedanta,Freedom from the Known
+phil-0121,肯迪,الكندي,801,873,approx,islamic,core,Baghdad,33.31,44.36,falsafa,On First Philosophy
+phil-0122,法拉比,الفارابي,872,950,approx,islamic,core,Baghdad,33.31,44.36,falsafa,The Virtuous City
+phil-0123,伊本·西那(阿維森納),ابن سينا,980,1037,exact,islamic,core,Hamadan,34.8,48.52,falsafa,The Book of Healing; The Canon of Medicine
+phil-0124,安薩里,الغزالي,1058,1111,approx,islamic,core,Tus,36.49,59.61,kalam,The Incoherence of the Philosophers
+phil-0125,伊本·魯世德(阿威羅伊),ابن رشد,1126,1198,exact,islamic,core,Cordoba,37.89,-4.78,falsafa,The Incoherence of the Incoherence
+phil-0126,伊本·圖斐利,ابن طفيل,1105,1185,approx,islamic,core,Cordoba,37.89,-4.78,falsafa,Hayy ibn Yaqzan
+phil-0127,蘇赫拉瓦爾迪,السهروردي,1154,1191,approx,islamic,core,Aleppo,36.2,37.16,illuminationism,The Philosophy of Illumination
+phil-0128,伊本·阿拉比,ابن عربي,1165,1240,approx,islamic,core,Damascus,33.51,36.29,sufism,The Bezels of Wisdom
+phil-0129,伊本·赫勒敦,ابن خلدون,1332,1406,exact,islamic,contested,Cairo,30.04,31.24,historiography,Muqaddimah
+phil-0130,穆拉·薩德拉,ملا صدرا,1571,1640,approx,islamic,core,Isfahan,32.65,51.67,transcendent_theosophy,The Four Journeys
+phil-0131,斐洛,Φίλων,-25,50,approx,jewish,core,Alexandria,31.2,29.92,jewish_philosophy,On the Creation
+phil-0132,薩阿底亞·迦昂,سعيد الفيومي,882,942,approx,jewish,core,Baghdad,33.31,44.36,jewish_philosophy,Book of Beliefs and Opinions
+phil-0133,邁蒙尼德,משה בן מימון,1138,1204,exact,jewish,core,Cairo,30.04,31.24,jewish_philosophy,The Guide for the Perplexed
+phil-0134,馬丁·布伯,Martin Buber,1878,1965,exact,jewish,core,Jerusalem,31.78,35.22,jewish_philosophy,I and Thou
+phil-0135,空海,空海,774,835,exact,japanese,core,Koyasan,34.21,135.58,shingon,十住心論; 即身成佛義
+phil-0136,道元,道元,1200,1253,exact,japanese,core,Kamakura,35.32,139.55,zen,正法眼藏
+phil-0137,西田幾多郎,西田幾多郎,1870,1945,exact,japanese,core,Kyoto,35.01,135.77,kyoto_school,善的研究
+phil-0138,和辻哲郎,和辻哲郎,1889,1960,exact,japanese,core,Kyoto,35.01,135.77,kyoto_school,風土; 倫理學
+phil-0139,元曉,元曉,617,686,exact,korean,core,Gyeongju,35.86,129.22,buddhist_philosophy,大乘起信論疏; 十門和諍論
+phil-0140,李滉(退溪),李滉,1501,1570,exact,korean,core,Andong,36.57,128.73,korean_neo_confucianism,聖學十圖
+phil-0141,李珥(栗谷),李珥,1536,1584,exact,korean,core,Hanyang,37.57,126.98,korean_neo_confucianism,聖學輯要
+phil-0142,澤拉·雅各,ዘርዓ ያዕቆብ,1599,1692,approx,african,core,Gondar,12.61,37.47,ethiopian_rationalism,Hatata (探究)
+phil-0143,阿莫,Anton Wilhelm Amo,1703,1759,approx,african,contested,Halle,51.48,11.97,africana,On the Impassivity of the Human Mind
+phil-0144,胡安娜修女,Sor Juana Inés de la Cruz,1648,1695,exact,latin_american,contested,Mexico City,19.43,-99.13,proto_feminism,Respuesta a Sor Filotea
+phil-0145,瑪格麗特·卡文迪許,Margaret Cavendish,1623,1673,exact,european,contested,London,51.51,-0.13,natural_philosophy,Observations upon Experimental Philosophy; The Blazing World

@@ -1,0 +1,135 @@
+{
+  "id": "Q9364",
+  "qid": "Q9364",
+  "slug": "jeanpaul-sartre",
+  "name_zh": "尚-保羅·沙特",
+  "name_en": "Jean-Paul Sartre",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1905,
+  "death_year": 1980,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        1905,
+        1980
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1900,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.833022222,
+      "lon": 2.326888888,
+      "place": "14th arrondissement of Paris",
+      "period": [
+        1980,
+        1980
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.494166666,
+      "lon": 0.108055555,
+      "place": "Le Havre",
+      "period": [
+        1931,
+        1936
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 46.159444444,
+      "lon": -1.151388888,
+      "place": "La Rochelle",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.564444444,
+      "lon": 3.620555555,
+      "place": "Laon",
+      "period": [
+        1936,
+        1937
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.8075,
+      "lon": 2.240277777,
+      "place": "Meudon",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Sartre, Jean-Paul"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Sartre, Jean-Paul"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Sartre, Jean-Paul"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 4,
+  "sitelinks": 198,
+  "birth_place": "Paris",
+  "description": "法國劇作家",
+  "bio": "尚-保羅·夏勒·艾馬爾·沙特（法語：Jean-Paul Charles Aymard Sartre；1905年6月21日—1980年4月15日），法國哲學家、劇作家、小說家、編劇、政治活動家、傳記作家、文學評論家。他是存在主義、現象學哲學的關鍵人物之一，也是20世紀法國哲學及馬克思主義哲學的領軍人物之一。他的思想、學說等也影響及社會學、批判理論、後殖民理論、文學研究。儘管試圖拒絕，他還是獲得1964年諾貝爾文學獎。他總是拒絕官方榮譽，並表示「作家不應該讓自己變成一個機構」。\n沙特還因與著名女權主義者、存在主義哲學家、作家西蒙·德·波娃之間的開放式關係而聞名。兩人一起挑戰了他們成長過程中的文化、社會假設和期望，他們認為這是資產階級的生活方式、思想。壓迫性的、精神上破壞性的一致性（mauvaise foi，字面意思是「惡意」）、「真實」的「存有」方式之間的衝突成為薩特早期作品的主要主題，這一主題體現在他的主要哲學著作《存在與虛無》（法語：L'Être et le Néant，1943年）。 沙特在其作品《存在主義是一種人道主義》中介紹了其哲學思想。（法語：L'existentialisme est un humanisme，1946年）。",
+  "bio_source": "zhwiki",
+  "description_en": "French existentialist philosopher (1905–1980)",
+  "bio_en": "Jean-Paul Charles Aymard Sartre (, US also ; French: [saʁtʁ]; 21 June 1905 – 15 April 1980) was a French philosopher, playwright, novelist, screenwriter, political activist, biographer, and literary critic, considered a leading figure in 20th-century French philosophy and Marxism. Sartre was one of the key figures in the philosophy of existentialism (and phenomenology) and was a proponent of Libertarian Marxism. His work has influenced sociology, critical theory, post-colonial theory, and literary studies.",
+  "bio_en_source": "enwiki"
+}

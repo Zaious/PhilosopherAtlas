@@ -1,0 +1,280 @@
+{
+  "id": "Q9047",
+  "qid": "Q9047",
+  "slug": "gottfried-wilhelm-leibniz",
+  "name_zh": "哥特佛萊德·萊布尼茲",
+  "name_en": "Gottfried Wilhelm Leibniz",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1646,
+  "death_year": 1716,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.3406321,
+      "lon": 12.3747329,
+      "place": "Leipzig",
+      "period": [
+        1646,
+        1716
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1600,
+          "end": 1783
+        },
+        {
+          "polity": "Saxony",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (Soviet)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "East Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 52.374444444,
+      "lon": 9.738611111,
+      "place": "Hanover",
+      "period": [
+        1716,
+        1716
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.516666666,
+      "lon": 13.383333333,
+      "place": "Berlin",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.507222222,
+      "lon": -0.1275,
+      "place": "London",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 41.893055555,
+      "lon": 12.482777777,
+      "place": "Rome",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.208333333,
+      "lon": 16.3725,
+      "place": "Vienna",
+      "period": [
+        1712,
+        1714
+      ],
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.162222222,
+      "lon": 10.536944444,
+      "place": "Wolfenbüttel",
+      "period": [
+        1690,
+        null
+      ],
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.3875,
+      "lon": 11.356944444,
+      "place": "Altdorf bei Nürnberg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Leibniz, Gottfried Wilhelm"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Leibniz, Gottfried Wilhelm"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Leibniz, Gottfried Wilhelm"
+    }
+  ],
+  "works": [
+    {
+      "title": "Monadology",
+      "title_zh": "單子論",
+      "year": 1720,
+      "qid": "Q1211539",
+      "source": "wikidata"
+    },
+    {
+      "title": "integral calculus",
+      "title_zh": "積分學",
+      "year": null,
+      "qid": "Q150008",
+      "source": "wikidata"
+    },
+    {
+      "title": "Discourse on Metaphysics",
+      "title_zh": "形上學論",
+      "year": 1686,
+      "qid": "Q3030194",
+      "source": "wikidata"
+    },
+    {
+      "title": "Stepped Reckoner",
+      "title_zh": "步進計算器",
+      "year": null,
+      "qid": "Q1968697",
+      "source": "wikidata"
+    },
+    {
+      "title": "Leibniz's notation",
+      "title_zh": "萊布尼茨標記",
+      "year": null,
+      "qid": "Q1069516",
+      "source": "wikidata"
+    },
+    {
+      "title": "calculus ratiocinator",
+      "title_zh": "推理演算",
+      "year": null,
+      "qid": "Q577001",
+      "source": "wikidata"
+    },
+    {
+      "title": "Théodicée",
+      "title_zh": null,
+      "year": 1710,
+      "qid": "Q2166858",
+      "source": "wikidata"
+    },
+    {
+      "title": "New Essays on Human Understanding",
+      "title_zh": null,
+      "year": 1765,
+      "qid": "Q2720221",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q16934224",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q16934224",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q19234609",
+      "title_zh": null,
+      "year": 1695,
+      "qid": "Q19234609",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 204,
+  "birth_place": "Leipzig",
+  "description": "德意志哲學家、數學家",
+  "bio": "哥特弗利德·威廉·萊布尼茲（德語：Gottfried Wilhelm Leibniz；1646年7月1日—1716年11月14日），德意志科學家、哲學家、通才，素有「十七世紀的亞里斯多德」之稱。他本人經常往返於各大城鎮；他許多的公式都是在顛簸的馬車上完成的，他也自稱具有男爵的貴族身分。\n萊布尼茲在數學史和哲學史上都佔有重要地位。在數學上，他和牛頓先後獨立發明瞭微積分，而且他所使用的微積分的數學符號被更廣泛的使用，萊布尼茲所發明的符號被普遍認為更綜合，適用範圍更加廣泛。萊布尼茲還對二進位制的發展做出了貢獻。\n在哲學上，萊布尼茲的樂觀主義最為著名；他認為，「我們的宇宙，在某種意義上是上帝所創造的最好的一個」。他和笛卡爾、巴魯赫·斯賓諾莎被認為是十七世紀三位最偉大的理性主義哲學家。萊布尼茲在哲學方面的工作在預見了現代邏輯學和分析哲學誕生的同時，也顯然深受經院哲學傳統的影響，更多地應用第一原理或先驗定義，而不是實驗證據來推導以得到結論。\n萊布尼茲對物理學和技術的發展也做出了重大貢獻，並且提出了一些後來涉及廣泛——包括生物學、醫學、地質學、機率論、心理學、語言學和資訊學——的概念。萊布尼茲在政治學、法學、倫理學、神學、哲學、歷史學、語言學諸多方向都留下了著作。\n萊布尼茲對如此繁多的學科方向的貢獻分散在各種學術期刊、成千上萬封信件、和未發表的手稿中，其中四成為拉丁文、三成為法文、一成五為德文。",
+  "bio_source": "zhwiki",
+  "description_en": "German mathematician and philosopher (1646–1716)",
+  "bio_en": "Gottfried Wilhelm Leibniz (or Leibnitz; 1 July 1646 [O.S. 21 June] – 14 November 1716) was a German polymath active as a mathematician, philosopher, scientist, and diplomat who is credited, alongside Isaac Newton, with the creation of calculus in addition to many other branches of mathematics, such as binary arithmetic and statistics. Leibniz has been called the \"last universal genius\" due to his vast expertise across fields, which became a rarity after his lifetime with the coming of the Industrial Revolution and the spread of specialized labour. He is a prominent figure in both the history of philosophy and the history of mathematics.",
+  "bio_en_source": "enwiki"
+}

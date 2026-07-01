@@ -1,0 +1,103 @@
+{
+  "id": "Q188569",
+  "qid": "Q188569",
+  "slug": "william-godwin",
+  "name_zh": "威廉·戈德溫",
+  "name_en": "William Godwin",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1756,
+  "death_year": 1836,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 52.664161111,
+      "lon": 0.160311111,
+      "place": "Wisbech",
+      "period": [
+        1756,
+        1836
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.507222222,
+      "lon": -0.1275,
+      "place": "London",
+      "period": [
+        1836,
+        1836
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Godwin, William"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Godwin, William"
+    }
+  ],
+  "works": [
+    {
+      "title": "Things as They Are; or, The Adventures of Caleb Williams",
+      "title_zh": "凱萊布·威廉斯傳奇",
+      "year": 1794,
+      "qid": "Q7784409",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 73,
+  "birth_place": "Wisbech",
+  "description": "英國記者、政治哲學家、小說家",
+  "bio": "威廉·高德溫（英語：William Godwin，1756年3月3日—1836年4月7日），英國記者、政治哲學家、小說家。他被認為是功利主義的最早解釋者之一和無政府主義的現代倡導者之一。以其在1793年一年內連續發表的攻擊當時政治制度的《政治正義論》和攻擊貴族特權的《凱萊布·威廉斯傳奇》（同時也是最早的懸疑小說）知名，他也因此在1790年代的倫敦激進主義者圈子中迅速出名。他一生中在小說、歷史和人口學等方面著作頗豐。\n在隨後的保守主義和激進主義的衝突中，高德溫因與女權作家瑪麗·沃斯通克拉夫特結婚（1797年）並在瑪麗死後寫了一部很直白的傳記而受到抨擊。女兒瑪麗·雪萊是《科學怪人》一書的作者，後來嫁給了英國詩人派西·比希·雪萊。高德溫後來娶了第二任妻子瑪麗·簡·克萊爾蒙特，同時創立了少年圖書館，一個能夠讓他的家族為後人出版作品並且能夠翻譯和出版其他作品的機構。高德溫對英國的文學界和文學文化有著舉足輕重的影響。",
+  "bio_source": "zhwiki",
+  "description_en": "English journalist, political philosopher and novelist",
+  "bio_en": "William Godwin (3 March 1756 – 7 April 1836) was an English journalist, political philosopher and novelist. He is considered one of the first exponents of utilitarianism and the first modern proponent of anarchism. Godwin is most famous for two books that he published within the space of a year: An Enquiry Concerning Political Justice, an attack on political institutions, and Things as They Are; or, The Adventures of Caleb Williams, an early mystery novel that criticizes aristocratic privilege. Based on the success of both works, Godwin featured prominently in the radical circles of London in the 1790s.",
+  "bio_en_source": "enwiki"
+}

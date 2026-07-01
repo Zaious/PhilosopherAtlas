@@ -1,0 +1,225 @@
+{
+  "id": "Q60025",
+  "qid": "Q60025",
+  "slug": "hannah-arendt",
+  "name_zh": "漢娜·鄂蘭",
+  "name_en": "Hannah Arendt",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1906,
+  "death_year": 1975,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 52.374444444,
+      "lon": 9.738611111,
+      "place": "Hanover",
+      "period": [
+        1906,
+        1975
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Germany",
+          "start": 1900,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (UK)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 40.787,
+      "lon": -73.9754,
+      "place": "Upper West Side",
+      "period": [
+        1975,
+        1975
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 54.711472222,
+      "lon": 20.509305555,
+      "place": "Königsberg",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.366777,
+      "lon": 9.714939,
+      "place": "Lindener Marktplatz 2, Hannover",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 40.712777777,
+      "lon": -74.006111111,
+      "place": "New York City",
+      "period": [
+        null,
+        1975
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.516666666,
+      "lon": 13.383333333,
+      "place": "Berlin",
+      "period": [
+        1928,
+        null
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.412222222,
+      "lon": 8.71,
+      "place": "Heidelberg",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.816666666,
+      "lon": 8.766666666,
+      "place": "Marburg",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Arendt, Hannah"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Arendt, Hannah"
+    }
+  ],
+  "works": [
+    {
+      "title": "Natality",
+      "title_zh": "誕生性",
+      "year": null,
+      "qid": "Q6968299",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Origins of Totalitarianism",
+      "title_zh": "極權主義的起源",
+      "year": 1951,
+      "qid": "Q1327843",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Human Condition",
+      "title_zh": "人的境況",
+      "year": 1958,
+      "qid": "Q2006866",
+      "source": "wikidata"
+    },
+    {
+      "title": "Eichmann in Jerusalem",
+      "title_zh": "艾希曼在耶路撒冷",
+      "year": 1963,
+      "qid": "Q480743",
+      "source": "wikidata"
+    },
+    {
+      "title": "On Revolution",
+      "title_zh": null,
+      "year": 1963,
+      "qid": "Q331111",
+      "source": "wikidata"
+    },
+    {
+      "title": "Rahel Varnhagen",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q2127391",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 125,
+  "birth_place": "Hanover",
+  "description": "猶太裔美國政治理論家（Hannah Arendt，1906－1975）",
+  "bio": "漢娜·鄂蘭（德語：Hannah Arendt，1906年10月14日—1975年12月4日），是政治哲學家、作家和納粹大屠殺倖存者。她的貢獻影響了20世紀和21世紀的政治理論研究者。\n她的作品涵蓋了廣泛的主題，但最出名的是那些處理權力和邪惡的本質，以及政治、直接民主、權威和極權主義的作品。 在大眾心目中，她因圍繞阿道夫·艾希曼審判的爭議，還有她試圖解釋普通人如何成為極權主義體系中的演員，而被某些人認為是一種辯護，以及「平庸之惡」（英語：Banality of evil）等，而最為人銘記。她被致力於研究其思想的機構和期刊、漢娜·鄂蘭政治思想獎（英語：Hannah Arendt Award），以及郵票、街道名稱和學校等所紀念。\n她提倡政治空間中的「多元性」概念。因此，人與人之間在政治上存在著潛在的自由和平等。重要的是要站在對方的角度。願意和合適的人應該盡可能在最具體的層面上參與政治協議、政治合同和憲法。由於這種觀點，她批評純粹的代議制民主。\n她的研究資料不僅限於哲學、政治和歷史文字，還包括傳記和文學作品，以供分析。文字考察採用她獨特的方法論，進行細緻的逐字分析。",
+  "bio_source": "zhwiki",
+  "description_en": "German-American political theorist and philosopher (1906–1975)",
+  "bio_en": "Hannah Arendt (born Johanna Arendt; 14 October 1906 – 4 December 1975) was a German and American historian and philosopher. She was one of the most influential political theorists of the twentieth century.\nHer works cover a broad range of topics, but she is best known for those dealing with the nature of wealth, power, fame, and evil, as well as politics, direct democracy, authority, tradition, and totalitarianism. She is also remembered for the controversy surrounding the trial of Adolf Eichmann, for her attempt to explain how ordinary people become actors in totalitarian systems, which was considered by some an apologia, and for the phrase \"the banality of evil\".",
+  "bio_en_source": "enwiki"
+}

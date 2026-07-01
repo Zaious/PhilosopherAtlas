@@ -1,0 +1,111 @@
+{
+  "id": "Q37160",
+  "qid": "Q37160",
+  "slug": "david-hume",
+  "name_zh": "大衛·休謨",
+  "name_en": "David Hume",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1711,
+  "death_year": 1776,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 55.953333333,
+      "lon": -3.189166666,
+      "place": "Edinburgh",
+      "period": [
+        1711,
+        1776
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 57,
+      "lon": -5,
+      "place": "Scotland",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hume, David"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hume, David"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hume, David"
+    }
+  ],
+  "works": [
+    {
+      "title": "A Treatise of Human Nature",
+      "title_zh": "人性論",
+      "year": 1739,
+      "qid": "Q2451675",
+      "source": "wikidata"
+    },
+    {
+      "title": "The History of England",
+      "title_zh": "英格蘭史 (休謨)",
+      "year": 1762,
+      "qid": "Q7739783",
+      "source": "wikidata"
+    },
+    {
+      "title": "Philosophical Essays Concerning Human Understanding",
+      "title_zh": "人類理解研究",
+      "year": 1748,
+      "qid": "Q1306656",
+      "source": "wikidata"
+    },
+    {
+      "title": "An Enquiry Concerning the Principles of Morals",
+      "title_zh": "道德原則研究",
+      "year": null,
+      "qid": "Q1306663",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 158,
+  "birth_place": "Edinburgh",
+  "description": "蘇格蘭哲學家、經濟學家、歷史學家（1711－1776）",
+  "bio": "大衛·休謨（英語：David Hume，/hjuːm/；1711年5月7日—1776年8月25日），蘇格蘭愛丁堡人，英國哲學家、倫理學家、經濟學家、歷史學家與散文家，他是蘇格蘭啟蒙運動與晚期經驗論哲學的代表人物，其代表作為《人性論》。雖然現代對於休謨的著作研究聚焦於其哲學思想上，他最先是以歷史學家的身分成名。他所著的《大不列顛史》一書在當時成為英格蘭歷史學界的基礎著作長達60至70年。\n歷史學家們一般將休謨的哲學歸類為徹底的懷疑主義，但一些人主張倫理自然主義也是休謨的中心思想之一。研究休謨的學者經常分為那些強調懷疑成分的（例如邏輯實證主義）、以及那些強調自然主義成分的人。\n休謨的哲學吸收了英格蘭知識分子如艾薩克·牛頓、法蘭西斯·哈奇森等人的理論,拒絕接受先天觀唸的存在，認為人類所有知識都完全來自經驗，這使他與弗朗西斯·培根、託馬斯·霍布斯、約翰·洛克和喬治·貝克萊一起成為經驗主義者。",
+  "bio_source": "zhwiki",
+  "description_en": "Scottish philosopher, economist, and historian (1711-1776)",
+  "bio_en": "David Hume (; born David Home; 7 May 1711 – 25 August 1776) was a Scottish philosopher, historian, economist and essayist who is known for his highly influential system of empiricism, philosophical scepticism and metaphysical naturalism. Beginning with A Treatise of Human Nature (1739–40), Hume strove to create a naturalistic science of man that examined the psychological basis of human nature. Following John Locke, Hume rejected the existence of innate ideas, holding that all our ideas derive ultimately from impressions, but in his fork he distinguished relations of ideas, known a priori, from matters of fact, whose knowledge rests on experience.",
+  "bio_en_source": "enwiki"
+}

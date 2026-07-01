@@ -1,0 +1,67 @@
+{
+  "id": "Q189506",
+  "qid": "Q189506",
+  "slug": "aristippus",
+  "name_zh": "昔蘭尼的阿瑞斯提普斯",
+  "name_en": "Aristippus",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -434,
+  "death_year": -365,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 32.816666666,
+      "lon": 21.85,
+      "place": "Cyrene",
+      "period": [
+        -434,
+        -365
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 32.823041,
+      "lon": 21.85727,
+      "place": "Cyrene",
+      "period": [
+        -365,
+        -365
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Aristippus"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 71,
+  "birth_place": "Cyrene",
+  "description": "Greek philosopher, founder of Cyrenaicism (c.435–c.356 BCE)",
+  "bio": "昔蘭尼的阿瑞斯提普斯（古希臘語：Ἀρίστιππος ὁ Κυρηναῖος；前435年－前356年），古希臘哲學家，昔蘭尼學派的創始人。他是蘇格拉底的學生之一，但擁有非常不同的哲學見解，教導學生人生的目標是透過適當的方法掌控逆境和順境來使自身適應環境，從而獲得快樂。是享樂主義的支持者。",
+  "bio_source": "zhwiki",
+  "description_en": "Greek philosopher, founder of Cyrenaicism (c.435–c.356 BCE)",
+  "bio_en": "Aristippus of Cyrene (; Ancient Greek: Ἀρίστιππος ὁ Κυρηναῖος; c. 435 – c. 356 BCE) was a hedonistic Greek philosopher and the founder of the Cyrenaic school of philosophy. He was a pupil of Socrates, but adopted a different philosophical outlook, teaching that the goal of life was to seek pleasure by adapting circumstances to oneself and by maintaining proper control over both adversity and prosperity. His view that pleasure is the only good came to be called ethical hedonism. Due to the ideological and philosophical differences between Socrates and himself, Aristippus faced backlash from Socrates and many of his fellow pupils.",
+  "bio_en_source": "enwiki"
+}

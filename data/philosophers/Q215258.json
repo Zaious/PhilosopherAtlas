@@ -1,0 +1,82 @@
+{
+  "id": "Q215258",
+  "qid": "Q215258",
+  "slug": "richard-rorty",
+  "name_zh": "理查德·羅蒂",
+  "name_en": "Richard Rorty",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 40.712778,
+      "lon": -74.006111,
+      "place": "New York City",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 37.416667,
+      "lon": -122.133333,
+      "place": "Palo Alto",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 37.429166666,
+      "lon": -122.138055555,
+      "place": "Palo Alto",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Rorty, Richard"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Rorty, Richard"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "New York City",
+  "description": "American philosopher (1931–2007)",
+  "bio": "理察·麥凱·羅蒂 （英語：Richard McKay Rorty，1931年10月4日—2007年6月8日）是一位美國哲學家。他在大學的哲學、人文和文學系擁有漫長且多樣的執教生涯。複雜的學術背景使他對分析哲學的傳統有著全面細緻的理解；而在後期，他拋棄了此一傳統。",
+  "bio_source": "zhwiki",
+  "description_en": "American philosopher (1931–2007)",
+  "bio_en": "Richard McKay Rorty (October 4, 1931 – June 8, 2007) was an American philosopher, historian of ideas, and public intellectual. Educated at the University of Chicago and Yale University, Rorty's academic career included appointments as the Stuart Professor of Philosophy at Princeton University, the Kenan Professor of Humanities at the University of Virginia, and a professor of comparative literature at Stanford University.",
+  "bio_en_source": "enwiki"
+}

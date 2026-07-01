@@ -1,0 +1,134 @@
+{
+  "id": "Q316367",
+  "qid": "Q316367",
+  "slug": "francis-hutcheson",
+  "name_zh": "法蘭西斯·哈奇森",
+  "name_en": "Francis Hutcheson",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 54.46,
+      "lon": -5.83,
+      "place": "Saintfield",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Irlanda",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Celtic kingdoms",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "English territory",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "England",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "England and Ireland",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "Kingdom of Ireland",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 53.349722222,
+      "lon": -6.260277777,
+      "place": "Dublin",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 57,
+      "lon": -5,
+      "place": "Scotland",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 55.861111111,
+      "lon": -4.25,
+      "place": "Glasgow",
+      "period": [
+        1729,
+        null
+      ],
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hutcheson, Francis"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hutcheson, Francis"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Saintfield",
+  "description": "Scottish philosopher (1694–1746)",
+  "bio": "弗朗西斯·哈奇森（英語：Francis Hutcheson；1694年8月8日—1746年8月8日）是一位愛爾蘭哲學家，也是蘇格蘭啟蒙運動的奠基者之一。哈奇森對蘇格蘭啟蒙運動的幾位思想家，包括亞當·斯密和大衛·休謨 的思想和著作有重要影響。\n他研究的主題包括形上學、邏輯和倫理學，但他的重要性幾乎全在於他的倫理學著作。他的倫理學立場是強烈地反對霍布斯，而基本上是與沙夫茨伯裡同意。他接續了沙夫茨伯裡的思想，而將其更精確、更哲學化地表達出來。\n他主張仁慈的感覺是人性中原始而不可化約的部份。就如同視覺和聽覺，道德感也是人類的一種知覺。霍布斯主張人性基本上是自我中心的，但哈奇森卻強調人的社會性。",
+  "bio_source": "zhwiki",
+  "description_en": "Scottish philosopher (1694–1746)",
+  "bio_en": "Francis Hutcheson (; 8 August 1694 – 8 August 1746) was an Irish philosopher widely regarded as one of the key figures of the early Scottish Enlightenment. He served as Professor of Moral Philosophy at the University of Glasgow and was a major advocate of moral sense theory, which holds that humans possess an innate sense that guides moral judgments. Hutcheson is best known for his ethical writings, in which he defends benevolence as the primary source of moral virtue and anticipates later utilitarian theories with his formulation of \"the greatest happiness for the greatest number\".\nBeyond ethics, Hutcheson made significant contributions to aesthetics, epistemology, logic, and metaphysics.",
+  "bio_en_source": "enwiki"
+}

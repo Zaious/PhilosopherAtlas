@@ -1,0 +1,194 @@
+{
+  "id": "Q9061",
+  "qid": "Q9061",
+  "slug": "karl-marx",
+  "name_zh": "卡爾·馬克思",
+  "name_en": "Karl Marx",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1818,
+  "death_year": 1883,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 49.75565,
+      "lon": 6.63935,
+      "place": "Trier",
+      "period": [
+        1818,
+        1883
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Prussia",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (France)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.507222222,
+      "lon": -0.1275,
+      "place": "London",
+      "period": [
+        1883,
+        1883
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.942222222,
+      "lon": 6.957777777,
+      "place": "Cologne",
+      "period": [
+        1848,
+        1849
+      ],
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.516666666,
+      "lon": 13.383333333,
+      "place": "Berlin",
+      "period": [
+        1837,
+        null
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        1843,
+        null
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.8462,
+      "lon": 4.35255,
+      "place": "The Swan",
+      "period": [
+        1845,
+        1848
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Marx, Karl"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Economic and Philosophic Manuscripts of 1844",
+      "title_zh": "1844年哲學和經濟學手稿",
+      "year": 1932,
+      "qid": "Q295347",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Communist Manifesto",
+      "title_zh": "共產黨宣言",
+      "year": 1848,
+      "qid": "Q40591",
+      "source": "wikidata"
+    },
+    {
+      "title": "The German Ideology",
+      "title_zh": "德意志意識形態",
+      "year": 1932,
+      "qid": "Q470600",
+      "source": "wikidata"
+    },
+    {
+      "title": "Capital: A Critique of Political Economy",
+      "title_zh": "資本論",
+      "year": 1867,
+      "qid": "Q58784",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 310,
+  "birth_place": "Trier",
+  "description": "德國哲學家、經濟學家、歷史學家、社會學家、政治理論家和新聞從業者（1818年—1883年）",
+  "bio": "卡爾·馬克思（德語：Karl Marx，德語：[ˈkaʁl ˈmaʁks]；1818年5月5日—1883年3月14日），德國政治哲學家、經濟學家、記者與革命家。他最著名的著作是1848年與弗裡德利希·恩格斯合著的小冊子《共產黨宣言》，以及其一生心血結晶、三卷本的《資本論》（1867–1894年）；後者以其唯物史觀理論對古典政治經濟學進行了批判分析。馬克思的思想及其後續發展統稱「馬克思主義」，對後世產生了深遠影響。\n馬克思出生於普魯士王國的特里爾市的猶太中產家庭，先後就讀於波昂大學和柏林洪堡大學，1841年獲得耶拿大學哲學博士學位。作為青年黑格爾派的一員，馬克思深受黑格爾哲學的影響，並在《德意志意識形態》和《政治經濟學批判大綱》等著作中，對黑格爾的思想進行批判繼承與發展。馬克思在巴黎期間撰寫了《1844年經濟學哲學手稿》，同時結識了恩格斯，後者成為他最親密的朋友和長期合作夥伴。1845年，馬克思遷居布魯塞爾，與恩格斯共同積極參與共產主義者同盟的活動。1848年，他們共同撰寫了《共產黨宣言》，既闡述了馬克思的思想，又提出一套革命綱領。隨後，馬克思被比利時和德國政府驅逐，1849年移居倫敦。在倫敦期間，他撰寫了《路易·波拿巴的霧月十八日》（1852年）以及《資本論》。自1864年起，馬克思積極參與第一國際的活動，在組織內部同米哈伊爾·巴枯寧領導的無政府主義者展開鬥爭。",
+  "bio_source": "zhwiki",
+  "description_en": "German-born philosopher (1818-1883)",
+  "bio_en": "Karl Marx (German: [ˈkaʁl ˈmaʁks]; 5 May 1818 – 14 March 1883) was a German philosopher, social and political theorist, economist, journalist, and revolutionary socialist. He developed the theory of historical materialism, analyzing class struggle under capitalism and predicting the system's overthrow by the proletariat in favour of communism. Marx co-authored The Communist Manifesto (1848) with his lifelong friend Friedrich Engels, and undertook a critique of classical political economy in his magnum opus, Das Kapital (1867–1894).",
+  "bio_en_source": "enwiki"
+}

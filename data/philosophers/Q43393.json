@@ -1,0 +1,144 @@
+{
+  "id": "Q43393",
+  "qid": "Q43393",
+  "slug": "robert-boyle",
+  "name_zh": "羅伯特·波義耳",
+  "name_en": "Robert Boyle",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1627,
+  "death_year": 1691,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 52.140555555,
+      "lon": -7.9325,
+      "place": "Lismore Castle",
+      "period": [
+        1627,
+        1691
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "England and Ireland",
+          "start": 1600,
+          "end": 1715
+        },
+        {
+          "polity": "Kingdom of Ireland",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "Ireland",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.507222222,
+      "lon": -0.1275,
+      "place": "London",
+      "period": [
+        1691,
+        1691
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 53,
+      "lon": -1,
+      "place": "England",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.25,
+      "lon": -7.5,
+      "place": "County Waterford",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Boyle, Robert"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Boyle, Robert"
+    }
+  ],
+  "works": [
+    {
+      "title": "Boyle's law",
+      "title_zh": "玻意耳－馬略特定律",
+      "year": null,
+      "qid": "Q175974",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Sceptical Chymist",
+      "title_zh": "懷疑派化學家",
+      "year": 1661,
+      "qid": "Q60161",
+      "source": "wikidata"
+    },
+    {
+      "title": "New Experiments Physico-Mechanicall, Touching the Spring of the Air and its Effects",
+      "title_zh": null,
+      "year": 1660,
+      "qid": "Q42193437",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 114,
+  "birth_place": "Lismore Castle",
+  "description": "英裔愛爾蘭自然哲學家、化學家、物理學家和發明家",
+  "bio": "羅伯特·波以耳（英語：Robert Boyle，又譯波意耳，1627年1月25日—1691年12月31日），盎格魯裔愛爾蘭自然哲學家、神學家、鍊金術師、化學家、物理學家與發明家，被認為是現代實驗科學方法與現代化學的奠基人之一。雖然他的化學研究仍然帶有鍊金術色彩，但他的代表作《懷疑派的化學家》一書仍然被視作化學史上的里程碑。",
+  "bio_source": "zhwiki",
+  "description_en": "Anglo-Irish natural philosopher, chemist, physicist, and inventor",
+  "bio_en": "Robert Boyle (; 25 January 1627 – 31 December 1691) was an Anglo-Irish natural philosopher, chemist, physicist, alchemist and inventor. Boyle is largely regarded today as the first modern chemist, and therefore one of the founders of modern chemistry, and one of the pioneers of modern experimental scientific method. \nHe is best known for Boyle's law, which describes the inversely proportional relationship between the absolute pressure and volume of a gas, if the temperature is kept constant within a closed system. \nAmong his works, The Sceptical Chymist is seen as a cornerstone book in the field of chemistry. He was a devout and pious Anglican and is noted for his works in theology.",
+  "bio_en_source": "enwiki"
+}

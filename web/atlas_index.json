@@ -1,0 +1,4232 @@
+[
+  {
+    "id": "Q169234",
+    "qid": "Q169234",
+    "slug": "abu-bakr-alrazi",
+    "name_zh": "拉齊",
+    "name_en": "Abu Bakr al-Razi",
+    "tradition": "islamic",
+    "birth_year": 866,
+    "death_year": 925,
+    "coord": [
+      35.5975,
+      51.434444444
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9381",
+    "qid": "Q9381",
+    "slug": "adam-smith",
+    "name_zh": "亞當·斯密",
+    "name_en": "Adam Smith",
+    "tradition": "european",
+    "birth_year": 1723,
+    "death_year": 1790,
+    "coord": [
+      56.110730555,
+      -3.167369444
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q34670",
+    "qid": "Q34670",
+    "slug": "albert-camus",
+    "name_zh": "阿爾貝·卡繆",
+    "name_en": "Albert Camus",
+    "tradition": "european",
+    "birth_year": 1913,
+    "death_year": 1960,
+    "coord": [
+      36.68333,
+      7.75
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q60059",
+    "qid": "Q60059",
+    "slug": "albertus-magnus",
+    "name_zh": "艾爾伯圖斯·麥格努斯",
+    "name_en": "Albertus Magnus",
+    "tradition": "european",
+    "birth_year": 1200,
+    "death_year": 1280,
+    "coord": [
+      48.566666666,
+      10.433333333
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q160460",
+    "qid": "Q160460",
+    "slug": "alfarabi",
+    "name_zh": "法拉比",
+    "name_en": "al-Farabi",
+    "tradition": "islamic",
+    "birth_year": 870,
+    "death_year": 951,
+    "coord": [
+      42.8514829,
+      68.3029696
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q183372",
+    "qid": "Q183372",
+    "slug": "alfred-north-whitehead",
+    "name_zh": "阿爾弗雷德·諾思·懷特黑德",
+    "name_en": "Alfred North Whitehead",
+    "tradition": "european",
+    "birth_year": 1861,
+    "death_year": 1947,
+    "coord": [
+      51.343911111,
+      1.404030555
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9546",
+    "qid": "Q9546",
+    "slug": "alghazali",
+    "name_zh": "安薩里",
+    "name_en": "Al-Ghazali",
+    "tradition": "islamic",
+    "birth_year": 1056,
+    "death_year": 1111,
+    "coord": [
+      36.486138888,
+      59.517555555
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q179759",
+    "qid": "Q179759",
+    "slug": "alkindi",
+    "name_zh": "肯迪",
+    "name_en": "Al-Kindi",
+    "tradition": "islamic",
+    "birth_year": 801,
+    "death_year": 870,
+    "coord": [
+      32.03,
+      44.4
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q83041",
+    "qid": "Q83041",
+    "slug": "anaxagoras",
+    "name_zh": "阿那克薩哥拉",
+    "name_en": "Anaxagoras",
+    "tradition": "greek",
+    "birth_year": -499,
+    "death_year": -427,
+    "coord": [
+      38.35816667,
+      26.76758333
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q42458",
+    "qid": "Q42458",
+    "slug": "anaximander",
+    "name_zh": "阿那克西曼德",
+    "name_en": "Anaximander",
+    "tradition": "greek",
+    "birth_year": -609,
+    "death_year": -545,
+    "coord": [
+      37.530233,
+      27.278369
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q80612",
+    "qid": "Q80612",
+    "slug": "anaximenes-of-miletus",
+    "name_zh": "阿那克西美尼",
+    "name_en": "Anaximenes of Miletus",
+    "tradition": "greek",
+    "birth_year": -584,
+    "death_year": -527,
+    "coord": [
+      37.530233,
+      27.278369
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q43939",
+    "qid": "Q43939",
+    "slug": "anselm-of-canterbury",
+    "name_zh": "坎特伯里的安瑟倫",
+    "name_en": "Anselm of Canterbury",
+    "tradition": "european",
+    "birth_year": 1033,
+    "death_year": 1109,
+    "coord": [
+      45.737222222,
+      7.320555555
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q179149",
+    "qid": "Q179149",
+    "slug": "antisthenes",
+    "name_zh": "安提西尼",
+    "name_en": "Antisthenes",
+    "tradition": "greek",
+    "birth_year": -444,
+    "death_year": -364,
+    "coord": [
+      37.937222222,
+      23.644722222
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q353887",
+    "qid": "Q353887",
+    "slug": "antoine-arnauld",
+    "name_zh": "安托萬·阿爾諾",
+    "name_en": "Antoine Arnauld",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      48.856667,
+      2.352222
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q83003",
+    "qid": "Q83003",
+    "slug": "antonio-gramsci",
+    "name_zh": "安東尼奧·葛蘭西",
+    "name_en": "Antonio Gramsci",
+    "tradition": "european",
+    "birth_year": 1891,
+    "death_year": 1937,
+    "coord": [
+      39.766666666,
+      8.816666666
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q189506",
+    "qid": "Q189506",
+    "slug": "aristippus",
+    "name_zh": "昔蘭尼的阿瑞斯提普斯",
+    "name_en": "Aristippus",
+    "tradition": "greek",
+    "birth_year": -434,
+    "death_year": -365,
+    "coord": [
+      32.816666666,
+      21.85
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q868",
+    "qid": "Q868",
+    "slug": "aristotle",
+    "name_zh": "亞里斯多德",
+    "name_en": "Aristotle",
+    "tradition": "greek",
+    "birth_year": -383,
+    "death_year": -321,
+    "coord": [
+      40.59083333,
+      23.79416667
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q38193",
+    "qid": "Q38193",
+    "slug": "arthur-schopenhauer",
+    "name_zh": "亞瑟·叔本華",
+    "name_en": "Arthur Schopenhauer",
+    "tradition": "european",
+    "birth_year": 1788,
+    "death_year": 1860,
+    "coord": [
+      54.3482907,
+      18.6540233
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q12718",
+    "qid": "Q12718",
+    "slug": "auguste-comte",
+    "name_zh": "奧古斯特·孔德",
+    "name_en": "Auguste Comte",
+    "tradition": "european",
+    "birth_year": 1798,
+    "death_year": 1857,
+    "coord": [
+      43.610919444,
+      3.877230555
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q8018",
+    "qid": "Q8018",
+    "slug": "augustine-of-hippo",
+    "name_zh": "奧勒留·奧古斯丁",
+    "name_en": "Augustine of Hippo",
+    "tradition": "european",
+    "birth_year": 354,
+    "death_year": 430,
+    "coord": [
+      36.266667,
+      7.933333
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q39837",
+    "qid": "Q39837",
+    "slug": "averroes",
+    "name_zh": "伊本·魯世德",
+    "name_en": "Averroes",
+    "tradition": "islamic",
+    "birth_year": 1126,
+    "death_year": 1198,
+    "coord": [
+      37.89,
+      -4.78
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q8011",
+    "qid": "Q8011",
+    "slug": "avicenna",
+    "name_zh": "伊本·西拿",
+    "name_en": "Avicenna",
+    "tradition": "islamic",
+    "birth_year": 980,
+    "death_year": 1037,
+    "coord": [
+      39.994444444,
+      64.379166666
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q132524",
+    "qid": "Q132524",
+    "slug": "ayn-rand",
+    "name_zh": "安·蘭德",
+    "name_en": "Ayn Rand",
+    "tradition": "european",
+    "birth_year": 1905,
+    "death_year": 1982,
+    "coord": [
+      59.95,
+      30.316666666
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q7104",
+    "qid": "Q7104",
+    "slug": "baron-dholbach",
+    "name_zh": "保爾·霍爾巴赫",
+    "name_en": "Baron d'Holbach",
+    "tradition": "european",
+    "birth_year": 1723,
+    "death_year": 1789,
+    "coord": [
+      49.264166666,
+      8.134444444
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q44258",
+    "qid": "Q44258",
+    "slug": "basil-of-caesarea",
+    "name_zh": "該撒利亞的巴西流",
+    "name_en": "Basil of Caesarea",
+    "tradition": "european",
+    "birth_year": 329,
+    "death_year": 379,
+    "coord": [
+      38.7225,
+      35.4875
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q35802",
+    "qid": "Q35802",
+    "slug": "benedictus-de-spinoza",
+    "name_zh": "巴魯赫·斯賓諾莎",
+    "name_en": "Benedictus de Spinoza",
+    "tradition": "european",
+    "birth_year": 1632,
+    "death_year": 1677,
+    "coord": [
+      52.366666666,
+      4.883333333
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q33760",
+    "qid": "Q33760",
+    "slug": "bertrand-russell",
+    "name_zh": "伯特蘭·羅素",
+    "name_en": "Bertrand Russell",
+    "tradition": "european",
+    "birth_year": 1872,
+    "death_year": 1970,
+    "coord": [
+      51.745061111,
+      -2.7256
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q1290",
+    "qid": "Q1290",
+    "slug": "blaise-pascal",
+    "name_zh": "布萊茲·帕斯卡",
+    "name_en": "Blaise Pascal",
+    "tradition": "european",
+    "birth_year": 1623,
+    "death_year": 1662,
+    "coord": [
+      45.77841,
+      3.08526
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q187172",
+    "qid": "Q187172",
+    "slug": "bodhidharma",
+    "name_zh": "菩提達摩",
+    "name_en": "Bodhidharma",
+    "tradition": "chinese",
+    "birth_year": 440,
+    "death_year": 540,
+    "coord": [
+      12.830833333,
+      79.707777777
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q102851",
+    "qid": "Q102851",
+    "slug": "boethius",
+    "name_zh": "波伊提烏",
+    "name_en": "Boethius",
+    "tradition": "european",
+    "birth_year": 480,
+    "death_year": 524,
+    "coord": [
+      41.893055555,
+      12.482777777
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q43746",
+    "qid": "Q43746",
+    "slug": "bonaventure",
+    "name_zh": "聖文德",
+    "name_en": "Bonaventure",
+    "tradition": "european",
+    "birth_year": 1221,
+    "death_year": 1274,
+    "coord": [
+      42.63,
+      12.089166666
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q99373632",
+    "qid": "Q99373632",
+    "slug": "carl-hempel",
+    "name_zh": null,
+    "name_en": "Carl Hempel",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      52.755,
+      13.238
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q444264",
+    "qid": "Q444264",
+    "slug": "catharine-trotter-cockburn",
+    "name_zh": "CKD",
+    "name_en": "Catharine Trotter Cockburn",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      51.507,
+      -0.128
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "uncertain"
+  },
+  {
+    "id": "Q1064777",
+    "qid": "Q1064777",
+    "slug": "charles-hartshorne",
+    "name_zh": "哈特雄",
+    "name_en": "Charles Hartshorne",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      40.82,
+      -79.5214
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q187520",
+    "qid": "Q187520",
+    "slug": "charles-sanders-peirce",
+    "name_zh": "查爾斯·桑德斯·皮爾士",
+    "name_en": "Charles Sanders Peirce",
+    "tradition": "european",
+    "birth_year": 1839,
+    "death_year": 1914,
+    "coord": [
+      42.375,
+      -71.106111111
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q558192",
+    "qid": "Q558192",
+    "slug": "cheng-hao",
+    "name_zh": "程顥",
+    "name_en": "Cheng Hao",
+    "tradition": "chinese",
+    "birth_year": 1032,
+    "death_year": 1085,
+    "coord": [
+      31.05675,
+      114.38202
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q558380",
+    "qid": "Q558380",
+    "slug": "cheng-yi",
+    "name_zh": "程頤",
+    "name_en": "Cheng Yi",
+    "tradition": "chinese",
+    "birth_year": 1033,
+    "death_year": 1107,
+    "coord": [
+      31.05675,
+      114.38202
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q1541",
+    "qid": "Q1541",
+    "slug": "cicero",
+    "name_zh": "西塞羅",
+    "name_en": "Cicero",
+    "tradition": "greek",
+    "birth_year": -106,
+    "death_year": -42,
+    "coord": [
+      41.64705,
+      13.61155
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q4604",
+    "qid": "Q4604",
+    "slug": "confucius",
+    "name_zh": "孔子",
+    "name_en": "Confucius",
+    "tradition": "chinese",
+    "birth_year": -550,
+    "death_year": -478,
+    "coord": [
+      35.6,
+      116.983333333
+    ],
+    "k": 5,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q714369",
+    "qid": "Q714369",
+    "slug": "dai-zhen",
+    "name_zh": "戴震",
+    "name_en": "Dai Zhen",
+    "tradition": "chinese",
+    "birth_year": 1724,
+    "death_year": 1777,
+    "coord": [
+      29.78949,
+      118.1828
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q1067",
+    "qid": "Q1067",
+    "slug": "dante-alighieri",
+    "name_zh": "但丁·阿利吉耶里",
+    "name_en": "Dante Alighieri",
+    "tradition": "european",
+    "birth_year": 1265,
+    "death_year": 1321,
+    "coord": [
+      43.771388888,
+      11.254166666
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q37160",
+    "qid": "Q37160",
+    "slug": "david-hume",
+    "name_zh": "大衛·休謨",
+    "name_en": "David Hume",
+    "tradition": "european",
+    "birth_year": 1711,
+    "death_year": 1776,
+    "coord": [
+      55.953333333,
+      -3.189166666
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q384522",
+    "qid": "Q384522",
+    "slug": "david-lewis",
+    "name_zh": "大衛·裡維斯",
+    "name_en": "David Lewis",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      41.2945,
+      -81.8554
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q41980",
+    "qid": "Q41980",
+    "slug": "democritus",
+    "name_zh": "德謨克利特",
+    "name_en": "Democritus",
+    "tradition": "greek",
+    "birth_year": -460,
+    "death_year": -360,
+    "coord": [
+      40.933714,
+      24.973299
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "approximate"
+  },
+  {
+    "id": "Q448",
+    "qid": "Q448",
+    "slug": "denis-diderot",
+    "name_zh": "德尼·狄德羅",
+    "name_en": "Denis Diderot",
+    "tradition": "european",
+    "birth_year": 1713,
+    "death_year": 1784,
+    "coord": [
+      47.8625,
+      5.333055555
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q76326",
+    "qid": "Q76326",
+    "slug": "dietrich-bonhoeffer",
+    "name_zh": "迪特里希·潘霍華",
+    "name_en": "Dietrich Bonhoeffer",
+    "tradition": "european",
+    "birth_year": 1906,
+    "death_year": 1945,
+    "coord": [
+      51.11,
+      17.0325
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q59180",
+    "qid": "Q59180",
+    "slug": "diogenes-of-sinope",
+    "name_zh": "錫諾普的第歐根尼",
+    "name_en": "Diogenes of Sinope",
+    "tradition": "greek",
+    "birth_year": -399,
+    "death_year": -322,
+    "coord": [
+      42.025,
+      35.143
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q311772",
+    "qid": "Q311772",
+    "slug": "donald-davidson",
+    "name_zh": "唐納德·戴維森",
+    "name_en": "Donald Davidson",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      42.112411,
+      -72.547455
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q445626",
+    "qid": "Q445626",
+    "slug": "dong-zhongshu",
+    "name_zh": "董仲舒",
+    "name_en": "Dong Zhongshu",
+    "tradition": "chinese",
+    "birth_year": -178,
+    "death_year": -103,
+    "coord": [
+      37.69189,
+      116.2633
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q190089",
+    "qid": "Q190089",
+    "slug": "duns-scotus",
+    "name_zh": "鄧斯·司各脫",
+    "name_en": "Duns Scotus",
+    "tradition": "european",
+    "birth_year": 1266,
+    "death_year": 1308,
+    "coord": [
+      55.7784,
+      -2.3426
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q76749",
+    "qid": "Q76749",
+    "slug": "edith-stein",
+    "name_zh": "埃迪特·施泰因",
+    "name_en": "Edith Stein",
+    "tradition": "european",
+    "birth_year": 1891,
+    "death_year": 1942,
+    "coord": [
+      51.11,
+      17.0325
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q165792",
+    "qid": "Q165792",
+    "slug": "edmund-burke",
+    "name_zh": "埃德蒙·伯克",
+    "name_en": "Edmund Burke",
+    "tradition": "european",
+    "birth_year": 1729,
+    "death_year": 1797,
+    "coord": [
+      53.349722222,
+      -6.260277777
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q58586",
+    "qid": "Q58586",
+    "slug": "edmund-husserl",
+    "name_zh": "埃德蒙德·胡塞爾",
+    "name_en": "Edmund Husserl",
+    "tradition": "european",
+    "birth_year": 1859,
+    "death_year": 1938,
+    "coord": [
+      49.472222222,
+      17.110555555
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q83375",
+    "qid": "Q83375",
+    "slug": "empedocles",
+    "name_zh": "恩培多克勒",
+    "name_en": "Empedocles",
+    "tradition": "greek",
+    "birth_year": -493,
+    "death_year": -433,
+    "coord": [
+      37.292327369,
+      13.593570883
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q183144",
+    "qid": "Q183144",
+    "slug": "epictetus",
+    "name_zh": "愛比克泰德",
+    "name_en": "Epictetus",
+    "tradition": "greek",
+    "birth_year": 50,
+    "death_year": 138,
+    "coord": [
+      37.9074,
+      29.146
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q43216",
+    "qid": "Q43216",
+    "slug": "epicurus",
+    "name_zh": "伊比鳩魯",
+    "name_en": "Epicurus",
+    "tradition": "greek",
+    "birth_year": -341,
+    "death_year": -269,
+    "coord": [
+      37.689444,
+      26.943056
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q43499",
+    "qid": "Q43499",
+    "slug": "erasmus",
+    "name_zh": "德西德里烏斯·伊拉斯謨",
+    "name_en": "Erasmus",
+    "tradition": "european",
+    "birth_year": 1466,
+    "death_year": 1536,
+    "coord": [
+      51.92,
+      4.48
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q57188",
+    "qid": "Q57188",
+    "slug": "ernst-cassirer",
+    "name_zh": "恩斯特·卡西爾",
+    "name_en": "Ernst Cassirer",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      51.11,
+      17.0325
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q37388",
+    "qid": "Q37388",
+    "slug": "francis-bacon",
+    "name_zh": "弗蘭西斯·培根",
+    "name_en": "Francis Bacon",
+    "tradition": "european",
+    "birth_year": 1561,
+    "death_year": 1626,
+    "coord": [
+      51.507222222,
+      -0.1275
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q77194",
+    "qid": "Q77194",
+    "slug": "francis-herbert-bradley",
+    "name_zh": null,
+    "name_en": "Francis Herbert Bradley",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      51.23602,
+      14.20471
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q316367",
+    "qid": "Q316367",
+    "slug": "francis-hutcheson",
+    "name_zh": "法蘭西斯·哈奇森",
+    "name_en": "Francis Hutcheson",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      54.46,
+      -5.83
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q193670",
+    "qid": "Q193670",
+    "slug": "frantz-fanon",
+    "name_zh": "法蘭茲·法農",
+    "name_en": "Frantz Fanon",
+    "tradition": "african",
+    "birth_year": 1925,
+    "death_year": 1961,
+    "coord": [
+      14.6,
+      -61.066666666
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q57196",
+    "qid": "Q57196",
+    "slug": "franz-brentano",
+    "name_zh": "弗朗茲·布倫塔諾",
+    "name_en": "Franz Brentano",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      50.231389,
+      7.590833
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q1325",
+    "qid": "Q1325",
+    "slug": "friedrich-hayek",
+    "name_zh": "弗瑞德呂希·海耶克",
+    "name_en": "Friedrich Hayek",
+    "tradition": "european",
+    "birth_year": 1899,
+    "death_year": 1992,
+    "coord": [
+      48.208333333,
+      16.3725
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9358",
+    "qid": "Q9358",
+    "slug": "friedrich-nietzsche",
+    "name_zh": "弗里德里希·尼采",
+    "name_en": "Friedrich Nietzsche",
+    "tradition": "european",
+    "birth_year": 1844,
+    "death_year": 1900,
+    "coord": [
+      51.240833333,
+      12.116111111
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q76576",
+    "qid": "Q76576",
+    "slug": "friedrich-schleiermacher",
+    "name_zh": "弗里德里希·施萊爾馬赫",
+    "name_en": "Friedrich Schleiermacher",
+    "tradition": "european",
+    "birth_year": 1768,
+    "death_year": 1834,
+    "coord": [
+      51.11,
+      17.0325
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q60070",
+    "qid": "Q60070",
+    "slug": "friedrich-wilhelm-joseph-schelling",
+    "name_zh": "弗里德里希·謝林",
+    "name_en": "Friedrich Wilhelm Joseph Schelling",
+    "tradition": "european",
+    "birth_year": 1775,
+    "death_year": 1854,
+    "coord": [
+      48.801388888,
+      9.013055555
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q8778",
+    "qid": "Q8778",
+    "slug": "galen",
+    "name_zh": "蓋倫",
+    "name_en": "Galen",
+    "tradition": "greek",
+    "birth_year": 129,
+    "death_year": 300,
+    "coord": [
+      39.116667,
+      27.183333
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q307",
+    "qid": "Q307",
+    "slug": "galileo-galilei",
+    "name_zh": "伽利略·伽利萊",
+    "name_en": "Galileo Galilei",
+    "tradition": "european",
+    "birth_year": 1564,
+    "death_year": 1642,
+    "coord": [
+      43.716666666,
+      10.4
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9235",
+    "qid": "Q9235",
+    "slug": "georg-wilhelm-friedrich-hegel",
+    "name_zh": "格奧爾格·威廉·弗里德里希·黑格爾",
+    "name_en": "Georg Wilhelm Friedrich Hegel",
+    "tradition": "european",
+    "birth_year": 1770,
+    "death_year": 1831,
+    "coord": [
+      48.7775,
+      9.18
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q82049",
+    "qid": "Q82049",
+    "slug": "george-berkeley",
+    "name_zh": "喬治·柏克萊",
+    "name_en": "George Berkeley",
+    "tradition": "european",
+    "birth_year": 1685,
+    "death_year": 1753,
+    "coord": [
+      52.5020111,
+      -7.1215444
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q295386",
+    "qid": "Q295386",
+    "slug": "george-edward-moore",
+    "name_zh": "喬治·愛德華·摩爾",
+    "name_en": "George Edward Moore",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      51.5074,
+      -0.1278
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q295978",
+    "qid": "Q295978",
+    "slug": "george-herbert-mead",
+    "name_zh": "喬治·賀伯特·米德",
+    "name_en": "George Herbert Mead",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      42.258333,
+      -72.575
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q237833",
+    "qid": "Q237833",
+    "slug": "george-santayana",
+    "name_zh": "喬治·桑塔亞那",
+    "name_en": "George Santayana",
+    "tradition": "european",
+    "birth_year": 1863,
+    "death_year": 1952,
+    "coord": [
+      40.425722222,
+      -3.707219444
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q184530",
+    "qid": "Q184530",
+    "slug": "gerolamo-cardano",
+    "name_zh": "吉羅拉莫·卡爾達諾",
+    "name_en": "Gerolamo Cardano",
+    "tradition": "european",
+    "birth_year": 1501,
+    "death_year": 1576,
+    "coord": [
+      45.185280555,
+      9.155
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q229646",
+    "qid": "Q229646",
+    "slug": "gertrude-elizabeth-margaret-anscombe",
+    "name_zh": "伊莉莎白·安斯康姆",
+    "name_en": "Gertrude Elizabeth Margaret Anscombe",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      52.6653,
+      -8.6238
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q178709",
+    "qid": "Q178709",
+    "slug": "giambattista-vico",
+    "name_zh": "詹巴蒂斯塔·維柯",
+    "name_en": "Giambattista Vico",
+    "tradition": "european",
+    "birth_year": 1668,
+    "death_year": 1744,
+    "coord": [
+      40.835833333,
+      14.248611111
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q184226",
+    "qid": "Q184226",
+    "slug": "gilles-deleuze",
+    "name_zh": "吉爾·德勒茲",
+    "name_en": "Gilles Deleuze",
+    "tradition": "european",
+    "birth_year": 1925,
+    "death_year": 1995,
+    "coord": [
+      48.882244444,
+      2.307838888
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q36330",
+    "qid": "Q36330",
+    "slug": "giordano-bruno",
+    "name_zh": "佐丹奴·布魯諾",
+    "name_en": "Giordano Bruno",
+    "tradition": "european",
+    "birth_year": 1548,
+    "death_year": 1600,
+    "coord": [
+      40.925875,
+      14.528564
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q182128",
+    "qid": "Q182128",
+    "slug": "giovanni-pico-della-mirandola",
+    "name_zh": "若望·皮科·德拉·米蘭多拉",
+    "name_en": "Giovanni Pico della Mirandola",
+    "tradition": "european",
+    "birth_year": 1463,
+    "death_year": 1494,
+    "coord": [
+      44.88727,
+      11.06603
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q1362266",
+    "qid": "Q1362266",
+    "slug": "gongsun-long",
+    "name_zh": "公孫龍",
+    "name_en": "Gongsun Long",
+    "tradition": "chinese",
+    "birth_year": -324,
+    "death_year": -249,
+    "coord": [
+      36.604,
+      114.468
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9047",
+    "qid": "Q9047",
+    "slug": "gottfried-wilhelm-leibniz",
+    "name_zh": "哥特佛萊德·萊布尼茲",
+    "name_en": "Gottfried Wilhelm Leibniz",
+    "tradition": "european",
+    "birth_year": 1646,
+    "death_year": 1716,
+    "coord": [
+      51.3406321,
+      12.3747329
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q60028",
+    "qid": "Q60028",
+    "slug": "gottlob-frege",
+    "name_zh": "戈特洛布·弗雷格",
+    "name_en": "Gottlob Frege",
+    "tradition": "european",
+    "birth_year": 1848,
+    "death_year": 1925,
+    "coord": [
+      53.8925,
+      11.465
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q1195906",
+    "qid": "Q1195906",
+    "slug": "gu-yanwu",
+    "name_zh": "顧炎武",
+    "name_en": "Gu Yanwu",
+    "tradition": "chinese",
+    "birth_year": 1613,
+    "death_year": 1682,
+    "coord": [
+      31.38674,
+      120.97655
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q1291953",
+    "qid": "Q1291953",
+    "slug": "guo-xiang",
+    "name_zh": "郭象",
+    "name_en": "Guo Xiang",
+    "tradition": "chinese",
+    "birth_year": 252,
+    "death_year": 312,
+    "coord": [
+      34.683,
+      112.434
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q28959",
+    "qid": "Q28959",
+    "slug": "han-fei",
+    "name_zh": "韓非",
+    "name_en": "Han Fei",
+    "tradition": "chinese",
+    "birth_year": -279,
+    "death_year": -232,
+    "coord": [
+      34.39621,
+      113.7249
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q318998",
+    "qid": "Q318998",
+    "slug": "han-yu",
+    "name_zh": "韓愈",
+    "name_en": "Han Yu",
+    "tradition": "chinese",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      34.91355,
+      112.7852
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q60025",
+    "qid": "Q60025",
+    "slug": "hannah-arendt",
+    "name_zh": "漢娜·鄂蘭",
+    "name_en": "Hannah Arendt",
+    "tradition": "european",
+    "birth_year": 1906,
+    "death_year": 1975,
+    "coord": [
+      52.374444444,
+      9.738611111
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q170147",
+    "qid": "Q170147",
+    "slug": "hans-reichenbach",
+    "name_zh": "漢斯·賴興巴赫",
+    "name_en": "Hans Reichenbach",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      53.55,
+      10
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q76356",
+    "qid": "Q76356",
+    "slug": "hansgeorg-gadamer",
+    "name_zh": "漢斯-格奧爾格·伽達默爾",
+    "name_en": "Hans-Georg Gadamer",
+    "tradition": "european",
+    "birth_year": 1900,
+    "death_year": 2002,
+    "coord": [
+      50.816666666,
+      8.766666666
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q42156",
+    "qid": "Q42156",
+    "slug": "henri-bergson",
+    "name_zh": "亨利·柏格森",
+    "name_en": "Henri Bergson",
+    "tradition": "european",
+    "birth_year": 1859,
+    "death_year": 1941,
+    "coord": [
+      48.856666666,
+      2.352222222
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q131149",
+    "qid": "Q131149",
+    "slug": "henry-david-thoreau",
+    "name_zh": "亨利·戴維·梭羅",
+    "name_en": "Henry David Thoreau",
+    "tradition": "european",
+    "birth_year": 1817,
+    "death_year": 1862,
+    "coord": [
+      42.460277777,
+      -71.349444444
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q41155",
+    "qid": "Q41155",
+    "slug": "heraclitus",
+    "name_zh": "海勒克萊特斯",
+    "name_en": "Heraclitus",
+    "tradition": "greek",
+    "birth_year": -534,
+    "death_year": -470,
+    "coord": [
+      37.939722,
+      27.340833
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q60030",
+    "qid": "Q60030",
+    "slug": "herbert-marcuse",
+    "name_zh": "赫伯特·馬庫色",
+    "name_en": "Herbert Marcuse",
+    "tradition": "european",
+    "birth_year": 1898,
+    "death_year": 1979,
+    "coord": [
+      52.516666666,
+      13.383333333
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q144535",
+    "qid": "Q144535",
+    "slug": "herbert-spencer",
+    "name_zh": "夏拔·史賓莎",
+    "name_en": "Herbert Spencer",
+    "tradition": "european",
+    "birth_year": 1820,
+    "death_year": 1903,
+    "coord": [
+      52.921666666,
+      -1.476666666
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q60024",
+    "qid": "Q60024",
+    "slug": "hermann-von-helmholtz",
+    "name_zh": "赫爾曼·馮·亥姆霍茲",
+    "name_en": "Hermann von Helmholtz",
+    "tradition": "european",
+    "birth_year": 1821,
+    "death_year": 1894,
+    "coord": [
+      52.4,
+      13.066666666
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q5264",
+    "qid": "Q5264",
+    "slug": "hippocrates",
+    "name_zh": "希波克拉底",
+    "name_en": "Hippocrates",
+    "tradition": "greek",
+    "birth_year": -459,
+    "death_year": -369,
+    "coord": [
+      36.815277777,
+      27.110277777
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q31754",
+    "qid": "Q31754",
+    "slug": "huang-zongxi",
+    "name_zh": "黃宗羲",
+    "name_en": "Huang Zongxi",
+    "tradition": "chinese",
+    "birth_year": 1610,
+    "death_year": 1695,
+    "coord": [
+      30.037195,
+      121.15463
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q154959",
+    "qid": "Q154959",
+    "slug": "hugo-grotius",
+    "name_zh": "胡果·格老秀斯",
+    "name_en": "Hugo Grotius",
+    "tradition": "european",
+    "birth_year": 1583,
+    "death_year": 1645,
+    "coord": [
+      52.011666666,
+      4.359166666
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q345012",
+    "qid": "Q345012",
+    "slug": "huineng",
+    "name_zh": "惠能",
+    "name_en": "Huineng",
+    "tradition": "chinese",
+    "birth_year": 638,
+    "death_year": 713,
+    "coord": [
+      22.70027,
+      112.22515
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q46420",
+    "qid": "Q46420",
+    "slug": "ibn-arabi",
+    "name_zh": "伊本·阿拉比",
+    "name_en": "Ibn Arabi",
+    "tradition": "islamic",
+    "birth_year": 1165,
+    "death_year": 1240,
+    "coord": [
+      37.983333333,
+      -1.130277777
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9294",
+    "qid": "Q9294",
+    "slug": "ibn-khaldun",
+    "name_zh": "伊本·赫勒敦",
+    "name_en": "Ibn Khaldun",
+    "tradition": "islamic",
+    "birth_year": 1332,
+    "death_year": 1406,
+    "coord": [
+      36.8065,
+      10.1815
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9312",
+    "qid": "Q9312",
+    "slug": "immanuel-kant",
+    "name_zh": "伊曼努爾·康德",
+    "name_en": "Immanuel Kant",
+    "tradition": "european",
+    "birth_year": 1724,
+    "death_year": 1804,
+    "coord": [
+      54.711472222,
+      20.509305555
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q217495",
+    "qid": "Q217495",
+    "slug": "iris-murdoch",
+    "name_zh": "艾瑞斯·梅鐸",
+    "name_en": "Iris Murdoch",
+    "tradition": "european",
+    "birth_year": 1919,
+    "death_year": 1999,
+    "coord": [
+      53.349722222,
+      -6.260277777
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q935",
+    "qid": "Q935",
+    "slug": "isaac-newton",
+    "name_zh": "艾薩克·牛頓",
+    "name_en": "Isaac Newton",
+    "tradition": "european",
+    "birth_year": 1643,
+    "death_year": 1727,
+    "coord": [
+      52.809167,
+      -0.630556
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q205162",
+    "qid": "Q205162",
+    "slug": "isaiah-berlin",
+    "name_zh": "以賽亞·伯林",
+    "name_en": "Isaiah Berlin",
+    "tradition": "european",
+    "birth_year": 1909,
+    "death_year": 1997,
+    "coord": [
+      56.9475,
+      24.106944444
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q130631",
+    "qid": "Q130631",
+    "slug": "jacques-derrida",
+    "name_zh": "雅克·德希達",
+    "name_en": "Jacques Derrida",
+    "tradition": "european",
+    "birth_year": 1930,
+    "death_year": 2004,
+    "coord": [
+      36.768333333,
+      3.030555555
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q180989",
+    "qid": "Q180989",
+    "slug": "jane-addams",
+    "name_zh": "珍·亞當斯",
+    "name_en": "Jane Addams",
+    "tradition": "european",
+    "birth_year": 1860,
+    "death_year": 1935,
+    "coord": [
+      42.375,
+      -89.6339
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q190944",
+    "qid": "Q190944",
+    "slug": "jean-bodin",
+    "name_zh": "讓·博丹",
+    "name_en": "Jean Bodin",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      47.472778,
+      -0.555556
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q6527",
+    "qid": "Q6527",
+    "slug": "jeanjacques-rousseau",
+    "name_zh": "讓-雅克·盧梭",
+    "name_en": "Jean-Jacques Rousseau",
+    "tradition": "european",
+    "birth_year": 1712,
+    "death_year": 1778,
+    "coord": [
+      46.2,
+      6.15
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9364",
+    "qid": "Q9364",
+    "slug": "jeanpaul-sartre",
+    "name_zh": "尚-保羅·沙特",
+    "name_en": "Jean-Paul Sartre",
+    "tradition": "european",
+    "birth_year": 1905,
+    "death_year": 1980,
+    "coord": [
+      48.856666666,
+      2.352222222
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q60887",
+    "qid": "Q60887",
+    "slug": "jeremy-bentham",
+    "name_zh": "傑里米·邊沁",
+    "name_en": "Jeremy Bentham",
+    "tradition": "european",
+    "birth_year": 1748,
+    "death_year": 1832,
+    "coord": [
+      51.507222222,
+      -0.1275
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q76499",
+    "qid": "Q76499",
+    "slug": "johann-georg-hamann",
+    "name_zh": "約翰·格奧爾格·哈曼",
+    "name_en": "Johann Georg Hamann",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      54.711472,
+      20.509306
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q155547",
+    "qid": "Q155547",
+    "slug": "johann-gottfried-herder",
+    "name_zh": "約翰·哥特弗雷德·赫爾德",
+    "name_en": "Johann Gottfried Herder",
+    "tradition": "european",
+    "birth_year": 1744,
+    "death_year": 1803,
+    "coord": [
+      53.915277777,
+      19.927222222
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q102585",
+    "qid": "Q102585",
+    "slug": "johann-gottlieb-fichte",
+    "name_zh": "約翰·戈特利布·費希特",
+    "name_en": "Johann Gottlieb Fichte",
+    "tradition": "european",
+    "birth_year": 1762,
+    "death_year": 1814,
+    "coord": [
+      51.15,
+      14.133333333
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q5879",
+    "qid": "Q5879",
+    "slug": "johann-wolfgang-von-goethe",
+    "name_zh": "約翰·沃夫岡·馮·歌德",
+    "name_en": "Johann Wolfgang von Goethe",
+    "tradition": "european",
+    "birth_year": 1749,
+    "death_year": 1832,
+    "coord": [
+      50.110555555,
+      8.682222222
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q1349404",
+    "qid": "Q1349404",
+    "slug": "john-anderson",
+    "name_zh": "約翰·安德森",
+    "name_en": "John Anderson",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      55.953333,
+      -3.189167
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q131805",
+    "qid": "Q131805",
+    "slug": "john-dewey",
+    "name_zh": "約翰·杜威",
+    "name_en": "John Dewey",
+    "tradition": "european",
+    "birth_year": 1859,
+    "death_year": 1952,
+    "coord": [
+      44.4876246,
+      -73.2314828
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q272615",
+    "qid": "Q272615",
+    "slug": "john-langshaw-austin",
+    "name_zh": "約翰·奧斯丁",
+    "name_en": "John Langshaw Austin",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      54.048889,
+      -2.801389
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9353",
+    "qid": "Q9353",
+    "slug": "john-locke",
+    "name_zh": "約翰·洛克",
+    "name_en": "John Locke",
+    "tradition": "european",
+    "birth_year": 1632,
+    "death_year": 1704,
+    "coord": [
+      51.3617,
+      -2.7606
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q51884",
+    "qid": "Q51884",
+    "slug": "john-of-damascus",
+    "name_zh": "大馬士革的約翰",
+    "name_en": "John of Damascus",
+    "tradition": "european",
+    "birth_year": 675,
+    "death_year": 749,
+    "coord": [
+      33.513,
+      36.292
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q172544",
+    "qid": "Q172544",
+    "slug": "john-rawls",
+    "name_zh": "約翰·羅爾斯",
+    "name_en": "John Rawls",
+    "tradition": "european",
+    "birth_year": 1921,
+    "death_year": 2002,
+    "coord": [
+      42.3601,
+      -71.0589
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q50020",
+    "qid": "Q50020",
+    "slug": "john-stuart-mill",
+    "name_zh": "約翰·斯圖爾特·彌爾",
+    "name_en": "John Stuart Mill",
+    "tradition": "european",
+    "birth_year": 1806,
+    "death_year": 1873,
+    "coord": [
+      51.541666666,
+      -0.102222222
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q153020",
+    "qid": "Q153020",
+    "slug": "jos-ortega-y-gasset",
+    "name_zh": "何塞·奧特嘉·伊·加塞特",
+    "name_en": "José Ortega y Gasset",
+    "tradition": "european",
+    "birth_year": 1883,
+    "death_year": 1955,
+    "coord": [
+      40.416944444,
+      -3.703333333
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q159636",
+    "qid": "Q159636",
+    "slug": "joseph-priestley",
+    "name_zh": "約瑟夫·普利斯特里",
+    "name_en": "Joseph Priestley",
+    "tradition": "european",
+    "birth_year": 1733,
+    "death_year": 1804,
+    "coord": [
+      53.7343,
+      -1.66092
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q471260",
+    "qid": "Q471260",
+    "slug": "josiah-royce",
+    "name_zh": "喬賽亞·羅伊斯",
+    "name_en": "Josiah Royce",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      39.219167,
+      -121.058333
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q76357",
+    "qid": "Q76357",
+    "slug": "jrgen-habermas",
+    "name_zh": "于爾根·哈伯瑪斯",
+    "name_en": "Jürgen Habermas",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      51.225556,
+      6.776667
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q360135",
+    "qid": "Q360135",
+    "slug": "kang-youwei",
+    "name_zh": "康有為",
+    "name_en": "Kang Youwei",
+    "tradition": "chinese",
+    "birth_year": 1858,
+    "death_year": 1927,
+    "coord": [
+      23.03139,
+      113.13732
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q76509",
+    "qid": "Q76509",
+    "slug": "karl-jaspers",
+    "name_zh": "卡爾·雅斯貝爾斯",
+    "name_en": "Karl Jaspers",
+    "tradition": "european",
+    "birth_year": 1883,
+    "death_year": 1969,
+    "coord": [
+      53.143888888,
+      8.213888888
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9061",
+    "qid": "Q9061",
+    "slug": "karl-marx",
+    "name_zh": "卡爾·馬克思",
+    "name_en": "Karl Marx",
+    "tradition": "european",
+    "birth_year": 1818,
+    "death_year": 1883,
+    "coord": [
+      49.75565,
+      6.63935
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q81244",
+    "qid": "Q81244",
+    "slug": "karl-popper",
+    "name_zh": "卡爾·波普",
+    "name_en": "Karl Popper",
+    "tradition": "european",
+    "birth_year": 1902,
+    "death_year": 1994,
+    "coord": [
+      48.208333333,
+      16.3725
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9333",
+    "qid": "Q9333",
+    "slug": "laozi",
+    "name_zh": "老子",
+    "name_en": "Laozi",
+    "tradition": "chinese",
+    "birth_year": -579,
+    "death_year": -500,
+    "coord": [
+      33.62502,
+      114.6418
+    ],
+    "k": 5,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q70986",
+    "qid": "Q70986",
+    "slug": "li-ao",
+    "name_zh": "李敖",
+    "name_en": "Li Ao",
+    "tradition": "chinese",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      45.75,
+      126.633333
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q379836",
+    "qid": "Q379836",
+    "slug": "liang-chichao",
+    "name_zh": "梁啟超",
+    "name_en": "Liang Chi-chao",
+    "tradition": "chinese",
+    "birth_year": 1873,
+    "death_year": 1929,
+    "coord": [
+      22.5151,
+      113.0274
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q184169",
+    "qid": "Q184169",
+    "slug": "louis-althusser",
+    "name_zh": "路易·皮埃爾·阿爾都塞",
+    "name_en": "Louis Althusser",
+    "tradition": "european",
+    "birth_year": 1918,
+    "death_year": 1990,
+    "coord": [
+      36.739444444,
+      3.05
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q2466384",
+    "qid": "Q2466384",
+    "slug": "lu-jiuyuan",
+    "name_zh": "陸九淵",
+    "name_en": "Lu Jiuyuan",
+    "tradition": "chinese",
+    "birth_year": 1139,
+    "death_year": 1193,
+    "coord": [
+      27.9,
+      116.75
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q47154",
+    "qid": "Q47154",
+    "slug": "lucretius",
+    "name_zh": "盧克萊修",
+    "name_en": "Lucretius",
+    "tradition": "greek",
+    "birth_year": -93,
+    "death_year": -54,
+    "coord": [
+      40.750556,
+      14.489722
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q76422",
+    "qid": "Q76422",
+    "slug": "ludwig-feuerbach",
+    "name_zh": "路德維希·費爾巴哈",
+    "name_en": "Ludwig Feuerbach",
+    "tradition": "european",
+    "birth_year": 1804,
+    "death_year": 1872,
+    "coord": [
+      48.539722222,
+      12.150833333
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9391",
+    "qid": "Q9391",
+    "slug": "ludwig-wittgenstein",
+    "name_zh": "路德維希·維根斯坦",
+    "name_en": "Ludwig Wittgenstein",
+    "tradition": "european",
+    "birth_year": 1889,
+    "death_year": 1951,
+    "coord": [
+      48.2378,
+      16.2861
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q1430",
+    "qid": "Q1430",
+    "slug": "marcus-aurelius",
+    "name_zh": "馬可·奧理略",
+    "name_en": "Marcus Aurelius",
+    "tradition": "greek",
+    "birth_year": 121,
+    "death_year": 180,
+    "coord": [
+      41.893055555,
+      12.482777777
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q192374",
+    "qid": "Q192374",
+    "slug": "marsilio-ficino",
+    "name_zh": "馬爾西利奧·費奇諾",
+    "name_en": "Marsilio Ficino",
+    "tradition": "european",
+    "birth_year": 1433,
+    "death_year": 1499,
+    "coord": [
+      43.616666666,
+      11.466666666
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q84423",
+    "qid": "Q84423",
+    "slug": "martin-buber",
+    "name_zh": "馬丁·布伯",
+    "name_en": "Martin Buber",
+    "tradition": "jewish",
+    "birth_year": 1878,
+    "death_year": 1965,
+    "coord": [
+      48.208333333,
+      16.3725
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q48301",
+    "qid": "Q48301",
+    "slug": "martin-heidegger",
+    "name_zh": "海德格",
+    "name_en": "Martin Heidegger",
+    "tradition": "european",
+    "birth_year": 1889,
+    "death_year": 1976,
+    "coord": [
+      47.992777777,
+      9.1125
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9554",
+    "qid": "Q9554",
+    "slug": "martin-luther",
+    "name_zh": "馬丁·路德",
+    "name_en": "Martin Luther",
+    "tradition": "european",
+    "birth_year": 1483,
+    "death_year": 1546,
+    "coord": [
+      51.516666666,
+      11.55
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q2359434",
+    "qid": "Q2359434",
+    "slug": "mary-astell",
+    "name_zh": "瑪麗·阿斯特爾",
+    "name_en": "Mary Astell",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      54.977778,
+      -1.613333
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q101638",
+    "qid": "Q101638",
+    "slug": "mary-wollstonecraft",
+    "name_zh": "瑪莉·吳爾史東克拉芙特",
+    "name_en": "Mary Wollstonecraft",
+    "tradition": "european",
+    "birth_year": 1759,
+    "death_year": 1797,
+    "coord": [
+      51.507222222,
+      -0.1275
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q212639",
+    "qid": "Q212639",
+    "slug": "maurice-merleauponty",
+    "name_zh": "莫里斯·梅洛-龐蒂",
+    "name_en": "Maurice Merleau-Ponty",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      47.2173,
+      -1.5534
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q76826",
+    "qid": "Q76826",
+    "slug": "max-horkheimer",
+    "name_zh": "麥克斯·霍克海默",
+    "name_en": "Max Horkheimer",
+    "tradition": "european",
+    "birth_year": 1895,
+    "death_year": 1973,
+    "coord": [
+      48.8323,
+      9.1685
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q76521",
+    "qid": "Q76521",
+    "slug": "max-scheler",
+    "name_zh": "馬克斯·舍勒",
+    "name_en": "Max Scheler",
+    "tradition": "european",
+    "birth_year": 1874,
+    "death_year": 1928,
+    "coord": [
+      48.1375,
+      11.575
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9387",
+    "qid": "Q9387",
+    "slug": "max-weber",
+    "name_zh": "麥斯·韋伯",
+    "name_en": "Max Weber",
+    "tradition": "european",
+    "birth_year": 1864,
+    "death_year": 1920,
+    "coord": [
+      50.978055555,
+      11.028888888
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q76548",
+    "qid": "Q76548",
+    "slug": "meister-eckhart",
+    "name_zh": "埃克哈特大師",
+    "name_en": "Meister Eckhart",
+    "tradition": "european",
+    "birth_year": 1260,
+    "death_year": 1328,
+    "coord": [
+      51.007706,
+      10.667038
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q188903",
+    "qid": "Q188903",
+    "slug": "mencius",
+    "name_zh": "孟子",
+    "name_en": "Mencius",
+    "tradition": "chinese",
+    "birth_year": -371,
+    "death_year": -288,
+    "coord": [
+      35.406,
+      116.975
+    ],
+    "k": 5,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q41568",
+    "qid": "Q41568",
+    "slug": "michel-de-montaigne",
+    "name_zh": "米歇爾·德·蒙田",
+    "name_en": "Michel de Montaigne",
+    "tradition": "european",
+    "birth_year": 1533,
+    "death_year": 1592,
+    "coord": [
+      44.874166666,
+      0.03
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q44272",
+    "qid": "Q44272",
+    "slug": "michel-foucault",
+    "name_zh": "米歇爾·傅柯",
+    "name_en": "Michel Foucault",
+    "tradition": "european",
+    "birth_year": 1926,
+    "death_year": 1984,
+    "coord": [
+      46.581111111,
+      0.335277777
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q185085",
+    "qid": "Q185085",
+    "slug": "miguel-de-unamuno",
+    "name_zh": "米格爾·德·烏納穆諾",
+    "name_en": "Miguel de Unamuno",
+    "tradition": "european",
+    "birth_year": 1864,
+    "death_year": 1936,
+    "coord": [
+      43.256548,
+      -2.922136
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q15948",
+    "qid": "Q15948",
+    "slug": "mile-durkheim",
+    "name_zh": "艾彌爾·涂爾幹",
+    "name_en": "Émile Durkheim",
+    "tradition": "european",
+    "birth_year": 1858,
+    "death_year": 1917,
+    "coord": [
+      48.173611111,
+      6.451666666
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q15975",
+    "qid": "Q15975",
+    "slug": "montesquieu",
+    "name_zh": "孟德斯鳩",
+    "name_en": "Montesquieu",
+    "tradition": "european",
+    "birth_year": 1689,
+    "death_year": 1755,
+    "coord": [
+      47.322,
+      0.6827
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q127398",
+    "qid": "Q127398",
+    "slug": "moshe-ben-maimon",
+    "name_zh": "邁蒙尼德",
+    "name_en": "Moshe ben Maimon",
+    "tradition": "jewish",
+    "birth_year": 1135,
+    "death_year": 1204,
+    "coord": [
+      37.89,
+      -4.78
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q272411",
+    "qid": "Q272411",
+    "slug": "mozi",
+    "name_zh": "墨子",
+    "name_en": "Mozi",
+    "tradition": "chinese",
+    "birth_year": -469,
+    "death_year": -390,
+    "coord": [
+      35.113,
+      117.159
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q171195",
+    "qid": "Q171195",
+    "slug": "nagarjuna",
+    "name_zh": "龍樹菩薩",
+    "name_en": "Nagarjuna",
+    "tradition": "indian",
+    "birth_year": 150,
+    "death_year": 250,
+    "coord": [
+      13,
+      77
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q1399",
+    "qid": "Q1399",
+    "slug": "niccol-machiavelli",
+    "name_zh": "尼可洛·馬基亞維利",
+    "name_en": "Niccolò Machiavelli",
+    "tradition": "european",
+    "birth_year": 1469,
+    "death_year": 1527,
+    "coord": [
+      43.771388888,
+      11.254166666
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q154751",
+    "qid": "Q154751",
+    "slug": "nicholas-of-cusa",
+    "name_zh": "尼古拉",
+    "name_en": "Nicholas of Cusa",
+    "tradition": "european",
+    "birth_year": 1401,
+    "death_year": 1464,
+    "coord": [
+      49.916111111,
+      7.069444444
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q309818",
+    "qid": "Q309818",
+    "slug": "nicolas-malebranche",
+    "name_zh": "尼古拉斯‧馬勒伯朗士",
+    "name_en": "Nicolas Malebranche",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      48.856667,
+      2.352222
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q619",
+    "qid": "Q619",
+    "slug": "nicolaus-copernicus",
+    "name_zh": "尼古拉·哥白尼",
+    "name_en": "Nicolaus Copernicus",
+    "tradition": "european",
+    "birth_year": 1473,
+    "death_year": 1543,
+    "coord": [
+      53.0144,
+      18.6014
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q60684",
+    "qid": "Q60684",
+    "slug": "novalis",
+    "name_zh": "諾瓦利斯",
+    "name_en": "Novalis",
+    "tradition": "european",
+    "birth_year": 1772,
+    "death_year": 1801,
+    "coord": [
+      51.666666666,
+      11.533055555
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q206972",
+    "qid": "Q206972",
+    "slug": "olympe-de-gouges",
+    "name_zh": "奧蘭普·德古熱",
+    "name_en": "Olympe de Gouges",
+    "tradition": "european",
+    "birth_year": 1748,
+    "death_year": 1793,
+    "coord": [
+      44.017222222,
+      1.355
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q170472",
+    "qid": "Q170472",
+    "slug": "origen",
+    "name_zh": "俄利根",
+    "name_en": "Origen",
+    "tradition": "european",
+    "birth_year": 184,
+    "death_year": 254,
+    "coord": [
+      31.1975,
+      29.8925
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q125551",
+    "qid": "Q125551",
+    "slug": "parmenides",
+    "name_zh": "巴門尼德",
+    "name_en": "Parmenides",
+    "tradition": "greek",
+    "birth_year": -514,
+    "death_year": -469,
+    "coord": [
+      40.159444444,
+      15.154444444
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q192066",
+    "qid": "Q192066",
+    "slug": "paul-ricoeur",
+    "name_zh": "保羅·利科",
+    "name_en": "Paul Ricoeur",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      47.9029,
+      1.9039
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q4295",
+    "qid": "Q4295",
+    "slug": "peter-abelard",
+    "name_zh": "彼得·阿伯拉爾",
+    "name_en": "Peter Abelard",
+    "tradition": "european",
+    "birth_year": 1079,
+    "death_year": 1142,
+    "coord": [
+      47.138333,
+      -1.335833
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q189597",
+    "qid": "Q189597",
+    "slug": "philo-of-alexandria",
+    "name_zh": "斐洛",
+    "name_en": "Philo of Alexandria",
+    "tradition": "jewish",
+    "birth_year": -14,
+    "death_year": 50,
+    "coord": [
+      31.1975,
+      29.8925
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q214816",
+    "qid": "Q214816",
+    "slug": "pierre-bayle",
+    "name_zh": "皮埃爾·培爾",
+    "name_en": "Pierre Bayle",
+    "tradition": "european",
+    "birth_year": 1647,
+    "death_year": 1706,
+    "coord": [
+      43.150555555,
+      1.393611111
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q859",
+    "qid": "Q859",
+    "slug": "plato",
+    "name_zh": "柏拉圖",
+    "name_en": "Plato",
+    "tradition": "greek",
+    "birth_year": -428,
+    "death_year": -348,
+    "coord": [
+      37.984166666,
+      23.728055555
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q134189",
+    "qid": "Q134189",
+    "slug": "plotinus",
+    "name_zh": "普羅提諾",
+    "name_en": "Plotinus",
+    "tradition": "greek",
+    "birth_year": 205,
+    "death_year": 270,
+    "coord": [
+      27.186944444,
+      31.171388888
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q41523",
+    "qid": "Q41523",
+    "slug": "plutarch",
+    "name_zh": "普魯塔克",
+    "name_en": "Plutarch",
+    "tradition": "greek",
+    "birth_year": 40,
+    "death_year": 120,
+    "coord": [
+      38.495182,
+      22.8434315
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q203445",
+    "qid": "Q203445",
+    "slug": "porphyry",
+    "name_zh": "波菲利",
+    "name_en": "Porphyry",
+    "tradition": "greek",
+    "birth_year": 233,
+    "death_year": 301,
+    "coord": [
+      33.266666666,
+      35.2
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q169243",
+    "qid": "Q169243",
+    "slug": "protagoras",
+    "name_zh": "普羅泰戈拉",
+    "name_en": "Protagoras",
+    "tradition": "greek",
+    "birth_year": -489,
+    "death_year": -419,
+    "coord": [
+      40.933714,
+      24.973299
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q312816",
+    "qid": "Q312816",
+    "slug": "pseudodionysius-the-areopagite",
+    "name_zh": "偽狄奧尼修斯",
+    "name_en": "Pseudo-Dionysius the Areopagite",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      36.2,
+      36.16
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "approximate"
+  },
+  {
+    "id": "Q10261",
+    "qid": "Q10261",
+    "slug": "pythagoras",
+    "name_zh": "畢達哥拉斯",
+    "name_en": "Pythagoras",
+    "tradition": "greek",
+    "birth_year": -582,
+    "death_year": -490,
+    "coord": [
+      37.689444,
+      26.943056
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q528261",
+    "qid": "Q528261",
+    "slug": "ralph-cudworth",
+    "name_zh": "拉爾夫·庫德沃思",
+    "name_en": "Ralph Cudworth",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      51.059444,
+      -2.857222
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q48226",
+    "qid": "Q48226",
+    "slug": "ralph-waldo-emerson",
+    "name_zh": "拉爾夫·沃爾多·愛默生",
+    "name_en": "Ralph Waldo Emerson",
+    "tradition": "european",
+    "birth_year": 1803,
+    "death_year": 1882,
+    "coord": [
+      42.360277777,
+      -71.057777777
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9191",
+    "qid": "Q9191",
+    "slug": "ren-descartes",
+    "name_zh": "勒內·笛卡兒",
+    "name_en": "René Descartes",
+    "tradition": "european",
+    "birth_year": 1596,
+    "death_year": 1650,
+    "coord": [
+      46.973611111,
+      0.697777777
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q215258",
+    "qid": "Q215258",
+    "slug": "richard-rorty",
+    "name_zh": "理查德·羅蒂",
+    "name_en": "Richard Rorty",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      40.712778,
+      -74.006111
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q43393",
+    "qid": "Q43393",
+    "slug": "robert-boyle",
+    "name_zh": "羅伯特·波義耳",
+    "name_en": "Robert Boyle",
+    "tradition": "european",
+    "birth_year": 1627,
+    "death_year": 1691,
+    "coord": [
+      52.140555555,
+      -7.9325
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q877276",
+    "qid": "Q877276",
+    "slug": "roderick-chisholm",
+    "name_zh": "羅德里克·齊碩姆",
+    "name_en": "Roderick Chisholm",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      41.75,
+      -71.09
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q171677",
+    "qid": "Q171677",
+    "slug": "roger-bacon",
+    "name_zh": "羅吉爾·培根",
+    "name_en": "Roger Bacon",
+    "tradition": "european",
+    "birth_year": 1220,
+    "death_year": 1292,
+    "coord": [
+      51.0011,
+      -2.6825
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q7231",
+    "qid": "Q7231",
+    "slug": "rosa-luxemburg",
+    "name_zh": "羅莎·盧森堡",
+    "name_en": "Rosa Luxemburg",
+    "tradition": "european",
+    "birth_year": 1871,
+    "death_year": 1919,
+    "coord": [
+      50.720555555,
+      23.258611111
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q4177579",
+    "qid": "Q4177579",
+    "slug": "roy-wood-sellars",
+    "name_zh": null,
+    "name_en": "Roy Wood Sellars",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      43.554644,
+      -81.396847
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q76519",
+    "qid": "Q76519",
+    "slug": "rudolf-carnap",
+    "name_zh": "魯道夫·卡納普",
+    "name_en": "Rudolf Carnap",
+    "tradition": "european",
+    "birth_year": 1891,
+    "death_year": 1970,
+    "coord": [
+      51.266666666,
+      7.183333333
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q379900",
+    "qid": "Q379900",
+    "slug": "samuel-alexander",
+    "name_zh": "塞繆爾·亞歷山大",
+    "name_en": "Samuel Alexander",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      -33.867778,
+      151.21
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q156349",
+    "qid": "Q156349",
+    "slug": "sarvepalli-radhakrishnan",
+    "name_zh": "薩瓦帕利·拉達克里希南",
+    "name_en": "Sarvepalli Radhakrishnan",
+    "tradition": "indian",
+    "birth_year": 1888,
+    "death_year": 1975,
+    "coord": [
+      13.18333333,
+      79.63333333
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q2054",
+    "qid": "Q2054",
+    "slug": "seneca",
+    "name_zh": "塞內卡",
+    "name_en": "Seneca",
+    "tradition": "greek",
+    "birth_year": -4,
+    "death_year": 65,
+    "coord": [
+      37.884762,
+      -4.776386
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "approximate"
+  },
+  {
+    "id": "Q724293",
+    "qid": "Q724293",
+    "slug": "sengzhao",
+    "name_zh": "僧肇",
+    "name_en": "Sengzhao",
+    "tradition": "chinese",
+    "birth_year": 374,
+    "death_year": 414,
+    "coord": [
+      34.266,
+      108.954
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q722288",
+    "qid": "Q722288",
+    "slug": "shao-yong",
+    "name_zh": "邵雍",
+    "name_en": "Shao Yong",
+    "tradition": "chinese",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      39.48873,
+      115.99176
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q7197",
+    "qid": "Q7197",
+    "slug": "simone-de-beauvoir",
+    "name_zh": "西蒙·德·波娃",
+    "name_en": "Simone de Beauvoir",
+    "tradition": "european",
+    "birth_year": 1908,
+    "death_year": 1986,
+    "coord": [
+      48.850530555,
+      2.332233333
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q157309",
+    "qid": "Q157309",
+    "slug": "simone-weil",
+    "name_zh": "西蒙娜·韋伊",
+    "name_en": "Simone Weil",
+    "tradition": "european",
+    "birth_year": 1909,
+    "death_year": 1943,
+    "coord": [
+      48.856666666,
+      2.352222222
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q913",
+    "qid": "Q913",
+    "slug": "socrates",
+    "name_zh": "蘇格拉底",
+    "name_en": "Socrates",
+    "tradition": "greek",
+    "birth_year": -469,
+    "death_year": -398,
+    "coord": [
+      37.984166666,
+      23.728055555
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q6512",
+    "qid": "Q6512",
+    "slug": "sren-kierkegaard",
+    "name_zh": "索倫·齊克果",
+    "name_en": "Søren Kierkegaard",
+    "tradition": "european",
+    "birth_year": 1813,
+    "death_year": 1855,
+    "coord": [
+      55.676111111,
+      12.568888888
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q2106841",
+    "qid": "Q2106841",
+    "slug": "susan-stebbing",
+    "name_zh": null,
+    "name_en": "Susan Stebbing",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      51.61712,
+      -0.17426
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q466026",
+    "qid": "Q466026",
+    "slug": "susanne-langer",
+    "name_zh": "蘇珊·朗格",
+    "name_en": "Susanne Langer",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      40.728333,
+      -73.994167
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q36303",
+    "qid": "Q36303",
+    "slug": "thales",
+    "name_zh": "泰勒斯",
+    "name_en": "Thales",
+    "tradition": "greek",
+    "birth_year": -624,
+    "death_year": -545,
+    "coord": [
+      37.530233,
+      27.278369
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9441",
+    "qid": "Q9441",
+    "slug": "the-buddha",
+    "name_zh": "釋迦牟尼",
+    "name_en": "The Buddha",
+    "tradition": "indian",
+    "birth_year": -500,
+    "death_year": -500,
+    "coord": [
+      27.4814,
+      83.275829
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q152388",
+    "qid": "Q152388",
+    "slug": "theodor-w-adorno",
+    "name_zh": "狄奧多·阿多諾",
+    "name_en": "Theodor W. Adorno",
+    "tradition": "european",
+    "birth_year": 1903,
+    "death_year": 1969,
+    "coord": [
+      50.110555555,
+      8.682222222
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q160362",
+    "qid": "Q160362",
+    "slug": "theophrastus",
+    "name_zh": "泰奧弗拉斯托斯",
+    "name_en": "Theophrastus",
+    "tradition": "greek",
+    "birth_year": -370,
+    "death_year": -286,
+    "coord": [
+      39.168611,
+      25.931389
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9438",
+    "qid": "Q9438",
+    "slug": "thomas-aquinas",
+    "name_zh": "多瑪斯·阿奎那",
+    "name_en": "Thomas Aquinas",
+    "tradition": "european",
+    "birth_year": 1225,
+    "death_year": 1274,
+    "coord": [
+      41.547829,
+      13.670404
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q37621",
+    "qid": "Q37621",
+    "slug": "thomas-hobbes",
+    "name_zh": "湯瑪斯·霍布斯",
+    "name_en": "Thomas Hobbes",
+    "tradition": "european",
+    "birth_year": 1588,
+    "death_year": 1679,
+    "coord": [
+      51.5854,
+      -2.10135
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q11812",
+    "qid": "Q11812",
+    "slug": "thomas-jefferson",
+    "name_zh": "湯瑪斯·傑佛遜",
+    "name_en": "Thomas Jefferson",
+    "tradition": "european",
+    "birth_year": 1743,
+    "death_year": 1826,
+    "coord": [
+      38.0131,
+      -78.3956
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q184980",
+    "qid": "Q184980",
+    "slug": "thomas-kuhn",
+    "name_zh": "湯瑪斯·孔恩",
+    "name_en": "Thomas Kuhn",
+    "tradition": "european",
+    "birth_year": 1922,
+    "death_year": 1996,
+    "coord": [
+      39.1,
+      -84.5125
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q42544",
+    "qid": "Q42544",
+    "slug": "thomas-more",
+    "name_zh": "湯馬士·摩亞",
+    "name_en": "Thomas More",
+    "tradition": "european",
+    "birth_year": 1478,
+    "death_year": 1535,
+    "coord": [
+      51.507222222,
+      -0.1275
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q316347",
+    "qid": "Q316347",
+    "slug": "thomas-reid",
+    "name_zh": "托馬斯·里德",
+    "name_en": "Thomas Reid",
+    "tradition": "european",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      57.0205,
+      -2.53855
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q320955",
+    "qid": "Q320955",
+    "slug": "thrasymachus",
+    "name_zh": "塞拉西馬柯",
+    "name_en": "Thrasymachus",
+    "tradition": "greek",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      40.983393,
+      29.025789
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q191850",
+    "qid": "Q191850",
+    "slug": "tommaso-campanella",
+    "name_zh": "托馬索·康帕內拉",
+    "name_en": "Tommaso Campanella",
+    "tradition": "european",
+    "birth_year": 1568,
+    "death_year": 1639,
+    "coord": [
+      38.483333333,
+      16.466666666
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9068",
+    "qid": "Q9068",
+    "slug": "voltaire",
+    "name_zh": "伏爾泰",
+    "name_en": "Voltaire",
+    "tradition": "european",
+    "birth_year": 1694,
+    "death_year": 1778,
+    "coord": [
+      48.856666666,
+      2.352222222
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q158060",
+    "qid": "Q158060",
+    "slug": "w-e-b-du-bois",
+    "name_zh": "W·E·B·杜波依斯",
+    "name_en": "W. E. B. Du Bois",
+    "tradition": "african",
+    "birth_year": 1868,
+    "death_year": 1963,
+    "coord": [
+      42.1958,
+      -73.3625
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q61078",
+    "qid": "Q61078",
+    "slug": "walter-benjamin",
+    "name_zh": "瓦爾特·本雅明",
+    "name_en": "Walter Benjamin",
+    "tradition": "european",
+    "birth_year": 1892,
+    "death_year": 1940,
+    "coord": [
+      52.516666666,
+      13.383333333
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q459865",
+    "qid": "Q459865",
+    "slug": "wang-bi",
+    "name_zh": "王弼",
+    "name_en": "Wang Bi",
+    "tradition": "chinese",
+    "birth_year": 226,
+    "death_year": 249,
+    "coord": [
+      35.383333333,
+      116.083333333
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q319329",
+    "qid": "Q319329",
+    "slug": "wang-chong",
+    "name_zh": "王充",
+    "name_en": "Wang Chong",
+    "tradition": "chinese",
+    "birth_year": 27,
+    "death_year": 97,
+    "coord": [
+      30.018888888,
+      120.8725
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q714374",
+    "qid": "Q714374",
+    "slug": "wang-fuzhi",
+    "name_zh": "王夫之",
+    "name_en": "Wang Fuzhi",
+    "tradition": "chinese",
+    "birth_year": 1619,
+    "death_year": 1692,
+    "coord": [
+      26.89676,
+      112.58568
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q378462",
+    "qid": "Q378462",
+    "slug": "wang-yangming",
+    "name_zh": "王陽明",
+    "name_en": "Wang Yangming",
+    "tradition": "chinese",
+    "birth_year": 1472,
+    "death_year": 1529,
+    "coord": [
+      30.037195,
+      121.15463
+    ],
+    "k": 5,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q77888",
+    "qid": "Q77888",
+    "slug": "wilhelm-von-humboldt",
+    "name_zh": "威廉·馮·洪堡",
+    "name_en": "Wilhelm von Humboldt",
+    "tradition": "european",
+    "birth_year": 1767,
+    "death_year": 1835,
+    "coord": [
+      52.39588611,
+      13.05792222
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q188569",
+    "qid": "Q188569",
+    "slug": "william-godwin",
+    "name_zh": "威廉·戈德溫",
+    "name_en": "William Godwin",
+    "tradition": "european",
+    "birth_year": 1756,
+    "death_year": 1836,
+    "coord": [
+      52.664161111,
+      0.160311111
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q125249",
+    "qid": "Q125249",
+    "slug": "william-james",
+    "name_zh": "威廉·詹姆士",
+    "name_en": "William James",
+    "tradition": "european",
+    "birth_year": 1842,
+    "death_year": 1910,
+    "coord": [
+      40.711873,
+      -74.008753
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q43936",
+    "qid": "Q43936",
+    "slug": "william-of-ockham",
+    "name_zh": "奧坎的威廉",
+    "name_en": "William of Ockham",
+    "tradition": "european",
+    "birth_year": 1287,
+    "death_year": 1349,
+    "coord": [
+      51.298,
+      -0.461
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q131671",
+    "qid": "Q131671",
+    "slug": "xenophanes",
+    "name_zh": "色諾芬尼",
+    "name_en": "Xenophanes",
+    "tradition": "greek",
+    "birth_year": -569,
+    "death_year": -477,
+    "coord": [
+      38.11555556,
+      27.14222222
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q129772",
+    "qid": "Q129772",
+    "slug": "xenophon",
+    "name_zh": "色諾芬",
+    "name_en": "Xenophon",
+    "tradition": "greek",
+    "birth_year": -430,
+    "death_year": -353,
+    "coord": [
+      37.9672025,
+      23.9186855
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q1147782",
+    "qid": "Q1147782",
+    "slug": "xiang-xiu",
+    "name_zh": "向秀",
+    "name_en": "Xiang Xiu",
+    "tradition": "chinese",
+    "birth_year": null,
+    "death_year": null,
+    "coord": [
+      35.089,
+      112.95
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q42063",
+    "qid": "Q42063",
+    "slug": "xuanzang",
+    "name_zh": "玄奘",
+    "name_en": "Xuanzang",
+    "tradition": "chinese",
+    "birth_year": 602,
+    "death_year": 664,
+    "coord": [
+      34.72296,
+      112.77955
+    ],
+    "k": 3,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q216072",
+    "qid": "Q216072",
+    "slug": "xunzi",
+    "name_zh": "荀子",
+    "name_en": "Xunzi",
+    "tradition": "chinese",
+    "birth_year": -312,
+    "death_year": -230,
+    "coord": [
+      36.128,
+      112.254
+    ],
+    "k": 5,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q553520",
+    "qid": "Q553520",
+    "slug": "yang-xiong",
+    "name_zh": "揚雄",
+    "name_en": "Yang Xiong",
+    "tradition": "chinese",
+    "birth_year": -52,
+    "death_year": 18,
+    "coord": [
+      30.798611111,
+      103.898888888
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q171303",
+    "qid": "Q171303",
+    "slug": "zeno-of-citium",
+    "name_zh": "季蒂昂的芝諾",
+    "name_en": "Zeno of Citium",
+    "tradition": "greek",
+    "birth_year": -333,
+    "death_year": -262,
+    "coord": [
+      34.929597,
+      33.629471
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q132157",
+    "qid": "Q132157",
+    "slug": "zeno-of-elea",
+    "name_zh": "埃利亞的芝諾",
+    "name_en": "Zeno of Elea",
+    "tradition": "greek",
+    "birth_year": -489,
+    "death_year": -424,
+    "coord": [
+      40.159444444,
+      15.154444444
+    ],
+    "k": 2,
+    "centrality": "core",
+    "review": true,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q197338",
+    "qid": "Q197338",
+    "slug": "zhang-zai",
+    "name_zh": "張載",
+    "name_en": "Zhang Zai",
+    "tradition": "chinese",
+    "birth_year": 1020,
+    "death_year": 1077,
+    "coord": [
+      34.795,
+      114.345
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q197962",
+    "qid": "Q197962",
+    "slug": "zhou-dunyi",
+    "name_zh": "周敦頤",
+    "name_en": "Zhou Dunyi",
+    "tradition": "chinese",
+    "birth_year": 1017,
+    "death_year": 1073,
+    "coord": [
+      25.522,
+      111.6
+    ],
+    "k": 4,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q9397",
+    "qid": "Q9397",
+    "slug": "zhu-xi",
+    "name_zh": "朱熹",
+    "name_en": "Zhu Xi",
+    "tradition": "chinese",
+    "birth_year": 1130,
+    "death_year": 1200,
+    "coord": [
+      26.17254,
+      118.18485
+    ],
+    "k": 5,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  },
+  {
+    "id": "Q47739",
+    "qid": "Q47739",
+    "slug": "zhuang-zhou",
+    "name_zh": "莊子",
+    "name_en": "Zhuang Zhou",
+    "tradition": "chinese",
+    "birth_year": -368,
+    "death_year": -287,
+    "coord": [
+      34.42592,
+      115.64673
+    ],
+    "k": 5,
+    "centrality": "core",
+    "review": false,
+    "date_certainty": "exact"
+  }
+]

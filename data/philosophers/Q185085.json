@@ -1,0 +1,105 @@
+{
+  "id": "Q185085",
+  "qid": "Q185085",
+  "slug": "miguel-de-unamuno",
+  "name_zh": "米格爾·德·烏納穆諾",
+  "name_en": "Miguel de Unamuno",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1864,
+  "death_year": 1936,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 43.256548,
+      "lon": -2.922136,
+      "place": null,
+      "period": [
+        1864,
+        1936
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Spain",
+          "start": 1815,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 40.96577222,
+      "lon": -5.666525,
+      "place": "Casa del Regidor Ovalle Prieto, Salamanca",
+      "period": [
+        1936,
+        1936
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 40.416944444,
+      "lon": -3.703333333,
+      "place": "Madrid",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Unamuno, Miguel de"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Mist",
+      "title_zh": "迷霧",
+      "year": 1914,
+      "qid": "Q2604439",
+      "source": "wikidata"
+    },
+    {
+      "title": "Del sentimiento trágico de la vida",
+      "title_zh": null,
+      "year": 1912,
+      "qid": "Q3227098",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 92,
+  "birth_place": null,
+  "description": "西班牙作家、哲學家（1864－1936）",
+  "bio": "米格爾·德·烏納穆諾-胡戈（西班牙語：Miguel de Unamuno y Jugo，1864年9月29日—1936年12月31日）是一名西班牙作家、哲學家，98年一代（Generation of '98）代表作家。他是一個天主教徒。「那驚悸顫動不定的思想與弔詭冗長的文字表現，造成豐盈激情的詭論，也標示了他獨特的風格。」\n他生於巴斯克地區比爾巴奧城。1880年進馬德里大學學習。1884年獲哲學和文學博士學位。1891年應聘為薩拉曼加大學古希臘語教授。1895年發表《論卡斯蒂主義》一文，探討西班牙的改革問題。後成為決意為振興和繁榮西班牙文學而努力的「一八九八年一代」作家的重要成員之一。1901年任薩拉曼加大學校長。1905年發表論著《堂吉訶德與桑丘傳》，1913年發表《論生活的悲劇意義》，體現出存在主義哲學思想。同時創作大量小說、詩歌、戲劇、隨筆等文學作品，闡發其哲學和社會改革思想。並被認為是現代西班牙雜文之父。他主張共和，反對獨裁。1914年因批評政府腐敗專權被免去校長職。1924年因抗議獨裁者普利莫奪權被流放到迦納利群島。後逃往法國。1930年普利莫垮臺後回國，重任薩拉曼加大學校長。1936年因反對佛朗哥政權被軟禁。12月在薩拉曼加病逝。",
+  "bio_source": "zhwiki",
+  "description_en": "Spanish poet (1864-1936)",
+  "bio_en": "Miguel de Unamuno y Jugo ( OO-nə-MOO-noh, Spanish: [miˈɣel de unaˈmuno i ˈxuɣo, wnaˈmuno j -]; 29 September 1864 – 31 December 1936) was a Spanish essayist, novelist, poet, playwright, philosopher and academic. His major philosophical essay was Tragic Sense of Life (1913), and his most famous novels were Abel Sánchez: The History of a Passion (1917), a modern exploration of the Cain and Abel story, and Mist (1914), which The Literary Encyclopedia calls \"the most acclaimed Spanish Modernist novel\".",
+  "bio_en_source": "enwiki"
+}

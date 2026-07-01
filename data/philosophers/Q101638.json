@@ -1,0 +1,203 @@
+{
+  "id": "Q101638",
+  "qid": "Q101638",
+  "slug": "mary-wollstonecraft",
+  "name_zh": "瑪莉·吳爾史東克拉芙特",
+  "name_en": "Mary Wollstonecraft",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1759,
+  "death_year": 1797,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.507222222,
+      "lon": -0.1275,
+      "place": "London",
+      "period": [
+        1759,
+        1797
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.531111111,
+      "lon": -0.131666666,
+      "place": "Somers Town",
+      "period": [
+        1797,
+        1797
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.35,
+      "lon": -3.633333333,
+      "place": "Wales",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 53.351,
+      "lon": -7.921,
+      "place": "Ireland",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.5514,
+      "lon": -0.0851,
+      "place": "Newington Green",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.54,
+      "lon": 0.08,
+      "place": "Barking",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.523055555,
+      "lon": -0.125,
+      "place": "Bloomsbury",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 53.8425488,
+      "lon": -0.4315677,
+      "place": "Beverley",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.66,
+      "lon": 0.05,
+      "place": "Epping Forest",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.4988,
+      "lon": -0.0901,
+      "place": "Southwark",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wollstonecraft, Mary"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+      "title_zh": "瑞典、挪威和丹麥短居書簡",
+      "year": 1796,
+      "qid": "Q1754997",
+      "source": "wikidata"
+    },
+    {
+      "title": "A Vindication of the Rights of Woman",
+      "title_zh": "女權辯護",
+      "year": 1792,
+      "qid": "Q300646",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 128,
+  "birth_place": "London",
+  "description": "18世紀英國女作家",
+  "bio": "瑪麗·吳爾史東克拉芙特（英語：Mary Wollstonecraft；1759年4月27日—1797年9月10日），18世紀英國作家、哲學家、女性主義者。其於短暫的寫作生涯中，完成了多篇小說和論文、一本遊記、一本法國大革命史、一本行為手冊以及一本兒童文學。撰於1792年的《女權辯護》為吳爾史東克拉芙特最為人所知的作品；在這本書裡，她提出：女性並非天生地低賤於男性，只有當她們缺乏足夠的教育時才會顯露出這一點。她認為男性和女性都應被視為有理性的生命，繼而設想了建立基於理性之上的社會秩序。\n對普通大眾——特別是女權主義者而言，吳爾史東克拉芙特的一生要比其作品更加引人注目，這主要是由於她另類的生活型態。在與無政府主義運動的先驅者威廉·戈德溫結婚之前，吳爾史東克拉芙特還有過兩段不幸的愛情：其一是與瑞士畫家約翰·亨利希·菲斯利，其二是與商人吉爾伯特·伊姆利。吳爾史東克拉芙特與戈德溫育有一女，即《科學怪人》的作者瑪麗·雪萊。吳爾史東克拉芙特38歲時，產下次女瑪麗，不久過世於產後併發症，遺留下幾部未完成的原稿。\n在吳爾史東克拉芙特死後，丈夫戈德溫於1798年出版了《女權辯護作者傳》，其中透露了她另類的生活方式。本為紀念妻子的戈德溫，卻在無意之間將她的名譽破壞長達一個世紀之久。但是，隨著20世紀初婦女權利的興起，吳爾史東克拉芙特對性別平等的提倡以及對傳統女性特質的批評開始變得日益重要。",
+  "bio_source": "zhwiki",
+  "description_en": "English writer and intellectual (1759–1797)",
+  "bio_en": "Mary Wollstonecraft (, also UK: ; 27 April 1759 – 10 September 1797) was an English writer and philosopher best known for her advocacy of women's rights. Until the late twentieth century, Wollstonecraft's life, which encompassed several unconventional (at the time) personal relationships, received more attention than her writing. Wollstonecraft is regarded as one of the founding feminist philosophers, and feminists often cite both her life and her works as important influences.\nDuring her brief career she wrote novels, treatises, a travel narrative, a history of the French Revolution, a conduct book, and a children's book.",
+  "bio_en_source": "enwiki"
+}

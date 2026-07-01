@@ -1,0 +1,104 @@
+{
+  "id": "Q165792",
+  "qid": "Q165792",
+  "slug": "edmund-burke",
+  "name_zh": "埃德蒙·伯克",
+  "name_en": "Edmund Burke",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1729,
+  "death_year": 1797,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 53.349722222,
+      "lon": -6.260277777,
+      "place": "Dublin",
+      "period": [
+        1729,
+        1797
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Kingdom of Ireland",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "Ireland",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.600872222,
+      "lon": -0.634680555,
+      "place": "Beaconsfield",
+      "period": [
+        1797,
+        1797
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Burke, Edmund"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Reflections on the Revolution in France",
+      "title_zh": "對法國大革命的反思",
+      "year": 1790,
+      "qid": "Q2287584",
+      "source": "wikidata"
+    },
+    {
+      "title": "A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful",
+      "title_zh": "崇高與美的哲學探索",
+      "year": 1757,
+      "qid": "Q947972",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 122,
+  "birth_place": "Dublin",
+  "description": "愛爾蘭政治家及政治理論家",
+  "bio": "埃德蒙·伯克（英語：Edmund Burke，1729年1月12日—1797年7月9日），愛爾蘭裔的英國的政治家、作家、演說家、政治理論家和哲學家，他曾在英國下議院擔任了數年輝格黨的議員。他最為後人所知的事蹟包括了他反對英王喬治三世和英國政府、在美國殖民地以及後來的美國革命的處理方向上與英國分歧，以及他後來對於法國大革命的批判。對法國大革命的反思使他成為輝格黨裡的保守主義主要人物（他還以「老輝格」自稱），反制黨內提倡革命的「新輝格」。伯克也出版了許多與美學有關的著作，並且創立了一份名為Annual Register的政治期刊。他經常被視為是英美保守主義的奠基者。",
+  "bio_source": "zhwiki",
+  "description_en": "Anglo-Irish statesman, political theorist and conservative philosopher (1729–1797)",
+  "bio_en": "Edmund Burke (; 12 January [NS] 1729 – 9 July 1797) was an Anglo-Irish writer, philosopher, and politician who is widely credited as the founder of the cultural and political philosophy of conservatism. Regarded as one of the most influential conservative thinkers and political writers of the 18th century, Burke spent the majority of his career in Great Britain and was elected as a member of Parliament (MP) from 1766 to 1794 in the House of Commons of Great Britain with the Whig Party.",
+  "bio_en_source": "enwiki"
+}

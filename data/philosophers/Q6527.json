@@ -1,0 +1,155 @@
+{
+  "id": "Q6527",
+  "qid": "Q6527",
+  "slug": "jeanjacques-rousseau",
+  "name_zh": "讓-雅克·盧梭",
+  "name_en": "Jean-Jacques Rousseau",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1712,
+  "death_year": 1778,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 46.2,
+      "lon": 6.15,
+      "place": "Geneva",
+      "period": [
+        1712,
+        1778
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Geneva",
+          "start": 1700,
+          "end": 1800
+        },
+        {
+          "polity": "France",
+          "start": 1800,
+          "end": 1815
+        },
+        {
+          "polity": "Switzerland",
+          "start": 1815,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 49.126111111,
+      "lon": 2.695833333,
+      "place": "Ermenonville",
+      "period": [
+        1778,
+        1778
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 45.079166666,
+      "lon": 7.676111111,
+      "place": "Turin",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.806944444,
+      "lon": -2.116111111,
+      "place": "Staffordshire",
+      "period": [
+        1766,
+        1767
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Rousseau, Jean-Jacques"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Rousseau, Jean-Jacques"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Rousseau, Jean-Jacques"
+    }
+  ],
+  "works": [
+    {
+      "title": "Julie, or the New Heloise",
+      "title_zh": "新愛洛伊斯",
+      "year": 1761,
+      "qid": "Q129289",
+      "source": "wikidata"
+    },
+    {
+      "title": "Confessions",
+      "title_zh": "懺悔錄",
+      "year": 1782,
+      "qid": "Q1207595",
+      "source": "wikidata"
+    },
+    {
+      "title": "Emile, or On Education",
+      "title_zh": "愛彌兒",
+      "year": 1762,
+      "qid": "Q913599",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Social Contract",
+      "title_zh": "社會契約論",
+      "year": 1762,
+      "qid": "Q190126",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 229,
+  "birth_place": "Geneva",
+  "description": "法國哲學家（1712－1778）",
+  "bio": "尚-雅克·盧梭（法語：Jean-Jacques Rousseau；1712年6月28日—1778年7月2日），啟蒙時代法國哲學家、政治學家、教育學家、作曲家與浪漫主義文學家，出生於日內瓦。其《科學和藝術的進步對改良風俗是否有益》及《論人類不平等的起源與基礎》深刻地影響了西方哲學的發展；其代表作《社會契約論》中所論述的人民主權及民主政治哲學思想的深遠影響可見於近代的啟蒙運動、法國大革命以至現代的政治、哲學還有教育思想。他認為不論是傳統和現代的公民社會，都一樣始於私人財產。\n盧梭的小說作品《愛彌兒》是一部關於全人公民教育的哲學論文，對康德影響甚大。其言情小說《新愛洛伊斯》對前浪漫主義及浪漫主義時期的小說發展十分重要。不過，一些知名學者認為盧梭雖然預示了浪漫主義的誕生，但是其「現代文學姿態」其實早已「超越了感傷的浪漫主義」，而其嶄新的語言觀甚至「一直延續到了超現實主義那裡」。\n盧梭的自傳體作品《懺悔錄》是現代自傳的開端，而其文章《一個孤獨漫步者的遐想》也說明瞭十八世紀的一個「感性時代」（Age of Sensibility）運動，其特徵是更加註重主體性及自我反省，對現代寫作也有所影響。盧梭對於個體自由、本真自我和主體性存在等問題的強調為現代的存在主義哲學奠定了基礎。",
+  "bio_source": "zhwiki",
+  "description_en": "Genevan philosopher, writer, and composer (1712-1778)",
+  "bio_en": "Jean-Jacques Rousseau (UK: , US: ; French: [ʒɑ̃ʒak ʁuso]; 28 June 1712 – 2 July 1778) was a Genevan philosopher, philosophe, writer, and composer. His political philosophy influenced the progress of the Age of Enlightenment throughout Europe, as well as aspects of the French Revolution and the development of modern political, economic, and educational thought.\nRousseau's Discourse on Inequality, which argues that private property is the source of inequality, and The Social Contract, which outlines the basis for a legitimate political order, are cornerstones in modern political and social thought.",
+  "bio_en_source": "enwiki"
+}

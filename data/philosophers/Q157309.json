@@ -1,0 +1,128 @@
+{
+  "id": "Q157309",
+  "qid": "Q157309",
+  "slug": "simone-weil",
+  "name_zh": "西蒙娜·韋伊",
+  "name_en": "Simone Weil",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1909,
+  "death_year": 1943,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        1909,
+        1943
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1900,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.1465,
+      "lon": 0.8676,
+      "place": "Ashford",
+      "period": [
+        1943,
+        1943
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Weil, Simone"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Weil, Simone"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Need for Roots",
+      "title_zh": null,
+      "year": 1949,
+      "qid": "Q3203147",
+      "source": "wikidata"
+    },
+    {
+      "title": "Reflections Concerning the Causes of Liberty and Social Oppression",
+      "title_zh": null,
+      "year": 1955,
+      "qid": "Q3935320",
+      "source": "wikidata"
+    },
+    {
+      "title": "Gravity and Grace",
+      "title_zh": null,
+      "year": 1947,
+      "qid": "Q16569918",
+      "source": "wikidata"
+    },
+    {
+      "title": "La condition ouvrière",
+      "title_zh": null,
+      "year": 1951,
+      "qid": "Q16570373",
+      "source": "wikidata"
+    },
+    {
+      "title": "Oppression and Liberty",
+      "title_zh": null,
+      "year": 1955,
+      "qid": "Q118089243",
+      "source": "wikidata"
+    },
+    {
+      "title": "Notebooks",
+      "title_zh": null,
+      "year": 1950,
+      "qid": "Q123021044",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 95,
+  "birth_place": "Paris",
+  "description": "French philosopher, writer, and social activist (1909–1943)",
+  "bio": "西蒙·韋伊（法語：Simone Weil，法語：[simɔn vɛj] ，1909年2月3日—1943年8月24日），法國猶太人，神秘主義者、宗教思想家和社會活動家，深刻地影響著戰後的歐洲思潮。其兄為法國數學家安德烈·韋伊。\n她因赴西班牙參加反對法西斯政權的戰爭而後又於二戰時積極參加法國抵抗運動，過度勞累，加上營養不良，健康狀況嚴重惡化，1943年4月下半月住進了倫敦米德爾塞克醫院（Middlesex Hospital），於1943年8月24日在英國逝世，年僅34歲，留下了約二十卷的著作。重要著作為《紮根：人類責任宣言》。在1950年代和1960年代，她的作品在歐洲大陸乃至整個英語國家廣為人知。",
+  "bio_source": "zhwiki",
+  "description_en": "French philosopher, writer, and social activist (1909–1943)",
+  "bio_en": "Simone Adolphine Weil (; French: [simɔn adɔlfin vɛj]; 3 February 1909 – 24 August 1943) was a French philosopher, mystic and political activist. Despite her short life, her ideas concerning religion, spirituality and politics have remained widely influential in contemporary philosophy.\nShe was born in Paris to an Alsatian Jewish family. Her elder brother, André, would later become a renowned mathematician. After her graduation from formal education, Weil became a teacher. She taught intermittently throughout the 1930s, taking several breaks because of poor health and in order to devote herself to political activism.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,107 @@
+{
+  "id": "Q237833",
+  "qid": "Q237833",
+  "slug": "george-santayana",
+  "name_zh": "喬治·桑塔亞那",
+  "name_en": "George Santayana",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1863,
+  "death_year": 1952,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 40.425722222,
+      "lon": -3.707219444,
+      "place": "San Bernardo street",
+      "period": [
+        1863,
+        1952
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Spain",
+          "start": 1815,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 41.893055555,
+      "lon": 12.482777777,
+      "place": "Rome",
+      "period": [
+        1952,
+        1952
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 40.654347222,
+      "lon": -4.696222222,
+      "place": "Ávila",
+      "period": [
+        1866,
+        1872
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 42.3472,
+      "lon": -71.1033,
+      "place": "Beacon Street",
+      "period": [
+        1872,
+        null
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Santayana, George"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Santayana, George"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 83,
+  "birth_place": "San Bernardo street",
+  "description": "Spanish-American philosopher",
+  "bio": "喬治·桑塔亞那（英語：George Santayana，1863年12月16日—1952年9月26日），原名豪爾赫·阿古斯丁·尼古拉斯·魯伊斯·德·桑塔亞納·伊·博拉斯（西班牙語：Jorge Agustín Nicolás Ruiz de Santayana y Borrás），西班牙出身的哲學家、美學家、批評家與文學家，後移居美國。\n桑塔亞那年輕時曾在哈佛大學學習，獲得了學士學位，然後回到歐洲居住。在這期間，其未放棄西班牙國籍。桑塔亞那的主要哲學著作包括與他人合著的《批判實在論論文集》（1920），還有《懷疑主義和動物信仰》（1923）、《存在的領域》（1927～1940）`《桑塔亞納美學箋註》（《論美》）等。\n桑塔亞那的最著名的一句話為「那些不能銘記過去的人註定要重蹈覆轍。」",
+  "bio_source": "zhwiki",
+  "description_en": "Spanish-American philosopher",
+  "bio_en": "George Santayana (born Jorge Agustín Nicolás Ruiz de Santayana y Borrás, December 16, 1863 – September 26, 1952) was a Spanish American philosopher, essayist, poet, and novelist. Born in Spain, he moved to the United States at the age of eight.\nAs a philosopher, Santayana is known for aphorisms, such as \"Those who cannot remember the past are condemned to repeat it\", and \"Only the dead have seen the end of war\", and his definition of beauty as \"pleasure objectified\". Although an atheist, Santayana respected the culture of the Spanish Catholic values, practices, and worldview, in which he was raised.",
+  "bio_en_source": "enwiki"
+}

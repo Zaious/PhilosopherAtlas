@@ -1,0 +1,158 @@
+{
+  "id": "Q57196",
+  "qid": "Q57196",
+  "slug": "franz-brentano",
+  "name_zh": "弗朗茲·布倫塔諾",
+  "name_en": "Franz Brentano",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 50.231389,
+      "lon": 7.590833,
+      "place": "Boppard",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Constantinus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Franks",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Frankish Kingdom",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Carolingian Empire",
+          "start": 800,
+          "end": 900
+        },
+        {
+          "polity": "East Francia",
+          "start": 900,
+          "end": 1000
+        },
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1000,
+          "end": 1783
+        },
+        {
+          "polity": "Prussia",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (France)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 47.374444444,
+      "lon": 8.541111111,
+      "place": "Zurich",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Brentano, Franz"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Brentano, Franz"
+    }
+  ],
+  "works": [
+    {
+      "title": "Psychology from an Empirical Standpoint",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q7256401",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Boppard",
+  "description": "德國哲學家",
+  "bio": "弗朗茲·克萊門斯·霍諾拉都斯·赫爾曼·布倫塔諾（Franz Clemens Honoratus Hermann Brentano，1838年1月16日—1917年3月17日）是一位著名的德國哲學家、心理學家。他的追隨者包括亞歷克修斯·邁農、埃德蒙德·胡塞爾、卡濟梅爾茲·塔多斯基等許多著名學者。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher and psychologist as well as refounder of the theory of intentionality (1838–1917)",
+  "bio_en": "Franz Clemens Honoratus Hermann Josef Brentano (; German: [bʁɛnˈtaːno]; 16 January 1838 – 17 March 1917) was a German philosopher and psychologist. His 1874 Psychology from an Empirical Standpoint, considered his magnum opus, is credited with having reintroduced the medieval scholastic concept of intentionality into contemporary philosophy.\nOriginally a Catholic priest, Brentano withdrew from the priesthood in 1873 due to the dogmatic definition of papal infallibility in Pastor aeternus.",
+  "bio_en_source": "enwiki"
+}

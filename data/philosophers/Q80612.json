@@ -1,0 +1,108 @@
+{
+  "id": "Q80612",
+  "qid": "Q80612",
+  "slug": "anaximenes-of-miletus",
+  "name_zh": "阿那克西美尼",
+  "name_en": "Anaximenes of Miletus",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -584,
+  "death_year": -527,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.530233,
+      "lon": 27.278369,
+      "place": "Miletus",
+      "period": [
+        -584,
+        -527
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Diocletianus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 800
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 800,
+          "end": 1400
+        },
+        {
+          "polity": "Beylik of Aydin",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1492,
+          "end": 1920
+        },
+        {
+          "polity": "Greece",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Turkey",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 37.531111,
+      "lon": 27.275556,
+      "place": "Miletus",
+      "period": [
+        -527,
+        -527
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Anaximenes"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 91,
+  "birth_place": "Miletus",
+  "description": "Greek Ionian Pre-Socratic philosopher (c.586–c.526 BC)",
+  "bio": "阿那克西美尼（希臘語：Ἀναξιμήνης，約前585年—前525年），是一位活躍在公元前6世紀後半期的前蘇格拉底時期的古希臘哲學家，同時他也是米利都學派的第三位學者，他被判定為阿那克西曼德的一位學生或是一位比他自己年輕的朋友。他像米利都學派的其他人一樣探究物質一元論。這種理論傾向於認為有一種特殊的基礎物質組成了整個世界。\n阿那克西美尼認為，氣體是萬物之源，不同形式的物質是透過氣體聚和散的過程產生的，並認為火是最精純的空氣。",
+  "bio_source": "zhwiki",
+  "description_en": "Greek Ionian Pre-Socratic philosopher (c.586–c.526 BC)",
+  "bio_en": "Anaximenes of Miletus (; Ancient Greek: Ἀναξιμένης ὁ Μιλήσιος, romanized: Anaximenēs ho Milēsios; c. 586/585 – c. 526/525 BC) was an Ancient Greek, pre-Socratic philosopher from Miletus in Anatolia (modern-day Turkey). He was the last of the three philosophers of the Milesian School, after Thales and Anaximander. These three are regarded by historians as the first philosophers of the Western world. Little is known of Anaximenes's life and work, as all of his original texts are lost.",
+  "bio_en_source": "enwiki"
+}

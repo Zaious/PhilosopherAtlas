@@ -1,0 +1,134 @@
+{
+  "id": "Q50020",
+  "qid": "Q50020",
+  "slug": "john-stuart-mill",
+  "name_zh": "約翰·斯圖爾特·彌爾",
+  "name_en": "John Stuart Mill",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1806,
+  "death_year": 1873,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.541666666,
+      "lon": -0.102222222,
+      "place": "London Borough of Islington",
+      "period": [
+        1806,
+        1873
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United Kingdom",
+          "start": 1800,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 43.948611111,
+      "lon": 4.808333333,
+      "place": "Avignon",
+      "period": [
+        1873,
+        1873
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.507222222,
+      "lon": -0.1275,
+      "place": "London",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Mill, John Stuart"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Mill, John Stuart"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Mill, John Stuart"
+    }
+  ],
+  "works": [
+    {
+      "title": "Considerations on Representative Government",
+      "title_zh": "代議制政府",
+      "year": 1861,
+      "qid": "Q5163201",
+      "source": "wikidata"
+    },
+    {
+      "title": "On Liberty",
+      "title_zh": "論自由",
+      "year": 1859,
+      "qid": "Q1055881",
+      "source": "wikidata"
+    },
+    {
+      "title": "Autobiography",
+      "title_zh": null,
+      "year": 1874,
+      "qid": "Q19053628",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 149,
+  "birth_place": "London Borough of Islington",
+  "description": "英國哲學家、政治經濟學家",
+  "bio": "約翰·史都華·彌爾（英語：John Stuart Mill；1806年5月20日—1873年5月7日），也譯作約翰·史都華·穆勒，英國效益主義、自由主義哲學家、政治經濟學家、英國議會議員。其哲學著作聞名於世，研究範圍包括政治哲學、政治經濟學、倫理學、邏輯學等，其著作《論自由》是古典自由主義集大成之作，而在19世紀古典自由主義學派影響巨大。\n彌爾是邊沁後效益主義者之一。在政治上，彌爾繼承其父詹姆士·彌爾在英國東印度公司工作，又在晚年代表自由黨勝出英國下議院選舉，成為下議院議員。他是繼亨利·杭特後第二位在英國國會提出議案要求給予女性選舉權的議員。",
+  "bio_source": "zhwiki",
+  "description_en": "British philosopher and political economist (1806–1873)",
+  "bio_en": "John Stuart Mill (20 May 1806 – 7 May 1873) was an English philosopher, political economist, and politician. He was a paradigmatic philosopher of liberalism and has been described as \"the most influential English-speaking philosopher of the nineteenth century\" by the Stanford Encyclopedia of Philosophy. He advocated proportional representation, the emancipation of women, and the development of labour organisations and farm cooperatives.\nThe Columbia Encyclopedia describes Mill as occasionally coming \"close to socialism, a theory repugnant to his predecessors\".",
+  "bio_en_source": "enwiki"
+}

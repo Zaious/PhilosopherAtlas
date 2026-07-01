@@ -1,0 +1,167 @@
+{
+  "id": "Q158060",
+  "qid": "Q158060",
+  "slug": "w-e-b-du-bois",
+  "name_zh": "W·E·B·杜波依斯",
+  "name_en": "W. E. B. Du Bois",
+  "tradition": "african",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1868,
+  "death_year": 1963,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 42.1958,
+      "lon": -73.3625,
+      "place": "Great Barrington",
+      "period": [
+        1868,
+        1963
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United States",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "United States of America",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "United States",
+          "start": 1914,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 5.55602,
+      "lon": -0.1969,
+      "place": "Accra",
+      "period": [
+        1963,
+        1963
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.516666666,
+      "lon": 13.383333333,
+      "place": "Berlin",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 7.9465,
+      "lon": -1.0232,
+      "place": "Ghana",
+      "period": [
+        1961,
+        null
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 33.754444444,
+      "lon": -84.389722222,
+      "place": "Atlanta",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Du Bois, W.E.B."
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Du Bois, W.E.B."
+    }
+  ],
+  "works": [
+    {
+      "title": "The Souls of Black Folk",
+      "title_zh": "黑人的靈魂",
+      "year": 1903,
+      "qid": "Q1253660",
+      "source": "wikidata"
+    },
+    {
+      "title": "Black Reconstruction",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q4921540",
+      "source": "wikidata"
+    },
+    {
+      "title": "Dusk of Dawn",
+      "title_zh": null,
+      "year": 1940,
+      "qid": "Q5316921",
+      "source": "wikidata"
+    },
+    {
+      "title": "John Brown",
+      "title_zh": null,
+      "year": 1909,
+      "qid": "Q6223480",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Philadelphia Negro",
+      "title_zh": null,
+      "year": 1899,
+      "qid": "Q7756894",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 73,
+  "birth_place": "Great Barrington",
+  "description": "美國黑人運動領袖、社會活動家、歷史學家（1868－1963）",
+  "bio": "威廉·愛德華·伯格哈特·杜波依斯（英語：William Edward Burghardt \"W. E. B.\" Du Bois，1868年2月23日—1963年8月27日）是美國社會學家、歷史學家、民權運動者、泛非主義者、作家和編輯。杜波依斯出生於麻薩諸塞州大巴靈頓，在一個相對包容、多元的環境中長大。他是哈佛大學第一個取得博士學位的非裔美國人，畢業之後任職於亞特蘭大大學，教授歷史學、社會學和經濟學。杜波依斯是1909年美國全國有色人種協進會的最初建立者之一。\n杜波依斯因為領導尼亞加拉運動——非裔美國人為黑人尋求平等權利的運動——開始在國內聲名鵲起。他和他的支持者們反對布克·華盛頓倡導的「亞特蘭大妥協案」，該協議要求南方的黑人服從於白人的政治規則並為之工作，以換取基本受教育權和致富機會。杜波依斯則堅持爭取完整的公民權利和逐步增加的政治參與，他認為這些將由非裔美國人中的知識精英實現，他稱這些人為「天才的十分之一」，因此杜波依斯認為非裔美國人需要先進的教育來發展其領導力。\n種族主義是杜波依斯鬥爭的主要物件：他強烈反對私刑、吉姆·克勞法案以及在教育與就業中的種族歧視。杜波依斯的事業囊括了各地的有色人種，尤其是與殖民主義與帝國主義做鬥爭的亞非同胞。他是泛非主義的強烈支持者，並且幫助組織了幾次泛非主義大會，以推動非洲殖民地脫離歐洲強權統治。杜波依斯多次訪問過歐洲、非洲和亞洲。",
+  "bio_source": "zhwiki",
+  "description_en": "American sociologist and activist (1868–1963)",
+  "bio_en": "William Edward Burghardt Du Bois ( doo-BOYSS; February 23, 1868 – August 27, 1963) was an American sociologist, writer, historian, and Pan-Africanist civil rights activist. Born in Great Barrington, Massachusetts, Du Bois grew up in a relatively tolerant and integrated community. He completed graduate work at Harvard University, where he was the first African American to earn a doctorate. He was a professor at Atlanta University and over the course of his life wrote many books and articles.",
+  "bio_en_source": "enwiki"
+}

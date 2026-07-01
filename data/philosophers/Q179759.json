@@ -1,0 +1,178 @@
+{
+  "id": "Q179759",
+  "qid": "Q179759",
+  "slug": "alkindi",
+  "name_zh": "肯迪",
+  "name_en": "Al-Kindi",
+  "tradition": "islamic",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 801,
+  "death_year": 870,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 32.03,
+      "lon": 44.4,
+      "place": "Kufa",
+      "period": [
+        801,
+        870
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Abbasid Caliphate",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Buwayhid Emirates",
+          "start": 1000,
+          "end": 1100
+        },
+        {
+          "polity": "Seljuk Empire",
+          "start": 1100,
+          "end": 1200
+        },
+        {
+          "polity": "Buwayhid Emirates",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "Ilkhanate",
+          "start": 1279,
+          "end": 1400
+        },
+        {
+          "polity": "Timurid Empire",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "Emirate of the White Sheep Turks",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1530,
+          "end": 1920
+        },
+        {
+          "polity": "Mesopotamia (GB)",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Iraq",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 33.315277777,
+      "lon": 44.366111111,
+      "place": "Baghdad",
+      "period": [
+        870,
+        870
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 30.515,
+      "lon": 47.81,
+      "place": "Basra",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "al-Kindi"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "De gradibus",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q303017",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q19455250",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q19455250",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q19497982",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q19497982",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q19497987",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q19497987",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q19498040",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q19498040",
+      "source": "wikidata"
+    },
+    {
+      "title": "On the Intellect",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q19502926",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 84,
+  "birth_place": "Kufa",
+  "description": "Muslim Arab philosopher, mathematician and physician (c.801–873)",
+  "bio": "阿布·優素福·葉爾孤白·本·伊斯哈格·本·薩巴赫·肯迪（阿拉伯語：أبو يوسف يعقوب إبن إسحاق الكندي，拉丁化：Abū Yūsuf Yaʻqūb ibn Isḥāq al-Kindī；約801年—873年），中世紀阿拉伯的著名哲學家、自然科學家。歐洲人稱之為阿爾金杜斯（拉丁語：Alkindus）。他是亞里斯多德學派的主要代表人物之一。他在密碼學方面首次發現了頻率分析的方法，是現代密碼學創始人之一。",
+  "bio_source": "zhwiki",
+  "description_en": "Muslim Arab philosopher, mathematician and physician (c.801–873)",
+  "bio_en": "Abū Yūsuf Yaʻqūb ibn ʼIsḥāq aṣ-Ṣabbāḥ al-Kindī (; Arabic: أبو يوسف يعقوب بن إسحاق الصبّاح الكندي; Latin: Alkindus; c. 801–873 AD) was an Arab polymath who was active as a philosopher, mathematician, physician, and music theorist. Al-Kindi was the first of the Islamic peripatetic philosophers, and is hailed as the \"father of Arab philosophy\".\nAl-Kindi was born in Kufa and educated in Baghdad. He became a prominent figure in the House of Wisdom (Bayt al-Hikma), an institute of translation and learning patronized by the Abbasid caliphs, in Baghdad, and a number of Abbasid caliphs appointed him to oversee the translation of Greek scientific and philosophical texts into the Arabic language.",
+  "bio_en_source": "enwiki"
+}

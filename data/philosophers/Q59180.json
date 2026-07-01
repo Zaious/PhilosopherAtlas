@@ -1,0 +1,78 @@
+{
+  "id": "Q59180",
+  "qid": "Q59180",
+  "slug": "diogenes-of-sinope",
+  "name_zh": "錫諾普的第歐根尼",
+  "name_en": "Diogenes of Sinope",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -399,
+  "death_year": -322,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 42.025,
+      "lon": 35.143,
+      "place": "Sinope",
+      "period": [
+        -399,
+        -322
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 37.905785,
+      "lon": 22.878741,
+      "place": "Ancient Corinth",
+      "period": [
+        -322,
+        -322
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 37.972222222,
+      "lon": 23.722222222,
+      "place": "Classical Athens",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Diogenes of Apollonia"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 121,
+  "birth_place": "Sinope",
+  "description": "古希臘犬儒學派哲學家",
+  "bio": "錫諾普的第歐根尼（古希臘語：Διογένης，亦譯做狄奧根尼），古希臘哲學家，犬儒學派的代表人物。活躍於公元前4世紀（約413/403 —約324/321 BC），相傳於生於錫諾普（現屬土耳其）而卒於科林斯。",
+  "bio_source": "zhwiki",
+  "description_en": "4th-century BC Greek Cynic philosopher",
+  "bio_en": "Diogenes the Cynic (, dy-OJ-in-eez; c. 413/403 – c. 324/321 BC), also known as Diogenes of Sinope, was an ancient Greek philosopher during the period of Classical Greece, and one of the founders of Cynicism.\nRenowned for his ascetic lifestyle and radical critiques of social conventions, he became a legendary figure whose life and teachings have been recounted, often through anecdote, in both antiquity and modernity.  Diogenes advocated a return to nature, the renunciation of wealth, and introduced early ideas of cosmopolitanism by proclaiming himself a \"citizen of the world\".\nDiogenes was born to a prosperous family in Sinope.",
+  "bio_en_source": "enwiki"
+}

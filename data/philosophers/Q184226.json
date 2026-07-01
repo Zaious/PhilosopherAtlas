@@ -1,0 +1,114 @@
+{
+  "id": "Q184226",
+  "qid": "Q184226",
+  "slug": "gilles-deleuze",
+  "name_zh": "吉爾·德勒茲",
+  "name_en": "Gilles Deleuze",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1925,
+  "death_year": 1995,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.882244444,
+      "lon": 2.307838888,
+      "place": "17th arrondissement of Paris",
+      "period": [
+        1925,
+        1995
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Deleuze, Gilles"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Deleuze, Gilles"
+    }
+  ],
+  "works": [
+    {
+      "title": "A Thousand Plateaus",
+      "title_zh": "千高原",
+      "year": 1980,
+      "qid": "Q2563786",
+      "source": "wikidata"
+    },
+    {
+      "title": "Anti-Oedipus",
+      "title_zh": "反俄狄浦斯",
+      "year": 1972,
+      "qid": "Q1235943",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Logic of Sense",
+      "title_zh": "意義的邏輯",
+      "year": 1969,
+      "qid": "Q3257967",
+      "source": "wikidata"
+    },
+    {
+      "title": "Difference and Repetition",
+      "title_zh": "差異與重複",
+      "year": 1968,
+      "qid": "Q1451094",
+      "source": "wikidata"
+    },
+    {
+      "title": "What is Philosophy?",
+      "title_zh": "什麼是哲學？ (著作)",
+      "year": 1991,
+      "qid": "Q7991586",
+      "source": "wikidata"
+    },
+    {
+      "title": "Cinéma",
+      "title_zh": null,
+      "year": 1983,
+      "qid": "Q22093565",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 87,
+  "birth_place": "17th arrondissement of Paris",
+  "description": "法國哲學家（1925－1995）",
+  "bio": "吉爾·路易·勒內·德勒茲（法語：Gilles Louis René Deleuze，法語發音：[ʒil lwi ʁəne dəløz]；1925年1月18日—1995年11月4日），法國後現代主義哲學家。",
+  "bio_source": "zhwiki",
+  "description_en": "French philosopher (1925–1995)",
+  "bio_en": "Gilles Louis René Deleuze (18 January 1925 – 4 November 1995) was a French philosopher who, from the early 1950s until his death in 1995, wrote on philosophy, literature, film, and fine art. His most popular works were the two volumes of Capitalism and Schizophrenia: Anti-Oedipus (1972) and A Thousand Plateaus (1980), both co-written with psychoanalyst Félix Guattari. His metaphysical treatise Difference and Repetition (1968) is considered to be his magnum opus.\nAn important part of Deleuze's oeuvre is devoted to the reading of other philosophers: the Stoics, Leibniz, Hume, Kant, Nietzsche, Spinoza, and Bergson. A. W.",
+  "bio_en_source": "enwiki"
+}

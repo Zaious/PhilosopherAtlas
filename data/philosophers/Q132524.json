@@ -1,0 +1,141 @@
+{
+  "id": "Q132524",
+  "qid": "Q132524",
+  "slug": "ayn-rand",
+  "name_zh": "安·蘭德",
+  "name_en": "Ayn Rand",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1905,
+  "death_year": 1982,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 59.95,
+      "lon": 30.316666666,
+      "place": "Saint Petersburg",
+      "period": [
+        1905,
+        1982
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Russian Empire",
+          "start": 1900,
+          "end": 1920
+        },
+        {
+          "polity": "USSR",
+          "start": 1920,
+          "end": 1930
+        },
+        {
+          "polity": "White Russia",
+          "start": 1930,
+          "end": 1938
+        },
+        {
+          "polity": "USSR",
+          "start": 1938,
+          "end": 1994
+        },
+        {
+          "polity": "Russia",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 40.728333333,
+      "lon": -73.994166666,
+      "place": "Manhattan",
+      "period": [
+        1982,
+        1982
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Rand, Ayn"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Rand, Ayn"
+    }
+  ],
+  "works": [
+    {
+      "title": "Anthem",
+      "title_zh": "頌歌（小說）",
+      "year": 1938,
+      "qid": "Q2743935",
+      "source": "wikidata"
+    },
+    {
+      "title": "Atlas Shrugged",
+      "title_zh": "阿特拉斯擺脫重負",
+      "year": 1957,
+      "qid": "Q374098",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Fountainhead",
+      "title_zh": "源頭",
+      "year": 1943,
+      "qid": "Q612688",
+      "source": "wikidata"
+    },
+    {
+      "title": "We the Living",
+      "title_zh": null,
+      "year": 1936,
+      "qid": "Q2565443",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Virtue of Selfishness",
+      "title_zh": null,
+      "year": 1964,
+      "qid": "Q2658238",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 125,
+  "birth_place": "Saint Petersburg",
+  "description": "俄裔美國哲學家",
+  "bio": "艾麗斯·奧康納（英語：Alice O'Connor，另譯愛麗絲·歐康納，1905年2月2日—1982年3月6日），原名阿莉薩·季諾維也芙娜·羅森鮑姆（俄語：Алиса Зиновьевна Розенбаум，羅馬化：Alisa Zinovyevna Rosenbaum），筆名艾茵·蘭德（Ayn Rand，或譯艾恩·蘭德、艾茵·蘭德），是一名俄裔美國作家暨哲學家，以發表小說以及發展一種她稱之「客觀主義」的哲學體系聞名。她生於俄羅斯並接受教育，後於1926年移居美國。她寫了一部戲劇，於1935年在百老匯上映。她於1943年發表小說《源頭》而聲名鵲起，於1957年出版其最知名的著作之一《阿特拉斯聳聳肩》。晚年她轉向非小說類作品來宣傳其哲學思想，同時出版期刊與散文集等，直到於1982年去世。\n她主張理性是獲取知識的唯一途徑；她拒絕信仰和宗教。她支援理性和道德的利己主義，拒絕利他主義。在政治上，她譴責發動武力是不道德的，反對集體主義、國家主義和無政府主義。相反，她支援自由放任資本主義，她將其定義為基於承認個人權利（包括私有財產權）的制度。 儘管她反對她認為屬無政府主義的自由意志主義，但她經常被與現代美國自由意志主義運動聯絡在一起。 在藝術方面，她提倡浪漫現實主義（英語：Romantic realism）。除了亞里斯多德、託馬斯·阿奎那和古典自由主義者之外，她對她所知的大多數哲學家和哲學傳統都持嚴厲批評態度。",
+  "bio_source": "zhwiki",
+  "description_en": "Russian-born American writer and public philosopher (1905–1982)",
+  "bio_en": "Alice O'Connor (born Alisa Zinovyevna Rosenbaum; February 2 [O.S. January 20], 1905 – March 6, 1982), better known by her pen name Ayn Rand ( ), was a Russian-American writer and philosopher. She is known for her fiction and for developing a philosophical system which she named Objectivism.\nBorn and educated in Russia, she moved to the United States in 1926. After two early novels that were initially unsuccessful and two Broadway plays, Rand achieved fame with her 1943 novel The Fountainhead. In 1957, she published her best-selling work, the novel Atlas Shrugged.",
+  "bio_en_source": "enwiki"
+}

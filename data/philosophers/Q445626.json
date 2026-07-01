@@ -1,0 +1,163 @@
+{
+  "id": "Q445626",
+  "qid": "Q445626",
+  "slug": "dong-zhongshu",
+  "name_zh": "董仲舒",
+  "name_en": "Dong Zhongshu",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -178,
+  "death_year": -103,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.69189,
+      "lon": 116.2633,
+      "place": "Jing County",
+      "period": [
+        -178,
+        -103
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Sixteen Kingdoms",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Toba Wei",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 34.261111111,
+      "lon": 108.942222222,
+      "place": "Xi'an",
+      "period": [
+        -103,
+        -103
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Dong Zhongshu"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Dong Zhongshu"
+    }
+  ],
+  "works": [
+    {
+      "title": "Luxuriant Dew of the Spring and Autumn Annals",
+      "title_zh": "春秋繁露",
+      "year": null,
+      "qid": "Q6706447",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 34,
+  "birth_place": "Jing County",
+  "description": "西漢大儒",
+  "bio": "董仲舒（？—？），廣川（今河北省景縣）人，西漢時官員與學者，活躍於漢景帝至漢武帝時期，曾任《春秋》博士、江都國相、膠西國相。董仲舒向漢武帝呈上《天人三策》，提出儒家的治國藍圖，晚年閉門研究與著作，甚受朝廷重視，所作文章後世編為《春秋繁露》。董仲舒在儒學史上地位崇高，被視為漢代第一大儒，他建議罷黜百家，獨尊儒術，促進漢代以至後世儒學的興盛及主流化。然而董仲舒抑黜百家的主張，亦被今人批評為阻礙中國學術思想的發展。\n董仲舒以思想著稱，主要分成幾個方面：在宇宙論方面，董仲舒相信天是至高無上的人格神與萬物之本，主宰自然；他提倡天人相應，天之道與人之道一致而相通，天是人倫道德與價值根源，儒家哲學本體。董仲舒是陰陽五行說的集大成者，最早提出五行相生說，認為陰陽二氣充盈天地，推動四季變化。董仲舒給予儒家思想與價值觀以宇宙論及形上基礎。在政治方面，提出天人感應論，勸告君主施政須合乎天道，推行仁政與德治，以禮樂教化移風易俗，反對法家以刑罰治國，主張「德主刑輔」，並申張災異與祥瑞之說，在精神上制約君權。在倫理道德方面，董仲舒提倡三綱五常與忠君之道，人性有先天的仁義與貪欲，必須接受君王聖人的教化。他提出三統迴圈的歷史哲學論，三朝為一週期。\n除了思想之外，經學方面，董仲舒以研究《春秋》聞名，教授春秋公羊學，著重發揮孔子的微言大義。宗教方面，董仲舒最重視天子祭天的郊祀。文學方面，撰有《士不遇賦》。",
+  "bio_source": "zhwiki",
+  "description_en": "Premier Confucian scholar, philosopher, and official during the Western Han",
+  "bio_en": "Dong Zhongshu (c. 198–105 BC) was a prominent Chinese philosopher, politician, and writer of the Western Han dynasty. He is traditionally associated with the promotion of Confucianism as the official state ideology of the Chinese imperial court, favouring Heaven worship over the tradition of cults celebrating the Five Elements (Wuxing). Active throughout the reigns of Emperor Jing of Han and Emperor Wu of Han, he served as an Erudite (boshi) of the Spring and Autumn Annals, and subsequently as Chancellor of the Kingdom of Jiangdu and the Kingdom of Jiaoxi.",
+  "bio_en_source": "enwiki"
+}

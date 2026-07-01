@@ -1,0 +1,93 @@
+{
+  "id": "Q214816",
+  "qid": "Q214816",
+  "slug": "pierre-bayle",
+  "name_zh": "皮埃爾·培爾",
+  "name_en": "Pierre Bayle",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1647,
+  "death_year": 1706,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 43.150555555,
+      "lon": 1.393611111,
+      "place": "Carla-Bayle",
+      "period": [
+        1647,
+        1706
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1600,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.92,
+      "lon": 4.48,
+      "place": "Rotterdam",
+      "period": [
+        1706,
+        1706
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bayle, Pierre"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bayle, Pierre"
+    }
+  ],
+  "works": [
+    {
+      "title": "Dictionnaire Historique et Critique",
+      "title_zh": "歷史批判辭典",
+      "year": 1697,
+      "qid": "Q1210365",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 72,
+  "birth_place": "Carla-Bayle",
+  "description": "French philosopher and writer (1647–1706)",
+  "bio": "皮耶·培爾（法語：Pierre Bayle，發音：[pjɛʁ bɛl]；1647年11月18日—1706年12月18日）是法國哲學家、作家，以1697年出版的著作《歷史批判辭典》而知名，在此書中，培爾批判了宗教愚昧。培爾是胡格諾派基督教徒，也是百科全書派的先驅。他倡導寬容的原則，其著作對後來的啟蒙運動產生一定影響。",
+  "bio_source": "zhwiki",
+  "description_en": "French philosopher and writer (1647–1706)",
+  "bio_en": "Pierre Bayle (; French: [pjɛʁ bɛl]; 18 November 1647 – 28 December 1706) was a French philosopher, author, and lexicographer. He is best known for his Historical and Critical Dictionary, whose publication began in 1697. Many of the more controversial ideas in the book were hidden away in the voluminous footnotes, or they were slipped into articles on seemingly uncontroversial topics. Bayle is commonly regarded as a forerunner of the Encyclopédistes of the mid-18th century.\nA Huguenot, Bayle fled to the Dutch Republic in 1681 because of religious persecution in France.",
+  "bio_en_source": "enwiki"
+}

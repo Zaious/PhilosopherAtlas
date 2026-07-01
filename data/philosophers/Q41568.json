@@ -1,0 +1,90 @@
+{
+  "id": "Q41568",
+  "qid": "Q41568",
+  "slug": "michel-de-montaigne",
+  "name_zh": "米歇爾·德·蒙田",
+  "name_en": "Michel de Montaigne",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1533,
+  "death_year": 1592,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 44.874166666,
+      "lon": 0.03,
+      "place": "Saint-Michel-de-Montaigne",
+      "period": [
+        1533,
+        1592
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1530,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 47,
+      "lon": 2,
+      "place": "France",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Montaigne, Michel de"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Montaigne, Michel de"
+    }
+  ],
+  "works": [
+    {
+      "title": "Essays",
+      "title_zh": "隨筆集",
+      "year": null,
+      "qid": "Q624852",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 140,
+  "birth_place": "Saint-Michel-de-Montaigne",
+  "description": "法國思想家、散文家（1533－1592）",
+  "bio": "米歇爾·德·蒙田（法語：Michel de Montaigne；1533年2月28日—1592年9月13日），其姓又譯蒙泰涅，法國哲學家，活躍於北方文藝復興時期，以《隨筆集》（Essais）三卷留名後世。《隨筆集》在西方文學史上佔有重要地位，作者另闢新徑，不避謙疑大談自己，開卷即說：「吾書之素材無他，即吾人也。」（je suis moi-même la matière de mon livre.）",
+  "bio_source": "zhwiki",
+  "description_en": "French author, philosopher, and statesman (1533–1592)",
+  "bio_en": "Michel Eyquem, Seigneur de Montaigne (28 February 1533 – 13 September 1592), commonly known as just Michel de Montaigne, was one of the most significant writers of the French Renaissance. He is known for popularising the essay as a literary genre. His work is noted for its merging of casual anecdotes and autobiography with intellectual insight. Montaigne had a direct influence on numerous writers of Western literature; his Essais contain some of the most influential essays ever written.\nDuring his lifetime, Montaigne was admired as a statesman more than as an author.",
+  "bio_en_source": "enwiki"
+}

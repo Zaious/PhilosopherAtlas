@@ -1,0 +1,115 @@
+{
+  "id": "Q37388",
+  "qid": "Q37388",
+  "slug": "francis-bacon",
+  "name_zh": "弗蘭西斯·培根",
+  "name_en": "Francis Bacon",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1561,
+  "death_year": 1626,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.507222222,
+      "lon": -0.1275,
+      "place": "London",
+      "period": [
+        1561,
+        1626
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "England and Ireland",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.5716,
+      "lon": -0.1448,
+      "place": "Highgate",
+      "period": [
+        1626,
+        1626
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bacon, Francis"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bacon, Francis"
+    }
+  ],
+  "works": [
+    {
+      "title": "New Atlantis",
+      "title_zh": "新大西島",
+      "year": 1627,
+      "qid": "Q1233830",
+      "source": "wikidata"
+    },
+    {
+      "title": "inductive reasoning",
+      "title_zh": "歸納推理",
+      "year": null,
+      "qid": "Q484511",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 186,
+  "birth_place": "London",
+  "description": "英國哲學家，政治家，科學家，法學家和作家（1561—1626）",
+  "bio": "第一代聖奧爾本子爵法蘭西斯·培根（英語：Francis Bacon, 1st Viscount St Alban，1561年1月22日—1626年4月9日），英國文藝復興時期哲學家、政要、科學家、法學家、演說家和散文作家，被認為是經驗主義哲學的創始人。卡爾·馬克思亦稱其為「英國唯物主義和整個現代實驗科學的真正始祖」。",
+  "bio_source": "zhwiki",
+  "description_en": "English philosopher and statesman (1561–1626)",
+  "bio_en": "Francis Bacon, 1st Viscount St Alban (; 22 January 1561 – 9 April 1626) was an English philosopher and statesman who served as Attorney General and Lord Chancellor of England under King James I. Bacon argued for the importance of natural philosophy, guided by the scientific method, and his works remained influential throughout the Scientific Revolution.\nBacon has been called the father of empiricism. He argued for the possibility of scientific knowledge based only upon inductive reasoning and careful observation of events in nature. He believed that science could be achieved by the use of a sceptical and methodical approach whereby scientists aim to avoid misleading themselves.",
+  "bio_en_source": "enwiki"
+}

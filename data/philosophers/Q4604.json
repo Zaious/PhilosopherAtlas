@@ -1,0 +1,170 @@
+{
+  "id": "Q4604",
+  "qid": "Q4604",
+  "slug": "confucius",
+  "name_zh": "孔子",
+  "name_en": "Confucius",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -550,
+  "death_year": -478,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 35.6,
+      "lon": 116.983333333,
+      "place": "Qufu",
+      "period": [
+        -550,
+        -478
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Jin Empire",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 35.22528,
+      "lon": 116.65361,
+      "place": "Si River",
+      "period": [
+        -478,
+        -478
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Confucius"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Confucius"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Confucius"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Confucius"
+    }
+  ],
+  "works": [
+    {
+      "title": "Analects",
+      "title_zh": "論語",
+      "year": null,
+      "qid": "Q276015",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 5,
+  "sitelinks": 310,
+  "birth_place": "Qufu",
+  "description": "中國古代思想家，儒家學派創始人",
+  "bio": "孔子（前551年9月28日—前479年3月9日），姓孔名丘，字仲尼，後世敬稱孔子或孔夫子，中國春秋時代魯國的官員、思想家和教育家。孔子祖先是宋國貴族，在孔子的三代前移居魯國。孔子自幼喪父，約三十歲時開始收授門徒，不久後成為魯國最負重名的禮學專家，先後擔任中都宰、司空、司寇之職，因受到猜忌與排擠，辭職離開魯國，周遊列國十四年，尋求出仕機會，希望國君能採納其政治主張，但始終未獲任用，最後返回魯國，專心教授弟子與編訂經書。思想方面，孔子主張回歸先王之道，尊奉周朝禮制，尊崇周公，抗拒貴族僭越與臣下篡竊，治國之道以教化百姓為主，主張德治，提倡仁、孝、忠、恕、智、勇等美德，教人克己復禮與中庸之道，己所不欲勿施於人。孔子宣揚人本主義，關心現世人生的問題，相信人性向善，著重禮儀，強調行禮時要有真誠的感情。孔子首開平民教育的先河，主張有教無類，採用因材施教的手法，能訓練和推薦門人從政做官，弟子人材輩出，據雲有弟子三千，通六藝者七十二人，重要門人有顏淵、子路、子貢、子夏等人。一眾弟子編纂《論語》一書，記錄孔子的言論與行止。\n個性為人方面，孔子博學多識，智慧深邃，感情豐富，精通禮樂，處事靈活，深具個人魅力。宗教方面，孔子敬鬼神而遠之，不語「怪力亂神」，著重祭祀之禮，深信上天賦予他復興周禮的特殊使命。經學方面，孔子曾修訂編輯五經，常以《詩經》為教材，作有史書《春秋》，寄託微言大義。",
+  "bio_source": "zhwiki",
+  "description_en": "5th-century BCE Chinese philosopher and politician",
+  "bio_en": "Confucius (c. 551 – c. 479 BCE), born Kong Qiu, was a Chinese philosopher of the Spring and Autumn period who is traditionally considered the paragon of Chinese sages. Much of the shared cultural heritage of the Sinosphere originates in the philosophy and teachings of Confucius. His philosophical teachings, called Confucianism, emphasized personal and governmental morality, harmonious social relationships, righteousness, kindness, sincerity, and a ruler's responsibilities to lead by virtue.\nConfucius considered himself a transmitter for the values of earlier periods which he claimed had been abandoned in his time.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "Q76749",
+  "qid": "Q76749",
+  "slug": "edith-stein",
+  "name_zh": "埃迪特·施泰因",
+  "name_en": "Edith Stein",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1891,
+  "death_year": 1942,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.11,
+      "lon": 17.0325,
+      "place": "Wrocław",
+      "period": [
+        1891,
+        1942
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Kingdom of Bohemia",
+          "end": 1526,
+          "start": 1335
+        },
+        {
+          "polity": "Habsburg Monarchy",
+          "end": 1742,
+          "start": 1526
+        },
+        {
+          "polity": "Kingdom of Prussia",
+          "end": 1871,
+          "start": 1742
+        },
+        {
+          "polity": "German Empire",
+          "end": 1918,
+          "start": 1871
+        },
+        {
+          "polity": "Weimar Republic",
+          "end": 1933,
+          "start": 1918
+        },
+        {
+          "polity": "Nazi Germany",
+          "end": 1945,
+          "start": 1933
+        },
+        {
+          "polity": "Poland",
+          "end": null,
+          "start": 1945
+        }
+      ],
+      "polity_source": "curated"
+    },
+    {
+      "lat": 50.035833333,
+      "lon": 19.178333333,
+      "place": "Auschwitz",
+      "period": [
+        1942,
+        1942
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.0371,
+      "lon": 19.1752,
+      "place": "Auschwitz II-Birkenau concentration camp",
+      "period": [
+        1942,
+        1942
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.9625,
+      "lon": 7.625555555,
+      "place": "Münster",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Stein, Edith"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 75,
+  "birth_place": "Wrocław",
+  "description": "德國修女（1891—1942）",
+  "bio": "聖十字德蘭本篤（St. Teresa Benedicta of the Cross，1891年10月12日—1942年8月9日），原名埃迪特·施泰因（Edith Stein)，德國猶太裔現象學哲學家、赤足加爾默羅隱修會修女。1942年在奧斯威辛集中營被送進毒氣室致命。1998年10月11日被教宗若望保祿二世冊封為聖人，瞻禮（紀念日）為8月9日。",
+  "bio_source": "zhwiki",
+  "description_en": "Jewish-German Catholic nun, theologian and philosopher (1891–1942)",
+  "bio_en": "Edith Stein (German: [ʃtaɪn]; in religion Teresa Benedicta of the Cross; 12 October 1891 – 9 August 1942) was a German philosopher who converted to Catholicism and became a Discalced Carmelite nun. She was murdered in the gas chamber at the Auschwitz II-Birkenau concentration camp on 9 August 1942, and is canonized as a martyr and saint of the Catholic Church; she is also one of six patron saints of Europe.\nStein was born into an observant German Jewish family, but had become an agnostic by her teenage years. Moved by the tragedies of World War I, in 1915, she took lessons to become a nursing assistant and worked in an infectious diseases hospital.",
+  "bio_en_source": "enwiki"
+}

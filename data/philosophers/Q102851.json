@@ -1,0 +1,173 @@
+{
+  "id": "Q102851",
+  "qid": "Q102851",
+  "slug": "boethius",
+  "name_zh": "波伊提烏",
+  "name_en": "Boethius",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 480,
+  "death_year": 524,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 41.893055555,
+      "lon": 12.482777777,
+      "place": "Rome",
+      "period": [
+        480,
+        524
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Ostrogoths",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Papal States",
+          "start": 800,
+          "end": 900
+        },
+        {
+          "polity": "Carolingian Empire",
+          "start": 900,
+          "end": 1000
+        },
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1000,
+          "end": 1100
+        },
+        {
+          "polity": "Papal States",
+          "start": 1100,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 45.185280555,
+      "lon": 9.155,
+      "place": "Pavia",
+      "period": [
+        524,
+        524
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Boethius"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Boethius, Anicius Manlius Severinus"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Consolation of Philosophy",
+      "title_zh": "哲學的慰藉",
+      "year": null,
+      "qid": "Q861927",
+      "source": "wikidata"
+    },
+    {
+      "title": "De institutione musica",
+      "title_zh": null,
+      "year": 500,
+      "qid": "Q15715550",
+      "source": "wikidata"
+    },
+    {
+      "title": "Opuscula sacra",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q42193850",
+      "source": "wikidata"
+    },
+    {
+      "title": "elogia",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q106098156",
+      "source": "wikidata"
+    },
+    {
+      "title": "History",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q124676488",
+      "source": "wikidata"
+    },
+    {
+      "title": "De institutione arithmetica",
+      "title_zh": null,
+      "year": 500,
+      "qid": "Q131310260",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 93,
+  "birth_place": "Rome",
+  "description": "中世紀哲學家",
+  "bio": "亞尼修·瑪理烏斯·塞味利諾·波愛修斯（拉丁語：Anicius Manlius Severinus Boëthius；Boëthius 讀作/boʊˈiːθi.əs/，也譯作波伊提烏，480年—524或525年），六世紀早期哲學家。也是希臘羅馬哲學最後一名哲學家，經院哲學第一位哲學家。\n波愛修斯出生於羅馬一個古老的名門望族安尼修斯家族，這個家族曾出現過羅馬皇帝佩特羅尼烏斯·馬克西穆斯和奧利布里烏斯以及多名羅馬執政官。他的父親Flavius Manlius Boethius在日耳曼人奧多亞塞廢黜了最後一位羅馬皇帝羅慕路斯·奧古斯都之後，於487年成為執政官。波愛修斯本人也很早就步入政壇，在他25歲時已成為了元老院成員。510年，波愛修斯在東哥德王國統治義大利時期成為執政官。522年，他的兩個兒子也雙雙成為執政官。\n後來東哥德王國的統治者狄奧多里克大帝懷疑他聯絡東羅馬帝國謀反，將他囚禁在帕維亞，最終他被元老院判處死刑。\n波愛修斯在監獄中寫下了關於命運和死亡等形上學、倫理學問題的哲學鉅著《哲學的慰藉》，這本書成為了中世紀最有影響力的哲學著作。\n波愛修斯在天主教中被奉列為聖人，他的紀念日位於10月23日。",
+  "bio_source": "zhwiki",
+  "description_en": "Roman senator and philosopher of the early 6th century (480–524)",
+  "bio_en": "Anicius Manlius Severinus Boethius, commonly known simply as Boethius (; Latin: Boetius; c. 480 – 524 AD), was a Roman senator, consul, magister officiorum, polymath, historian, and philosopher of the Early Middle Ages. He was a central figure in the translation of the Greek classics into Latin, a precursor to the Scholastic movement, and, along with Cassiodorus, one of the two leading Christian scholars of the 6th century.",
+  "bio_en_source": "enwiki"
+}

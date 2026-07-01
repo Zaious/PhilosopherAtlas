@@ -1,0 +1,122 @@
+{
+  "id": "Q184980",
+  "qid": "Q184980",
+  "slug": "thomas-kuhn",
+  "name_zh": "湯瑪斯·孔恩",
+  "name_en": "Thomas Kuhn",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1922,
+  "death_year": 1996,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 39.1,
+      "lon": -84.5125,
+      "place": "Cincinnati",
+      "period": [
+        1922,
+        1996
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United States",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 42.375,
+      "lon": -71.106111111,
+      "place": "Cambridge",
+      "period": [
+        1996,
+        1996
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 40.352222222,
+      "lon": -74.656944444,
+      "place": "Princeton",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 37.870277777,
+      "lon": -122.268055555,
+      "place": "Berkeley",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Kuhn, Thomas S."
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Kuhn, Thomas"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Structure of Scientific Revolutions",
+      "title_zh": "科學革命的結構",
+      "year": 1962,
+      "qid": "Q951060",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Copernican Revolution",
+      "title_zh": null,
+      "year": 1957,
+      "qid": "Q7727581",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 78,
+  "birth_place": "Cincinnati",
+  "description": "美國歷史學家、物理學家和哲學家（1922－1996）",
+  "bio": "託馬斯·塞繆爾·孔恩（英語：Thomas Samuel Kuhn，1922年7月18日—1996年6月17日），美國物理學家、科學史家和科學哲學家，代表作為《哥白尼革命》和《科學革命的結構》。\n其最有名的著作《科學革命的結構》（1962年）為當代的科學思想研究建立了廣為人知的討論基礎，不論是贊成還是批評，因此可以說他是最有影響力的科學史及科學哲學家之一，其著作也被引用到科學史之外的其他廣泛領域中。孔恩主張科學並非透過線性積累新知識而進步，而是經歷週期性的「典範轉換」，即舊典範被新典範取代的革命性過程。他認為競爭性典範之間往往是不可通約的，即不存在一一對應的假設和術語。《科學革命的結構》是社會科學領域被引用最多的單本書籍。",
+  "bio_source": "zhwiki",
+  "description_en": "American historian, physicist and philosopher (1922 – 1996)",
+  "bio_en": "Thomas Samuel Kuhn (; July 18, 1922 – June 17, 1996) was an American historian and philosopher of science whose 1962 book The Structure of Scientific Revolutions was influential in both academic and popular circles. The book popularized the term paradigm shift, which has since become an English-language idiom.\nKuhn made several claims concerning the progress of scientific knowledge: that scientific fields undergo periodic \"paradigm shifts\" rather than solely progressing in a linear and continuous way, and that these paradigm shifts open up new approaches to understanding what scientists would never have considered valid before; and that the notion of scientific truth, at …",
+  "bio_en_source": "enwiki"
+}

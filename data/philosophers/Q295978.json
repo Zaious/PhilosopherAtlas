@@ -1,0 +1,133 @@
+{
+  "id": "Q295978",
+  "qid": "Q295978",
+  "slug": "george-herbert-mead",
+  "name_zh": "喬治·賀伯特·米德",
+  "name_en": "George Herbert Mead",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 42.258333,
+      "lon": -72.575,
+      "place": "South Hadley",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Eastern North Amercian hunter-gatherers",
+          "start": 500,
+          "end": 1492
+        },
+        {
+          "polity": "Nipmuc",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Iroquois",
+          "start": 1500,
+          "end": 1530
+        },
+        {
+          "polity": "Pocumtuk",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Massachusetts Bay",
+          "start": 1650,
+          "end": 1715
+        },
+        {
+          "polity": "British American colonies",
+          "start": 1715,
+          "end": 1783
+        },
+        {
+          "polity": "United States of America",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "United States",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "United States of America",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "United States",
+          "start": 1914,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 41.881944444,
+      "lon": -87.627777777,
+      "place": "Chicago",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Mead, George Herbert"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Mead, George Herbert"
+    }
+  ],
+  "works": [
+    {
+      "title": "Mind, Self and Society",
+      "title_zh": "心靈、自我與社會",
+      "year": 1934,
+      "qid": "Q6863392",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "South Hadley",
+  "description": "American philosopher, sociologist, and psychologist",
+  "bio": "喬治·賀伯特·米德;（英語：George Herbert Mead，1863年2月27日—1931年4月26日），美國哲學家、社會學家與心理學家。主要隸屬於芝加哥大學，是校內其中一名顯著的實用主義者。米德被公認是社會心理學的創始者之一。",
+  "bio_source": "zhwiki",
+  "description_en": "American philosopher, sociologist, and psychologist",
+  "bio_en": "George Herbert Mead (February 27, 1863 – April 26, 1931) was an American philosopher, sociologist, and psychologist, primarily affiliated with the University of Chicago. He was one of the key figures in the development of pragmatism. He is regarded as one of the founders of symbolic interactionism, and was an important influence on what has come to be referred to as the Chicago School of Sociology.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "Q448",
+  "qid": "Q448",
+  "slug": "denis-diderot",
+  "name_zh": "德尼·狄德羅",
+  "name_en": "Denis Diderot",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1713,
+  "death_year": 1784,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 47.8625,
+      "lon": 5.333055555,
+      "place": "Langres",
+      "period": [
+        1713,
+        1784
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1700,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        1784,
+        1784
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 59.95,
+      "lon": 30.316666666,
+      "place": "Saint Petersburg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Diderot, Denis"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Jacques the Fatalist",
+      "title_zh": "宿命論者雅克",
+      "year": 1796,
+      "qid": "Q945216",
+      "source": "wikidata"
+    },
+    {
+      "title": "Encyclopédie",
+      "title_zh": "百科全書，或科學、藝術和工藝詳解詞典",
+      "year": 1751,
+      "qid": "Q447",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 150,
+  "birth_place": "Langres",
+  "description": "法國哲學家、藝術評論家、作家",
+  "bio": "德尼·狄德羅（法語：Denis Diderot，1713年10月5日—1784年7月31日）是法國啟蒙思想家、唯物主義哲學家、文學家、美學家和翻譯家，百科全書派的代表人物。他的最大成就是以二十年之功主編《百科全書，或科學、藝術和工藝詳解詞典》（通稱《百科全書》）。此書是18世紀啟蒙運動的最高成就之一。",
+  "bio_source": "zhwiki",
+  "description_en": "French Enlightenment philosopher writer and encyclopædist (1713–1784)",
+  "bio_en": "Denis Diderot (; French: [dəni did(ə)ʁo]; 5 October 1713 – 31 July 1784) was a French philosopher, art critic, and writer, best known for serving as co-founder, chief editor, and contributor to the Encyclopédie along with Jean le Rond d'Alembert. He was a prominent figure during the Age of Enlightenment.\nDiderot studied philosophy at a Jesuit college, then considered working in the church clergy before briefly studying law. When he decided to become a writer in 1734, his father disowned him. He lived a bohemian existence for the next decade.",
+  "bio_en_source": "enwiki"
+}

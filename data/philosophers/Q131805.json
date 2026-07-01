@@ -1,0 +1,148 @@
+{
+  "id": "Q131805",
+  "qid": "Q131805",
+  "slug": "john-dewey",
+  "name_zh": "約翰·杜威",
+  "name_en": "John Dewey",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1859,
+  "death_year": 1952,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 44.4876246,
+      "lon": -73.2314828,
+      "place": "Burlington",
+      "period": [
+        1859,
+        1952
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United States",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "United States of America",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "United States",
+          "start": 1914,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 40.712777777,
+      "lon": -74.006111111,
+      "place": "New York City",
+      "period": [
+        1952,
+        1952
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 39.828175,
+      "lon": -98.5795,
+      "place": "United States",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Dewey, John"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Dewey, John"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Dewey, John"
+    }
+  ],
+  "works": [
+    {
+      "title": "Art as Experience",
+      "title_zh": "藝術即經驗",
+      "year": 1934,
+      "qid": "Q2690629",
+      "source": "wikidata"
+    },
+    {
+      "title": "Democracy and Education",
+      "title_zh": "民主與教育",
+      "year": 1916,
+      "qid": "Q5255511",
+      "source": "wikidata"
+    },
+    {
+      "title": "Experience and Education",
+      "title_zh": null,
+      "year": 1938,
+      "qid": "Q5421050",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Public and its Problems",
+      "title_zh": null,
+      "year": 1927,
+      "qid": "Q10855412",
+      "source": "wikidata"
+    },
+    {
+      "title": "The School and Society",
+      "title_zh": null,
+      "year": 1899,
+      "qid": "Q23022314",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 109,
+  "birth_place": "Burlington",
+  "description": "美國哲學家，心理學家和教育改革家",
+  "bio": "約翰·杜威（英語：John Dewey，1859年10月20日—1952年6月1日）是美國哲學家、教育家、心理學家，與查爾斯·桑德斯·皮爾士、威廉·詹姆士一起被認為是美國實用主義哲學的重要代表人物，也被視為是現代教育學的創始人之一、機能主義心理學派的創始人之一。\n杜威在學術生涯中，曾先後於美國密西根大學、芝加哥大學、哥倫比亞大學長期任教，並在哥倫比亞大學退休。杜威一生極力推崇民主制度，強調科學和民主的互補性，民主思想是他眾多著作的主題。與此同時，他也被視為二十世紀最偉大的教育改革者之一。在芝加哥大學任教期間，於1896年他創立了芝加哥大學附屬實驗學校作為他教育理論的實驗基地，其太太擔任學校校長。\n杜威的思想曾對二十世紀前期的中國教育界、思想界產生過重大影響，培養了包括胡適、馮友蘭、陶行知、郭秉文、張伯苓、蔣夢麟等一批國學大師和學者。他也曾到訪中國，兩年間在全國各地舉辦了數百場講座，見證了五四運動，並與孫中山會面，促進了民主、科學的思想在中國傳播。杜威是二十世紀上半葉美國最著名的學者之一，2006年12月，美國知名雜誌《大西洋月刊》將杜威評為「美國歷史上最具影響力的100位人物（The 100 Most Influential Figures in American History）」第40名。",
+  "bio_source": "zhwiki",
+  "description_en": "American philosopher, psychologist, and educational reformer (1859–1952)",
+  "bio_en": "John Dewey (; October 20, 1859 – June 1, 1952) was an American philosopher, psychologist, and educational reformer. He was one of the most prominent American scholars in the first half of the twentieth century.\nThe overriding theme of Dewey's works was his profound belief in democracy, be it in politics, education, or communication and journalism. As Dewey himself stated in 1888, while still at the University of Michigan, \"Democracy and the one, ultimate, ethical ideal of humanity are to my mind synonymous.\" Dewey considered two fundamental elements—schools and civil society—to be major topics needing attention and reconstruction to encourage experimental intelligence and plurality.",
+  "bio_en_source": "enwiki"
+}

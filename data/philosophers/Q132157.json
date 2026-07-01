@@ -1,0 +1,138 @@
+{
+  "id": "Q132157",
+  "qid": "Q132157",
+  "slug": "zeno-of-elea",
+  "name_zh": "埃利亞的芝諾",
+  "name_en": "Zeno of Elea",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -489,
+  "death_year": -424,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 40.159444444,
+      "lon": 15.154444444,
+      "place": "Velia",
+      "period": [
+        -489,
+        -424
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Maximian)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Ostrogoths",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Lombard duchies",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Dutchy of Benevento",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Sicily",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Aragón",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Naples",
+          "start": 1530,
+          "end": 1783
+        },
+        {
+          "polity": "Kingdom of the Two Sicilies",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Zeno of Elea"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Zeno's paradoxes",
+      "title_zh": "芝諾悖論",
+      "year": null,
+      "qid": "Q33378",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 97,
+  "birth_place": "Velia",
+  "description": "Greek philosopher (c. 495 – c. 430 BC)",
+  "bio": "埃利亞的芝諾（希臘語：Ζήνων ο Ελεάτης，約前490年—前430年），古希臘的前蘇格拉底哲學家，出生於埃利亞。他極有可能與巴門尼德保持著亦師亦友的關係，但這一觀點缺少決定性的證據。\n他以提出了四個關於運動不可能的悖論而知名。他創造這些悖論是為了支援他老師巴門尼德的理論。他認為世界上運動變化著的萬物是不真實的，唯一真實的東西是巴門尼德所謂的「唯一不動的存在」，所以「存在」是一而不是多，是靜不是動。",
+  "bio_source": "zhwiki",
+  "description_en": "Greek philosopher (c. 495 – c. 430 BC)",
+  "bio_en": "Zeno of Elea (; Ancient Greek: Ζήνων ὁ Ἐλεάτης; c. 490 – c. 430 BC) was a pre-Socratic Greek philosopher from Elea, in Southern Italy (Magna Graecia). He was a student of Parmenides and one of the Eleatics. Zeno defended his instructor's belief in monism, the idea that only one single entity exists that makes up all of reality. He rejected the existence of space, time, and motion. To disprove these concepts, he developed a series of paradoxes to demonstrate why they are impossible.",
+  "bio_en_source": "enwiki"
+}

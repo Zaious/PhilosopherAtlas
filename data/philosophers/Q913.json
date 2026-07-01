@@ -1,0 +1,95 @@
+{
+  "id": "Q913",
+  "qid": "Q913",
+  "slug": "socrates",
+  "name_zh": "蘇格拉底",
+  "name_en": "Socrates",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -469,
+  "death_year": -398,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.984166666,
+      "lon": 23.728055555,
+      "place": "Athens",
+      "period": [
+        -469,
+        -398
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Galerius)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 800
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 800,
+          "end": 1492
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1492,
+          "end": 1880
+        },
+        {
+          "polity": "Greece",
+          "start": 1880,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 37.972222222,
+      "lon": 23.722222222,
+      "place": "Classical Athens",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Socrates"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 275,
+  "birth_place": "Athens",
+  "description": "古希臘哲學家",
+  "bio": "蘇格拉底（希臘文：Σωκράτης，拉丁文：Socrates，前470年—前399年），古希臘哲學家，和其追隨者柏拉圖及柏拉圖的學生亞里斯多德被並稱為希臘三賢。他被認為是西方哲學的奠基者。沒有留下著作，其思想和生平被記述於後來的學者（主要是他的學生柏拉圖）和同時代的劇作家阿里斯托芬的劇作中。在柏拉圖的《對話》一書中記載了蘇格拉底在倫理學領域的貢獻。",
+  "bio_source": "zhwiki",
+  "description_en": "5th-century BCE Greek philosopher",
+  "bio_en": "Socrates (; Ancient Greek: Σωκράτης, romanized: Sōkrátēs; c. 470 – 399 BC) was an ancient Greek philosopher from Classical Athens, perhaps the first Western moral philosopher, and a major inspiration on his student Plato, who largely founded the tradition of Western philosophy. An enigmatic figure, Socrates authored no texts and is known mainly through the posthumous accounts of classical writers, particularly his students Plato and Xenophon. These accounts are written as dialogues, in which Socrates and his interlocutors examine a subject in the style of question and answer; they gave rise to the Socratic dialogue literary genre.",
+  "bio_en_source": "enwiki"
+}

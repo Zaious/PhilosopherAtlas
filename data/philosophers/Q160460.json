@@ -1,0 +1,180 @@
+{
+  "id": "Q160460",
+  "qid": "Q160460",
+  "slug": "alfarabi",
+  "name_zh": "法拉比",
+  "name_en": "al-Farabi",
+  "tradition": "islamic",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 870,
+  "death_year": 951,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 42.8514829,
+      "lon": 68.3029696,
+      "place": "Otrar",
+      "period": [
+        870,
+        951
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Karluks",
+          "start": 900,
+          "end": 1100
+        },
+        {
+          "polity": "Karkhanids",
+          "start": 1100,
+          "end": 1200
+        },
+        {
+          "polity": "Kara Khitai Khaganate",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "Chagatai Khanate",
+          "start": 1279,
+          "end": 1400
+        },
+        {
+          "polity": "Timurid Empire",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "White Horde",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Quazaq Khanate",
+          "start": 1530,
+          "end": 1783
+        },
+        {
+          "polity": "central Asian khanates",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Turan",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "Russian Empire",
+          "start": 1880,
+          "end": 1920
+        },
+        {
+          "polity": "USSR",
+          "start": 1920,
+          "end": 1930
+        },
+        {
+          "polity": "White Russia",
+          "start": 1930,
+          "end": 1938
+        },
+        {
+          "polity": "USSR",
+          "start": 1938,
+          "end": 1994
+        },
+        {
+          "polity": "Kazakhstan",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 33.513,
+      "lon": 36.292,
+      "place": "Damascus",
+      "period": [
+        951,
+        951
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "al-Farabi"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Ara Ahl al Madina al Fadila",
+      "title_zh": "高尚城邦公民意見諸法則",
+      "year": null,
+      "qid": "Q87446873",
+      "source": "wikidata"
+    },
+    {
+      "title": "Kitab al-Musiqa al-Kabir",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q4738940",
+      "source": "wikidata"
+    },
+    {
+      "title": "message in the mind",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q17175828",
+      "source": "wikidata"
+    },
+    {
+      "title": "Alfarabi's Philosophy of Plato and Aristotle",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q87446874",
+      "source": "wikidata"
+    },
+    {
+      "title": "Enumeration of sciences",
+      "title_zh": null,
+      "year": 1000,
+      "qid": "Q134499696",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 97,
+  "birth_place": "Otrar",
+  "description": "伊斯蘭哲學家、法學家",
+  "bio": "阿布·納斯爾·穆罕默德·伊本·穆罕默德·法拉比（波斯語：ابو نصر محمد بن محمد فارابي，Abū Naṣr Muḥammad ibn Muḥammad al Fārābī；872年—約950年12月14日至951年1月12日之間），喀喇汗王朝初期著名醫學家、哲學家、心理學家、音樂學家。維吾爾人，歐洲人稱之為阿爾法拉比烏斯（拉丁語：Alpharabius）。他是伊斯蘭教時期出現的第一位哲學家他是 伊朗 最偉大的哲學家和邏輯學家之一。\n法拉比專攻科學、哲學、邏輯、社會學、醫學、數學和音樂。他的大部分著作涉及哲學、邏輯學、社會學領域，也撰寫百科全書。\n法拉比鑽研學習哲學、醫學、心理學、音樂等多種學科並成名。他除編著有關多科學的160多種（一說200多種）著作外，還在整理研究西域回鶻醫學的基礎上編著了十幾部有關醫學的專著，推動和發展了醫學基礎理論，為以後出生在布哈拉的波斯人醫學家伊本·西那（阿維森納）的《大醫典》奠定了基礎。阿維森納很自豪地將法拉比稱之為他的間接啟蒙導師。",
+  "bio_source": "zhwiki",
+  "description_en": "10th century Persian philosopher and jurist",
+  "bio_en": "Abu Nasr Muhammad al-Farabi (Arabic: أبو نصر محمد الفارابي, romanized: Abū Naṣr Muḥammad al-Fārābī; c. 870 – 14 December 950–12 January 951), known in the Latin West as Alpharabius, was an early Islamic philosopher and music theorist. He has been designated as \"Father of Islamic Neoplatonism\", and the \"Founder of Islamic Political Philosophy\".\nAl-Farabi's fields of philosophical interest included—but were not limited to—philosophy of society and religion; philosophy of language and logic; psychology and epistemology; metaphysics, political philosophy, and ethics.",
+  "bio_en_source": "enwiki"
+}

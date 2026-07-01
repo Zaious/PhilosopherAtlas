@@ -1,0 +1,128 @@
+{
+  "id": "Q183144",
+  "qid": "Q183144",
+  "slug": "epictetus",
+  "name_zh": "愛比克泰德",
+  "name_en": "Epictetus",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 50,
+  "death_year": 138,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.9074,
+      "lon": 29.146,
+      "place": "Hierapolis",
+      "period": [
+        50,
+        138
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Diocletianus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 800
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 800,
+          "end": 1400
+        },
+        {
+          "polity": "Beylik of Aydin",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1492,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": 1938
+        },
+        {
+          "polity": "Turkey",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 39.008011,
+      "lon": 20.736054,
+      "place": "Nicopolis",
+      "period": [
+        138,
+        138
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 39.00933,
+      "lon": 20.73353,
+      "place": "Nicopolis",
+      "period": [
+        138,
+        138
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Epictetus"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Epictetus"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 117,
+  "birth_place": "Hierapolis",
+  "description": "Greek Stoic philosopher (c. 50–c. 138)",
+  "bio": "愛比克泰德（希臘語：Επίκτητος，英語：Epictetus，約50年—約135年），古羅馬新斯多葛主義哲學家。他出生時可能是個奴隸身份，生在弗裡吉亞的希拉波利斯（今土耳其棉堡），他早年生活在羅馬，後被驅逐到希臘西北部的尼科波利斯，直至去世，他一生大部分時間都在這裡度過。他的本名無從考證。後人稱呼他為ἐπίκτητος，這個詞在希臘文中有「養成的」「後天的」之意。\n童年時以奴隸身份來到羅馬，有一個說法稱他的主人故意打斷他的腿，亦有說法稱他自小就是跛子。後來主人放他自由。他從師於斯多葛學派教師莫索尼烏斯·魯弗斯學習哲學，並在羅馬教學，直到公元90年被羅馬皇帝趕出羅馬，於是他便退居於伊壁魯斯的尼科波利斯，在那裡寫作和講學，並於此處與世長辭。他學生阿利安編纂了愛比克泰德《語錄》（Discourses）和《手冊》（Enchiridion），從而記錄了他的思想。",
+  "bio_source": "zhwiki",
+  "description_en": "Greek Stoic philosopher (c. 50–c. 138)",
+  "bio_en": "Epictetus ( EH-pick-TEE-təss; Ancient Greek: Ἐπίκτητος, Epíktētos; c. 50 – c. 135 AD) was a Greek Stoic philosopher. He was born into slavery at Hierapolis, Phrygia (present-day Pamukkale, in western Turkey) and lived in Rome until his banishment, after which he spent the rest of his life in Nicopolis in northwestern Greece. \nEpictetus studied Stoic philosophy under Musonius Rufus and after manumission, his formal emancipation from slavery, he began to teach philosophy. When philosophers were banished from Rome by Emperor Domitian toward the end of the first century, Epictetus founded a school of philosophy in Nicopolis.",
+  "bio_en_source": "enwiki"
+}

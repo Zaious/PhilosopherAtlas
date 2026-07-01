@@ -1,0 +1,139 @@
+{
+  "id": "Q724293",
+  "qid": "Q724293",
+  "slug": "sengzhao",
+  "name_zh": "僧肇",
+  "name_en": "Sengzhao",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 374,
+  "death_year": 414,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 34.266,
+      "lon": 108.954,
+      "place": null,
+      "period": [
+        374,
+        414
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Toba Wei",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 34.308333333,
+      "lon": 108.858333333,
+      "place": "Chang'an",
+      "period": [
+        414,
+        414
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Sengzhao"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Sengzhao [Seng-Chao]"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 17,
+  "birth_place": null,
+  "description": "Chinese Buddhist monk and scholar",
+  "bio": "釋僧肇（384年—414年），俗姓張，京兆（長安）人。為鳩摩羅什門下著名弟子，羅什的佛教譯經大都由僧肇潤文，使得羅什的譯經為中國人喜愛讀誦的得力幹將，著名的漢傳佛教理論思想家，將般若中觀思想中國化，為三論宗的先驅人物。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese Buddhist monk and scholar",
+  "bio_en": "Sengzhao (Chinese: 僧肇; pinyin: Sēngzhào; Wade–Giles: Seng-chao; Japanese: 僧肇, Sōjō; 384–414) was a Chinese Buddhist philosopher from Later Qin. Born to a poor family in Jingzhao, he acquired literary skills, apparently including the capacity to read Pali, and became a scribe. This exposed him to a variety of uncommon documents. He was influenced by Taoists, Laozi and Zhuangzi, and although we are told he enjoyed Lao Tzu’s Daodejing, he was overjoyed when he discovered the Vimalakirti Sutra. This encounter transformed his life and he became a Buddhist.",
+  "bio_en_source": "enwiki"
+}

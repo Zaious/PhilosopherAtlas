@@ -1,0 +1,128 @@
+{
+  "id": "Q309818",
+  "qid": "Q309818",
+  "slug": "nicolas-malebranche",
+  "name_zh": "尼古拉斯‧馬勒伯朗士",
+  "name_en": "Nicolas Malebranche",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.856667,
+      "lon": 2.352222,
+      "place": "Paris",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Constantinus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Franks",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Frankish Kingdom",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Carolingian Empire",
+          "start": 800,
+          "end": 900
+        },
+        {
+          "polity": "West Francia",
+          "start": 900,
+          "end": 1000
+        },
+        {
+          "polity": "Kingdom of France",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "France",
+          "start": 1279,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Malebranche, Nicolas"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Malebranche, Nicolas"
+    }
+  ],
+  "works": [
+    {
+      "title": "Search after Truth",
+      "title_zh": null,
+      "year": 1674,
+      "qid": "Q3020424",
+      "source": "wikidata"
+    },
+    {
+      "title": "Entretiens sur la metaphysique et sur la religion",
+      "title_zh": null,
+      "year": 1688,
+      "qid": "Q42189440",
+      "source": "wikidata"
+    },
+    {
+      "title": "Treatise on nature and grace",
+      "title_zh": null,
+      "year": 1680,
+      "qid": "Q113518762",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Paris",
+  "description": "French philosopher",
+  "bio": "尼古拉·馬勒伯朗士（法語：Nicolas Malebranche，1638年8月6日—1715年10月13日）是法國天主教奧拉多利修會的神父、法蘭西科學院院士、理性主義哲學家，屬於笛卡爾學派。",
+  "bio_source": "zhwiki",
+  "description_en": "French philosopher",
+  "bio_en": "Nicolas Malebranche (6 August 1638 – 13 October 1715) was a French Oratorian Catholic priest and rationalist philosopher. In his works, he sought to synthesise the thought of St. Augustine and Descartes, in order to demonstrate the active role of God in every aspect of the world. Malebranche is best known for his doctrines of vision in God, occasionalism and ontologism.",
+  "bio_en_source": "enwiki"
+}

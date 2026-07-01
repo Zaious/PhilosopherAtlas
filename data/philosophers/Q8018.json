@@ -1,0 +1,186 @@
+{
+  "id": "Q8018",
+  "qid": "Q8018",
+  "slug": "augustine-of-hippo",
+  "name_zh": "奧勒留·奧古斯丁",
+  "name_en": "Augustine of Hippo",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 354,
+  "death_year": 430,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 36.266667,
+      "lon": 7.933333,
+      "place": "Thagaste",
+      "period": [
+        354,
+        430
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Rome (Maximian)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Vandals",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 600,
+          "end": 700
+        },
+        {
+          "polity": "Umayyad Caliphate",
+          "start": 700,
+          "end": 800
+        },
+        {
+          "polity": "Aghlabid Emirate",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Fatimid Caliphate",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Hafsid Caliphate",
+          "start": 1279,
+          "end": 1530
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "Algiers",
+          "start": 1715,
+          "end": 1880
+        },
+        {
+          "polity": "Algeria (FR)",
+          "start": 1880,
+          "end": 1900
+        },
+        {
+          "polity": "Algeria",
+          "start": 1900,
+          "end": 1938
+        },
+        {
+          "polity": "Algeria (France)",
+          "start": 1938,
+          "end": 1945
+        },
+        {
+          "polity": "Algeria",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 36.8825,
+      "lon": 7.75,
+      "place": "Hippo Regius",
+      "period": [
+        430,
+        430
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 36.883651,
+      "lon": 7.755129,
+      "place": "Hippo Regius",
+      "period": [
+        430,
+        430
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Augustine"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Augustine of Hippo"
+    }
+  ],
+  "works": [
+    {
+      "title": "On the Trinity",
+      "title_zh": "論三位一體",
+      "year": null,
+      "qid": "Q1180413",
+      "source": "wikidata"
+    },
+    {
+      "title": "The City of God",
+      "title_zh": "上帝之城",
+      "year": null,
+      "qid": "Q212318",
+      "source": "wikidata"
+    },
+    {
+      "title": "Confessions",
+      "title_zh": "懺悔錄 (奧古斯丁)",
+      "year": null,
+      "qid": "Q372941",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 226,
+  "birth_place": "Thagaste",
+  "description": "4至5世紀基督教神學家",
+  "bio": "奧勒留·奧古斯提奴斯（拉丁語：Aurelius Augustinus，354年11月13日—430年8月28日），人稱希波的奧古斯丁（拉丁語：Augustinus Hipponensis；英語：Augustine of Hippo）或聖奧古斯丁（英語：Saint Augustine 或 Saint Austin），又譯奧斯定、聖奧思定，是早期天主教的神學家、哲學家。生於羅馬帝國末期北非阿非利加行省的塔加斯特城，出身柏柏人家族，在羅馬受教育，在米蘭接受聖洗聖事。曾任天主教在希波（Hippo Regius，位於今日阿爾及利亞城市安納巴）的主教。\n奧古斯丁的著作《懺悔錄》被稱為西方歷史上「第一部」自傳，至今傳誦不已。奧斯定會是跟隨其所制的生活方式的天主教修會。\n奧古斯丁死後被天主教會封為聖人和教會聖師，也被東正教會等奉為聖人，並稱為恩寵博士（拉丁語：Doctor Gratiae，這一稱謂源於他在與伯拉糾的論戰中，對神的恩典的強調。），但其部分神學理論不被東方基督教認同，而被視為是若干異端理論的重要源頭。他的死也被西方史學界視為歐洲在精神層面上的中世紀的開始。",
+  "bio_source": "zhwiki",
+  "description_en": "Christian theologian, philosopher, and saint (354–430)",
+  "bio_en": "Augustine of Hippo ( aw-GUST-in, US also  AW-gə-steen; Latin: Aurelius Augustinus Hipponensis; 13 November 354 – 28 August 430) was a Christian theologian and philosopher from Thagaste, Numidia Cirtensis and the Bishop of Hippo Regius. He is generally regarded as one of the most influential philosophers in the history of the Western world, and he is viewed as one of the most important Church Fathers of the Latin Church in the Patristic Period.\nIn his youth he was drawn to the Manichaean faith, and later to the Hellenistic philosophy of Neoplatonism.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "Q127398",
+  "qid": "Q127398",
+  "slug": "moshe-ben-maimon",
+  "name_zh": "邁蒙尼德",
+  "name_en": "Moshe ben Maimon",
+  "tradition": "jewish",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1135,
+  "death_year": 1204,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.89,
+      "lon": -4.78,
+      "place": "Córdoba",
+      "period": [
+        1135,
+        1204
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Almoravid dynasty",
+          "start": 1100,
+          "end": 1200
+        },
+        {
+          "polity": "Almohad Caliphate",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "Castile",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Castille",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Spain",
+          "start": 1530,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 30.044444444,
+      "lon": 31.235833333,
+      "place": "Cairo",
+      "period": [
+        1204,
+        1204
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Maimonides"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Maimonides, Moses"
+    }
+  ],
+  "works": [
+    {
+      "title": "Mishneh Torah",
+      "title_zh": "律法再述",
+      "year": null,
+      "qid": "Q201029",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Guide for the Perplexed",
+      "title_zh": "解惑指引",
+      "year": 1190,
+      "qid": "Q1140185",
+      "source": "wikidata"
+    },
+    {
+      "title": "Epistle to Yemen",
+      "title_zh": null,
+      "year": 1174,
+      "qid": "Q1192661",
+      "source": "wikidata"
+    },
+    {
+      "title": "Sefer Hamitzvot",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q2066533",
+      "source": "wikidata"
+    },
+    {
+      "title": "Treatise in Eight Chapters",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q3536942",
+      "source": "wikidata"
+    },
+    {
+      "title": "Pirush Hamishnayot",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q6124976",
+      "source": "wikidata"
+    },
+    {
+      "title": "Hakdamot HaRambam",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q6125113",
+      "source": "wikidata"
+    },
+    {
+      "title": "Treatise on logic",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q6125177",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 110,
+  "birth_place": "Córdoba",
+  "description": "Medieval Jewish philosopher from Spain (1135–1204)",
+  "bio": "摩西·本·邁蒙（希伯來語：מֹשֶׁה בֶּן־מַיְמוֹן；阿拉伯語：موسى بن ميمون；1138年3月30日—1204年12月12日），通稱邁蒙尼德（拉丁語：Maimonides），是塞法迪猶太哲學家、法學家、醫生。生於西班牙哥多華。",
+  "bio_source": "zhwiki",
+  "description_en": "Medieval Jewish philosopher from Spain (1135–1204)",
+  "bio_en": "Moses ben Maimon (died 12 December 1204), commonly known as Maimonides and also referred to by the Hebrew acronym Rambam, was a Sephardic Jewish rabbi who is widely acknowledged as one of the most prolific and influential Torah scholars of the Middle Ages.\nOriginally from Córdoba, where he was born on Passover Eve of 1135 or 1138, his family was exiled from Muslim-ruled Spain when they refused to convert to Islam shortly after the Almohad Caliphate conquered the Almoravid dynasty in 1148. Over the course of the next two decades, Maimonides resided in Fez, Acre, Jerusalem, Alexandria, and Cairo before finally settling in Fustat between 1168 and 1171.",
+  "bio_en_source": "enwiki"
+}

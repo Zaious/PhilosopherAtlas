@@ -1,0 +1,86 @@
+{
+  "id": "Q60887",
+  "qid": "Q60887",
+  "slug": "jeremy-bentham",
+  "name_zh": "傑里米·邊沁",
+  "name_en": "Jeremy Bentham",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1748,
+  "death_year": 1832,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.507222222,
+      "lon": -0.1275,
+      "place": "London",
+      "period": [
+        1748,
+        1832
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 53,
+      "lon": -1,
+      "place": "England",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bentham, Jeremy"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bentham, Jeremy"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 103,
+  "birth_place": "London",
+  "description": "英國哲學家、法學家和社會改革家",
+  "bio": "傑瑞米·邊沁（英語：Jeremy Bentham；1748年2月15日—1832年6月6日），英國哲學家、法學家和社會改革家。他是最早支援效益主義和動物權利的人之一。其於1769-1832年撰寫大量以法律改革為主題的文稿，建立起龐大的改革者網路，影響啟蒙運動時期英國的法律思想。\n著有《政府論片簡》（1776年），在其中對英國憲法進行了探討。在他的《道德與立法原理》一書中，效益主義的原則第一次得到明確的表達。邊沁在實踐上是激進的社會改革者，他反對君主專制，提倡普選制度。\n邊沁也是最具影響力的古典自由主義者之一，其影響力不僅來源於他的著作，而且來源於他全世界的門徒，包括約翰·史都華·彌爾和一些政治領袖，如羅伯特·歐文（烏託邦社會主義的代表人物）。",
+  "bio_source": "zhwiki",
+  "description_en": "British philosopher, jurist, and social reformer (1748–1832)",
+  "bio_en": "Jeremy Bentham (; 4 February 1747/8 O.S. [15 February 1748 N.S.] – 6 June 1832) was an English philosopher, jurist, and social reformer regarded as the founder of modern utilitarianism.\nBentham defined as the \"fundamental axiom\" of his philosophy the principle that \"it is the greatest happiness of the greatest number that is the measure of right and wrong\". He became a leading theorist in Anglo-American philosophy of law, and a political radical whose ideas influenced the development of welfarism.",
+  "bio_en_source": "enwiki"
+}

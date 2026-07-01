@@ -1,0 +1,162 @@
+{
+  "id": "Q76519",
+  "qid": "Q76519",
+  "slug": "rudolf-carnap",
+  "name_zh": "魯道夫·卡納普",
+  "name_en": "Rudolf Carnap",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1891,
+  "death_year": 1970,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.266666666,
+      "lon": 7.183333333,
+      "place": "Wuppertal",
+      "period": [
+        1891,
+        1970
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (UK)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 34.021944444,
+      "lon": -118.481388888,
+      "place": "Santa Monica",
+      "period": [
+        1970,
+        1970
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 34.05223,
+      "lon": -118.24368,
+      "place": "Los Angeles",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.0875,
+      "lon": 14.421388888,
+      "place": "Prague",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.208333333,
+      "lon": 16.3725,
+      "place": "Vienna",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 40.352222222,
+      "lon": -74.656944444,
+      "place": "Princeton",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 37,
+      "lon": -120,
+      "place": "California",
+      "period": [
+        null,
+        1970
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Carnap, Rudolf"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Carnap, Rudolf"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 67,
+  "birth_place": "Wuppertal",
+  "description": "德國哲學家",
+  "bio": "魯道夫·卡爾納普（德語：Rudolf Carnap，又譯卡納普；1891年5月18日—1970年9月14日）是20世紀著名的美國分析哲學家，生於德國雷姆沙伊德。經驗主義和邏輯實證主義代表人物，維也納學派的領袖之一。卡爾納普是學物理和數學出身的，在耶拿大學曾受業於弗雷格門下，研究邏輯學、數學、語言的概念結構。受羅素和弗雷格的著作影響。\n哲學上早期受新康德派的影響，他最早的作品如《空間、論科學哲學》，《論物理學的任務和簡化原則之應用》等都可以看到這種影響的印跡。同時他受到了馬赫實證論和經驗論的影響，使他完全走上了實證論的道路。《世界的邏輯構造》是卡爾納普的代表作。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher and logician (1891–1970)",
+  "bio_en": "Paul Rudolf Carnap (; German: [ˈkaʁnaːp]; 18 May 1891 – 14 September 1970) was a German philosopher and logician who was active in Europe before 1935 and in the United States thereafter. He was a major member of the Vienna Circle and an advocate of logical positivism.",
+  "bio_en_source": "enwiki"
+}

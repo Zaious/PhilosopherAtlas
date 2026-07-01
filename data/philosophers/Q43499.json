@@ -1,0 +1,172 @@
+{
+  "id": "Q43499",
+  "qid": "Q43499",
+  "slug": "erasmus",
+  "name_zh": "德西德里烏斯·伊拉斯謨",
+  "name_en": "Erasmus",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1466,
+  "death_year": 1536,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.92,
+      "lon": 4.48,
+      "place": "Rotterdam",
+      "period": [
+        1466,
+        1536
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1400,
+          "end": 1530
+        },
+        {
+          "polity": "Habsburg Netherlands",
+          "start": 1530,
+          "end": 1600
+        },
+        {
+          "polity": "Dutch Republic",
+          "start": 1600,
+          "end": 1783
+        },
+        {
+          "polity": "Netherlands",
+          "start": 1783,
+          "end": 1800
+        },
+        {
+          "polity": "Batavian Republic",
+          "start": 1800,
+          "end": 1815
+        },
+        {
+          "polity": "       ",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "Netherlands",
+          "start": 1880,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 47.560555555,
+      "lon": 7.590555555,
+      "place": "Basel",
+      "period": [
+        1536,
+        1536
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.836472,
+      "lon": 4.308205,
+      "place": "Erasmus House",
+      "period": [
+        1521,
+        1521
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Erasmus, Desiderius"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Erasmus, Desiderius"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Education of a Christian Prince",
+      "title_zh": "論基督君主的教育",
+      "year": 1532,
+      "qid": "Q1212260",
+      "source": "wikidata"
+    },
+    {
+      "title": "A handbook on manners for children",
+      "title_zh": "論兒童的教養",
+      "year": 1530,
+      "qid": "Q4147595",
+      "source": "wikidata"
+    },
+    {
+      "title": "Adagia",
+      "title_zh": "箴言集",
+      "year": 1500,
+      "qid": "Q346677",
+      "source": "wikidata"
+    },
+    {
+      "title": "In Praise of Folly",
+      "title_zh": "愚人頌",
+      "year": 1511,
+      "qid": "Q569869",
+      "source": "wikidata"
+    },
+    {
+      "title": "De capienda ex inimicis utilitate",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q137806401",
+      "source": "wikidata"
+    },
+    {
+      "title": "Familiar Colloquies",
+      "title_zh": null,
+      "year": 1518,
+      "qid": "Q19020085",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 153,
+  "birth_place": "Rotterdam",
+  "description": "歐洲哲學家（1466—1536）",
+  "bio": "伊拉斯謨，全名德西德里烏斯·伊拉斯謨·羅特羅達穆斯（Desiderius Erasmus Roterodamus；1466年10月28日—1536年7月12日），也譯作伊拉斯姆斯、埃拉斯默斯、艾拉思姆斯、伊拉斯莫斯，史學界通稱鹿特丹的伊拉斯謨（Erasmus von Rotterdam），是文藝復興時期尼德蘭（今荷蘭和比利時）的人文主義思想家和神學家、天主教神父，為北方文藝復興的代表人物。伊拉斯謨是一個用純拉丁語寫作的古典學者，並曾撰文尖銳地批評天主教會的驕奢腐敗，引發了歐洲各地教會呼籲變革的聲浪。儘管如此，在宗教改革運動爆發後並未支援改革派，同時對於天主教會內的「動亂」感到自責，甚至因此婉拒了教宗國授予的樞機職位。\n伊拉斯謨在《論死亡之準備》（Treatise on Preparation For Death）一文中表達了自己的宗教觀，他認為永生的保證不來自於教堂中的聖禮和儀式，而僅在於對基督贖罪的信念。他被視為文藝復興時期最重要的人道主義者之一，終其一生都在為保衛天主教的福音傳播構思而奮鬥。\n伊拉斯謨整理翻譯了《聖經·新約全書》新拉丁文版和希臘文版。他創作的作品有《愚人頌》、《基督教騎士手冊》、《論兒童的教養》等等。他在2004年票選最偉大的荷蘭人當中，排名第五，次於排名第四的雷文虎克。",
+  "bio_source": "zhwiki",
+  "description_en": "Dutch Renaissance humanist, Catholic priest, and theologian (1466-1536)",
+  "bio_en": "Desiderius Erasmus Roterodamus ( DEZ-i-DEER-ee-əs irr-AZ-məs; Dutch: [ˌdeːziˈdeːrijʏs eːˈrɑsmʏs]; 28 October c. 1466 – 12 July 1536), commonly known in English as Erasmus of Rotterdam or simply Erasmus, was a Dutch humanist, Catholic theologian, and pioneering philologist and educationalist. He was, through his writings and translations, one of the most influential scholars of the Northern Renaissance and a major figure of Western culture.\nErasmus was an important figure in Renaissance classical scholarship who wrote in a spontaneous, copious and correct but natural Latin style.",
+  "bio_en_source": "enwiki"
+}

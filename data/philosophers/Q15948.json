@@ -1,0 +1,101 @@
+{
+  "id": "Q15948",
+  "qid": "Q15948",
+  "slug": "mile-durkheim",
+  "name_zh": "艾彌爾·涂爾幹",
+  "name_en": "Émile Durkheim",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1858,
+  "death_year": 1917,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.173611111,
+      "lon": 6.451666666,
+      "place": "Épinal",
+      "period": [
+        1858,
+        1917
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1815,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        1917,
+        1917
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Durkheim, Émile"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "The Elementary Forms of the Religious Life",
+      "title_zh": "宗教生活的基本形式",
+      "year": 1912,
+      "qid": "Q1218187",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Division of Labour in Society",
+      "title_zh": "社會分工論",
+      "year": 1893,
+      "qid": "Q3020435",
+      "source": "wikidata"
+    },
+    {
+      "title": "Education and Sociology (book)",
+      "title_zh": null,
+      "year": 1922,
+      "qid": "Q96142060",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 124,
+  "birth_place": "Épinal",
+  "description": "法國猶太裔社會學家和人類學家",
+  "bio": "大衛·艾彌爾·塗爾幹（法語：David Émile Durkheim；1858年4月15日—1917年11月15日），又譯迪爾凱姆、杜爾凱姆等，法國猶太裔社會學家、人類學家，與卡爾·馬克思、馬克斯·韋伯並列為現代社會科學的三大奠基人，《社會學年鑑》創刊人，法國首位社會學教授。\n塗爾幹的主要的思想集中於四部鉅著：《社會分工論》（1893年）、《社會學方法的準則》（1895年）、《自殺論》（1897年）、《宗教生活的基本形式》（1912年）。這些目前都被視為社會學這門學科的基礎著作。作為現代社會學的開拓者，塗爾幹一生出版了大量關於教育、宗教、自殺、法律和犯罪的論文和專著，為社會學的學門化和科學化奠定了堅實基礎，對確立社會學為一門獨立學科做出了巨大的貢獻。",
+  "bio_source": "zhwiki",
+  "description_en": "French sociologist (1858–1917)",
+  "bio_en": "David Émile Durkheim (;  French: [emil dyʁkɛm] or [dyʁkajm]; 15 April 1858 – 15 November 1917) was a French sociologist. He formally established the academic discipline of sociology, and is commonly cited as one of the principal architects of modern social science, along with Karl Marx and Max Weber.\nMuch of Durkheim's work concerns the inability of societies to maintain their integrity and coherence in modernity, an era in which traditional social and religious ties are much less universal, and in which new social institutions have come into being. His conception of the scientific study of society laid the groundwork for modern sociology.",
+  "bio_en_source": "enwiki"
+}

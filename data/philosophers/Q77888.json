@@ -1,0 +1,119 @@
+{
+  "id": "Q77888",
+  "qid": "Q77888",
+  "slug": "wilhelm-von-humboldt",
+  "name_zh": "威廉·馮·洪堡",
+  "name_en": "Wilhelm von Humboldt",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1767,
+  "death_year": 1835,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 52.39588611,
+      "lon": 13.05792222,
+      "place": "Kabinetthaus",
+      "period": [
+        1767,
+        1835
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Brandenburg",
+          "start": 1715,
+          "end": 1783
+        },
+        {
+          "polity": "Prussia",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (Soviet)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "East Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 52.516666666,
+      "lon": 13.383333333,
+      "place": "Berlin",
+      "period": [
+        1835,
+        1835
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.342083333,
+      "lon": 14.551666666,
+      "place": "Frankfurt (Oder)",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Humboldt, Wilhelm von"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 97,
+  "birth_place": "Kabinetthaus",
+  "description": "Prussian philosopher, government official, diplomat, and educator (1767–1835)",
+  "bio": "弗裡德利希·威廉·克里斯蒂安·卡爾·費迪南·馮·洪堡（德語：Friedrich Wilhelm Christian Carl Ferdinand von Humboldt，1767年6月22日—1835年4月8日）又譯洪堡特，是一位德國哲學家、語言學家、政府官員和外交家，也是柏林洪堡大學的建立者。\n威廉·馮·洪堡是德國文化史上影響最深刻和最偉大的人物之一。他與弟弟亞歷山大都有廣博的學識，並對當時的時代有著歷史上少見的巨大影響。亞歷山大主要研究的是自然科學，而威廉的研究物件是文化科學，如教育學、國家理論、對語言、文學和文化的分析。他是普魯士教育改革的推動者，同時也是普魯士的外交官。",
+  "bio_source": "zhwiki",
+  "description_en": "Prussian philosopher, government official, diplomat, and educator (1767–1835)",
+  "bio_en": "Friedrich Wilhelm Christian Karl Ferdinand von Humboldt (22 June 1767 – 8 April 1835) was a Prussian philosopher, linguist, government functionary, diplomat, and founder of the Humboldt University of Berlin. In 1949, the university was named after him and his younger brother, Alexander von Humboldt, a naturalist.\nHe was a linguist who made contributions to the philosophy of language, ethnolinguistics, and to the theory and practice of education.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "Q102585",
+  "qid": "Q102585",
+  "slug": "johann-gottlieb-fichte",
+  "name_zh": "約翰·戈特利布·費希特",
+  "name_en": "Johann Gottlieb Fichte",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1762,
+  "death_year": 1814,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.15,
+      "lon": 14.133333333,
+      "place": "Rammenau",
+      "period": [
+        1762,
+        1814
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1715,
+          "end": 1783
+        },
+        {
+          "polity": "Saxony",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (Soviet)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "East Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 52.516666666,
+      "lon": 13.383333333,
+      "place": "Berlin",
+      "period": [
+        1814,
+        1814
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 47.374444444,
+      "lon": 8.541111111,
+      "place": "Zurich",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.927222222,
+      "lon": 11.586388888,
+      "place": "Jena",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Fichte, Johann Gottlieb"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Fichte, Johann Gottlieb"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 112,
+  "birth_place": "Rammenau",
+  "description": "德國哲學家（1762—1814）",
+  "bio": "約翰·戈特利布·費希特（德語：Johann Gottlieb Fichte，1762年5月19日—1814年1月27日），德意志哲學家。儘管他是自康德的著作發展開來的德國唯心主義哲學的主要奠基人之一，但他在西方哲學史上的重要性往往被輕視了。費希特往往被認為是連線康德和黑格爾兩人哲學間的過渡人物。近些年來，由於學者們注意到他對自我意識的深刻理解而重新認識到他的地位。和在他之前的笛卡爾和康德一樣，對於主觀性和意識的問題激發了他的許多哲學思考。費希特也涉及政治哲學，他被一些人認為是德國國家主義之父。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher (1762–1814)",
+  "bio_en": "Johann Gottlieb Fichte (19 May 1762 – 29 January 1814) was a German philosopher who became a founding figure of German idealism, which developed from the theoretical and ethical writings of Immanuel Kant.\nFichte is an important philosopher in his own right due to his original insights into the nature of self-consciousness or self-awareness. Fichte was also the originator of thesis–antithesis–synthesis, an idea that is often erroneously attributed to Hegel.\nLike Descartes and Kant before him, Fichte was motivated by the problem of subjectivity and consciousness. Fichte also wrote works of political philosophy; he has a reputation as one of the fathers of German nationalism.",
+  "bio_en_source": "enwiki"
+}

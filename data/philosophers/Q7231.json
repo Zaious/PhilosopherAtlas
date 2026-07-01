@@ -1,0 +1,121 @@
+{
+  "id": "Q7231",
+  "qid": "Q7231",
+  "slug": "rosa-luxemburg",
+  "name_zh": "羅莎·盧森堡",
+  "name_en": "Rosa Luxemburg",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1871,
+  "death_year": 1919,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 50.720555555,
+      "lon": 23.258611111,
+      "place": "Zamość",
+      "period": [
+        1871,
+        1919
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Russian Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Poland",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 52.516666666,
+      "lon": 13.383333333,
+      "place": "Berlin",
+      "period": [
+        1919,
+        1919
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 47.374444444,
+      "lon": 8.541111111,
+      "place": "Zurich",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.23,
+      "lon": 21.011111111,
+      "place": "Warsaw",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Luxemburg, Rosa"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "The Accumulation of Capital",
+      "title_zh": null,
+      "year": 1913,
+      "qid": "Q3201427",
+      "source": "wikidata"
+    },
+    {
+      "title": "Social Reform or Revolution",
+      "title_zh": null,
+      "year": 1989,
+      "qid": "Q26877677",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 187,
+  "birth_place": "Zamość",
+  "description": "德國共產黨的創始人之一",
+  "bio": "羅莎·盧森堡（德語：Rosa Luxemburg；波蘭語：Róża Luksemburg；1871年3月5日—1919年1月15日）是波蘭—德國社會主義思想家、政治家和革命家，德國共產黨創始人之一。\n1871年3月5日，盧森堡出生於俄羅斯佔領下的波蘭扎莫希奇的一個猶太人家庭。她原是波蘭王國和立陶宛社會民主黨的理論家。1898年，移居德國柏林，並加入德國社會民主黨，是黨內的重要社會主義理論家。\n1914年，德國皇帝威廉二世進行全國總動員，向俄羅斯宣戰；同年8月4日，德國社會民主黨國會黨團在帝國議會表決支援戰爭撥款。前後一系列連鎖反應標誌著第一次世界大戰的正式開始和第二國際的分裂，過去10年內包括羅莎·盧森堡在內的西歐各國左翼力量努力避免戰爭爆發的所有舉措付諸東流。為求轉機，羅莎·盧森堡在戰爭開始前曾公開號招群眾拒絕服兵役，而被法院視為叛國、判處1年有期徒刑。\n德國社會民主黨宣佈支援德國參與第一次世界大戰後，1915年她和卡爾·李卜克內西等黨內左翼人士合作成立馬克思主義革命團體「斯巴達克同盟」，與黨內以弗裡德利希·艾伯特為代表的右傾勢力對立。並因公開宣傳反戰主張於1915年—1918年被多次關押。1918年11月，在德國十一月革命期間，她創辦了《紅旗報》作為斯巴達克同盟的機關報。該組織後聯合德國國際共產主義者於1918年12月30日建立德國共產黨，《紅旗報》隨後成為共產黨的機關報。\n羅莎·盧森堡起草了德國共產黨黨綱。",
+  "bio_source": "zhwiki",
+  "description_en": "Polish-German Marxist revolutionary (1871–1919)",
+  "bio_en": "Rosa Luxemburg ( LUK-səm-burg; Polish: Róża Luksemburg [ˈruʐa ˈluksɛmburk] ; German: [ˈʁoːza ˈlʊksm̩bʊʁk] ; 5 March 1871 – 15 January 1919) was a Polish and naturalised-German Marxist theorist and revolutionary. She was a leading theorist of the Social Democratic Party of Germany (SPD) and later co-founded the anti-war Spartacus League, which evolved into the Communist Party of Germany (KPD). An influential member of the international socialist movement, she is remembered for her writings on imperialism and revolution, and as a champion of socialist democracy.\nBorn and raised in Russian-ruled Poland to a secular Jewish family, Luxemburg became active in revolutionary politics in her youth.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "source": "History of Philosophy without any Gaps（Adamson podcast）",
+    "source_id": "adamson",
+    "source_url": "https://historyofphilosophy.net/all-episodes",
+    "contribution_type": "canon_list",
+    "k_weight": 1.0,
+    "_coverage_note": "待 pipeline 自動化抓取。historyofphilosophy.net 於 2026-06 回 403 Forbidden，需 User-Agent 偽裝或 RSS feed 抓取。RSS feed 可能位於 https://historyofphilosophy.net/feed 或各 series feed。Adamson 播客主要涵蓋：古希臘（Classical）、伊斯蘭（Islamic World）、歐洲中世紀、印度哲學（Without Any Gaps）、非洲哲學、早現代。中國哲學目前無獨立系列。收錄標準：集數標題以人名為主題者計 canon_list（+1.0）；以主題為名但大量討論某人者，pipeline 人工確認後可補入。",
+    "members": []
+  }
+]

@@ -1,0 +1,129 @@
+{
+  "id": "Q76548",
+  "qid": "Q76548",
+  "slug": "meister-eckhart",
+  "name_zh": "埃克哈特大師",
+  "name_en": "Meister Eckhart",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1260,
+  "death_year": 1328,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.007706,
+      "lon": 10.667038,
+      "place": "Nessetal",
+      "period": [
+        1260,
+        1328
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1200,
+          "end": 1783
+        },
+        {
+          "polity": "Bavaria",
+          "start": 1783,
+          "end": 1800
+        },
+        {
+          "polity": "Swabia",
+          "start": 1800,
+          "end": 1815
+        },
+        {
+          "polity": "Prussia",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (Soviet)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "East Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 43.948611111,
+      "lon": 4.808333333,
+      "place": "Avignon",
+      "period": [
+        1328,
+        1328
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.978055555,
+      "lon": 11.028888888,
+      "place": "Erfurt",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Meister Eckhart"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 74,
+  "birth_place": "Nessetal",
+  "description": "German philosopher and theologian",
+  "bio": "艾克哈特大師（德語：Meister Eckhart），本名艾克哈特·馮·霍赫海姆（德語：Eckhart von Hochheim），或稱約翰尼斯·艾克哈特（德語：Johannes Eckhart），是一位德國神學家、哲學家和神秘主義者，出生在神聖羅馬帝國圖林根邦的Landgraviate。十多歲時便加入道明會並任高階職務。作為佈道者他效力極高，其講道方法給同時代人和後來者留下了極深刻的印象。對於德語哲學術語的創製也作出重大貢獻。其關注的最主要問題是日常生活中持續精神實踐的原理的傳播。他非傳統的，有時甚至是挑釁性的言論常常與當時的普遍信仰相牴觸，故而引起了轟動。比如他認為，「靈魂的根基」不像所有的動物是被上帝所創造的，但是神聖的，非受造的。靈的的原因即神性，是瞬間表現的。\n教皇約翰二十二世將他列為異端，他反駁了這些指控。據說他在正式判決之前死亡，雖然沒有發現過他的埋葬地點，沒有死亡記錄。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher and theologian",
+  "bio_en": "Eckhart von Hochheim  (c. 1260 – c. 1328), commonly known as Meister Eckhart (German: [ˈmaɪstɐ ˈʔɛkaʁt]), Master Eckhart, claimed original name Johannes Eckhart, was a German Catholic priest, theologian, philosopher and mystic. He was born near Gotha in the Landgraviate of Thuringia (now Thuringia in central Germany) in the Holy Roman Empire.\nEckhart came into prominence during the Avignon Papacy at a time of increased tensions between monastic orders, diocesan clergy, the Franciscan Order, and Eckhart's Dominican Order.",
+  "bio_en_source": "enwiki"
+}

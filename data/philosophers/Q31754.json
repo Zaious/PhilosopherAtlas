@@ -1,0 +1,84 @@
+{
+  "id": "Q31754",
+  "qid": "Q31754",
+  "slug": "huang-zongxi",
+  "name_zh": "黃宗羲",
+  "name_en": "Huang Zongxi",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1610,
+  "death_year": 1695,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 30.037195,
+      "lon": 121.15463,
+      "place": "Yuyao City",
+      "period": [
+        1610,
+        1695
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1600,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Huang Zongxi"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 18,
+  "birth_place": "Yuyao City",
+  "description": "明末清初學者、思想家 (1610-1695)",
+  "bio": "黃宗羲（1610年9月24日—1695年8月12日），字太沖，號梨洲，世稱南雷先生或梨洲先生，浙江紹興府餘姚縣（今浙江省餘姚市）人。明末清初經學家、史學家、思想家、地理學家、天文曆算學家、教育家。黃宗羲與顧炎武、王夫之並稱「明末三大思想家」（或「明末三先生」）；與弟黃宗炎、黃宗會號稱「浙東三黃」；與顧炎武、方以智、王夫之、朱舜水並稱為「明末五大師」。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese naturalist, political theorist and philosopher (1610-1695)",
+  "bio_en": "Huang Zongxi (Chinese: 黃宗羲; September 24, 1610 – August 12, 1695), courtesy name Taichong (太冲), was a Chinese naturalist, political theorist, philosopher, and soldier during the latter part of the Ming dynasty into the early part of the Qing.\nHe was the son of an adherent of the Donglin Movement who died in prison. In 1626, the teenaged Huang became a disciple of the philosopher Liu Zongzhou. In 1631, he started studying Chinese history. Huang was politically active as a Ming loyalist until his retirement in 1649, spending the rest of his life in study. A warrant for his arrest was issued after the rise to power of Ruan Dacheng, but he avoided capture through uncertain ways.",
+  "bio_en_source": "enwiki"
+}

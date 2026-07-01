@@ -1,0 +1,154 @@
+{
+  "id": "Q35802",
+  "qid": "Q35802",
+  "slug": "benedictus-de-spinoza",
+  "name_zh": "巴魯赫·斯賓諾莎",
+  "name_en": "Benedictus de Spinoza",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1632,
+  "death_year": 1677,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 52.366666666,
+      "lon": 4.883333333,
+      "place": "Amsterdam",
+      "period": [
+        1632,
+        1677
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Dutch Republic",
+          "start": 1600,
+          "end": 1783
+        },
+        {
+          "polity": "Netherlands",
+          "start": 1783,
+          "end": 1800
+        },
+        {
+          "polity": "Batavian Republic",
+          "start": 1800,
+          "end": 1815
+        },
+        {
+          "polity": "       ",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "Netherlands",
+          "start": 1880,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 52.08,
+      "lon": 4.31,
+      "place": "The Hague",
+      "period": [
+        1677,
+        1677
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.07,
+      "lon": 4.355,
+      "place": "Voorburg",
+      "period": [
+        1663,
+        1669
+      ],
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.1897,
+      "lon": 4.4408,
+      "place": "Rijnsburg",
+      "period": [
+        1663,
+        1663
+      ],
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Spinoza, Baruch"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Spinoza, Benedict de"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Spinoza, Baruch"
+    }
+  ],
+  "works": [
+    {
+      "title": "Ethics",
+      "title_zh": "倫理學 (斯賓諾莎)",
+      "year": 1677,
+      "qid": "Q862816",
+      "source": "wikidata"
+    },
+    {
+      "title": "conatus",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q248966",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 176,
+  "birth_place": "Amsterdam",
+  "description": "西方近代哲學史重要的理性主義者",
+  "bio": "巴魯赫·德·史賓諾沙（拉迪諾語：Baruch de Spinoza，拉丁語：Benedictus de Spinoza，1632年11月24日—1677年2月21日）荷蘭猶太裔哲學家。其與笛卡兒、萊布尼茲是17世紀理性主義的先驅，啟蒙時代以及現代聖經批判學的開創者，他的作品引導了現代對自我及宇宙的認識，因此被認為是「近世最重要的哲學家之一」。 史賓諾沙繼承了勒內·笛卡兒的思想，是荷蘭黃金時代的哲學領軍者。史賓諾沙的名字「巴魯赫」意為「受祝福的」，在不同語言中寫法各不相同。在希伯來語中，他的名字寫為 ברוך שפינוזה‬，在現代猶太團體中，他的名字被寫為「Bento」（「受祝福的」葡萄牙語）。 在史賓諾沙的拉丁語作品中，他使用本尼迪克特·德·史賓諾沙這個名字。\n史賓諾沙生於阿姆斯特丹的西班牙-葡萄牙-猶太社群。因對希伯來聖經的真實性和神性本質提出了極具爭議的觀點，葡萄牙猶太會堂向他發出譴責令，23歲的史賓諾沙（包括他的家人）被逐出教會。史賓諾沙去世後不久，他的作品隨即被天主教會列為禁書。同時代人常稱史賓諾沙為「無神論者」，儘管史賓諾沙從未在自己作品中懷疑上帝的存在。 史賓諾沙生活簡樸，以打磨鏡片為生，他曾參與製作惠更斯兄弟設計的望遠鏡。史賓諾沙回絕他人提供的資助和獎賞，並拒絕了榮譽性的教職工作。或許是因為常年打磨鏡片吸入過量粉塵，史賓諾沙於1677年死於肺病，年僅44歲。他被葬於海牙新教堂墓地。",
+  "bio_source": "zhwiki",
+  "description_en": "Dutch philosopher (1632-1677)",
+  "bio_en": "Baruch (de) Spinoza (24 November 1632 – 21 February 1677), also known under his Latinized pen name Benedictus de Spinoza, was a philosopher of Portuguese-Jewish origin who was born and lived in the Dutch Republic. A forerunner of the Enlightenment, Spinoza significantly influenced modern biblical criticism, 17th-century rationalism, and Dutch intellectual culture, establishing himself as one of the most important and radical philosophers of the early modern period.",
+  "bio_en_source": "enwiki"
+}

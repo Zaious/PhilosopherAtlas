@@ -1,0 +1,85 @@
+{
+  "id": "Q320955",
+  "qid": "Q320955",
+  "slug": "thrasymachus",
+  "name_zh": "塞拉西馬柯",
+  "name_en": "Thrasymachus",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 40.983393,
+      "lon": 29.025789,
+      "place": "Chalcedon",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Diocletianus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 800
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 800,
+          "end": 1400
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1400,
+          "end": 1938
+        },
+        {
+          "polity": "Turkey",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Thrasymachus"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Thrasymachus"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Chalcedon",
+  "description": "5th-century BC Greek sophist",
+  "bio": "塞拉西馬柯（希臘語：Θρασύμαχος，又譯特拉需馬科，約前459年—約前400年），古希臘智辯家，來自迦克墩，西元427年以前在雅典教授修辭並寫作演講詞，因在柏拉圖的《理想國》中提出格言「正義就是強者的利益」而知名，其對正義的分析對後世哲學有一定的影響。",
+  "bio_source": "zhwiki",
+  "description_en": "5th-century BC Greek sophist",
+  "bio_en": "Thrasymachus (; Ancient Greek: Θρασύμαχος Thrasýmachos; c. 459 – c. 400 BC) was a sophist of ancient Greece best known as a character in Plato's Republic.",
+  "bio_en_source": "enwiki"
+}

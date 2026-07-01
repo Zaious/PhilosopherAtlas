@@ -1,0 +1,185 @@
+{
+  "id": "Q203445",
+  "qid": "Q203445",
+  "slug": "porphyry",
+  "name_zh": "波菲利",
+  "name_en": "Porphyry",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 233,
+  "death_year": 301,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 33.266666666,
+      "lon": 35.2,
+      "place": "Tyre",
+      "period": [
+        233,
+        301
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 200,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Diocletianus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 700
+        },
+        {
+          "polity": "Umayyad Caliphate",
+          "start": 700,
+          "end": 800
+        },
+        {
+          "polity": "Abbasid Caliphate",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Fatimid Caliphate",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Mamluke Sultanate",
+          "start": 1279,
+          "end": 1530
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1530,
+          "end": 1920
+        },
+        {
+          "polity": "Syria (France)",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Lebanon",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 41.893055555,
+      "lon": 12.482777777,
+      "place": "Rome",
+      "period": [
+        301,
+        301
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 37.984166666,
+      "lon": 23.728055555,
+      "place": "Athens",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Porphyry"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Isagoge",
+      "title_zh": "導論",
+      "year": null,
+      "qid": "Q642697",
+      "source": "wikidata"
+    },
+    {
+      "title": "Against the Christians",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q12899444",
+      "source": "wikidata"
+    },
+    {
+      "title": "Life of Plotinus",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q19239197",
+      "source": "wikidata"
+    },
+    {
+      "title": "Life of Pythagoras",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q29746920",
+      "source": "wikidata"
+    },
+    {
+      "title": "History of philosophy",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q121093358",
+      "source": "wikidata"
+    },
+    {
+      "title": "Chronicle",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q121093377",
+      "source": "wikidata"
+    },
+    {
+      "title": "Geography",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q121856329",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 68,
+  "birth_place": "Tyre",
+  "description": "3rd-century Greek Neoplatonist philosopher",
+  "bio": "波菲利（古希臘語：Πορφύριος，羅馬化：Porphýrios；阿拉伯語：فرفوريوس，羅馬化：Furfūriyūs；讀音：/ˈpɔːrfɪri/；約234年—約305年）是在羅馬統治期間出生在泰爾的新柏拉圖哲學家。\n他撰寫了涉及許多主題的作品，涵蓋音樂、荷馬以及素食主義。他編輯並出版了《九章集》，這是有關他的老師普羅提諾著作的唯一合集。他對歐幾裡得的幾何原本評論曾被帕普斯引用。他的著作《導論》在中世紀被認為是邏輯學和哲學的入門書和教科書，並被翻譯成拉丁語和阿拉伯語。波菲利是一名反基督教人士，著有《Philosophy from Oracles》和《反對基督徒》（Against the Christians） 等反基督教著作。《反對基督徒》後來甚至被君士坦丁大帝所取締。",
+  "bio_source": "zhwiki",
+  "description_en": "3rd-century Greek Neoplatonist philosopher",
+  "bio_en": "Porphyry (; Koine Greek: Πορφύριος, romanized: Porphýrios; c. 234 – c. 305) was a Phoenician Neoplatonic philosopher born in Tyre, Roman Phoenicia during Roman rule. He edited and published the Enneads, the only collection of the work of Plotinus, his teacher.\nHe wrote original works in the Greek language on a wide variety of topics, ranging from music theory to Homer to vegetarianism. His Isagoge or Introduction, an introduction to logic and philosophy, was the standard textbook on logic throughout the Middle Ages in its Latin and Arabic translations.",
+  "bio_en_source": "enwiki"
+}

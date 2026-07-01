@@ -1,0 +1,143 @@
+{
+  "id": "Q48226",
+  "qid": "Q48226",
+  "slug": "ralph-waldo-emerson",
+  "name_zh": "拉爾夫·沃爾多·愛默生",
+  "name_en": "Ralph Waldo Emerson",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1803,
+  "death_year": 1882,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 42.360277777,
+      "lon": -71.057777777,
+      "place": "Boston",
+      "period": [
+        1803,
+        1882
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United States of America",
+          "start": 1800,
+          "end": 1815
+        },
+        {
+          "polity": "United States",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "United States of America",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "United States",
+          "start": 1914,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 42.460277777,
+      "lon": -71.349444444,
+      "place": "Concord",
+      "period": [
+        1882,
+        1882
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Emerson, Ralph Waldo"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Emerson, Ralph Waldo"
+    }
+  ],
+  "works": [
+    {
+      "title": "Concord Hymn",
+      "title_zh": "康科特頌",
+      "year": 1847,
+      "qid": "Q5158815",
+      "source": "wikidata"
+    },
+    {
+      "title": "Woodnotes I",
+      "title_zh": null,
+      "year": 1847,
+      "qid": "Q19079307",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Humble-Bee",
+      "title_zh": null,
+      "year": 1847,
+      "qid": "Q59279416",
+      "source": "wikidata"
+    },
+    {
+      "title": "Music",
+      "title_zh": null,
+      "year": 1800,
+      "qid": "Q59279612",
+      "source": "wikidata"
+    },
+    {
+      "title": "Thine Eyes still shined",
+      "title_zh": null,
+      "year": 1847,
+      "qid": "Q59288481",
+      "source": "wikidata"
+    },
+    {
+      "title": "Waldeinsamkeit",
+      "title_zh": null,
+      "year": 1800,
+      "qid": "Q59289368",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 155,
+  "birth_place": "Boston",
+  "description": "美國哲學家、詩人（1803－1882）",
+  "bio": "拉爾夫·沃爾多·愛默生（英語：Ralph Waldo Emerson，1803年5月25日—1882年4月27日），生於波士頓，美國思想家、文學家。",
+  "bio_source": "zhwiki",
+  "description_en": "American philosopher (1803–1882)",
+  "bio_en": "Ralph Waldo Emerson (May 25, 1803 – April 27, 1882), who went by his middle name Waldo, was an American essayist, lecturer, philosopher, minister, abolitionist, and poet who led the Transcendentalist movement of the mid-19th century. He was seen as a champion of individualism and critical thinking, as well as a prescient critic of the countervailing pressures of society and conformity.",
+  "bio_en_source": "enwiki"
+}

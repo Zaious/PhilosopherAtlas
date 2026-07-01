@@ -1,0 +1,122 @@
+{
+  "id": "Q42458",
+  "qid": "Q42458",
+  "slug": "anaximander",
+  "name_zh": "阿那克西曼德",
+  "name_en": "Anaximander",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -609,
+  "death_year": -545,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.530233,
+      "lon": 27.278369,
+      "place": "Miletus",
+      "period": [
+        -609,
+        -545
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Diocletianus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 800
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 800,
+          "end": 1400
+        },
+        {
+          "polity": "Beylik of Aydin",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1492,
+          "end": 1920
+        },
+        {
+          "polity": "Greece",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Turkey",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 37.531111,
+      "lon": 27.275556,
+      "place": "Miletus",
+      "period": [
+        -545,
+        -545
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Anaximander"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "apeiron",
+      "title_zh": "無限者",
+      "year": null,
+      "qid": "Q194245",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 111,
+  "birth_place": "Miletus",
+  "description": "米利都學派哲學家",
+  "bio": "阿那克西曼德（希臘語：Ἀναξίμανδρος，約前610年—約前546年），米利都人，古希臘哲學家。他是前蘇格拉底時期的米利都學派第二代自然哲學家，上承泰勒斯，下啟阿那克西美尼。在哲學上提出了阿派朗的概念，來解釋世界的本原問題。",
+  "bio_source": "zhwiki",
+  "description_en": "pre-Socratic Greek philosopher",
+  "bio_en": "Anaximander ( an-AK-sih-MAN-dər; Ancient Greek: Ἀναξίμανδρος Anaximandros; c. 610 – c. 546 BC) was a pre-Socratic Greek philosopher who lived in Miletus, a city of Ionia (in modern-day Turkey). He belonged to the Milesian school and learned the teachings of his master Thales. He succeeded Thales and became the second master of that school, where he counted Anaximenes and, arguably, Pythagoras amongst his pupils.\nLittle of his life and work is known today. According to available historical documents, he is the first philosopher known to have written down his studies, although only one fragment of his work remains.",
+  "bio_en_source": "enwiki"
+}

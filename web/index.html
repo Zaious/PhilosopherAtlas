@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>哲學家地圖 · Philosopher Atlas</title>
+  <link rel="stylesheet" href="style.css?v=18">
+</head>
+<body>
+  <div id="app">
+    <header id="topbar">
+      <div id="title">哲學家地圖 <span class="sub">Philosopher Atlas</span></div>
+      <nav id="nav">
+        <button class="navlink" data-p="intro"><span class="zhw">介紹</span><span class="enw">Intro</span></button>
+        <button class="navlink" data-p="method"><span class="zhw">方法論</span><span class="enw">Method</span></button>
+        <button class="navlink" data-p="contrib"><span class="zhw">貢獻</span><span class="enw">Contribute</span></button>
+        <button class="navlink" data-p="roadmap"><span class="zhw">路線圖</span><span class="enw">Roadmap</span></button>
+        <button class="navlink" data-p="about"><span class="zhw">關於</span><span class="enw">About</span></button>
+      </nav>
+      <button id="langbtn" aria-label="Language / 語言">EN</button>
+      <button id="navbtn" aria-label="資訊選單 / info">☰</button>
+      <div id="searchwrap">
+        <input id="search" type="text" placeholder="搜尋哲學家…" autocomplete="off">
+        <div id="sresults"></div>
+      </div>
+    </header>
+
+    <div id="map">
+      <div id="loading">載入中…</div>
+    </div>
+
+    <aside id="legend"></aside>
+
+    <div id="panel"><div class="pempty">點選地圖上的哲學家<br><span class="dim">看收錄依據、政體、著作</span></div></div>
+
+    <footer id="scrubberbar">
+      <label id="allwrap"><input type="checkbox" id="allyears" checked> <span class="zhw">全部時代</span><span class="enw">All eras</span></label>
+      <input id="year" type="range" min="-600" max="2004" value="1800" step="1">
+      <span id="yearlab">全部時代</span>
+    </footer>
+  </div>
+
+  <div id="tooltip"></div>
+
+  <div id="about" class="modal" hidden>
+    <div class="mbox">
+      <button id="mclose" class="mclose" aria-label="關閉 / close">×</button>
+      <div class="mtabs">
+        <button class="mtab on" data-p="intro"><span class="zhw">介紹</span><span class="enw">Intro</span></button>
+        <button class="mtab" data-p="method"><span class="zhw">方法論</span><span class="enw">Method</span></button>
+        <button class="mtab" data-p="contrib"><span class="zhw">貢獻</span><span class="enw">Contribute</span></button>
+        <button class="mtab" data-p="roadmap"><span class="zhw">路線圖</span><span class="enw">Roadmap</span></button>
+        <button class="mtab" data-p="about"><span class="zhw">關於</span><span class="enw">About</span></button>
+      </div>
+
+      <section class="mpage" id="p-intro">
+        <div class="mlang zh">
+          <h2>這是什麼</h2>
+          <p>古今中外哲學家的互動地圖。目前收錄 <b>235 位</b>，每位以出生地標於一張<b>去主權化</b>的底圖上。</p>
+          <ul>
+            <li><b>顏色</b> = 思想傳統（歐洲／中國／希臘／伊斯蘭／印度／猶太／非洲…）</li>
+            <li><b>大小</b> = k 值（被幾個權威來源收錄，越大越是跨傳統共識的核心）</li>
+            <li><b>時間軸</b>：拉桿停在某年，只顯示該年在世者，並浮現<b>當年的政體邊界</b></li>
+            <li><b>點釘針</b>：看生平簡介、「收錄依據」（哪幾個來源收了他）、當年此地屬何政體、著作、生涯軌跡</li>
+          </ul>
+          <p class="dim">重疊的人點群會聚合；點一下散開，再點一個人就凸顯他、其餘淡化（可在左側圖例關閉「聚焦」）。</p>
+        </div>
+        <div class="mlang en">
+          <h2>What this is</h2>
+          <p>An interactive map of philosophers across history and cultures. Currently <b>235</b> figures, each pinned at their birthplace on a <b>de-sovereignized</b> basemap.</p>
+          <ul>
+            <li><b>Colour</b> = intellectual tradition (European / Chinese / Greek / Islamic / Indian / Jewish / African…)</li>
+            <li><b>Size</b> = k (how many authoritative sources list them; larger = stronger cross-tradition consensus)</li>
+            <li><b>Timeline</b>: stop the scrubber on a year to show only those alive then, with <b>that year's polity borders</b></li>
+            <li><b>Click a pin</b>: biography, "why included" (which sources list them), what polity the place belonged to that year, works, career path</li>
+          </ul>
+          <p class="dim">Overlapping pins cluster; click to fan them out; selecting one highlights it and dims the rest (turn "Focus" off in the legend).</p>
+        </div>
+      </section>
+
+      <section class="mpage" id="p-method" hidden>
+        <div class="mlang zh">
+          <h2>方法論</h2>
+          <p>核心一句話：<b>不定義「哲學家是什麼」，改用可複現的程序判定。</b>「哲學家」的家族相似性會拆掉任何本質定義（蘇格拉底、龍樹、王陽明、卡繆——沒有一條性質同時涵蓋且只涵蓋他們）。所以我們不下定義，只<b>宣告程序與來源</b>：有人問「憑什麼收他」，答案是「這是我們宣告的程序與來源；有不同看法，歡迎就<b>程序與來源</b>討論、修正」。</p>
+
+          <h2>收錄規則（誰會上圖）</h2>
+          <p>一個人要出現在圖上，須<b>全部滿足</b>：</p>
+          <ol>
+            <li><b>已故且過世滿 20 年</b>（卒年 ≤ 當前年 − 20，隨年滾動）；在世者不收。</li>
+            <li><b>進入母體</b>：Wikidata 標為哲學家（P106），或被任一權威正典來源（SEP／IEP／馮友蘭／勞思光／Routledge）收錄。</li>
+            <li><b>k ≥ 2</b>：被至少兩個獨立來源收錄（每來源一票，Wikidata 專屬條目也算一票）。</li>
+            <li><b>身份可解析</b>：能對到唯一 Wikidata 實體；無法消歧者標 <code>unresolved</code>、不上圖。</li>
+          </ol>
+          <p class="dim">排除：在世者、僅一票（k=1）者、無法消歧者。以下四節是這套規則背後的理由與程序。</p>
+
+          <h2>一、聯邦正典</h2>
+          <p>不用單一標準線篩全世界（那必然偷渡西方學術品味）。改讓多個<b>權威來源各自的成員清單聯集</b>生出母體：</p>
+          <ul>
+            <li>Stanford Encyclopedia of Philosophy（SEP）、Internet Encyclopedia of Philosophy（IEP）</li>
+            <li>馮友蘭《中國哲學簡史》、勞思光《新編中國哲學史》（中文傳統的史學定義）</li>
+            <li>Routledge Philosophers 書系、Wikidata（P106＝哲學家）</li>
+          </ul>
+          <p>每個傳統用<b>自己</b>的史學定義。韓非在 SEP 沒有獨立條目、卻在 IEP 與中文正典裡是核心——聯邦制讓他不會因為「西方沒收」就被歸零。</p>
+
+          <h2>二、k 值與收錄</h2>
+          <p><b>k = 某人被幾個來源收錄</b>（每本書／每個機構一票；同一來源多型別取最高、不重複計）。</p>
+          <ul>
+            <li><b>k ≥ 2 才上圖</b>（K_MIN）。k 越高＝跨來源、跨傳統的共識越強：k=5 者（孔孟老莊荀朱王）是中西雙方史學都認定的核心。</li>
+            <li><b>沉澱期（正典化時滯）</b>：只收<b>已故且過世滿 20 年</b>者——即<b>卒年 ≤ 當前年 − 20</b>，隨年滾動。剛過世的哲學家，權威來源尚未沉澱、正典未成形，故不收；在世者更不收。（以 2026 為準＝卒年 ≤ 2006；圖上最晚是 2004 年過世的德希達。）</li>
+            <li>k 與 centrality <b>完全由程序推導，禁止手填</b>——這是最硬的規則，發現手填即視為 bug。你點釘針看到的「收錄依據」就是這串證據鏈。</li>
+          </ul>
+
+          <h2>三、去主權化的地圖</h2>
+          <ul>
+            <li>底圖<b>不畫現代國界</b>；只在你選定年份時，顯示<b>那一年</b>的歷史政體邊界（隨拉桿變動，看帝國興滅）。</li>
+            <li><b>不存「今屬國家」</b>。一個地點記錄的是它的<b>政體史（多段）</b>：康德的柯尼斯堡歷經條頓騎士團→普魯士→德意志帝國→蘇聯→俄羅斯，五個政體、四種主權，全不相同。</li>
+            <li>座標是中性錨點（點亮哪裡），對「歸誰」一字不提。投影用等距圓柱，只靠點位置不靠面積。</li>
+          </ul>
+
+          <h2>四、誠實護欄</h2>
+          <ul>
+            <li><b>留白勝過填錯</b>：不確定的座標、譯名、政體寧可空著，禁止 agent 自行查維基硬填。</li>
+            <li><b>偏誤誠實標示</b>：來源偏英語圈，圖例明列各傳統人數（歐洲 152 佔多數，這是來源結構，不藏）。</li>
+            <li>歷史邊界與部分政體序列是<b>機器推導、快照近似</b>，非權威定論——每筆都標出處。</li>
+          </ul>
+        </div>
+        <div class="mlang en">
+          <h2>Methodology</h2>
+          <p>The core idea in one line: <b>we don't define "what a philosopher is" — we judge by a reproducible procedure.</b> The family resemblance of "philosopher" defeats any essentialist definition (Socrates, Nāgārjuna, Wang Yangming, Camus — no single property covers all and only them). So we make no definition; we <b>declare a procedure and its sources</b>. If someone asks "why include this person," the answer is: "here is the procedure and the sources we declared; if you disagree, let's discuss and revise the <b>procedure and sources</b>."</p>
+
+          <h2>Inclusion rules (who appears)</h2>
+          <p>To appear on the map a figure must satisfy <b>all</b> of:</p>
+          <ol>
+            <li><b>Deceased for at least 20 years</b> (year of death ≤ current year − 20, rolling); the living are not included.</li>
+            <li><b>Enters the pool</b>: tagged a philosopher on Wikidata (P106), or listed by any authoritative canon source (SEP / IEP / Feng Youlan / Lao Sze-kwang / Routledge).</li>
+            <li><b>k ≥ 2</b>: listed by at least two independent sources (one vote per source; a dedicated Wikidata entity counts as a vote).</li>
+            <li><b>Identity resolvable</b>: maps to a unique Wikidata entity; anything ambiguous is marked <code>unresolved</code> and left off the map.</li>
+          </ol>
+          <p class="dim">Excluded: the living, single-vote (k=1) figures, and the unresolvable. The four sections below are the reasoning and procedure behind these rules.</p>
+
+          <h2>1 · A federal canon</h2>
+          <p>We don't filter the whole world through one threshold (that inevitably smuggles in Western academic taste). Instead the pool is the <b>union of each authoritative source's own membership list</b>:</p>
+          <ul>
+            <li>Stanford Encyclopedia of Philosophy (SEP), Internet Encyclopedia of Philosophy (IEP)</li>
+            <li>Feng Youlan, <i>A Short History of Chinese Philosophy</i>; Lao Sze-kwang, <i>New History of Chinese Philosophy</i> (the Chinese tradition's own historiography)</li>
+            <li>The Routledge Philosophers series; Wikidata (P106 = philosopher)</li>
+          </ul>
+          <p>Each tradition uses <b>its own</b> historiographic definition. Han Fei has no dedicated SEP entry, yet is central in IEP and the Chinese canon — federalism keeps him from being zeroed out just because "the West didn't include him."</p>
+
+          <h2>2 · k and inclusion</h2>
+          <p><b>k = how many sources list a person</b> (one vote per book / institution; within one source, the highest entry type wins, no double counting).</p>
+          <ul>
+            <li><b>k ≥ 2 to appear</b> (K_MIN). Higher k = stronger cross-source, cross-tradition consensus: the k=5 figures (Confucius, Mencius, Laozi, Zhuangzi, Xunzi, Zhu Xi, Wang Yangming) are core to both Chinese and Western historiography.</li>
+            <li><b>Canonization lag</b>: only figures <b>dead at least 20 years</b> — i.e. <b>death year ≤ current year − 20</b>, rolling. Recently deceased philosophers haven't yet settled into the canon, so they're excluded; the living all the more so. (As of 2026 = death ≤ 2006; the latest on the map is Derrida, d. 2004.)</li>
+            <li>k and centrality are <b>fully program-derived; hand-filling is forbidden</b> — the hardest rule; a hand-filled value is treated as a bug. The "why included" list you see on a pin is that evidence chain.</li>
+          </ul>
+
+          <h2>3 · A de-sovereignized map</h2>
+          <ul>
+            <li>The basemap <b>draws no modern borders</b>; only when you pick a year does it show <b>that year's</b> historical polity borders (shifting with the scrubber — watch empires rise and fall).</li>
+            <li><b>No "current country" is stored.</b> A place records its <b>polity history (multi-segment)</b>: Kant's Königsberg passed through the Teutonic Order → Prussia → the German Empire → the USSR → Russia — five polities, four sovereignties, none the same.</li>
+            <li>Coordinates are neutral anchors (where to light up), silent on "who it belongs to." The projection is equirectangular — position only, never area.</li>
+          </ul>
+
+          <h2>4 · Honesty guardrails</h2>
+          <ul>
+            <li><b>Blank beats wrong</b>: uncertain coordinates, translated names, or polities are left blank rather than guessed; agents may not fill from Wikipedia on their own.</li>
+            <li><b>Bias shown honestly</b>: the sources skew Anglophone, so the legend lists each tradition's count openly (European dominates — that's the source structure, not hidden).</li>
+            <li>Historical borders and some polity sequences are <b>machine-derived, snapshot-approximate</b>, not authoritative rulings — each is labelled with its provenance.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="mpage" id="p-contrib" hidden>
+        <div class="mlang zh">
+          <h2>歡迎一起貢獻</h2>
+          <p>這是一張<b>公共的、可討論的</b>地圖。收錄名單、譯名、座標、政體、著作——都歡迎補充與指正。原則只有一條：<b>討論對準程序與來源，而非個人好惡。</b></p>
+          <p><b>資料即檔案，爭議即 PR。</b></p>
+          <ul>
+            <li>每位哲學家 = 一個 JSON 檔（<code>data/philosophers/{QID}.json</code>），通過 schema 驗證。</li>
+            <li>要新增某人、爭議收錄、補譯名／座標／政體／著作 → 改對應 JSON、開 Pull Request。</li>
+            <li>認為漏收了誰？指出他在哪個權威來源（SEP／IEP／某本哲學史…）被收錄即可——程序會把他納入。</li>
+            <li>所有中文一律<b>繁體</b>；k、centrality、座標、政體由程序推導，<b>勿手改</b>。</li>
+          </ul>
+          <p class="dim">CI 自動驗證 schema、偵測簡體字、檢查 k／centrality 自洽。</p>
+          <p><b>不會用 Git？</b>規劃中會接上表單式後台（見「路線圖」），讓你用瀏覽器填表就能提交，不必碰指令列。</p>
+        </div>
+        <div class="mlang en">
+          <h2>Contributions welcome</h2>
+          <p>This is a <b>public, discussable</b> map. The inclusion list, translated names, coordinates, polities, works — all corrections and additions are welcome. There is one principle: <b>argue about the procedure and the sources, not personal taste.</b></p>
+          <p><b>Data is files; disputes are pull requests.</b></p>
+          <ul>
+            <li>Each philosopher = one JSON file (<code>data/philosophers/{QID}.json</code>), validated against the schema.</li>
+            <li>To add someone, contest an inclusion, or supply a name / coordinate / polity / work → edit the relevant JSON and open a pull request.</li>
+            <li>Think someone is missing? Point to which authoritative source (SEP / IEP / a history of philosophy…) lists them — the procedure will take them in.</li>
+            <li>All Chinese must be <b>Traditional</b>; k, centrality, coordinates and polities are program-derived — <b>don't edit them by hand</b>.</li>
+          </ul>
+          <p class="dim">CI automatically validates the schema, detects simplified characters, and checks that k / centrality are self-consistent.</p>
+          <p><b>Don't use Git?</b> A form-based back end is planned (see "Roadmap") so you can submit from a browser form without touching the command line.</p>
+        </div>
+      </section>
+
+      <section class="mpage" id="p-roadmap" hidden>
+        <div class="mlang zh">
+          <h2>路線圖</h2>
+          <p class="dim">以下是規劃中的方向，歡迎在「貢獻」裡認領或提議。</p>
+          <h2>資料</h2>
+          <ul>
+            <li><b>擴充非西方傳統</b>：印度（Potter 百科）、伊斯蘭（Brill）、日本（Heisig）等來源納入，緩解英語圈偏誤。</li>
+            <li><b>政體序列精修</b>：名稱正規化（Ming／Qing 等）、補西元前古代政體、找更細的歷史邊界來源。</li>
+            <li><b>著作驗證</b>：中文經典接 ctext 交叉驗證 works。</li>
+          </ul>
+          <h2>貢獻管道</h2>
+          <ul>
+            <li><b>表單式後台（Sveltia CMS）</b>：讓沒有 Git 經驗的人用瀏覽器表單編輯、自動開 PR；衍生欄位（k／座標／政體）鎖定不可手填。</li>
+            <li><b>免帳號回報</b>：表單→GitHub issue 橋接，讓路過的人也能指出錯誤或漏收。</li>
+          </ul>
+          <h2>介面</h2>
+          <ul>
+            <li>生涯軌跡動畫、cluster 依主導年代上色的切換、行動裝置版面。</li>
+          </ul>
+        </div>
+        <div class="mlang en">
+          <h2>Roadmap</h2>
+          <p class="dim">Planned directions below — feel free to claim or propose one under "Contribute".</p>
+          <h2>Data</h2>
+          <ul>
+            <li><b>Expand non-Western traditions</b>: add sources like Potter's encyclopedia (Indian), Brill (Islamic), Heisig (Japanese) to ease the Anglophone bias.</li>
+            <li><b>Refine polity sequences</b>: normalize names (Ming / Qing, etc.), add pre-CE ancient polities, find finer historical-border sources.</li>
+            <li><b>Verify works</b>: cross-check Chinese classics against ctext.</li>
+          </ul>
+          <h2>Contribution channels</h2>
+          <ul>
+            <li><b>Form-based back end (Sveltia CMS)</b>: let people without Git edit through a browser form and auto-open PRs; derived fields (k / coordinates / polity) locked against hand-editing.</li>
+            <li><b>Account-free reports</b>: a form→GitHub-issue bridge so passers-by can flag errors or omissions.</li>
+          </ul>
+          <h2>Interface</h2>
+          <ul>
+            <li>Career-path animation, a toggle to colour clusters by dominant era, refined mobile layout.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="mpage" id="p-about" hidden>
+        <div class="mlang zh">
+          <h2>關於</h2>
+          <p><b>維護者</b>：Zaious</p>
+          <p><b>資料來源</b></p>
+          <ul>
+            <li>Wikidata（CC0）— 母體、生卒、座標、多語名、著作</li>
+            <li>Stanford Encyclopedia of Philosophy、Internet Encyclopedia of Philosophy</li>
+            <li>馮友蘭《中國哲學簡史》、勞思光《新編中國哲學史》、Routledge Philosophers 書系</li>
+            <li>Natural Earth（CC0）— 海岸線、河流、湖泊</li>
+            <li>historical-basemaps（CC-BY-SA）— 時代同步的歷史政體邊界（近似、快照粒度）</li>
+          </ul>
+          <p class="dim">歷史邊界與部分政體序列為機器推導、快照近似，非權威定論；現代年份的爭議邊界為資料集自身之描繪。</p>
+        </div>
+        <div class="mlang en">
+          <h2>About</h2>
+          <p><b>Maintainer</b>: Zaious</p>
+          <p><b>Data sources</b></p>
+          <ul>
+            <li>Wikidata (CC0) — the pool, birth/death, coordinates, multilingual names, works</li>
+            <li>Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy</li>
+            <li>Feng Youlan, <i>A Short History of Chinese Philosophy</i>; Lao Sze-kwang, <i>New History of Chinese Philosophy</i>; the Routledge Philosophers series</li>
+            <li>Natural Earth (CC0) — coastlines, rivers, lakes</li>
+            <li>historical-basemaps (CC-BY-SA) — era-synced historical polity borders (approximate, snapshot granularity)</li>
+          </ul>
+          <p class="dim">Historical borders and some polity sequences are machine-derived and snapshot-approximate, not authoritative; contested modern-year borders are the dataset's own depiction.</p>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <script src="vendor/d3.v7.min.js"></script>
+  <script src="vendor/topojson-client.min.js"></script>
+  <script src="app.js?v=18"></script>
+  <script>
+    (function () {
+      const modal = document.getElementById('about');
+      const sel = (p) => {
+        document.querySelectorAll('.mpage').forEach(el => { el.hidden = el.id !== 'p-' + p; });
+        document.querySelectorAll('.mtab').forEach(t => t.classList.toggle('on', t.dataset.p === p));
+      };
+      const open = (p) => { modal.hidden = false; sel(p); };
+      const close = () => { modal.hidden = true; };
+      document.querySelectorAll('.navlink').forEach(b => b.addEventListener('click', () => open(b.dataset.p)));
+      const navbtn = document.getElementById('navbtn');
+      if (navbtn) navbtn.addEventListener('click', () => open('intro'));
+      document.querySelectorAll('.mtab').forEach(b => b.addEventListener('click', () => sel(b.dataset.p)));
+      document.getElementById('mclose').addEventListener('click', close);
+      modal.addEventListener('click', (e) => { if (e.target === modal) close(); });
+      document.addEventListener('keydown', (e) => { if (e.key === 'Escape') close(); });
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,143 @@
+{
+  "id": "Q1399",
+  "qid": "Q1399",
+  "slug": "niccol-machiavelli",
+  "name_zh": "尼可洛·馬基亞維利",
+  "name_en": "Niccolò Machiavelli",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1469,
+  "death_year": 1527,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 43.771388888,
+      "lon": 11.254166666,
+      "place": "Florence",
+      "period": [
+        1469,
+        1527
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1400,
+          "end": 1530
+        },
+        {
+          "polity": "Florence",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Tuscany",
+          "start": 1650,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 43.68277778,
+      "lon": 11.19722222,
+      "place": "Sant'Andrea in Percussina",
+      "period": [
+        1527,
+        1527
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 42.5,
+      "lon": 12.5,
+      "place": "Italy",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Machiavelli, Niccolò"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Machiavelli, Niccolo"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Prince",
+      "title_zh": "君主論",
+      "year": 1532,
+      "qid": "Q131719",
+      "source": "wikidata"
+    },
+    {
+      "title": "Discourses on Livy",
+      "title_zh": "論李維",
+      "year": 1531,
+      "qid": "Q924424",
+      "source": "wikidata"
+    },
+    {
+      "title": "Capitoli",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q113519346",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 225,
+  "birth_place": "Florence",
+  "description": "義大利文藝復興時期政治思想家、歷史學家",
+  "bio": "尼古洛·迪·貝爾納多·代·馬基維利（義大利語：Niccolò di Bernardo dei Machiavelli；1469年5月3日—1527年6月21日），義大利政治學家、哲學家、歷史學家、外交官。他是義大利文藝復興時期的重要人物，被稱為「近代政治學之父」，在政治哲學領域具代表性，他所著的《君王論》（又作《君主論》）一書提出了現實主義的政治理論，其中「政治無道德」的權術思想，被人稱為「馬基維利主義」。另一著作《李維論》則提及了共和主義理論。他的《戰爭的藝術》一書，則論了兵役制度、練兵之法、行軍、宿營、作戰、工程等軍事問題。",
+  "bio_source": "zhwiki",
+  "description_en": "Italian diplomat and political and military theorist (1469–1527)",
+  "bio_en": "Niccolò di Bernardo dei Machiavelli (3 May 1469 – 21 June 1527) was a Florentine diplomat, author, philosopher, and historian who lived during the Italian Renaissance. He is best known for his political treatise The Prince (Il Principe), written around 1513 but not published until 1532, five years after his death. He has often been called the father of modern political philosophy and political science.\nFor many years he served as a senior official in the Florentine Republic with responsibilities in diplomatic and military affairs. He worked as secretary to the second chancery of the Republic of Florence from 1498 to 1512, when the Medici were out of power.",
+  "bio_en_source": "enwiki"
+}

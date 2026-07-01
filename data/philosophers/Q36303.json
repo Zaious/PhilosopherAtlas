@@ -1,0 +1,122 @@
+{
+  "id": "Q36303",
+  "qid": "Q36303",
+  "slug": "thales",
+  "name_zh": "泰勒斯",
+  "name_en": "Thales",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -624,
+  "death_year": -545,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.530233,
+      "lon": 27.278369,
+      "place": "Miletus",
+      "period": [
+        -624,
+        -545
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Diocletianus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 800
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 800,
+          "end": 1400
+        },
+        {
+          "polity": "Beylik of Aydin",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1492,
+          "end": 1920
+        },
+        {
+          "polity": "Greece",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Turkey",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 37.531111,
+      "lon": 27.275556,
+      "place": "Miletus",
+      "period": [
+        -545,
+        -545
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Thales of Miletus"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Thales' theorem",
+      "title_zh": "泰勒斯定理",
+      "year": null,
+      "qid": "Q285719",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 161,
+  "birth_place": "Miletus",
+  "description": "古希臘數學家、天文學家",
+  "bio": "泰利斯 （希臘語：Θαλῆς，前624-620年－前548-545年）腓尼基人 , 古希臘古風時期的數學家、天文學家，前蘇格拉底哲學家，希臘七賢之一。泰利斯是米利都學派（Ionian school）的創始人，他與學生阿那克西曼德和阿那克西美尼是最早的伊奧尼亞哲學家。泰利斯也是歷史上記載的第一個用觀察和邏輯解釋自然現象的人，被後人譽為「科學和哲學之父」。\n以泰利斯為首的前蘇格拉底哲學家們對於自然現象和世界的起源有著濃厚的興趣，他們也因此被稱之為phusikoi 『physicists』。 泰利斯的成就在於當他致力於解釋千變萬化的自然現象時，他沒有投向神話和傳說或者是古時的傳統與教條，相反，他透過觀察和論證來支援自己的假設從而建立起一個有邏輯支撐的理論。泰利斯以後的前蘇格拉底哲學家們，都相繼像泰利斯一樣用科學理性的方式來嘗試解釋自然現象。據蘇格拉底記載，泰利斯認為宇宙起源於一個基本物質而且這個基本物質也組成了宇宙中所有的物體與生命；透過觀察和推理，泰利斯最終認為這個基本物質是：水。泰利斯對於物體的移動與變化也提出了自己的假設。他認為所有物體的運動都是由「靈魂」引起的。 泰利斯曾言，磁鐵可以移動鐵塊是由於磁體含有「靈魂」，而這種「靈魂」存在於整個宇宙中，因為世間萬物都是變化的。",
+  "bio_source": "zhwiki",
+  "description_en": "ancient Greek philosopher and mathematician",
+  "bio_en": "Thales of Miletus ( THAY-leez; Ancient Greek: Θαλῆς; c. 626/623  – c. 548/545 BC) was an Ancient Greek pre-Socratic philosopher from Miletus in Ionia, Asia Minor. Thales was one of the Seven Sages, founding figures of Ancient Greece.\nBeginning in eighteenth-century historiography, many came to regard him as the first philosopher in the Greek tradition, breaking from the prior use of mythology to explain the world and instead using natural philosophy.",
+  "bio_en_source": "enwiki"
+}

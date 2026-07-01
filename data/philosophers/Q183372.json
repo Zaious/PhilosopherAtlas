@@ -1,0 +1,129 @@
+{
+  "id": "Q183372",
+  "qid": "Q183372",
+  "slug": "alfred-north-whitehead",
+  "name_zh": "阿爾弗雷德·諾思·懷特黑德",
+  "name_en": "Alfred North Whitehead",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1861,
+  "death_year": 1947,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.343911111,
+      "lon": 1.404030555,
+      "place": "Ramsgate",
+      "period": [
+        1861,
+        1947
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 42.375,
+      "lon": -71.106111111,
+      "place": "Cambridge",
+      "period": [
+        1947,
+        1947
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Whitehead, Alfred North"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Whitehead, Alfred North"
+    }
+  ],
+  "works": [
+    {
+      "title": "Principia Mathe",
+      "title_zh": "數學原理",
+      "year": 1917,
+      "qid": "Q163335",
+      "source": "wikidata"
+    },
+    {
+      "title": "Whitehead's point-free geometry",
+      "title_zh": "懷特黑德無點幾何學",
+      "year": null,
+      "qid": "Q3760350",
+      "source": "wikidata"
+    },
+    {
+      "title": "Process and Reality",
+      "title_zh": "過程與實在",
+      "year": 1929,
+      "qid": "Q455957",
+      "source": "wikidata"
+    },
+    {
+      "title": "A Treatise on Universal Algebra",
+      "title_zh": null,
+      "year": 1898,
+      "qid": "Q2450803",
+      "source": "wikidata"
+    },
+    {
+      "title": "Whitehead's theory of gravitation",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q7996022",
+      "source": "wikidata"
+    },
+    {
+      "title": "Science and the Modern World / Alfred North Whitehead",
+      "title_zh": null,
+      "year": 1925,
+      "qid": "Q42195359",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Concept of Nature (1920)",
+      "title_zh": null,
+      "year": 1920,
+      "qid": "Q136489378",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 99,
+  "birth_place": "Ramsgate",
+  "description": "英國數學家、哲學家、教育家（1861—1947）",
+  "bio": "阿佛列·諾斯·懷海德（英語：Alfred North Whitehead；1861年2月15日—1947年12月30日），OM，英國數學家、哲學家。他是歷程哲學學派的奠基者，目前已被視為可應用到多種學科，包括生態學、神學、教育學、物理學、生物學、經濟學、心理學及其他領域。\n在他的職業生涯早期懷海德主要研究數學、邏輯和物理。他最引人注目的是與前學生伯特蘭·羅素合著的三卷《數學原理》（1910年至1913年）。《數學原理》認為是二十世紀最重要的數學邏輯作品之一，在現代圖書館出版社所列的二十世紀前100本英文非小說書籍名單中，獲得第23名。\n1910年代末至1920年代初，懷海德逐漸把他的注意力從數學轉移至科學哲學和形上學。和柏格森一樣，他關注直覺體驗與生命本身，但他採取不同的進路來解決這個問題，進而構建了一個全面的形上學的系統。懷海德認為現實是由事件構成，而不是物質；這些事件不能脫離彼此關係而定義，因此拒絕獨立存在的物質理論。今天懷海德的哲學著作——特別《歷程與實在》——被視為歷程哲學的經典。\n懷海德的歷程哲學主張：「緊迫地將世界視為一個具有相互關聯歷程的網路，而我們是不可或缺的部分，因此我們的所有的選擇和行動都影響我們周圍的世界。」因此，近年來懷海德思想最有前途的應用之一是在小約翰·柯布開創的生態文明和環境倫理領域。",
+  "bio_source": "zhwiki",
+  "description_en": "English mathematician and philosopher (1861–1947)",
+  "bio_en": "Alfred North Whitehead (15 February 1861 – 30 December 1947) was an English mathematician and philosopher. He created the philosophical school known as process philosophy, which has been applied in a wide variety of disciplines, including ecology, theology, education, physics, biology, economics, and psychology.\nIn his early career Whitehead wrote primarily on mathematics, logic, and physics. He wrote the three-volume Principia Mathematica (1910–1913), with his former student Bertrand Russell.",
+  "bio_en_source": "enwiki"
+}

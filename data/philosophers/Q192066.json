@@ -1,0 +1,114 @@
+{
+  "id": "Q192066",
+  "qid": "Q192066",
+  "slug": "paul-ricoeur",
+  "name_zh": "保羅·利科",
+  "name_en": "Paul Ricoeur",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 47.9029,
+      "lon": 1.9039,
+      "place": "Valence",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Constantinus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Franks",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Frankish Kingdom",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Carolingian Empire",
+          "start": 800,
+          "end": 900
+        },
+        {
+          "polity": "West Francia",
+          "start": 900,
+          "end": 1000
+        },
+        {
+          "polity": "Kingdom of France",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "France",
+          "start": 1279,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.765277777,
+      "lon": 2.278055555,
+      "place": "Châtenay-Malabry",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Ricoeur, Paul"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Ricoeur, Paul"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Valence",
+  "description": "French philosopher (1913–2005)",
+  "bio": "讓·保羅·古斯塔夫·利科（法語：Jean Paul Gustave Ricœur，法語發音：[ʒɑ̃ pɔl ɡystav ʁikœʁ]，1913年2月27日—2005年5月20日），法國哲學家和歷史學家。",
+  "bio_source": "zhwiki",
+  "description_en": "French philosopher (1913–2005)",
+  "bio_en": "Jean Paul Gustave Ricœur (; French: [ʁikœʁ]; 27 February 1913 – 20 May 2005) was a French philosopher best known for combining phenomenological description with hermeneutics. As such, his thought is within the same tradition as other major hermeneutic phenomenologists, such as Martin Heidegger, Hans-Georg Gadamer, and Gabriel Marcel. In 2000, he was awarded the Kyoto Prize in Arts and Philosophy for having \"revolutionized the methods of hermeneutic phenomenology, expanding the study of textual interpretation to include the broad yet concrete domains of mythology, biblical exegesis, psychoanalysis, theory of metaphor, and narrative theory.\"",
+  "bio_en_source": "enwiki"
+}

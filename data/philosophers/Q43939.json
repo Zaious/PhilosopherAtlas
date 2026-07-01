@@ -1,0 +1,255 @@
+{
+  "id": "Q43939",
+  "qid": "Q43939",
+  "slug": "anselm-of-canterbury",
+  "name_zh": "坎特伯里的安瑟倫",
+  "name_en": "Anselm of Canterbury",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1033,
+  "death_year": 1109,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 45.737222222,
+      "lon": 7.320555555,
+      "place": "Aosta",
+      "period": [
+        1033,
+        1109
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Burgandy",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1279,
+          "end": 1530
+        },
+        {
+          "polity": "Savoy",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Sardinia-Piedmont",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Kingdom of Sardinia",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.278333333,
+      "lon": 1.0775,
+      "place": "Canterbury",
+      "period": [
+        1109,
+        1109
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 45.7675,
+      "lon": 4.835,
+      "place": "Lyon",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.228687554,
+      "lon": 0.721493736,
+      "place": "Bec Abbey",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.279811,
+      "lon": 1.083001,
+      "place": "Canterbury Cathedral",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.181666666,
+      "lon": -0.372777777,
+      "place": "Abbey of Saint-Étienne, Caen",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Anselm"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Anselm of Canterbury"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Anselm of Canterbury"
+    }
+  ],
+  "works": [
+    {
+      "title": "De similitudinibus",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138599995",
+      "source": "wikidata"
+    },
+    {
+      "title": "Meditationes",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138600021",
+      "source": "wikidata"
+    },
+    {
+      "title": "Questions for a dying man",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138600098",
+      "source": "wikidata"
+    },
+    {
+      "title": "De libertate arbitrii",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138600197",
+      "source": "wikidata"
+    },
+    {
+      "title": "De incarnatione Verbi",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138605180",
+      "source": "wikidata"
+    },
+    {
+      "title": "De concordia praescientiae, praedestinationis nec non gratiae Dei cum libero arbitrio",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138607895",
+      "source": "wikidata"
+    },
+    {
+      "title": "Letters",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138641030",
+      "source": "wikidata"
+    },
+    {
+      "title": "Cur Deus homo",
+      "title_zh": null,
+      "year": 1098,
+      "qid": "Q83522",
+      "source": "wikidata"
+    },
+    {
+      "title": "Proslogion",
+      "title_zh": null,
+      "year": 1078,
+      "qid": "Q646518",
+      "source": "wikidata"
+    },
+    {
+      "title": "Monologion",
+      "title_zh": null,
+      "year": 1076,
+      "qid": "Q3860930",
+      "source": "wikidata"
+    },
+    {
+      "title": "De casu diaboli",
+      "title_zh": null,
+      "year": 1080,
+      "qid": "Q16548946",
+      "source": "wikidata"
+    },
+    {
+      "title": "De veritate",
+      "title_zh": null,
+      "year": 1080,
+      "qid": "Q16548962",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 92,
+  "birth_place": "Aosta",
+  "description": "11th‑century Benedictine monk, Archbishop of Canterbury, philosopher and theologian",
+  "bio": "安瑟莫（Anselm，1033年—1109年4月21日），又譯安瑟倫，、安色莫，義大利中世紀天主教神職人員、哲學家、神學家，1093年至1109年任天主教坎特伯裡總教區總主教。被尊稱為最後一位教父與第一位經院哲學學者。運用形式邏輯論證基督教正統教義，提出關於天主存在的「本體論證」及救贖論的「補贖說」，將中世紀的神學議題，推向理性關切的新方向 。",
+  "bio_source": "zhwiki",
+  "description_en": "11th‑century Benedictine monk, Archbishop of Canterbury, philosopher and theologian",
+  "bio_en": "Anselm of Canterbury (; 1033/4–1109), also known as Anselm of Aosta (French: Anselme d'Aoste, Italian: Anselmo d'Aosta) after his birthplace and Anselm of Bec (French: Anselme du Bec) after his monastery, was an Italian Benedictine abbot, philosopher and theologian who served as Archbishop of Canterbury from 1093 to 1109.\nAs Archbishop of Canterbury, he defended the Church's interests in England amid the Investiture Controversy. For his resistance to the English kings William II and Henry I, he was exiled twice: once from 1097 to 1100 and then from 1105 to 1107.",
+  "bio_en_source": "enwiki"
+}

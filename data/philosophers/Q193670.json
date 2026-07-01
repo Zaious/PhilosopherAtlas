@@ -1,0 +1,117 @@
+{
+  "id": "Q193670",
+  "qid": "Q193670",
+  "slug": "frantz-fanon",
+  "name_zh": "法蘭茲·法農",
+  "name_en": "Frantz Fanon",
+  "tradition": "african",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1925,
+  "death_year": 1961,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 14.6,
+      "lon": -61.066666666,
+      "place": "Fort-de-France",
+      "period": [
+        1925,
+        1961
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Martinique",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Martinique (France)",
+          "start": 1945,
+          "end": 1994
+        },
+        {
+          "polity": "Martinique",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 38.9848265,
+      "lon": -77.0946459,
+      "place": "Bethesda",
+      "period": [
+        1961,
+        1961
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Fanon, Frantz"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Fanon, Frantz"
+    }
+  ],
+  "works": [
+    {
+      "title": "Black Skin, White Masks",
+      "title_zh": "黑皮膚白麵具",
+      "year": null,
+      "qid": "Q3089394",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Wretched of the Earth",
+      "title_zh": null,
+      "year": 1961,
+      "qid": "Q2741364",
+      "source": "wikidata"
+    },
+    {
+      "title": "A Dying Colonialism",
+      "title_zh": null,
+      "year": 1959,
+      "qid": "Q4656613",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 72,
+  "birth_place": "Fort-de-France",
+  "description": "法國作家，散文家，革命家（1925—1961）",
+  "bio": "易卜拉欣·法蘭茲·奧馬爾·法農（法語：Ibrahim Frantz Omar Fanon；1925年7月20日—1961年12月6日），作家、散文家、心理分析學家、革命家，出生於法國殖民地馬丁尼克的首府法蘭西堡。他是20世紀研究非殖民化和殖民主義的精神病理學較有影響的思想家之一，超過40年來，他的作品啟發了不少反帝國主義解放運動。1961年12月6日，他因白血病在美國病逝。",
+  "bio_source": "zhwiki",
+  "description_en": "French West Indian psychiatrist and philosopher (1925–1961)",
+  "bio_en": "Frantz Omar Fanon (, US: ; French: [fʁɑ̃ts fanɔ̃]; 20 July 1925 – 6 December 1961) was a French West Indian psychiatrist and political philosopher from the French colony of Martinique (today a French department). His works have become influential in the fields of post-colonial studies and critical theory. As well as being an intellectual, Fanon was a political radical and Pan-Africanist, concerned with the psychopathology of colonization and the human, social, and cultural consequences of decolonization.\nIn the course of his work as a physician and psychiatrist, Fanon supported the Algerian War of independence from France and was a member of the Algerian National Liberation Front.",
+  "bio_en_source": "enwiki"
+}

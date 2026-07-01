@@ -1,0 +1,149 @@
+{
+  "id": "Q935",
+  "qid": "Q935",
+  "slug": "isaac-newton",
+  "name_zh": "艾薩克·牛頓",
+  "name_en": "Isaac Newton",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1643,
+  "death_year": 1727,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 52.809167,
+      "lon": -0.630556,
+      "place": "Woolsthorpe Manor",
+      "period": [
+        1643,
+        1727
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "England and Ireland",
+          "start": 1600,
+          "end": 1715
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.5004,
+      "lon": -0.1909,
+      "place": "Kensington",
+      "period": [
+        1727,
+        1727
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.507222222,
+      "lon": -0.1275,
+      "place": "London",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.208055555,
+      "lon": 0.1225,
+      "place": "Cambridge",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 53,
+      "lon": -1,
+      "place": "England",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Newton, Isaac"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Opticks, or a Treatise of the Reflections, Refractions, Inflections and Colours of Light",
+      "title_zh": "光學 (牛頓)",
+      "year": 1704,
+      "qid": "Q74263",
+      "source": "wikidata"
+    },
+    {
+      "title": "Method of Fluxions",
+      "title_zh": "流數法",
+      "year": 1736,
+      "qid": "Q3074567",
+      "source": "wikidata"
+    },
+    {
+      "title": "Philosophiæ Naturalis Principia Mathematica",
+      "title_zh": "自然哲學的數學原理",
+      "year": 1687,
+      "qid": "Q205921",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 302,
+  "birth_place": "Woolsthorpe Manor",
+  "description": "英國物理學家",
+  "bio": "艾薩克·牛頓爵士（英語：Sir Isaac Newton；儒略曆：1642年12月25日—1727年3月20日；格里曆：1643年1月4日—1727年3月31日），英國博學家，身兼數學家、物理學家、天文學家、鍊金術士、神學家、作家與發明家等職。他是科學革命及其後啟蒙時代的核心人物，其著作《自然哲學的數學原理》（Philosophiæ Naturalis Principia Mathematica）於1687年出版，不僅完成物理學史上首次重大理論統一，也奠定古典力學的基礎。牛頓在光學領域亦作出開創性貢獻，並與德國數學家哥特弗利德·萊布尼茲共同被視為微積分的創立者，儘管牛頓實際上早於萊布尼茲多年即已發展出微積分體系。除此之外，牛頓亦對科學方法的形成與完善有所貢獻，其學術成就普遍被認為對近代科學的誕生具有深遠影響。\n牛頓在《原理》一書中，提出牛頓運動定律與萬有引力定律，此後數世紀間成為主導自然哲學與物理學的核心理論，直至後來被相對論部分取代。儘管如此，牛頓力學在涉及低速（遠低於光速）及弱引力場的大多數物理現象中，至今仍是極為精確的近似模型。他並運用其重力理論的數學描述推導克卜勒定律、解釋潮汐、彗星軌道、歲差等諸多天文現象，從根本上消除了外界對日心說的疑慮。他亦解決二體問題，並提出三體問題，證明地球上物體的運動與天體執行皆可由同一套自然法則解釋。",
+  "bio_source": "zhwiki",
+  "description_en": "English mathematician and physicist (1642–1727)",
+  "bio_en": "Sir Isaac Newton ( ; (1643-01-04)4 January 1643 [O.S. 25 December 1642] – 31 March [O.S. 20 March] 1727) was an English polymath who was a mathematician, physicist, astronomer, alchemist, theologian, author and inventor. He was a key figure in the Scientific Revolution and the Enlightenment that followed. His book Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), first published in 1687, achieved the first great unification in physics and established classical mechanics.",
+  "bio_en_source": "enwiki"
+}

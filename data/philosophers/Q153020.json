@@ -1,0 +1,59 @@
+{
+  "id": "Q153020",
+  "qid": "Q153020",
+  "slug": "jos-ortega-y-gasset",
+  "name_zh": "何塞·奧特嘉·伊·加塞特",
+  "name_en": "José Ortega y Gasset",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1883,
+  "death_year": 1955,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 40.416944444,
+      "lon": -3.703333333,
+      "place": "Madrid",
+      "period": [
+        1883,
+        1955
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Spain",
+          "start": 1880,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Ortega y Gasset, José"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 85,
+  "birth_place": "Madrid",
+  "description": "Spanish liberal philosopher and essayist (1883–1955)",
+  "bio": "荷西·奧特嘉·加塞特（西班牙語：José Ortega y Gasset，1883年5月9日—1955年10月18日），簡稱奧特嘉，是一位西班牙哲學家、報業從業員及評論家。其哲學思想主要圍繞存在主義、歷史哲學和對西班牙文化的批判。",
+  "bio_source": "zhwiki",
+  "description_en": "Spanish liberal philosopher and essayist (1883–1955)",
+  "bio_en": "José Ortega y Gasset ( or-TAY-gə, Spanish: [xoˈse oɾˈteɣa j ɣaˈset]; 9 May 1883 – 18 October 1955) was a Spanish philosopher and essayist. He worked during the first half of the 20th century while Spain oscillated between monarchy, republicanism and dictatorship. His philosophy has been characterized as a \"philosophy of life\" that \"comprised a long-hidden beginning in a pragmatist metaphysics inspired by William James and with a general method from a realist phenomenology imitating Edmund Husserl, which served both his proto-existentialism (prior to Martin Heidegger's) and his realist historicism, which has been compared to both Wilhelm Dilthey and Benedetto Croce.\"",
+  "bio_en_source": "enwiki"
+}

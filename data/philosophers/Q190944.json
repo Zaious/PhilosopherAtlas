@@ -1,0 +1,144 @@
+{
+  "id": "Q190944",
+  "qid": "Q190944",
+  "slug": "jean-bodin",
+  "name_zh": "讓·博丹",
+  "name_en": "Jean Bodin",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 47.472778,
+      "lon": -0.555556,
+      "place": "Angers",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Constantinus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Franks",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Neustria",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Carolingian Empire",
+          "start": 800,
+          "end": 900
+        },
+        {
+          "polity": "West Francia",
+          "start": 900,
+          "end": 1000
+        },
+        {
+          "polity": "Kingdom of France",
+          "start": 1000,
+          "end": 1200
+        },
+        {
+          "polity": "Angevin Empire",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "France",
+          "start": 1279,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 49.564444444,
+      "lon": 3.620555555,
+      "place": "Laon",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 43.604444444,
+      "lon": 1.443333333,
+      "place": "Toulouse",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bodin, Jean"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bodin, Jean"
+    }
+  ],
+  "works": [
+    {
+      "title": "On the Demonomania of the Sorcerers",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q133861657",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Angers",
+  "description": "French jurist, witchcraft theorist and political philosopher (1529 or 1530–1596)",
+  "bio": "布丹（法語：Jean Bodin，1530年—1596年），是法國的律師、國會議員和法學教授，因他的主權（souveraineté）理論而被視為政治科學之父。代表作《國家六論》，與霍布斯、波舒哀等人同為西方絕對君主制理論的集大成者。\n讓.布丹出生於法國宗教改革的動盪時期。著書反對法國的宗教衝突。他雖然名義上仍為天主教徒，但對教皇的權威高於法國君主持批評的態度，故教派傾向為溫和、愛國性質的政略派。主張由法國國王實施中央專制來取代派系紛爭。在臨近生命結束時，他完成了不同宗教之間的對話，其中包括了伊斯蘭教、猶太教和自然神學。他的主張是各種宗教和諧共存。",
+  "bio_source": "zhwiki",
+  "description_en": "French jurist, witchcraft theorist and political philosopher (1529 or 1530–1596)",
+  "bio_en": "Jean Bodin (; French: [ʒɑ̃ bɔdɛ̃]; c. 1530 – 1596) was a French jurist and political philosopher, member of the Parlement of Paris and professor of law in Toulouse. Bodin lived during the aftermath of the Protestant Reformation and wrote against the background of religious conflict in France. He seemed to be a nominal Catholic throughout his life but was critical of papal authority over governments.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,140 @@
+{
+  "id": "Q60030",
+  "qid": "Q60030",
+  "slug": "herbert-marcuse",
+  "name_zh": "赫伯特·馬庫色",
+  "name_en": "Herbert Marcuse",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1898,
+  "death_year": 1979,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 52.516666666,
+      "lon": 13.383333333,
+      "place": "Berlin",
+      "period": [
+        1898,
+        1979
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (Soviet)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "East Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 47.997222222,
+      "lon": 11.340555555,
+      "place": "Starnberg",
+      "period": [
+        1979,
+        1979
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Marcuse, Herbert"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "A Critique of Pure Tolerance",
+      "title_zh": "純粹寬容的批判",
+      "year": 1965,
+      "qid": "Q1225072",
+      "source": "wikidata"
+    },
+    {
+      "title": "Eros and Civilization",
+      "title_zh": "愛慾與文明",
+      "year": 1955,
+      "qid": "Q778527",
+      "source": "wikidata"
+    },
+    {
+      "title": "One-Dimensional Man",
+      "title_zh": "單向度的人",
+      "year": 1964,
+      "qid": "Q914217",
+      "source": "wikidata"
+    },
+    {
+      "title": "Counterrevolution and Revolt",
+      "title_zh": null,
+      "year": 1972,
+      "qid": "Q5177025",
+      "source": "wikidata"
+    },
+    {
+      "title": "Existentialistische Marx-Interpretation",
+      "title_zh": null,
+      "year": 1973,
+      "qid": "Q17416765",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 87,
+  "birth_place": "Berlin",
+  "description": "德裔美國哲學家、社會學家（1898－1979）",
+  "bio": "赫伯特·馬庫色（德語：Herbert Marcuse；1898年7月19日—1979年7月29日），德國裔美國哲學家、社會學家和政治理論家，法蘭克褔學派社會批判方向的一員。他主要研究資本主義和科學技術對人的異化。在20世紀60年代和20世紀70年代的他作為新左翼和西德、法國和美國的學生運動的傑出理論家而聞名，一些人更將其稱為「新左翼之父」。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher, sociologist, and political theorist (1898–1979)",
+  "bio_en": "Herbert Marcuse ( mar-KOO-zə; German: [maʁˈkuːzə]; July 19, 1898 – July 29, 1979) was a German and American philosopher, social critic, and political theorist, associated with the Frankfurt School of critical theory. Born in Berlin, Marcuse studied at the Friedrich Wilhelm University of Berlin and then at the University of Freiburg, where he received his PhD under the supervision of Martin Heidegger. He was a prominent figure in the Frankfurt-based Institute for Social Research, which later became known as the Frankfurt School.",
+  "bio_en_source": "enwiki"
+}

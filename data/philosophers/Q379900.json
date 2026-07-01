@@ -1,0 +1,94 @@
+{
+  "id": "Q379900",
+  "qid": "Q379900",
+  "slug": "samuel-alexander",
+  "name_zh": "塞繆爾·亞歷山大",
+  "name_en": "Samuel Alexander",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": -33.867778,
+      "lon": 151.21,
+      "place": "Sydney",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Australian aboriginal hunter-gatherers",
+          "start": 100,
+          "end": 1600
+        },
+        {
+          "polity": "Eora",
+          "start": 1600,
+          "end": 1815
+        },
+        {
+          "polity": "New South Wales",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "New South Wales (UK)",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Australia",
+          "start": 1914,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 53.466666666,
+      "lon": -2.233333333,
+      "place": "Manchester",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Alexander, Samuel"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Alexander, Samuel"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Sydney",
+  "description": "Australian-born British philosopher (1859-1938)",
+  "bio": null,
+  "bio_source": null,
+  "description_en": "Australian-born British philosopher (1859-1938)",
+  "bio_en": "Samuel Alexander  (6 January 1859 – 13 September 1938) was an Australian-born British philosopher. He was the first Jewish fellow of an Oxbridge college. He is now best known as an advocate of emergentism in biology.",
+  "bio_en_source": "enwiki"
+}

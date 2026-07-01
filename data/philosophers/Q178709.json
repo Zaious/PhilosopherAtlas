@@ -1,0 +1,94 @@
+{
+  "id": "Q178709",
+  "qid": "Q178709",
+  "slug": "giambattista-vico",
+  "name_zh": "詹巴蒂斯塔·維柯",
+  "name_en": "Giambattista Vico",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1668,
+  "death_year": 1744,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 40.835833333,
+      "lon": 14.248611111,
+      "place": "Naples",
+      "period": [
+        1668,
+        1744
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Vico, Giambattista"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Vico, Giambattista"
+    }
+  ],
+  "works": [
+    {
+      "title": "The New Science",
+      "title_zh": "新科學",
+      "year": null,
+      "qid": "Q6470817",
+      "source": "wikidata"
+    },
+    {
+      "title": "De nostri temporis studiorum ratione",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q16938778",
+      "source": "wikidata"
+    },
+    {
+      "title": "De antiquissima Italorum sapientia",
+      "title_zh": null,
+      "year": 1710,
+      "qid": "Q84945160",
+      "source": "wikidata"
+    },
+    {
+      "title": "De rebus gestis Antonii Caraphaei",
+      "title_zh": null,
+      "year": 1715,
+      "qid": "Q85621446",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 79,
+  "birth_place": "Naples",
+  "description": "近代意大利哲學家、修辭學家、史學家、法學家",
+  "bio": "詹巴蒂斯塔·維柯（義大利語：Giambattista Vico）（1668年6月23日—1744年1月23日），原名喬瓦尼·巴蒂斯塔·維柯（義大利語：Giovanni Battista Vico），義大利啟蒙運動時期的政治哲學家、修辭學家、歷史學家和法學家，反啟蒙思潮的代表人物，被譽為「人文主義之父」、「歷史哲學之父」或「文化哲學之父」。他為古老風俗辯護，批判了現代理性主義，並以鉅著《新科學》聞名於世。英國思想家以賽亞·伯林稱讚他為「人類觀念史上最大膽的創新者之一」",
+  "bio_source": "zhwiki",
+  "description_en": "Italian philosopher, rhetorician, historian and jurist",
+  "bio_en": "Giambattista Vico (born Giovanni Battista Vico ; Italian: [ˈviːko]; 23 June 1668 – 23 January 1744) was an Italian philosopher, rhetorician, historian, and jurist during the Italian Enlightenment. He criticized the expansion and development of modern rationalism, finding Cartesian analysis and other types of reductionism impractical to human life, and he was an apologist for classical antiquity and the Renaissance humanities, in addition to being the first expositor of the fundamentals of social science and of semiotics.",
+  "bio_en_source": "enwiki"
+}

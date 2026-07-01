@@ -1,0 +1,213 @@
+{
+  "id": "Q9387",
+  "qid": "Q9387",
+  "slug": "max-weber",
+  "name_zh": "麥斯·韋伯",
+  "name_en": "Max Weber",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1864,
+  "death_year": 1920,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 50.978055555,
+      "lon": 11.028888888,
+      "place": "Erfurt",
+      "period": [
+        1864,
+        1920
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Thuringia",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (Soviet)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "East Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.1375,
+      "lon": 11.575,
+      "place": "Munich",
+      "period": [
+        1920,
+        1920
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.208333333,
+      "lon": 16.3725,
+      "place": "Vienna",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 47.995,
+      "lon": 7.85,
+      "place": "Freiburg im Breisgau",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.412222222,
+      "lon": 8.71,
+      "place": "Heidelberg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Weber, Max"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "The Economic Ethics of the World Religions",
+      "title_zh": "世界諸宗教的經濟倫理",
+      "year": null,
+      "qid": "Q7552867",
+      "source": "wikidata"
+    },
+    {
+      "title": "Economy and Society",
+      "title_zh": "經濟與社會",
+      "year": 1922,
+      "qid": "Q1422823",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Religion of China",
+      "title_zh": "中國的宗教：儒教與道教",
+      "year": 1915,
+      "qid": "Q2992614",
+      "source": "wikidata"
+    },
+    {
+      "title": "Science as a Vocation",
+      "title_zh": "學術作為一種志業",
+      "year": 1919,
+      "qid": "Q1530590",
+      "source": "wikidata"
+    },
+    {
+      "title": "Politics as a Vocation",
+      "title_zh": "政治作為一種職業",
+      "year": 1919,
+      "qid": "Q935798",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Protestant Ethic and the Spirit of Capitalism",
+      "title_zh": "新教倫理與資本主義精神",
+      "year": 1905,
+      "qid": "Q392937",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Religion of India",
+      "title_zh": null,
+      "year": 1921,
+      "qid": "Q3135752",
+      "source": "wikidata"
+    },
+    {
+      "title": "Ancient Judaism",
+      "title_zh": null,
+      "year": 1919,
+      "qid": "Q3223791",
+      "source": "wikidata"
+    },
+    {
+      "title": "The \"Objectivity\" of Knowledge in Social Science and Social Policy",
+      "title_zh": null,
+      "year": 1904,
+      "qid": "Q7754631",
+      "source": "wikidata"
+    },
+    {
+      "title": "General Economic History",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q8027037",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 171,
+  "birth_place": "Erfurt",
+  "description": "德國哲學家、法學家、政治經濟學家和社會學家（1864－1920）",
+  "bio": "馬克西米利安·卡爾·艾彌爾·韋伯（德語：Maximilian Karl Emil Weber，發音：[ˈveːbɐ] ；1864年4月21日—1920年6月14日），小名馬克斯·韋伯（Max Weber），德國著名社會學家、歷史學家、法學家及政治經濟學家，是社會學與社會科學發展史上的核心人物之一。他的思想至今仍對社會理論和研究有重要影響。\n韋伯1864年出生於艾福特，曾先後在柏林、哥廷根和海德堡學習法學與歷史。1889年獲得法學博士學位，1891年取得教授資格，之後在柏林、弗萊堡和海德堡大學任教。兩年後，他與遠親瑪麗安妮·施尼特格爾成婚。1897年父親去世後，韋伯一度精神崩潰，遂而停止教學，週遊四方，直至20世紀初才逐漸康復。康復後，他撰寫了《新教倫理與資本主義精神》。一戰期間，韋伯起初支援德國參戰，但隨後轉而批評戰爭並支援民主化。他還發表了《學術作為一種志業》和《政治作為一種志業》兩篇著名演講。戰後，韋伯參與組建德國民主黨，但競選公職未果，轉而為《威瑪憲法》的起草提供建議。由於對政治感到失望，他重返學界，在維也納和慕尼黑執教。1920年，韋伯因肺炎病逝，享年56歲，可能是戰後西班牙流感大流行所致。遺著《經濟與社會》未能完篇。\n與倡導歷史唯物主義的馬克思、追求實證主義的塗爾幹不同，韋伯更強調主觀意志在社會發展中所起的作用。韋伯的主要研究方向之一是理解理性化、世俗化與祛魅等社會程序。",
+  "bio_source": "zhwiki",
+  "description_en": "German sociologist, philosopher, and political economist (1864–1920)",
+  "bio_en": "Maximilian Carl Emil Weber (; German: [ˈveːbɐ] ; 21 April 1864 – 14 June 1920) was a German sociologist, historian, jurist, and political economist who was one of the central figures in the development of sociology and the social sciences more generally. His ideas continue to influence social theory and research.\nBorn in Erfurt in 1864, Weber studied law and history in Berlin, Göttingen, and Heidelberg. After earning his doctorate in law in 1889 and habilitation in 1891, he taught in Berlin, Freiburg, and Heidelberg. He married his cousin Marianne Schnitger two years later. In 1897, he had a breakdown after his father died following an argument.",
+  "bio_en_source": "enwiki"
+}

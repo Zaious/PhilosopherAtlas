@@ -1,0 +1,98 @@
+{
+  "id": "Q714374",
+  "qid": "Q714374",
+  "slug": "wang-fuzhi",
+  "name_zh": "王夫之",
+  "name_en": "Wang Fuzhi",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1619,
+  "death_year": 1692,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 26.89676,
+      "lon": 112.58568,
+      "place": "Hengyang",
+      "period": [
+        1619,
+        1692
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1600,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wang Fuzhi"
+    }
+  ],
+  "works": [
+    {
+      "title": "讀通鑑論",
+      "title_zh": "讀通鑑論",
+      "year": null,
+      "qid": "Q6701685",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 28,
+  "birth_place": "Hengyang",
+  "description": "明末清初學者、思想家",
+  "bio": "王夫之（1619年10月7日—1692年2月18日），字而農，號薑齋、又號夕堂，或署一瓢道人、雙髻外史，自署船山病叟、南嶽遺民，湖廣衡州府衡陽縣人，明末清初儒者，思想家、哲學家，晚年隱居於石船山麓，世遂稱船山先生。主要著作有《周易外傳》《讀通鑑論》等，後彙編為《船山遺書》。有時與顧炎武、黃宗羲並稱明末三大思想家。\n雖然王夫之的思想誕生於明末清初，但是其著作直到晚清才開始在湖南大規模刊行。刊行後得到曾國藩、左宗棠等湖南出身政治人物推崇，進而政治影響力逐漸擴至全國。這種影響力的最佳體現是其直接參與了同為湖南人的毛澤東思想的形成和發展，深刻影響了中國社會走向。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese essayist, historian and philosopher (1619–1692)",
+  "bio_en": "Wang Fuzhi (Chinese: 王夫之; pinyin: Wáng Fūzhī; Wade–Giles: Wang2 Fu1-chih1; 1619–1692), courtesy name Ernong (而農), pseudonym Chuanshan (船山), was a Chinese essayist, historian, and philosopher of the late Ming and early Qing dynasties.",
+  "bio_en_source": "enwiki"
+}

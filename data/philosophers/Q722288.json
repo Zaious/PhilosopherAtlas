@@ -1,0 +1,151 @@
+{
+  "id": "Q722288",
+  "qid": "Q722288",
+  "slug": "shao-yong",
+  "name_zh": "邵雍",
+  "name_en": "Shao Yong",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 39.48873,
+      "lon": 115.99176,
+      "place": "Zhuozhou",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Sixteen Kingdoms",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Toba Wei",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Liao",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Shao Yong"
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Shao Yong"
+    }
+  ],
+  "works": [
+    {
+      "title": "Striking the Earth at the Yi River",
+      "title_zh": "伊川擊壤集",
+      "year": null,
+      "qid": "Q41742474",
+      "source": "wikidata"
+    },
+    {
+      "title": "Book of Supreme World-Ordering Principles",
+      "title_zh": "皇極經世",
+      "year": null,
+      "qid": "Q15898710",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Zhuozhou",
+  "description": "Chinese philosopher, mathematician, and scholar under the Song dynasty (1011-1077)",
+  "bio": "邵雍（1012年1月21日—1077年7月27日），字堯夫，自號安樂先生，人又稱百源先生，諡康節，後世稱邵康節，北宋五子（未親炙於孔子，而得以配祀孔廟封號先賢的五位大儒）之一，儒學家、易學家、思想家、詩人。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese philosopher, mathematician, and scholar under the Song dynasty (1011-1077)",
+  "bio_en": "Shao Yong (Chinese: 邵雍; pinyin: Shào Yōng; Wade–Giles: Shao Yung; 1011–1077), courtesy name Yaofu (堯夫), named Shào Kāngjié (邵康節) was a \nChinese cosmologist, historian, philosopher, and poet who greatly influenced the development of Neo-Confucianism across China during the Song dynasty.\nShao is considered one of the most learned men of his time. Unlike most men of such stature in his society, Shao avoided governmental positions his entire life, but his influence was no less substantial. He wrote an influential treatise on cosmogony, the Huangji Jingshi (皇極經世, Book of Supreme World Ordering Principles).",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,106 @@
+{
+  "id": "Q144535",
+  "qid": "Q144535",
+  "slug": "herbert-spencer",
+  "name_zh": "夏拔·史賓莎",
+  "name_en": "Herbert Spencer",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1820,
+  "death_year": 1903,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 52.921666666,
+      "lon": -1.476666666,
+      "place": "Derby",
+      "period": [
+        1820,
+        1903
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 50.820833333,
+      "lon": -0.1375,
+      "place": "Brighton",
+      "period": [
+        1903,
+        1903
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Spencer, Herbert"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Social Statics",
+      "title_zh": "社會靜力學",
+      "year": null,
+      "qid": "Q7550857",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Study of Sociology",
+      "title_zh": "群學肄言",
+      "year": 1800,
+      "qid": "Q105440941",
+      "source": "wikidata"
+    },
+    {
+      "title": "Mr. Martineau on Evolution",
+      "title_zh": null,
+      "year": 1872,
+      "qid": "Q105479172",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 119,
+  "birth_place": "Derby",
+  "description": "英國哲學家、生物學家、社會學家、政治理論家",
+  "bio": "赫伯特·斯賓賽（英語：Herbert Spencer，1820年4月27日—1903年12月8日），英國哲學家、心理學家、教育學家、社會學家與人類學家，社會達爾文主義的主要提出者，被譽為「19 世紀末最著名的歐洲知識分子」。\n斯賓賽發明「適者生存」一詞，並將其應用在社會學，尤其是教育及階級鬥爭。但是，他的著作對很多課題都有貢獻，包括規範、形上學、宗教、政治、修辭、生物和心理學等等。在斯賓賽的時代存在許多著名哲學家和科學家，譬如約翰·史都華·穆勒、湯瑪斯·亨利·赫胥黎和查爾斯·達爾文都是當代知名的人物。",
+  "bio_source": "zhwiki",
+  "description_en": "English philosopher and political theorist (1820–1903)",
+  "bio_en": "Herbert Spencer (27 April 1820 – 8 December 1903) was an English polymath active as a philosopher, psychologist, biologist, sociologist, and anthropologist. Spencer originated the expression \"survival of the fittest\", which he coined in Principles of Biology (1864) after reading Charles Darwin's 1859 book On the Origin of Species. The term strongly suggests natural selection, yet Spencer saw evolution as extending into realms of sociology and ethics, so he also supported Lamarckism.\nSpencer developed an all-embracing conception of evolution as the progressive development of the physical world, biological organisms, the human mind, and human culture and societies.",
+  "bio_en_source": "enwiki"
+}

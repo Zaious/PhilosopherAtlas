@@ -1,0 +1,124 @@
+{
+  "id": "Q172544",
+  "qid": "Q172544",
+  "slug": "john-rawls",
+  "name_zh": "約翰·羅爾斯",
+  "name_en": "John Rawls",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1921,
+  "death_year": 2002,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 42.3601,
+      "lon": -71.0589,
+      "place": "Baltimore",
+      "period": [
+        1921,
+        2002
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United States",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 42.4475,
+      "lon": -71.2275,
+      "place": "Lexington",
+      "period": [
+        2002,
+        2002
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 39.286388888,
+      "lon": -76.615,
+      "place": "Baltimore",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Rawls, John"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Rawls, John"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Rawls, John"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Law of Peoples",
+      "title_zh": "萬民法",
+      "year": 1993,
+      "qid": "Q718573",
+      "source": "wikidata"
+    },
+    {
+      "title": "A Theory of Justice",
+      "title_zh": "正義論",
+      "year": 1971,
+      "qid": "Q300588",
+      "source": "wikidata"
+    },
+    {
+      "title": "Political Liberalism",
+      "title_zh": "政治自由主義",
+      "year": 1993,
+      "qid": "Q277406",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 83,
+  "birth_place": "Baltimore",
+  "description": "美國政治哲學家（1921－2002）",
+  "bio": "約翰·羅爾斯（英語：John Rawls，1921年2月21日—2002年11月24日），是一位信奉自由主義的美國政治哲學家、倫理學家。他畢業於普林斯頓大學哲學博士，曾在哈佛大學擔任哲學教授，著有《正義論》（1971）、《政治自由主義》、《作為公平的正義：正義新論》、《萬民法》等名著。\n羅爾斯是1970年代政治哲學的主要代表之一，他培養的許多學生現今都成了道德和政治哲學的重要人物，例如湯瑪斯·內格爾和喬舒亞·科恩等。",
+  "bio_source": "zhwiki",
+  "description_en": "American political philosopher (1921–2002)",
+  "bio_en": "John Bordley Rawls (; February 21, 1921 – November 24, 2002) was an American moral, legal and political philosopher in the modern liberal tradition. Rawls has been described as one of the most influential political philosophers of the 20th century.\nIn 1990, Will Kymlicka wrote in his introduction to the field that \"it is generally accepted that the recent rebirth of normative political philosophy began with the publication of John Rawls's A Theory of Justice in 1971\". Rawls's theory of \"justice as fairness\" recommends equal basic liberties, equality of opportunity, and facilitating the maximum benefit to the least advantaged members of society in any case where inequalities may occur.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,182 @@
+{
+  "id": "Q182128",
+  "qid": "Q182128",
+  "slug": "giovanni-pico-della-mirandola",
+  "name_zh": "若望·皮科·德拉·米蘭多拉",
+  "name_en": "Giovanni Pico della Mirandola",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1463,
+  "death_year": 1494,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 44.88727,
+      "lon": 11.06603,
+      "place": "Mirandola",
+      "period": [
+        1463,
+        1494
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1400,
+          "end": 1530
+        },
+        {
+          "polity": "Florence",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Modena",
+          "start": 1650,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 43.771388888,
+      "lon": 11.254166666,
+      "place": "Florence",
+      "period": [
+        1494,
+        1494
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Pico della Mirandola, Giovanni"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Oration on the Dignity of Man",
+      "title_zh": "論人的尊嚴",
+      "year": 1496,
+      "qid": "Q2085760",
+      "source": "wikidata"
+    },
+    {
+      "title": "Letters",
+      "title_zh": null,
+      "year": 1500,
+      "qid": "Q138333077",
+      "source": "wikidata"
+    },
+    {
+      "title": "De ente et uno",
+      "title_zh": null,
+      "year": 1500,
+      "qid": "Q138333085",
+      "source": "wikidata"
+    },
+    {
+      "title": "Apologia conclusionum suorum",
+      "title_zh": null,
+      "year": 1487,
+      "qid": "Q138424784",
+      "source": "wikidata"
+    },
+    {
+      "title": "De omnibus rebus et de quibusdam aliis",
+      "title_zh": null,
+      "year": 1487,
+      "qid": "Q138424846",
+      "source": "wikidata"
+    },
+    {
+      "title": "Poems",
+      "title_zh": null,
+      "year": 1500,
+      "qid": "Q138424850",
+      "source": "wikidata"
+    },
+    {
+      "title": "Heptaplus",
+      "title_zh": null,
+      "year": 1489,
+      "qid": "Q42123614",
+      "source": "wikidata"
+    },
+    {
+      "title": "Disputationes adversus astrologiam divinatricem",
+      "title_zh": null,
+      "year": 1494,
+      "qid": "Q42189025",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q42294258",
+      "title_zh": null,
+      "year": 1486,
+      "qid": "Q42294258",
+      "source": "wikidata"
+    },
+    {
+      "title": "Commentary on Girolamo Benivieni’s Canzone d’amore",
+      "title_zh": null,
+      "year": 1500,
+      "qid": "Q136353671",
+      "source": "wikidata"
+    },
+    {
+      "title": "Vita Hieronymi Savonarolae",
+      "title_zh": null,
+      "year": 1500,
+      "qid": "Q137554021",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 76,
+  "birth_place": "Mirandola",
+  "description": "Italian Renaissance philosopher (1463–1494)",
+  "bio": "喬瓦尼·皮科，米蘭多拉領主及康科迪亞伯爵（義大利語：Giovanni Pico dei conti della Mirandola e della Concordia，1463年2月24日—1494年11月17日），通稱喬瓦尼·皮科·德拉·米蘭多拉，義大利文藝復興時期哲學家。其著作《論人的尊嚴》被稱為「文藝復興時代的宣言」。此外，該哲學家還因其在1486年大膽地提出反駁宗教、哲學、自然哲學和魔法的900論題而名聲大噪，那時他僅23歲。",
+  "bio_source": "zhwiki",
+  "description_en": "Italian Renaissance philosopher (1463–1494)",
+  "bio_en": "Giovanni Pico della Mirandola (24 February 1463 – 17 November 1494) was an Italian Renaissance nobleman and philosopher. He is famed for the events of 1486, when, at the age of 23, he proposed to defend 900 theses on religion, philosophy, natural philosophy, and magic against all comers, for which he wrote the Oration on the Dignity of Man, which has been called the \"Manifesto of the Renaissance\", and a key text of Renaissance humanism and of what has been called the \"Hermetic Reformation\". He was the founder of the tradition of Christian Kabbalah, a key tenet of early modern Western esotericism. The 900 Theses was the first printed book to be universally banned by the Church.",
+  "bio_en_source": "enwiki"
+}

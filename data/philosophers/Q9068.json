@@ -1,0 +1,129 @@
+{
+  "id": "Q9068",
+  "qid": "Q9068",
+  "slug": "voltaire",
+  "name_zh": "伏爾泰",
+  "name_en": "Voltaire",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1694,
+  "death_year": 1778,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        1694,
+        1778
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1650,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Voltaire"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Dictionnaire philosophique",
+      "title_zh": "哲學辭典",
+      "year": 1764,
+      "qid": "Q656976",
+      "source": "wikidata"
+    },
+    {
+      "title": "Letters on the English",
+      "title_zh": "哲學通訊",
+      "year": 1734,
+      "qid": "Q2551373",
+      "source": "wikidata"
+    },
+    {
+      "title": "Zadig or Destiny",
+      "title_zh": "札第格",
+      "year": null,
+      "qid": "Q140057",
+      "source": "wikidata"
+    },
+    {
+      "title": "Mahomet",
+      "title_zh": "穆罕默德 (戲劇)",
+      "year": null,
+      "qid": "Q1431518",
+      "source": "wikidata"
+    },
+    {
+      "title": "Candide",
+      "title_zh": "憨第德",
+      "year": 1759,
+      "qid": "Q215894",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Huron; or, Pupil of Nature",
+      "title_zh": "天真漢",
+      "year": 1767,
+      "qid": "Q1985932",
+      "source": "wikidata"
+    },
+    {
+      "title": "Zaïre",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q377950",
+      "source": "wikidata"
+    },
+    {
+      "title": "Correspondence of Voltaire",
+      "title_zh": null,
+      "year": 1711,
+      "qid": "Q19150121",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q19150125",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q19150125",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 254,
+  "birth_place": "Paris",
+  "description": "法國啟蒙時代思想家、哲學家、文學家",
+  "bio": "法蘭索瓦-馬裡·阿魯埃（法語：François-Marie Arouet，1694年11月21日—1778年5月30日），筆名伏爾泰（Voltaire，發音：[vɔltɛːʁ]），是法國啟蒙時代哲學家、作家暨歷史學家。伏爾泰以其妙語和對基督教的批評（尤其是天主教會）以及對奴隸制的批判而聞名，他倡導言論自由、宗教自由和政教分離。\n伏爾泰是一位多才多藝且高產的作家，幾乎涉獵所有文學體裁，包括戲劇、詩歌、小說、散文、史書，甚至科學論著。他撰寫了逾兩萬封書信及兩千部書籍與小冊子。伏爾泰是最早享譽國際並取得商業成功的作家之一。伏爾泰不僅在哲學上有卓越成就，也以直言不諱地倡導公民自由，特別是信仰自由和司法公正而聞名。儘管在他所處的時代天主教法國的審查制度十分嚴厲，伏爾泰仍然公開支援社會改革。他的論說以諷刺見長，常常抨擊天主教會的教條和當時的法國教育制度。伏爾泰的著作和思想與湯瑪斯·霍布斯及約翰·洛克一道，為日後的君主立憲和共和主義立下基礎，也對美國革命和法國大革命的主要思想家都有影響。其最負盛名的代表作《憨第德》（Candide, ou l'Optimisme）以中篇小說形式，對同時代諸多事件、思想家及哲學體系進行評論、批判與嘲諷，尤以哥特弗利德·萊布尼茲及其「所有可能世界中最好的世界」的信念為靶心。",
+  "bio_source": "zhwiki",
+  "description_en": "French writer, historian and philosopher (1694–1778)",
+  "bio_en": "François-Marie Arouet (French: [fʁɑ̃swa maʁi aʁwɛ]; 21 November 1694 – 30 May 1778), known by his pen name Voltaire (, US also ; French: [vɔltɛːʁ]), was a French Enlightenment writer, philosopher (philosophe), satirist, and historian. Famous for his wit and his criticism of Christianity (especially of the Catholic Church) and of slavery, Voltaire was an advocate of freedom of speech, freedom of religion, and separation of church and state.\nVoltaire was a versatile and prolific writer, producing works in almost every literary form, including plays, poems, novels, essays, histories, and even scientific expositions. He wrote more than 20,000 letters and 2,000 books and pamphlets.",
+  "bio_en_source": "enwiki"
+}

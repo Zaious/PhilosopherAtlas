@@ -1,0 +1,81 @@
+{
+  "id": "Q41980",
+  "qid": "Q41980",
+  "slug": "democritus",
+  "name_zh": "德謨克利特",
+  "name_en": "Democritus",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -460,
+  "death_year": -360,
+  "date_certainty": "approximate",
+  "active_regions": [
+    {
+      "lat": 40.933714,
+      "lon": 24.973299,
+      "place": "Ancient Abdera",
+      "period": [
+        -460,
+        -360
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 38.5,
+      "lon": 23,
+      "place": "Greece",
+      "period": [
+        -360,
+        -360
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Democritus"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "quadratrix of Hippias",
+      "title_zh": "二次希皮亞斯曲線",
+      "year": null,
+      "qid": "Q2121861",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 152,
+  "birth_place": "Ancient Abdera",
+  "description": "古希臘自然哲學家，原子論者",
+  "bio": "德謨克利特（希臘語：Δημόκριτος，羅馬化：Dēmókritos，前460年—前370年或前356年）來自古希臘愛琴海北部海岸的自然派哲學家。德謨克利特是經驗的自然科學家和第一個百科全書式的學者。古代唯物思想的重要代表。他是「原子論」的創始者，並由原子論入手，進一步建立了認識論。德謨克利特認為世間萬物都是由原子所組成的，整個世界的本質只是原子和虛空。原子不可分割，並不完全一樣。在自然界中，每一件事的發生都有一個自然的原因，這個原因原本即存在於事物本身。此外他在哲學、邏輯學、物理、數學、天文、動植物、醫學、心理學、倫理學、教育學、修辭學、軍事、藝術等方面都有所建樹，可惜大多數著作都散失了。至今只能看到若干殘篇斷簡，這對理解德謨克利特的思想造成了一定的困難。\n德謨克利特的自然科學雖然也有類似實驗解剖這樣的科學結論，但是他在哲學上的大部分見解都與經驗直接相關。他的原子論是受著水氣蒸發以及香味傳遞等感性直觀而依賴哲學思維推測出來的，透過感官的參與，即經驗，直接推測了原子論的可能，並由原子論進一步影響認識論等。說他是自然科學家，主要是緣於他對於自然科學起到的奠基作用。但是在哲學領域，他是個徹頭徹尾的經驗論者，在那個年代的哲學家之中鮮有嚴謹依賴科學思維進行哲學結論的人，這是時代的侷限性所導致的必然。",
+  "bio_source": "zhwiki",
+  "description_en": "Greek philosopher (c. 460–c. 370 BC)",
+  "bio_en": "Democritus ( dim-OCK-rit-əs; Greek: Δημόκριτος, Dēmókritos, meaning \"chosen of the people\"; c. 460 – c. 370 BC) was an Ancient Greek pre-Socratic philosopher from Abdera, primarily remembered today for his formulation of an atomic theory of the universe. Democritus wrote extensively on a wide variety of topics.\nNone of Democritus' original work has survived, except through second-hand references. Many of these references come from Aristotle, who viewed him as an important rival in the field of natural philosophy. He was known in antiquity as the ‘laughing philosopher’ because of his emphasis on the value of cheerfulness.",
+  "bio_en_source": "enwiki"
+}

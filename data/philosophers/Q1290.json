@@ -1,0 +1,212 @@
+{
+  "id": "Q1290",
+  "qid": "Q1290",
+  "slug": "blaise-pascal",
+  "name_zh": "布萊茲·帕斯卡",
+  "name_en": "Blaise Pascal",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1623,
+  "death_year": 1662,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 45.77841,
+      "lon": 3.08526,
+      "place": "birth house of Blaise Pascal",
+      "period": [
+        1623,
+        1662
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1600,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        1662,
+        1662
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.443055555,
+      "lon": 1.1025,
+      "place": "Rouen",
+      "period": [
+        1640,
+        1647
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 45.779722222,
+      "lon": 3.086944444,
+      "place": "Clermont-Ferrand",
+      "period": [
+        1623,
+        1631
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Pascal, Blaise"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Pascal, Blaise"
+    }
+  ],
+  "works": [
+    {
+      "title": "Lettres provinciales",
+      "title_zh": "致外省人書",
+      "year": 1657,
+      "qid": "Q1279437",
+      "source": "wikidata"
+    },
+    {
+      "title": "Pascal's Wager",
+      "title_zh": "帕斯卡的賭注",
+      "year": null,
+      "qid": "Q830200",
+      "source": "wikidata"
+    },
+    {
+      "title": "Pascal's rule",
+      "title_zh": "帕斯卡法則",
+      "year": null,
+      "qid": "Q17099544",
+      "source": "wikidata"
+    },
+    {
+      "title": "Pascal's law",
+      "title_zh": "帕斯卡定律",
+      "year": null,
+      "qid": "Q190760",
+      "source": "wikidata"
+    },
+    {
+      "title": "Pensées",
+      "title_zh": "思想錄",
+      "year": 1670,
+      "qid": "Q17360856",
+      "source": "wikidata"
+    },
+    {
+      "title": "Pascal's calculator",
+      "title_zh": "滾輪式加法器",
+      "year": null,
+      "qid": "Q873501",
+      "source": "wikidata"
+    },
+    {
+      "title": "Pascal's theorem",
+      "title_zh": "帕斯卡定理",
+      "year": null,
+      "qid": "Q899002",
+      "source": "wikidata"
+    },
+    {
+      "title": "Pascal's pyramid",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q145022",
+      "source": "wikidata"
+    },
+    {
+      "title": "Traité du triangle arithmétique",
+      "title_zh": null,
+      "year": 1665,
+      "qid": "Q3536953",
+      "source": "wikidata"
+    },
+    {
+      "title": "New experiments with the vacuum",
+      "title_zh": null,
+      "year": 1647,
+      "qid": "Q19170479",
+      "source": "wikidata"
+    },
+    {
+      "title": "Écrits sur la grâce",
+      "title_zh": null,
+      "year": 1656,
+      "qid": "Q19952426",
+      "source": "wikidata"
+    },
+    {
+      "title": "Traité des Sinus du Quart de Cercle",
+      "title_zh": null,
+      "year": 1658,
+      "qid": "Q109046083",
+      "source": "wikidata"
+    },
+    {
+      "title": "Récit de la grande expérience de l'équilibre des liqueurs 1648",
+      "title_zh": null,
+      "year": 1648,
+      "qid": "Q111011715",
+      "source": "wikidata"
+    },
+    {
+      "title": "triangle of Pascal",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q114727861",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 194,
+  "birth_place": "birth house of Blaise Pascal",
+  "description": "法國神學家、宗教哲學家、數學家、物理學家、化學家（1623－1662）",
+  "bio": "布萊士·帕斯卡（法語：Blaise Pascal；1623年6月19日—1662年8月19日，另譯布萊茲·帕斯卡爾、布萊茲·帕斯卡），法國神學家、哲學家、數學家、物理學家、化學家、音樂家、教育家、氣象學家。帕斯卡早期進行自然和應用科學的研究，對機械計算器的製造和流體的研究作出重要貢獻，擴充套件托里切利的工作，澄清了壓強和真空的概念。帕斯卡還有力地為科學方法辯護。數學上，帕斯卡促成了兩個重要的新研究領域。他16歲寫出一篇題為射影幾何的論文，1654年開始與皮埃爾·德·費馬通訊，討論機率論，深刻影響了現代經濟學和社會科學的發展。\n1654年末一次信仰上的神秘經歷後，他離開數學和物理學，專注於沉思和神學與哲學寫作。他是堅定的楊森教派信徒，人文思想大受蒙田影響。宗教論戰之作《致外省人書》（Lettres provinciales）被奉為法文寫作的典範，身後其筆記本被編為《思想錄》。",
+  "bio_source": "zhwiki",
+  "description_en": "French mathematician, physicist, inventor, writer, and Christian philosopher (1623-1662)",
+  "bio_en": "Blaise Pascal (19 June 1623 – 19 August 1662) was a French mathematician, physicist, inventor, philosopher, and Catholic writer.\nPascal was a child prodigy who was educated by his father Étienne Pascal, a tax collector in Rouen. His earliest mathematical work was on projective geometry; he wrote a significant treatise on the subject of conic sections at the age of 16. He later corresponded with Pierre de Fermat on probability theory, strongly influencing the development of modern economics and social science.",
+  "bio_en_source": "enwiki"
+}

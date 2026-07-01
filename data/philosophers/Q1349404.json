@@ -1,0 +1,68 @@
+{
+  "id": "Q1349404",
+  "qid": "Q1349404",
+  "slug": "john-anderson",
+  "name_zh": "約翰·安德森",
+  "name_en": "John Anderson",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 55.953333,
+      "lon": -3.189167,
+      "place": "Edinburgh",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 53.259,
+      "lon": -1.911,
+      "place": "Buxton",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Anderson, John"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Anderson, John"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Edinburgh",
+  "description": "Scottish anatomist and zoologist who worked in India as the curator of the Indian Museum (1833–1900)",
+  "bio": "約翰·安德森，FRS（英語：John Anderson，1833年10月4日—1900年8月15日），蘇格蘭動物學家。",
+  "bio_source": "zhwiki",
+  "description_en": "Scottish anatomist and zoologist who worked in India as the curator of the Indian Museum (1833–1900)",
+  "bio_en": "John Anderson  (4 October 1833 – 15 August 1900) was a Scottish anatomist and zoologist who worked in India as the curator of the Indian Museum, Calcutta.",
+  "bio_en_source": "enwiki"
+}

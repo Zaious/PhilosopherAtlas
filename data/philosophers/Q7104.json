@@ -1,0 +1,118 @@
+{
+  "id": "Q7104",
+  "qid": "Q7104",
+  "slug": "baron-dholbach",
+  "name_zh": "保爾·霍爾巴赫",
+  "name_en": "Baron d'Holbach",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1723,
+  "death_year": 1789,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 49.264166666,
+      "lon": 8.134444444,
+      "place": "Edesheim",
+      "period": [
+        1723,
+        1789
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1715,
+          "end": 1783
+        },
+        {
+          "polity": "Bavaria",
+          "start": 1783,
+          "end": 1800
+        },
+        {
+          "polity": "Swabia",
+          "start": 1800,
+          "end": 1815
+        },
+        {
+          "polity": "Palatinate",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (France)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        1789,
+        1789
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Holbach, Paul-Henri Thiry d'"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 82,
+  "birth_place": "Edesheim",
+  "description": "哲學家",
+  "bio": "霍爾巴赫男爵保羅-提利（法語：Paul Thiry, baron d’Holbach，發音：[dɔlbak]，1723年—1789年），法國哲學家，無神論者。",
+  "bio_source": "zhwiki",
+  "description_en": "German-born French philosopher (1723–1789)",
+  "bio_en": "Paul Thiry, Baron d'Holbach (; French: [dɔlbak]; 8 December 1723 – 21 January 1789), known as d'Holbach, was a Franco-German philosopher, encyclopedist and writer, who was a prominent figure in the French Enlightenment. He was born in Edesheim, near Landau in the Rhenish Palatinate, but lived and worked mainly in Paris, where he kept a salon. He helped in the dissemination of \"Protestant and especially German thought\", particularly in the field of the sciences, but was known more for his atheism and voluminous writings against religion, famously including The System of Nature (1770) and The Universal Morality (1776).",
+  "bio_en_source": "enwiki"
+}

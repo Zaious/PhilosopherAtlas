@@ -1,0 +1,136 @@
+{
+  "id": "Q307",
+  "qid": "Q307",
+  "slug": "galileo-galilei",
+  "name_zh": "伽利略·伽利萊",
+  "name_en": "Galileo Galilei",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1564,
+  "death_year": 1642,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 43.716666666,
+      "lon": 10.4,
+      "place": "Pisa",
+      "period": [
+        1564,
+        1642
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Florence",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Lucca",
+          "start": 1650,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 43.75485,
+      "lon": 11.2518,
+      "place": "Arcetri",
+      "period": [
+        1642,
+        1642
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 45.407777777,
+      "lon": 11.873333333,
+      "place": "Padua",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 43.771388888,
+      "lon": 11.254166666,
+      "place": "Florence",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Galileo Galilei"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Galilean transformation",
+      "title_zh": "伽利略變換",
+      "year": null,
+      "qid": "Q219207",
+      "source": "wikidata"
+    },
+    {
+      "title": "equations for a falling body",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1132975",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 269,
+  "birth_place": "Pisa",
+  "description": "義大利物理學家、數學家、哲學家（1564－1642）",
+  "bio": "伽利略·伽利萊（義大利語：Galileo Galilei ；1564年2月15日—1642年1月8日），義大利物理學家、數學家、天文學家及哲學家，科學革命中的重要人物。伽利略被譽為「現代觀測天文學之父」、「現代物理學之父」、科學方法之父及「現代科學之父」。\n伽利略曾研究速率與速度、引力與自由落體、相對性原理、慣性與拋體運動，並在應用科學與技術領域有所建樹，描述鐘擺特性與流體靜力平衡。他亦是最早發展熱成像儀的學者之一，並發明多種軍用比例規與測量儀器。透過自行改良的望遠鏡，伽利略觀測到銀河系中的繁星、金星相位、木星最大的四顆衛星、土星環、月球隕石坑與太陽黑子等現象；此外，他亦製造出早期形式的顯微鏡。\n伽利略對哥白尼日心說的支援，招致天主教會內部及部分天文學家的反對。1615年，羅馬宗教裁判所開始調查此事，並認定其觀點與當時被接受的《聖經》詮釋相牴觸。\n其後，伽利略於《關於托勒密和哥白尼兩大世界體系的對話》（1632年）中再次為自身觀點辯護。該書被認為帶有質疑乃至諷刺教宗烏爾巴諾八世之意，致使原本大力支援他的教宗與耶穌會皆轉而疏遠。最終，伽利略遭宗教裁判所審判，被裁定為「強烈涉嫌異端」，並被迫公開放棄自身主張。此後餘生皆處於軟禁之中。軟禁期間，他完成《關於兩門新科學的對話》（1638年）一書，內容主要涉及運動學與材料力學。",
+  "bio_source": "zhwiki",
+  "description_en": "Italian polymath (1564–1642)",
+  "bio_en": "Galileo di Vincenzo Bonaiuti de' Galilei (15 February 1564 – 8 January 1642), commonly referred to as Galileo Galilei, was an Italian astronomer, physicist, engineer and  polymath. He was born in Pisa, then part of the Duchy of Florence. Galileo has been called the father of observational astronomy, classical physics, the scientific method, and modern science.\nHe studied speed and velocity, gravity and free fall, the principle of relativity, inertia, projectile motion, and also worked in applied science and technology, describing the properties of the pendulum and \"hydrostatic balances\". He was one of the earliest developers of the thermoscope and the inventor of various military compasses.",
+  "bio_en_source": "enwiki"
+}

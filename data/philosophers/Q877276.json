@@ -1,0 +1,119 @@
+{
+  "id": "Q877276",
+  "qid": "Q877276",
+  "slug": "roderick-chisholm",
+  "name_zh": "羅德里克·齊碩姆",
+  "name_en": "Roderick Chisholm",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 41.75,
+      "lon": -71.09,
+      "place": "Bristol County",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Eastern North Amercian hunter-gatherers",
+          "start": 500,
+          "end": 1492
+        },
+        {
+          "polity": "Wôpanâak (Wampanoag)",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Iroquois",
+          "start": 1500,
+          "end": 1530
+        },
+        {
+          "polity": "Cusabo",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Massachusetts Bay",
+          "start": 1650,
+          "end": 1715
+        },
+        {
+          "polity": "British American colonies",
+          "start": 1715,
+          "end": 1783
+        },
+        {
+          "polity": "United States of America",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "United States",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "United States of America",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "United States",
+          "start": 1914,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 41.82399,
+      "lon": -71.41283,
+      "place": "Providence",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Chisholm, Roderick"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Chisholm, Roderick"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Bristol County",
+  "description": "美國哲學家",
+  "bio": "羅德里克·奇澤姆（英語：Roderick Milton Chisholm，1916年11月27日—1999年1月19日），美國分析哲學家，畢業於布朗大學和哈佛大學，以其在認識論、形上學、自由意志、價值理論和感知哲學方面的工作而聞名。",
+  "bio_source": "zhwiki",
+  "description_en": "American philosopher and logician (1916–1999)",
+  "bio_en": "Roderick Milton Chisholm ( CHIZ-əm; November 27, 1916 – January 19, 1999) was an American philosopher known for his work on epistemology, metaphysics, free will, value theory, deontology, deontic logic and the philosophy of perception.\nRichard and Fred Feldman, writing in the Stanford Encyclopedia of Philosophy, remark that he \"is widely regarded as one of the most creative, productive, and influential American philosophers of the 20th Century.\"",
+  "bio_en_source": "enwiki"
+}

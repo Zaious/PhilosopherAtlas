@@ -1,0 +1,156 @@
+{
+  "id": "Q9333",
+  "qid": "Q9333",
+  "slug": "laozi",
+  "name_zh": "老子",
+  "name_en": "Laozi",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -579,
+  "death_year": -500,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 33.62502,
+      "lon": 114.6418,
+      "place": "Zhoukou",
+      "period": [
+        -579,
+        -500
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Toba Wei",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Laozi"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Laozi"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Laozi [Lao-tzu]"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Laozi"
+    }
+  ],
+  "works": [
+    {
+      "title": "Tao Te Ching",
+      "title_zh": "道德經",
+      "year": null,
+      "qid": "Q134425",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 5,
+  "sitelinks": 211,
+  "birth_place": "Zhoukou",
+  "description": "中國春秋時代圖書館管理員",
+  "bio": "李聃（ㄉㄢ）（前571年—前470年），李氏，一說姓老，一說姓利，名耳或貞，字耼。一稱老耼，一字伯陽。世人尊稱其為「老子」。據傳老聃生於東周的楚國苦縣厲鄉曲仁裡（原屬陳國，位於今河南省鹿邑縣），師從商容，在春秋時期在東周王國所擁有的守藏室內任柱下史。老聃被認為是中國春秋時代思想家，隱居邢臺廣陽山。以其名義被撰寫出來的《老子》一書被廣泛地稱為《道德經》，為道家的經典。\n老聃所留下的學說後來被莊周、楊朱、列禦寇等人發展，後人奉之為道家的開教宗師。《史記·老子韓非列傳》中曾記載說孔子曾經向老子請教關於禮的問題。老聃提倡無為而治、天人合一、清靜無為這些統治理念，和莊週一樣被視為道家的重要代表人物，合稱「老莊」。\n老子被尊為道家及道教的奠基者、 東方三大聖人之一，大唐帝國宣稱李耳是李氏家族的先祖。",
+  "bio_source": "zhwiki",
+  "description_en": "6th-century BC semi-legendary Chinese philosopher, founder of Taoism",
+  "bio_en": "Laozi (variously spelled, , low-TSUH; Chinese: 老子; pinyin: Lǎozǐ) was a legendary Chinese philosopher considered to be the author of the Tao Te Ching (Pinyin: Dào Dé Jīng), one of the foundational texts of Taoism. Modern scholarship generally regards his biographical details as later inventions and his opus a collaboration of various writers, with the name Laozi, literally meaning 'Old Master', likely intended to portray an archaic anonymity that could converse with Confucianism. Traditional accounts addend him as Li Er,  born in the 6th-century BC state of Chu during China's Spring and Autumn period (c. 770 – c. 481 BC).",
+  "bio_en_source": "enwiki"
+}

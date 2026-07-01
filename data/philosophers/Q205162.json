@@ -1,0 +1,118 @@
+{
+  "id": "Q205162",
+  "qid": "Q205162",
+  "slug": "isaiah-berlin",
+  "name_zh": "以賽亞·伯林",
+  "name_en": "Isaiah Berlin",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1909,
+  "death_year": 1997,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 56.9475,
+      "lon": 24.106944444,
+      "place": "Riga",
+      "period": [
+        1909,
+        1997
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Swedish Livonia",
+          "end": 1721,
+          "start": 1629
+        },
+        {
+          "polity": "Russian Empire",
+          "end": 1918,
+          "start": 1721
+        },
+        {
+          "polity": "Republic of Latvia",
+          "end": 1940,
+          "start": 1918
+        },
+        {
+          "polity": "Soviet Union",
+          "end": 1991,
+          "start": 1940
+        },
+        {
+          "polity": "Republic of Latvia",
+          "end": null,
+          "start": 1991
+        }
+      ],
+      "polity_source": "curated"
+    },
+    {
+      "lat": 51.7609,
+      "lon": -1.261,
+      "place": "Acland Hospital",
+      "period": [
+        1997,
+        1997
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.751944444,
+      "lon": -1.257777777,
+      "place": "Oxford",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Berlin, Isaiah"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Two Concepts of Liberty",
+      "title_zh": "兩種自由概念",
+      "year": null,
+      "qid": "Q855216",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 80,
+  "birth_place": "Riga",
+  "description": "俄裔英籍哲學家、政治哲學家、思想史家（1909—1997）",
+  "bio": "以賽亞·伯林爵士，OM（英語：Sir Isaiah Berlin，1909年6月6日—1997年11月5日）是俄裔英國社會與政治理論家、哲學家和觀念史學家。儘管伯林反對為出版而寫作，但其演講與談話常被錄製，並整理成文出版。伯林關於自由理論和價值多元主義的著作，以及他對馬克思主義和共產主義的批評，對後續思潮有重要影響。\n1909年，以賽亞·伯林出生於現拉脫維亞首都里加（當時屬於俄羅斯帝國），6歲時移居彼得格勒（即現在的聖彼得堡），並在此見證了1917年俄國革命。1921年，伯林隨家人移居英國，他在倫敦聖保羅中學接受教育，而後進入牛津大學基督聖體學院學習古典文學。1932年，時年23歲的伯林獲得了牛津大學萬靈學院獎學金。除個人寫作外，他也將伊萬·屠格涅夫的作品翻譯為英文。第二次世界大戰期間，伯林加入了英國外交事務部。1957至1967年，伯林於牛津大學擔任社會和政治理論奇切爾教授。他在1963至1964年間擔任倫敦亞里斯多德哲學協會主席。1966年，伯林參與創立了牛津大學沃弗森學院，並成為其首任院長。\n1946年，伯林被授予大英帝國勳章，1957年被授予下級勛位爵士，1971年被授予功績勳章。他於1974至1978年擔任英國國家學術院院長。1979年，伯林因其自始至終對公民自由的維護而獲得耶路撒冷獎。",
+  "bio_source": "zhwiki",
+  "description_en": "Russo-British-Latvian Jewish social and political theorist, philosopher and historian of ideas (1909–1997)",
+  "bio_en": "Sir Isaiah Berlin (6 June 1909 – 5 November 1997) was a Russian-British social and political theorist, philosopher, and historian of ideas. Although he became increasingly averse to writing for publication, his improvised lectures and talks were sometimes recorded and transcribed, and many of his spoken words were converted into published essays and books, both by himself and by others, especially by his principal editor from 1974, Henry Hardy.\nBorn in Riga, he moved to Petrograd at the age of six, where he witnessed the Russian Revolution. In 1921, his family moved to England, and he was educated at St Paul's School, London, and Corpus Christi College, Oxford.",
+  "bio_en_source": "enwiki"
+}

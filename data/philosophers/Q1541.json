@@ -1,0 +1,301 @@
+{
+  "id": "Q1541",
+  "qid": "Q1541",
+  "slug": "cicero",
+  "name_zh": "西塞羅",
+  "name_en": "Cicero",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -106,
+  "death_year": -42,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 41.64705,
+      "lon": 13.61155,
+      "place": "Arpino",
+      "period": [
+        -106,
+        -42
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Maximian)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Ostrogoths",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Lombard principalities",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Carolingian Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Dutchy of Benevento",
+          "start": 1000,
+          "end": 1100
+        },
+        {
+          "polity": "Papal States",
+          "start": 1100,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 41.256388888,
+      "lon": 13.606944444,
+      "place": "Formia",
+      "period": [
+        -42,
+        -42
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 41.893055555,
+      "lon": 12.482777777,
+      "place": "Rome",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Cicero"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Cicero"
+    }
+  ],
+  "works": [
+    {
+      "title": "De Divinatione",
+      "title_zh": "卜筮 (西塞羅作品)",
+      "year": null,
+      "qid": "Q2416205",
+      "source": "wikidata"
+    },
+    {
+      "title": "De legibus",
+      "title_zh": "論法律",
+      "year": null,
+      "qid": "Q1180701",
+      "source": "wikidata"
+    },
+    {
+      "title": "Laelius de Amicitia",
+      "title_zh": "論友誼",
+      "year": null,
+      "qid": "Q675210",
+      "source": "wikidata"
+    },
+    {
+      "title": "De Officiis",
+      "title_zh": "論責任",
+      "year": -45,
+      "qid": "Q1180721",
+      "source": "wikidata"
+    },
+    {
+      "title": "De re publica",
+      "title_zh": "國家論",
+      "year": null,
+      "qid": "Q656161",
+      "source": "wikidata"
+    },
+    {
+      "title": "Tusculanae Disputationes",
+      "title_zh": "圖斯庫盧姆辯論",
+      "year": null,
+      "qid": "Q1233156",
+      "source": "wikidata"
+    },
+    {
+      "title": "Somnium Scipionis",
+      "title_zh": "西庇阿之夢",
+      "year": null,
+      "qid": "Q1242501",
+      "source": "wikidata"
+    },
+    {
+      "title": "Paradoxa Stoicorum",
+      "title_zh": "廊下派的反論",
+      "year": null,
+      "qid": "Q15839516",
+      "source": "wikidata"
+    },
+    {
+      "title": "Cato Maior de Senectute",
+      "title_zh": "論老年",
+      "year": null,
+      "qid": "Q1051232",
+      "source": "wikidata"
+    },
+    {
+      "title": "De Natura Deorum",
+      "title_zh": "論神性",
+      "year": null,
+      "qid": "Q370414",
+      "source": "wikidata"
+    },
+    {
+      "title": "Philippicae",
+      "title_zh": "腓力修辭",
+      "year": null,
+      "qid": "Q604091",
+      "source": "wikidata"
+    },
+    {
+      "title": "De Oratore",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q246289",
+      "source": "wikidata"
+    },
+    {
+      "title": "De Inventione",
+      "title_zh": null,
+      "year": -80,
+      "qid": "Q324590",
+      "source": "wikidata"
+    },
+    {
+      "title": "Catiline Orations",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1055008",
+      "source": "wikidata"
+    },
+    {
+      "title": "De fato",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1180623",
+      "source": "wikidata"
+    },
+    {
+      "title": "De finibus bonorum",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1180629",
+      "source": "wikidata"
+    },
+    {
+      "title": "Topica",
+      "title_zh": null,
+      "year": -43,
+      "qid": "Q1340108",
+      "source": "wikidata"
+    },
+    {
+      "title": "In Verrem",
+      "title_zh": null,
+      "year": -69,
+      "qid": "Q1581567",
+      "source": "wikidata"
+    },
+    {
+      "title": "Hortensius",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1630211",
+      "source": "wikidata"
+    },
+    {
+      "title": "Orator ad Brutum",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q2028309",
+      "source": "wikidata"
+    },
+    {
+      "title": "Pro Archia Poeta",
+      "title_zh": null,
+      "year": -61,
+      "qid": "Q3922215",
+      "source": "wikidata"
+    },
+    {
+      "title": "De ratione regendae provinciae (Epistula ad Quintum fratrem)",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q136644029",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 202,
+  "birth_place": "Arpino",
+  "description": "羅馬共和國晚期的哲學家、政治家、律師、作家、雄辯家",
+  "bio": "馬庫斯·圖利烏斯·西塞羅（拉丁語：Marcus Tullius Cicero；前106年1月3日—前43年12月7日），是羅馬共和國晚期的哲學家、政治家、律師、作家、雄辯家。他出生於騎士階級的一個富裕家庭，青年投身法律和政治，其後曾在西元前63年擔任羅馬共和國的執政官；同時，因為其演說和文學作品，他被廣泛地認為是古羅馬最偉大的演說家和最具影響力的散文作家之一。在羅馬共和國晚期的政治危機中，他是共和國所代表的自由主義的忠誠捍衛者，馬克·安東尼的政敵。他支援古羅馬的憲制，因此也被認為是三權分立學說的古代先驅，西元前63年當選為執政官，後被安東尼派人刺殺於福爾米亞。\n西塞羅因其作品的文學成就，為拉丁語的發展作出了不小的貢獻。他在當時是羅馬著名的文學人物，其演說風格雄偉、論文機智、散文流暢，精通雄辯，設定了古典拉丁語的文學風格。西塞羅也是一位古希臘哲學的研究者。他透過翻譯，為羅馬人介紹了很多希臘哲學的作品，使得希臘哲學的研究得以在希臘被羅馬征服之後得以延續。\n西塞羅在古羅馬時代的影響在中世紀時代漸漸衰落，但在文藝復興時被重新振興。彼特拉克在14世紀重新發現了西塞羅的書信，由此開始了文藝復興學者對西塞羅的重新研究。因此有學者認為，文藝復興在本質上是對西塞羅的復興，並透過他才使經典古代文化的其餘部分得以復興。西塞羅的影響在啟蒙時代達到了頂峰，受其政治哲學影響者包括洛克、休謨、孟德斯鳩等哲學家。",
+  "bio_source": "zhwiki",
+  "description_en": "Roman statesman, lawyer, orator, and philosopher (106–43 BC)",
+  "bio_en": "Marcus Tullius Cicero ( SISS-ər-oh, Classical Latin: [ˈmaːrkʊs ˈtʊlli.ʊs ˈkɪkɛroː]; 3 January 106 BC – 7 December 43 BC) was a Roman statesman, lawyer, scholar, philosopher, orator, and writer who tried to uphold optimate principles during the political crises of the Roman Republic that led to the establishment of the Roman Empire. The extensive writings of Cicero include treatises on rhetoric, philosophy, and politics. He is considered one of Rome's greatest orators and prose stylists and the innovator of what became known as \"Ciceronian rhetoric\". Cicero was educated in Rome and in Greece.",
+  "bio_en_source": "enwiki"
+}

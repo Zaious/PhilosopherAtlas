@@ -1,0 +1,114 @@
+{
+  "id": "Q44258",
+  "qid": "Q44258",
+  "slug": "basil-of-caesarea",
+  "name_zh": "該撒利亞的巴西流",
+  "name_en": "Basil of Caesarea",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 329,
+  "death_year": 379,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 38.7225,
+      "lon": 35.4875,
+      "place": "Kayseri",
+      "period": [
+        329,
+        379
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Rome (Diocletianus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 800
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 800,
+          "end": 1279
+        },
+        {
+          "polity": "Seljuk Caliphate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1492,
+          "end": 1920
+        },
+        {
+          "polity": "Ottoman Sultanate",
+          "start": 1920,
+          "end": 1938
+        },
+        {
+          "polity": "Turkey",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 37.984166666,
+      "lon": 23.728055555,
+      "place": "Athens",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bessarion, Basil [Cardinal]"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Hexaemeron",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q125662500",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 93,
+  "birth_place": "Kayseri",
+  "description": "4th-century Christian bishop, theologian, and saint (329–379)",
+  "bio": "巴西流（希臘語：Μέγας Βασίλειος，拉丁文：Basilius Magnus，或Καισαρείας Βασίλειος，Basilius Caesariensis，約330年—379年1月1日），或譯巴西略、聖大巴西略、大聖巴西略，該撒利亞主教，4世紀教會領袖。與拿先素斯的貴格利和尼撒的貴格利並稱加帕多家教父。在天主教尊為教會聖師。",
+  "bio_source": "zhwiki",
+  "description_en": "4th-century Christian bishop, theologian, and saint (329–379)",
+  "bio_en": "Basil of Caesarea, also called Saint Basil the Great (330 – 1 or 2 January 379), was an early Christian prelate. He served as Bishop of Caesarea Mazaca in Cappadocia from 370 until his death in 379. He was an influential theologian who supported the Nicene Creed and opposed heresies within the early Christian church such as Arianism and Apollinarianism.\nIn addition to his work as a theologian, Basil's most enduring legacy was the creation of the Basileias, which has been believed to be one of the earliest forms of a Christian hospital for the poor. Basil established guidelines for monastic life which focus on community life, liturgical prayer, and manual labor.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "Q4177579",
+  "qid": "Q4177579",
+  "slug": "roy-wood-sellars",
+  "name_zh": null,
+  "name_en": "Roy Wood Sellars",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 43.554644,
+      "lon": -81.396847,
+      "place": "Seaforth",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Saugeen Complex",
+          "start": 100,
+          "end": 600
+        },
+        {
+          "polity": "Eastern North Amercian hunter-gatherers",
+          "start": 600,
+          "end": 1492
+        },
+        {
+          "polity": "Anishinabewaki ᐊᓂᔑᓈᐯᐗᑭ",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Huron",
+          "start": 1500,
+          "end": 1600
+        },
+        {
+          "polity": "Subarctic forest hunter-gatherers",
+          "start": 1600,
+          "end": 1783
+        },
+        {
+          "polity": "Quebec",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Canada",
+          "start": 1815,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 42.281388888,
+      "lon": -83.748333333,
+      "place": "Ann Arbor",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Sellars, Roy Wood"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Sellars, Roy Wood"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Seaforth",
+  "description": "American philosopher (1880–1973)",
+  "bio": null,
+  "bio_source": null,
+  "description_en": "American philosopher (1880–1973)",
+  "bio_en": "Roy Wood Sellars (; July 9, 1880, Seaforth, Ontario – September 5, 1973, Ann Arbor, Michigan) was a Canadian-born American philosopher of critical perceptual realism and religious humanism, and a proponent of naturalistic emergent evolution (which he called \"evolutionary naturalism\"). He was the father of Wilfrid Sellars.\nSellars received his B.A. (1903) and Ph.D. (1908/09) from the University of Michigan, where he taught philosophy for over 40 years. He also briefly studied at the Hartford Theological Seminary, the University of Paris (under Henri Bergson), and the University of Heidelberg (under Hans Driesch and Wilhelm Windelband).",
+  "bio_en_source": "enwiki"
+}

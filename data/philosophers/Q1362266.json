@@ -1,0 +1,149 @@
+{
+  "id": "Q1362266",
+  "qid": "Q1362266",
+  "slug": "gongsun-long",
+  "name_zh": "公孫龍",
+  "name_en": "Gongsun Long",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -324,
+  "death_year": -249,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 36.604,
+      "lon": 114.468,
+      "place": "Zhao",
+      "period": [
+        -324,
+        -249
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Sixteen Kingdoms",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Toba Wei",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Gongsun Long"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Gongsun Long"
+    }
+  ],
+  "works": [
+    {
+      "title": "Gongsun Longzi",
+      "title_zh": "公孫龍子",
+      "year": null,
+      "qid": "Q10892834",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 26,
+  "birth_place": "Zhao",
+  "description": "Chinese philosopher of the 3rd century BCE of the School of Names",
+  "bio": "公孫龍（前320年—前250年），東周戰國時期趙國人（今河北邯鄲），傳說字子秉，曾經做過平原君的門客，是名家的代表人物，以「白馬非馬」和「離堅白」等論點而著名。與公孫龍齊名的是另一名家惠施。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese philosopher of the 3rd century BCE of the School of Names",
+  "bio_en": "Gongsun Long (c. 320 – 250 BC), courtesy name Zibing, was a Chinese philosopher, writer, and member of the School of Names, also known as the Logicians, of ancient Chinese philosophy. Gongsun ran a school and received patronage from rulers, advocating peaceful means of resolving disputes amid the martial culture of the Warring States period. His collected works comprise the Gongsun Longzi (公孫龍子) anthology. Comparatively few details are known about his life, and much of his work has been lost—only six of the fourteen essays he originally authored are still extant.\nIn book 17 of the Zhuangzi, Gongsun speaks of himself:\n\nWhen young, I studied the way of the former kings.",
+  "bio_en_source": "enwiki"
+}

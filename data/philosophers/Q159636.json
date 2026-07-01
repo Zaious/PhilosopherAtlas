@@ -1,0 +1,119 @@
+{
+  "id": "Q159636",
+  "qid": "Q159636",
+  "slug": "joseph-priestley",
+  "name_zh": "約瑟夫·普利斯特里",
+  "name_en": "Joseph Priestley",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1733,
+  "death_year": 1804,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 53.7343,
+      "lon": -1.66092,
+      "place": "Birstall",
+      "period": [
+        1733,
+        1804
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 40.89175,
+      "lon": -76.79747,
+      "place": "Northumberland",
+      "period": [
+        1804,
+        1804
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 40.8939,
+      "lon": -76.7961,
+      "place": "Northumberland",
+      "period": [
+        1804,
+        1804
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 53,
+      "lon": -1,
+      "place": "England",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Priestley, Joseph"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 92,
+  "birth_place": "Birstall",
+  "description": "英國神學家、化學家、教育家和政治理論家",
+  "bio": "約瑟夫·卜利士力（Joseph Priestley，1733年3月13日—1804年2月6日），英國自然哲學家、化學家、牧師、語法學家、教育家與古典自由主義政治理論家。出版過150部以上的著作，並在多個領域做出貢獻。\n卜利士力是第一個發現並分離出氧氣的人，並因此聞名於世。但由於他堅持燃素說，使其未成為化學革命的先驅者，曾是碳酸水的發明家。現今普利斯特里獎即是以其命名。",
+  "bio_source": "zhwiki",
+  "description_en": "English chemist, theologian, educator, and political theorist (1733–1804)",
+  "bio_en": "Joseph Priestley (; 24 March 1733 – 6 February 1804) was an English chemist, Unitarian, natural philosopher, separatist theologian, grammarian, multi-subject educator and classical liberal political theorist. He published over 150 works, and conducted experiments in several areas of science.\nPriestley is credited with his independent discovery of oxygen by the thermal decomposition of mercuric oxide, having isolated it in 1774. During his lifetime, Priestley's considerable scientific reputation rested on his invention of carbonated water, his writings on electricity, and his discovery of several \"airs\" (gases), the most famous being what Priestley dubbed \"dephlogisticated air\" (oxygen).",
+  "bio_en_source": "enwiki"
+}

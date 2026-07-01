@@ -1,0 +1,160 @@
+{
+  "id": "Q295386",
+  "qid": "Q295386",
+  "slug": "george-edward-moore",
+  "name_zh": "喬治·愛德華·摩爾",
+  "name_en": "George Edward Moore",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.5074,
+      "lon": -0.1278,
+      "place": "Upper Norwood",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Constantinus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Anglo-Saxons",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Cantia",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Essex",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "England",
+          "start": 1000,
+          "end": 1200
+        },
+        {
+          "polity": "Angevin Empire",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "English territory",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "England",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "England and Ireland",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 52.208055555,
+      "lon": 0.1225,
+      "place": "Cambridge",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Moore, George Edward"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Moore, George Edward"
+    }
+  ],
+  "works": [
+    {
+      "title": "Principia Ethica",
+      "title_zh": "倫理學原理",
+      "year": 1903,
+      "qid": "Q2344885",
+      "source": "wikidata"
+    },
+    {
+      "title": "Ethics",
+      "title_zh": null,
+      "year": 1912,
+      "qid": "Q19096827",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Upper Norwood",
+  "description": "English philosopher (1873–1958)",
+  "bio": "喬治·愛德華·摩爾，OM（George Edward Moore或G. E. Moore，1873年11月4日—1958年10月24日），英國哲學家，與伯特蘭·羅素一同被認為是分析哲學的主要創始人，主要貢獻為後設倫理學，知名作品有《倫理學原理》。\n摩爾認為和倫理相關的概念不可能用自然概念（例如：生存，功利，等）來解釋。",
+  "bio_source": "zhwiki",
+  "description_en": "English philosopher (1873–1958)",
+  "bio_en": "George Edward Moore (4 November 1873 – 24 October 1958) was an English philosopher who, alongside Bertrand Russell, Ludwig Wittgenstein and earlier Gottlob Frege, was an initiator of analytic philosophy. He and Russell began de-emphasising the idealism which was then prevalent among British philosophers and became known for advocating common-sense concepts and contributing to ethics, epistemology and metaphysics. He was said to have had an \"exceptional personality and moral character\".",
+  "bio_en_source": "enwiki"
+}

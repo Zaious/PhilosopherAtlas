@@ -1,0 +1,149 @@
+{
+  "id": "Q353887",
+  "qid": "Q353887",
+  "slug": "antoine-arnauld",
+  "name_zh": "安托萬·阿爾諾",
+  "name_en": "Antoine Arnauld",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.856667,
+      "lon": 2.352222,
+      "place": "Paris",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Constantinus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Franks",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Frankish Kingdom",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Carolingian Empire",
+          "start": 800,
+          "end": 900
+        },
+        {
+          "polity": "West Francia",
+          "start": 900,
+          "end": 1000
+        },
+        {
+          "polity": "Kingdom of France",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "France",
+          "start": 1279,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 50.846666666,
+      "lon": 4.351666666,
+      "place": "Brussels",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Arnauld, Antoine"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Arnauld, Antoine"
+    }
+  ],
+  "works": [
+    {
+      "title": "Port-Royal Grammar",
+      "title_zh": "普遍唯理語法",
+      "year": 1660,
+      "qid": "Q1542096",
+      "source": "wikidata"
+    },
+    {
+      "title": "Port-Royal Logic",
+      "title_zh": null,
+      "year": 1662,
+      "qid": "Q1264592",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q18611129",
+      "title_zh": null,
+      "year": 1643,
+      "qid": "Q18611129",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q120157115",
+      "title_zh": null,
+      "year": 1667,
+      "qid": "Q120157115",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Paris",
+  "description": "French theologian, philosopher, mathematician (1612-1694)",
+  "bio": "安託萬·阿爾諾（法語：Antoine Arnauld，1612年2月6日—1694年8月8日），冉森教派領袖。是布萊茲·帕斯卡的好友，正是在他的鼓動下，布萊茲·帕斯卡撰寫了《致外省人信札》（Lettres provinciales），為冉森教派辯護，批駁耶穌會。",
+  "bio_source": "zhwiki",
+  "description_en": "French theologian, philosopher, mathematician (1612-1694)",
+  "bio_en": "Antoine Arnauld (French: [ɑ̃twan aʁno]; 6 February 1612 – 8 August 1694) was a French Catholic theologian, priest, philosopher and mathematician. He was one of the leading intellectuals of the Jansenist group of Port-Royal and had a very thorough knowledge of patristics. Contemporaries called him le Grand to distinguish him from his father.",
+  "bio_en_source": "enwiki"
+}

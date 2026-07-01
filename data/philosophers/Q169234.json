@@ -1,0 +1,139 @@
+{
+  "id": "Q169234",
+  "qid": "Q169234",
+  "slug": "abu-bakr-alrazi",
+  "name_zh": "拉齊",
+  "name_en": "Abu Bakr al-Razi",
+  "tradition": "islamic",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 866,
+  "death_year": 925,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 35.5975,
+      "lon": 51.434444444,
+      "place": "Ray",
+      "period": [
+        866,
+        925
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Abbasid Caliphate",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Buwayhid Emirates",
+          "start": 1000,
+          "end": 1100
+        },
+        {
+          "polity": "Seljuk Empire",
+          "start": 1100,
+          "end": 1200
+        },
+        {
+          "polity": "Buwayhid Emirates",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "Ilkhanate",
+          "start": 1279,
+          "end": 1400
+        },
+        {
+          "polity": "Timurid Empire",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "Emirate of the White Sheep Turks",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Safavid Empire",
+          "start": 1530,
+          "end": 1783
+        },
+        {
+          "polity": "Persia",
+          "start": 1783,
+          "end": 1920
+        },
+        {
+          "polity": "Iran",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "al-Razi, Abu Bakr"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "The comprehensive book on medicine",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q12186092",
+      "source": "wikidata"
+    },
+    {
+      "title": "Doubts About Galen",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q20407794",
+      "source": "wikidata"
+    },
+    {
+      "title": "Ṭibb al-rūḥānī",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q30753122",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q108041965",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q108041965",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 97,
+  "birth_place": "Ray",
+  "description": "Persian polymath, physician, chemist and philosopher (854-925)",
+  "bio": "阿布·貝克爾·穆罕默德·扎卡里亞·拉齊（波斯語：ابوبكر محمّد زکرياى رازى，Abūbakr Mohammad-e Zakariā-ye Rāzī；865年—925年），波斯醫師、鍊金術師、化學家、哲學家。他博學多才，為早期醫學、化學、音樂和哲學領域做出很大貢獻。醫學方面，他發現天花與麻疹是兩種不同的疾病，並最早闡明瞭過敏和免疫的原理。化學上，他發現乙醇，並認為元素嬗變為金銀是可能的。他創立了完善的蒸餾和提取方法，並透過蒸餾綠礬（油）和石油，分別發現硫酸和煤油。一生著有200部書籍和文章，記載了他在各領域的探索。",
+  "bio_source": "zhwiki",
+  "description_en": "Persian polymath, physician, chemist and philosopher (854-925)",
+  "bio_en": "Abū Bakr al-Rāzī, also known as Rhazes (full name: أبو بکر محمد بن زکریاء الرازي, Abū Bakr Muḥammad ibn Zakariyyāʾ al-Rāzī), 864 or 865 – 925 or 935 CE, was a Persian physician, philosopher and alchemist who lived during the Islamic Golden Age. He is widely regarded as one of the most important figures in the history of medicine, and also wrote on logic, astronomy and grammar. He is also known for his criticism of religion, especially with regard to the concepts of prophethood and revelation.",
+  "bio_en_source": "enwiki"
+}

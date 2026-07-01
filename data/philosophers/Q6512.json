@@ -1,0 +1,153 @@
+{
+  "id": "Q6512",
+  "qid": "Q6512",
+  "slug": "sren-kierkegaard",
+  "name_zh": "索倫·齊克果",
+  "name_en": "Søren Kierkegaard",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1813,
+  "death_year": 1855,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 55.676111111,
+      "lon": 12.568888888,
+      "place": "Copenhagen",
+      "period": [
+        1813,
+        1855
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.516666666,
+      "lon": 13.383333333,
+      "place": "Berlin",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Kierkegaard, Søren"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Kierkegaard, Søren"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Kierkegaard, Soren"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Concept of Anxiety",
+      "title_zh": "焦慮的概念",
+      "year": 1844,
+      "qid": "Q1192442",
+      "source": "wikidata"
+    },
+    {
+      "title": "Fear and Trembling",
+      "title_zh": "畏懼與顫慄",
+      "year": 1843,
+      "qid": "Q1193229",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Sickness Unto Death",
+      "title_zh": "致死的疾病",
+      "year": 1849,
+      "qid": "Q1214072",
+      "source": "wikidata"
+    },
+    {
+      "title": "Concluding Unscientific Postscript to Philosophical Fragments",
+      "title_zh": "最後的、非科學性的附言",
+      "year": 1846,
+      "qid": "Q849447",
+      "source": "wikidata"
+    },
+    {
+      "title": "Stages on Life's Way",
+      "title_zh": "生命道路的階段",
+      "year": 1845,
+      "qid": "Q861155",
+      "source": "wikidata"
+    },
+    {
+      "title": "Works of Love",
+      "title_zh": "愛之工",
+      "year": 1847,
+      "qid": "Q9294209",
+      "source": "wikidata"
+    },
+    {
+      "title": "Either/Or",
+      "title_zh": "非此即彼",
+      "year": 1843,
+      "qid": "Q1152009",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q1076331",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1076331",
+      "source": "wikidata"
+    },
+    {
+      "title": "Christian Discourses",
+      "title_zh": null,
+      "year": 1848,
+      "qid": "Q5109537",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Book on Adler",
+      "title_zh": null,
+      "year": 1872,
+      "qid": "Q7719342",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 169,
+  "birth_place": "Copenhagen",
+  "description": "丹麥神學家、哲學家、詩人（1813—1855）",
+  "bio": "索倫·奧比·齊克果（丹麥語：Søren Aabye Kierkegaard，1813年5月5日—1855年11月11日），丹麥神學家、哲學家、詩人、社會批評家及宗教作家，被普遍視為存在主義的奠基者。他創作了許多關於制度性宗教、基督教、道德、倫理、心理學、宗教哲學的批評文章，這些文章常充斥著隱喻、諷刺和寓言。他的哲學作品主要關注人如何成為「單一的個體」，注重人類現實而非抽象思考，並強調個人選擇和實踐的重要性。他反對當時唯心主義知識分子和哲學家的文學批評，並認為那些所謂的「學者」還未能完全理解史威登堡、 黑格爾、費希特、謝林、施勒格爾、安徒生等人的思想。\n齊克果的神學作品關注基督教倫理，宗教團體，基督教客觀證據間的差異，人神之間性質上的無限差異，個體與神人耶穌基督之間源於信仰的主觀關係。他的許多作品都與基督教之愛相關。齊克果是基督教政教合一制度（例如彼時的丹麥國教會）的強烈批評者。他的心理學作品探究個體面對抉擇時的情緒與感覺。\n齊克果的早期作品常以假名發表，籍此在複雜對話展示交錯觀點。不同的假名用以表達不同觀點，從不同角度探究複雜問題。作品《十八訓導書》以真名發表，他將此書獻給期望發現其作品意義的「單一個體」。他寫道：「科學教導人們以客觀行事，而基督教教導人們以主觀行事，並成為主體。」科學家主張應當以觀察理解世界，但齊克果認為單憑觀察並不足以揭示出精神世界的構造。",
+  "bio_source": "zhwiki",
+  "description_en": "Danish theologian, philosopher, poet and social critic (1813–1855)",
+  "bio_en": "Søren Aabye Kierkegaard ( SORR-ən KEER-kə-gard, US also  -⁠gor; Danish: [ˈsɶːɐn ˈɔˀˌpyˀ ˈkʰiɐ̯kəˌkɒːˀ] ; 5 May 1813 – 11 November 1855) was a Danish Lutheran theologian, philosopher, poet, social critic, and religious author who is widely considered to be the first existentialist philosopher. He wrote critical texts on organized religion, Christianity, morality, ethics, psychology, love, and the philosophy of religion, displaying a fondness for metaphor, irony, and parables. Much of his philosophical work deals with the issues around how one lives as a \"single individual\", highlighting the importance of authenticity, personal choice and commitment, and the duty to love.",
+  "bio_en_source": "enwiki"
+}

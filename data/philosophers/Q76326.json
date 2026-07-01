@@ -1,0 +1,103 @@
+{
+  "id": "Q76326",
+  "qid": "Q76326",
+  "slug": "dietrich-bonhoeffer",
+  "name_zh": "迪特里希·潘霍華",
+  "name_en": "Dietrich Bonhoeffer",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1906,
+  "death_year": 1945,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.11,
+      "lon": 17.0325,
+      "place": "Wrocław",
+      "period": [
+        1906,
+        1945
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Kingdom of Bohemia",
+          "end": 1526,
+          "start": 1335
+        },
+        {
+          "polity": "Habsburg Monarchy",
+          "end": 1742,
+          "start": 1526
+        },
+        {
+          "polity": "Kingdom of Prussia",
+          "end": 1871,
+          "start": 1742
+        },
+        {
+          "polity": "German Empire",
+          "end": 1918,
+          "start": 1871
+        },
+        {
+          "polity": "Weimar Republic",
+          "end": 1933,
+          "start": 1918
+        },
+        {
+          "polity": "Nazi Germany",
+          "end": 1945,
+          "start": 1933
+        },
+        {
+          "polity": "Poland",
+          "end": null,
+          "start": 1945
+        }
+      ],
+      "polity_source": "curated"
+    },
+    {
+      "lat": 49.735555555,
+      "lon": 12.355833333,
+      "place": "Flossenbürg concentration camp",
+      "period": [
+        1945,
+        1945
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bonhoeffer, Dietrich"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 79,
+  "birth_place": "Wrocław",
+  "description": "德國路德會牧師，神學家，反納粹異議人士",
+  "bio": "迪特里希·潘霍華（德語：Dietrich Bonhoeffer，發音：[ˈdiːtʁɪç ˈbɔnhøːfɐ] ；1906年2月4日—1945年4月9日），德國信義宗牧師、神學家，認信教會成員之一，出生在德意志帝國佈雷斯勞（今波蘭弗羅次瓦夫）。潘霍華曾經參加在德國反對納粹主義的抵抗運動。因同伴計劃刺殺希特勒失敗，潘霍華在1943年3月被捕，並於希特勒自殺前21天被絞刑處決。",
+  "bio_source": "zhwiki",
+  "description_en": "German Lutheran pastor, theologian, anti-Nazi dissident (1906–1945)",
+  "bio_en": "Dietrich Bonhoeffer (German: [ˈdiːtʁɪç ˈbɔnhøːfɐ] ; 4 February 1906 – 9 April 1945) was a German Lutheran pastor, neo-orthodox theologian and anti-Nazi dissident who was a key founding member of the Confessing Church. His writings on Christianity's role in the secular world have become widely influential; his 1937 book The Cost of Discipleship is described as a modern classic. Apart from his theological writings, Bonhoeffer was known for his staunch resistance to the Nazi dictatorship, including vocal opposition to Nazi euthanasia program and genocidal persecution of Jews. He was arrested in April 1943 by the Gestapo and imprisoned at Tegel Prison for a year and a half.",
+  "bio_en_source": "enwiki"
+}

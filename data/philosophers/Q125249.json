@@ -1,0 +1,101 @@
+{
+  "id": "Q125249",
+  "qid": "Q125249",
+  "slug": "william-james",
+  "name_zh": "威廉·詹姆士",
+  "name_en": "William James",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1842,
+  "death_year": 1910,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 40.711873,
+      "lon": -74.008753,
+      "place": "Astor House",
+      "period": [
+        1842,
+        1910
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 43.859444444,
+      "lon": -71.262777777,
+      "place": "Tamworth",
+      "period": [
+        1910,
+        1910
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "James, William"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "James, William"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Varieties of Religious Experience",
+      "title_zh": "宗教經驗之種種",
+      "year": 1902,
+      "qid": "Q2605035",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Principles of Psychology",
+      "title_zh": "心理學原理",
+      "year": 1890,
+      "qid": "Q3522328",
+      "source": "wikidata"
+    },
+    {
+      "title": "Essays in Radical Empiricism",
+      "title_zh": null,
+      "year": 1912,
+      "qid": "Q16385626",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 123,
+  "birth_place": "Astor House",
+  "description": "美國哲學家與心理學家 (1842–1910)",
+  "bio": "威廉·詹姆士（英語：William James，1842年1月11日—1910年8月26日），美國哲學家、心理學家。他的弟弟亨利·詹姆士是著名作家。他和查爾斯·桑德斯·皮爾士一起建立了實用主義。威廉·詹姆士是十九世紀後半期的頂尖思想家，也是美國歷史上最富影響力的哲學家之一，被譽為「美國心理學之父」。",
+  "bio_source": "zhwiki",
+  "description_en": "American philosopher, psychologist, and pragmatist (1842–1910)",
+  "bio_en": "William James (January 11, 1842 – August 26, 1910) was an American philosopher and psychologist. The first educator to offer a psychology course in the United States, he is considered to be one of the leading thinkers of the late 19th century, one of the most influential philosophers and is often dubbed the \"father of American psychology\". \nBorn into a wealthy family, James was the son of the Swedenborgian theologian Henry James Sr. and the brother of both the prominent novelist Henry James and the diarist Alice James. James trained as a physician and taught anatomy at Harvard, but never practiced medicine. Instead, he pursued his interests in psychology and then philosophy.",
+  "bio_en_source": "enwiki"
+}

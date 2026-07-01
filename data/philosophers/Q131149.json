@@ -1,0 +1,90 @@
+{
+  "id": "Q131149",
+  "qid": "Q131149",
+  "slug": "henry-david-thoreau",
+  "name_zh": "亨利·戴維·梭羅",
+  "name_en": "Henry David Thoreau",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1817,
+  "death_year": 1862,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 42.460277777,
+      "lon": -71.349444444,
+      "place": "Concord",
+      "period": [
+        1817,
+        1862
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United States",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "United States of America",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "United States",
+          "start": 1914,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Thoreau, Henry David"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Walden",
+      "title_zh": "湖濱散記",
+      "year": 1854,
+      "qid": "Q863534",
+      "source": "wikidata"
+    },
+    {
+      "title": "Civil Disobedience",
+      "title_zh": "公民不服從 (梭羅)",
+      "year": 1849,
+      "qid": "Q331092",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 143,
+  "birth_place": "Concord",
+  "description": "美國作家、詩人、哲學家（1817－1862）",
+  "bio": "亨利·大衛·梭羅（英語：Henry David Thoreau，1817年7月12日—1862年5月6日），美國作家、詩人、哲學家、廢奴主義者、超驗主義者，也曾任職土地勘測員。他最著名的作品有散文集《湖濱散記》（又譯為《瓦爾登湖》）和《論公民的不服從》。《湖濱散記》記載了他在瓦爾登湖的隱逸生活，而《論公民的不服從》則討論面對政府和強權的不義，為公民主動拒絕遵守若干法律提出辯護。\n梭羅的全部書本、散文、日記和詩集合起來有二十冊，其中他闡述了研究環境史和生態學的發現和方法，對自然書寫的影響甚遠，也奠定了現代環境保護主義。他的文體風格結合了對大自然的關懷、個人體驗、象徵手法和歷史傳說，善感敏銳，且富饒詩意。他非常關注在險惡環境底下如何生存，同時他也提倡停止浪費、破除迷思，這樣才能體會生命的本質。\n除此之外，梭羅一生都是廢奴主義者，他到處演講倡導廢奴，並抨擊《逃亡奴隸法》。他對公民不服從的見解影響了託爾斯泰、聖雄甘地和馬丁·路德·金。\n梭羅有時也被當作無政府主義者。雖然《論公民的不服從》看起來不是要推翻政府，而是要改進政府，但他在開頭卻說：「最好的政府一無所治；在人們準備好之前，那將是他們願意擁有的那種政府」，暗示了他的無政府主義傾向。",
+  "bio_source": "zhwiki",
+  "description_en": "American essayist, poet, and philosopher (1817–1862)",
+  "bio_en": "Henry David Thoreau (born David Henry Thoreau; July 12, 1817 – May 6, 1862) was an American naturalist, essayist, poet, and philosopher. A leading transcendentalist, he is best known for his book Walden, a reflection upon simple living in natural surroundings, and his essay \"Civil Disobedience\" (originally published as \"Resistance to Civil Government\"), an argument in favor of citizen disobedience against an unjust state.\nThoreau's books, journals, and poetry amount to more than 20 volumes.",
+  "bio_en_source": "enwiki"
+}

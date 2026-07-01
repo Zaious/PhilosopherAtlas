@@ -1,0 +1,125 @@
+{
+  "id": "Q558192",
+  "qid": "Q558192",
+  "slug": "cheng-hao",
+  "name_zh": "程顥",
+  "name_en": "Cheng Hao",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1032,
+  "death_year": 1085,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 31.05675,
+      "lon": 114.38202,
+      "place": "Huangpi District",
+      "period": [
+        1032,
+        1085
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 33.9,
+      "lon": 113.5,
+      "place": "Henan",
+      "period": [
+        1085,
+        1085
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Cheng Hao"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Cheng Hao"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Cheng Hao"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 4,
+  "sitelinks": 20,
+  "birth_place": "Huangpi District",
+  "description": "Chinese philosopher (1032–1085)",
+  "bio": "程顥hào（1032年—1085年），字伯淳，號明道，世稱明道先生。北宋學者、政治家，北宋嘉祐二年（1057年）進士，歷官鄠縣主簿、上元縣主簿、澤州晉城令、太子中允、監察御史、監汝州酒稅、鎮寧軍節度判官、宗寧寺丞等職。後追封豫國公，配祀孔廟。\n程顥與其弟程頤皆理學大師，世稱「二程」，二程為洛城伊川人，故其學說，稱之為洛學。早年與程頤共師周敦頤。程顥、程頤學術思想略有不同，程顥主張「明心見性」，重視「氣」，為學「力行」，影響了陸九淵。程頤主張「格物致知」，重視「理」，為學「窮理」，影響朱熹。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese philosopher (1032–1085)",
+  "bio_en": "Chéng Hào (Chinese: 程顥, 1032–1085), Courtesy name Bóchún (Chinese: 伯淳), was a Chinese philosopher and politician from Luoyang, China. In his youth, he and his younger brother Cheng Yi were students of Zhou Dunyi, one of the architects of Neo-Confucian cosmology. His philosophy was dualistic (between all that is tangible and all that is intangible) and pantheistic (believing that all that is intangible is the same thing, such as god, the human nature, feelings, actions (we see things acting, but not the action itself), movement (likewise), social roles and relations (likewise), chance, etc., and that such a unified, universal principle is in everything that is sensible [ra…",
+  "bio_en_source": "enwiki"
+}

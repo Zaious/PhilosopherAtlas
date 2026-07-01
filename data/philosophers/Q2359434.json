@@ -1,0 +1,119 @@
+{
+  "id": "Q2359434",
+  "qid": "Q2359434",
+  "slug": "mary-astell",
+  "name_zh": "瑪麗·阿斯特爾",
+  "name_en": "Mary Astell",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 54.977778,
+      "lon": -1.613333,
+      "place": "Newcastle upon Tyne",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Rome (Constantinus)",
+          "start": 300,
+          "end": 800
+        },
+        {
+          "polity": "Nothumbria",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "England",
+          "start": 1000,
+          "end": 1200
+        },
+        {
+          "polity": "Angevin Empire",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "English territory",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "England",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "England and Ireland",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.507222222,
+      "lon": -0.1275,
+      "place": "London",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Astell, Mary"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Astell, Mary"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Newcastle upon Tyne",
+  "description": "English feminist writer (1666-1731)",
+  "bio": null,
+  "bio_source": null,
+  "description_en": "English feminist writer (1666-1731)",
+  "bio_en": "Mary Astell (12 November 1666 – 11 May 1731) was an English proto-feminist author, philosopher, and rhetorician who advocated for equal educational opportunities for women. Astell is primarily remembered as one of England's inaugural advocates for women's rights and some commentators consider her to have been \"the first English feminist\".\nAstell's works, particularly A Serious Proposal to the Ladies and Some Reflections Upon Marriage, argue for the fundamental intellectual equality between men and women.",
+  "bio_en_source": "enwiki"
+}

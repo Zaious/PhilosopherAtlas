@@ -1,0 +1,142 @@
+{
+  "id": "Q1430",
+  "qid": "Q1430",
+  "slug": "marcus-aurelius",
+  "name_zh": "馬可·奧理略",
+  "name_en": "Marcus Aurelius",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 121,
+  "death_year": 180,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 41.893055555,
+      "lon": 12.482777777,
+      "place": "Rome",
+      "period": [
+        121,
+        180
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Maximian)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Ostrogoths",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Papal States",
+          "start": 800,
+          "end": 900
+        },
+        {
+          "polity": "Carolingian Empire",
+          "start": 900,
+          "end": 1000
+        },
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1000,
+          "end": 1100
+        },
+        {
+          "polity": "Papal States",
+          "start": 1100,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.210833333,
+      "lon": 16.370277777,
+      "place": "Vindobona",
+      "period": [
+        180,
+        180
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Aurelius, Marcus"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Meditations",
+      "title_zh": "沉思錄",
+      "year": null,
+      "qid": "Q1152283",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 176,
+  "birth_place": "Rome",
+  "description": "古羅馬皇帝",
+  "bio": "馬可·奧理略·安敦寧（拉丁語：Marcus Aurelius Antoninus；121年4月26日—180年3月17日），又譯奧勒留，羅馬皇帝，161年至180年在位，同時是斯多葛主義哲學家。他是「五賢帝」中的最後一位，亦是羅馬治世的最後一位皇帝。他曾於140年、145年及161年三度擔任羅馬執政官。\n馬可·奧理略為民選官馬爾庫斯·阿尼烏斯·維魯斯與多米提亞·卡爾維拉之子，並與皇帝圖拉真及哈德良有姻親關係。他三歲時父親去世，由母親及其祖父馬爾庫斯·阿尼烏斯·維魯斯撫養。138年，當哈德良的養子埃利烏斯·凱撒去世後，哈德良改收養奧理略的親戚安敦寧·畢尤為繼承人；而安敦尼隨後又收養馬可與埃利烏斯之子盧基烏斯·維魯斯。同年哈德良去世，安敦尼即位為皇帝。此後，作為皇位繼承人，奧理略在赫羅狄斯·阿提庫斯與弗朗託等教師指導下學習希臘文與拉丁文，並於145年與安敦尼之女小福斯蒂娜成婚。\n161年安敦尼去世後，奧理略以其養兄之名共同即位，後者採用皇帝名號盧基烏斯·奧理略·維魯斯。馬可·奧理略統治時期，羅馬帝國經歷大量軍事衝突。在東方，羅馬與復興的安息帝國及叛亂的亞美尼亞王國交戰；在北方，奧理略在馬科曼尼戰爭中擊敗馬科曼尼人、誇迪人與伊阿居格人等薩馬提亞人部族。這些日耳曼民族逐漸成為帝國面臨的嚴重威脅。他還降低羅馬貨幣第納爾銀幣的含銀量。",
+  "bio_source": "zhwiki",
+  "description_en": "16th Roman Emperor from 161 to 180 and Stoic philosopher",
+  "bio_en": "Marcus Aurelius Antoninus ( or-EE-lee-əs; Latin: [ˈmaːrkʊs au̯ˈreːli.us antoːˈniːnʊs]; 26 April 121 – 17 March 180) was Roman emperor from 161 to 180 and a Stoic philosopher. He was a member of the Nerva–Antonine dynasty, the last of the rulers later known as the Five Good Emperors and the last emperor of the Pax Romana, an age of relative peace, calm, and stability for the Roman Empire lasting from 27 BC to 180 AD. He served as Roman consul in 140, 145, and 161.\nMarcus Aurelius was the son of the praetor Marcus Annius Verus and his wife Domitia Calvilla. He was related through marriage to the emperors Trajan and Hadrian.",
+  "bio_en_source": "enwiki"
+}

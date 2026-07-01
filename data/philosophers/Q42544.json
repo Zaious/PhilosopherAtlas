@@ -1,0 +1,126 @@
+{
+  "id": "Q42544",
+  "qid": "Q42544",
+  "slug": "thomas-more",
+  "name_zh": "湯馬士·摩亞",
+  "name_en": "Thomas More",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1478,
+  "death_year": 1535,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.507222222,
+      "lon": -0.1275,
+      "place": "London",
+      "period": [
+        1478,
+        1535
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "English territory",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "England",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "England and Ireland",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.5085,
+      "lon": -0.0782,
+      "place": "Tower Hill",
+      "period": [
+        1535,
+        1535
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "More, Thomas"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Utopia",
+      "title_zh": "烏托邦",
+      "year": null,
+      "qid": "Q404158",
+      "source": "wikidata"
+    },
+    {
+      "title": "Dialogue of Comfort against Tribulation",
+      "title_zh": null,
+      "year": 1553,
+      "qid": "Q18639586",
+      "source": "wikidata"
+    },
+    {
+      "title": "Responsio ad Lutherum",
+      "title_zh": null,
+      "year": 1523,
+      "qid": "Q19595607",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 133,
+  "birth_place": "London",
+  "description": "英國空想社會主義者（1478-1535）",
+  "bio": "湯瑪斯·摩爾爵士（英語：Sir Thomas More；1478年2月7日—1535年7月6日），英格蘭政治人物、作家、哲學家與空想社會主義者，為北方文藝復興的代表人物之一。1516年用拉丁文寫成《烏託邦》一書，此書對以後社會主義思想的發展有很大影響，被認為是「社會主義發展史五百年的起點 」。\n1478年生於倫敦的法官家庭，曾當過律師、財政副大臣、蘭開斯特公爵領地事務大臣、下議院議長、大法官。1535年，因反對英格蘭國王亨利八世在英國自創聖公宗並實施政教合一政策，被亨利八世處死。1935年，教宗庇護11世湯瑪斯·摩爾封聖，2000年，若望保祿二世宣佈湯瑪斯·摩爾為政治家和政客的主保聖人。",
+  "bio_source": "zhwiki",
+  "description_en": "English statesman, lawyer and philosopher (1478–1535)",
+  "bio_en": "Sir Thomas More (7 February 1478 – 6 July 1535), venerated in the Catholic Church as a martyr and saint, was an English lawyer, judge, social philosopher, author, statesman, theologian and Renaissance humanist. He also served Henry VIII as Lord Chancellor from October 1529 to May 1532. He wrote Utopia, published in 1516, which describes the political system of an imaginary island state.\nMore opposed the Protestant Reformation, directing polemics against the theology of Martin Luther, Huldrych Zwingli and William Tyndale.",
+  "bio_en_source": "enwiki"
+}

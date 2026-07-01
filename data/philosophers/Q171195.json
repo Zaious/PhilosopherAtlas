@@ -1,0 +1,163 @@
+{
+  "id": "Q171195",
+  "qid": "Q171195",
+  "slug": "nagarjuna",
+  "name_zh": "龍樹菩薩",
+  "name_en": "Nagarjuna",
+  "tradition": "indian",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 150,
+  "death_year": 250,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 13,
+      "lon": 77,
+      "place": "South India",
+      "period": [
+        150,
+        250
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Hindu kingdoms",
+          "start": 100,
+          "end": 200
+        },
+        {
+          "polity": "Chola",
+          "start": 200,
+          "end": 300
+        },
+        {
+          "polity": "Hindu kingdoms",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Kadambas",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Pallavas",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Rashtrakuta state",
+          "start": 800,
+          "end": 900
+        },
+        {
+          "polity": "Rashtrakuta",
+          "start": 900,
+          "end": 1000
+        },
+        {
+          "polity": "Chola state",
+          "start": 1000,
+          "end": 1100
+        },
+        {
+          "polity": "Cholas",
+          "start": 1100,
+          "end": 1200
+        },
+        {
+          "polity": "Chola state",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "minor Hindu kingdoms",
+          "start": 1279,
+          "end": 1400
+        },
+        {
+          "polity": "Sultanate of Delhi",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "Vijayanagara",
+          "start": 1492,
+          "end": 1700
+        },
+        {
+          "polity": "Hindu Kingdoms",
+          "start": 1700,
+          "end": 1715
+        },
+        {
+          "polity": "Mughal Empire",
+          "start": 1715,
+          "end": 1783
+        },
+        {
+          "polity": "Ambur",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Mysore (Indian princely state)",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "British Raj",
+          "start": 1880,
+          "end": 1945
+        },
+        {
+          "polity": "India",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 22.8,
+      "lon": 83,
+      "place": "India",
+      "period": [
+        250,
+        250
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Nagarjuna"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 120,
+  "birth_place": "South India",
+  "description": "古印度佛教哲學家（約2～3世紀），大乘佛教中觀思想的奠基者",
+  "bio": "龍樹（天城文：नागार्जुन, Nāgārjuna，?—?），一稱龍猛、龍勝，音譯為那嘎呵朱訥，舊譯為那伽閼剌樹那、那伽阿順那。佛教僧侶、大乘佛教論師，大約生活在公元2世紀，出生於南印度，於說一切有部中出家，在佛教史上具有崇高地位，許多人認為祂是大乘佛教中最重要的論師，相傳為證得初地果位之菩薩。其著作甚多，其中以《中論》及《大智度論》最為著稱。\n龍樹廣泛影響了大乘佛教各個宗派，中觀派以祂為創始者，瑜伽行唯識學派與如來藏學派也多以祂的著作來證明本身宗義的正確。祂對漢傳佛教的影響亦非常深遠，尤其是三論宗和天台宗，即便不是為其宗的弘揚者，也多表示對他的崇敬，或依附龍樹教門。祂在日本佛教中更享有「八宗共祖」稱號。在藏傳佛教中，與其大弟子提婆（亦名聖天）同被列入為佛教的二勝六莊嚴之一。密宗也以祂為傳承上師之一，列名八十四大成就者中。\n道教一些流派由於受到佛教禪宗、密宗的影響，也尊龍樹為神靈，尊稱其為「龍樹醫王」、「龍樹妙醫衛國禪師」，如閭山派。",
+  "bio_source": "zhwiki",
+  "description_en": "3rd-century Indian Buddhist philosopher",
+  "bio_en": "Nāgārjuna (Sanskrit, from Nāga + Arjuna; Chn. Lóngshù 龍樹; Tib. Klu sgrub; c. 150 – c. 250 CE) was a philosopher and Mahāyāna Buddhist monk from South India, considered the founder of the Madhyamaka (Centrism, Middle Way) school.\nNāgārjuna is widely considered to be the most important Buddhist philosopher after the Buddha himself. Indeed, in Tibetan Buddhism, he is even called the \"second Buddha\". He was a well known defender of the Mahāyāna movement and his  treatises (śāstras) are the foundational texts of a school of Buddhist philosophy known as the view of emptiness (Śūnyatāvāda) or Madhyamaka.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "Q169243",
+  "qid": "Q169243",
+  "slug": "protagoras",
+  "name_zh": "普羅泰戈拉",
+  "name_en": "Protagoras",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -489,
+  "death_year": -419,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 40.933714,
+      "lon": 24.973299,
+      "place": "Ancient Abdera",
+      "period": [
+        -489,
+        -419
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 38,
+      "lon": 19,
+      "place": "Ionian Sea",
+      "period": [
+        -419,
+        -419
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Protagoras"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Protagoras"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 107,
+  "birth_place": "Ancient Abdera",
+  "description": "古希臘哲學家",
+  "bio": "普羅塔哥拉斯（古希臘語：Πρωταγόρας，羅馬化：Protagóras；約前490年—前420年）是一位出身古希臘阿布德拉的智辯家。他主要致力於發展辯論技巧，同時提出哲學問題。他提出的哲學問題被柏拉圖、亞里斯多德等哲學家詳細討論。他的著名論點「人是萬物的尺度」（πάντων χρημάτων μέτρον ἐστὶν ἄνθρωπος），被解釋為支援相對主義的早期案例。\n他長期活動於雅典，並對許多道德和政治議題之思想討論產生影響。儘管採取傳統的道德觀念，但他表達了對諸神信仰的不可知論態度；根據傳統，他被指控不敬神，他的著作被公開焚燒，他被驅逐出雅典。\n透過聲稱與過去偉大的詩人和思想家有直接聯絡，同時也透過借鑒和改造他們的基本論述，普羅泰戈拉將自己呈現為派地亞的繼承人，也是能夠符合當時城邦政治社會中新需要的教育家。\n有關他生平的記載很少，他成為許多（往往是不可靠的）軼事的描述物件。",
+  "bio_source": "zhwiki",
+  "description_en": "Pre-Socratic Greek philosopher (c.490–c.420 BC)",
+  "bio_en": "Protagoras ( proh-TAG-ər-əs, -⁠ass; Greek: Πρωταγόρας; c. 490 BC – c. 420 BC) was a pre-Socratic Greek philosopher and rhetorical theorist. He is numbered as one of the sophists by Plato. In his dialogue Protagoras, Plato credits him with inventing the role of the professional sophist.\nProtagoras is also believed to have created a major controversy during ancient times through his statement that \"Of all things the measure is Man, of the things that are, that they are, and of the things that are not, that they are not\" which was usually rendered simply as \"Man is the measure of all things\", interpreted (possibly wrongly, since he disagreed) by Plato to mean that there is n…",
+  "bio_en_source": "enwiki"
+}

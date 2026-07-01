@@ -1,0 +1,139 @@
+{
+  "id": "Q318998",
+  "qid": "Q318998",
+  "slug": "han-yu",
+  "name_zh": "韓愈",
+  "name_en": "Han Yu",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 34.91355,
+      "lon": 112.7852,
+      "place": "Meng Prefecture",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Toba Wei",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 34.308333333,
+      "lon": 108.858333333,
+      "place": "Chang'an",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Han Yu"
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Han Yu"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Meng Prefecture",
+  "description": "唐代文人(768-824)",
+  "bio": "韓愈（768年—824年12月25日），字退之，河南府河陽縣（今河南省孟州市）人，自稱郡望昌黎，世稱韓昌黎；晚年任吏部侍郎，又稱韓吏部。唐朝官員、文學家，與柳宗元是當時古文運動的推行者，合稱「韓柳」。蘇軾稱讚他「文起八代之衰，道濟天下之溺，忠犯人主之怒，勇奪三軍之帥」（八代：東漢、魏、晉、宋、齊、梁、陳、隋）。散文、詩，均有名。諡號「文」，世稱韓文公。著作收錄《昌黎先生集》。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese historian, poet, philosopher and politician (768–824)",
+  "bio_en": "Han Yu (Chinese: 韓愈; 768 – 25 December 824), courtesy name Tuizhi (Chinese: 退之), and commonly known by his posthumous name Han Wengong (韓文公), was an essayist, Confucian scholar, poet, and government official during the Tang dynasty who significantly influenced the development of Neo-Confucianism. Described as \"comparable in stature to Dante, Shakespeare or Goethe\" for his influence on the Chinese literary tradition,  Han Yu stood for strong central authority in politics and orthodoxy in cultural matters.\nHe is often considered to be among China's finest prose writers. Ming dynasty scholar Mao Kun (茅坤) ranked him first among the \"Eight Great Prose Masters of the Tang and Song\".",
+  "bio_en_source": "enwiki"
+}

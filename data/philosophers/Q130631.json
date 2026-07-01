@@ -1,0 +1,87 @@
+{
+  "id": "Q130631",
+  "qid": "Q130631",
+  "slug": "jacques-derrida",
+  "name_zh": "雅克·德希達",
+  "name_en": "Jacques Derrida",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1930,
+  "death_year": 2004,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 36.768333333,
+      "lon": 3.030555555,
+      "place": "El Biar",
+      "period": [
+        1930,
+        2004
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.847222222,
+      "lon": 2.344444444,
+      "place": "5th arrondissement of Paris",
+      "period": [
+        2004,
+        2004
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 47,
+      "lon": 2,
+      "place": "France",
+      "period": [
+        1949,
+        2004
+      ],
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Derrida, Jacques"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Derrida, Jacques"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 99,
+  "birth_place": "El Biar",
+  "description": "法國哲學家（1930—2004）",
+  "bio": "雅克·德希達（法語：Jacques Derrida，法語發音：[ʒak dɛʁida]；1930年7月15日—2004年10月9日），幼名雅基（法語：Jackie）。當代法國解構主義大師、當代最重要亦最受爭議的哲學家之一。德希達一生總共發表超過40多部著作，以及數百篇散文。他在人文和社會科學如：人類學、歷史學、語言學、社會語言學、政治理論、女權主義和酷兒研究都有顯著影響。他的作品迄今在歐洲大陸、南美和其他國家地區的歐陸哲學中仍佔主導地位，特別是在圍繞本體論、認識論（尤其是關於社會科學）、倫理學、美學，詮釋學、哲學辯論的學術界產生了重大影響。雅克·德希達的哲學亦以解構主義的形式影響建築、音樂、藝術和藝術評論家。德希達曾說過，作為解構主義的鼻祖，他已留下屬於自己的「遺產」。在後來的著作中，他經常處理一些道德和政治議題，這些作品影響了不同的政治運動，從而使德希達成為一位份量十足的公眾人物。",
+  "bio_source": "zhwiki",
+  "description_en": "French philosopher (1930–2004)",
+  "bio_en": "Jacques Derrida (; French: [ʒak dɛʁida]; born Jackie Élie Derrida; 15 July 1930 – 9 October 2004) was a French philosopher. He developed the philosophy of deconstruction, which he applied in some of his texts, and which he developed through close readings of the linguistics of Ferdinand de Saussure and Husserlian and Heideggerian phenomenology. He is one of the major figures associated with post-structuralism and postmodern philosophy although he distanced himself from post-structuralism and disavowed the word \"postmodernity\".\nDuring his career, Derrida published over 40 books, together with hundreds of essays and public presentations.",
+  "bio_en_source": "enwiki"
+}

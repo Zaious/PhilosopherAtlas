@@ -1,0 +1,168 @@
+{
+  "id": "Q619",
+  "qid": "Q619",
+  "slug": "nicolaus-copernicus",
+  "name_zh": "尼古拉·哥白尼",
+  "name_en": "Nicolaus Copernicus",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1473,
+  "death_year": 1543,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 53.0144,
+      "lon": 18.6014,
+      "place": "Toruń",
+      "period": [
+        1473,
+        1543
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Poland-Lithuania",
+          "start": 1400,
+          "end": 1530
+        },
+        {
+          "polity": "Poland-Llituania",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Polish–Lithuanian Commonwealth",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Prussia",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Poland",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 54.358333333,
+      "lon": 19.683333333,
+      "place": "Frombork",
+      "period": [
+        1543,
+        1543
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 45.407777777,
+      "lon": 11.873333333,
+      "place": "Padua",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 44.493888888,
+      "lon": 11.342777777,
+      "place": "Bologna",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.061388888,
+      "lon": 19.937222222,
+      "place": "Kraków",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 53.016666666,
+      "lon": 18.616666666,
+      "place": "Toruń",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Copernicus, Nicolaus"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Commentariolus",
+      "title_zh": "短論",
+      "year": null,
+      "qid": "Q675765",
+      "source": "wikidata"
+    },
+    {
+      "title": "De revolutionibus orbium coelestium",
+      "title_zh": "天體運行論",
+      "year": 1543,
+      "qid": "Q845981",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 212,
+  "birth_place": "Toruń",
+  "description": "15至16世紀波蘭數學家和天文學家",
+  "bio": "尼古拉·哥白尼（拉丁語：Nicolaus Copernicus，波蘭語：Mikołaj Kopernik，1473年2月19日—1543年5月24日）是文藝復興時期的波蘭博學家，提倡日心說模型，認為太陽為宇宙的中心。1543年哥白尼臨終前發表了《天體執行論》，它開啟了哥白尼革命，並對推動科學革命有相當大的貢獻。\n哥白尼出生於皇家普魯士，該地區自1466年隸屬於波蘭王國。哥白尼獲得了教會法規博士學位，同時也是一名醫生，通曉多國語言，瞭解古典文學，能夠勝任翻譯，做過執政官、外交官，也是一名經濟學家（後續幾項都沒有學歷學位）。1517年，哥白尼總結了貨幣量化理論，成為當今經濟學的重要基礎之一。1519年，哥白尼在湯瑪斯·格雷沙姆之前總結出劣幣驅逐良幣理論的前身。",
+  "bio_source": "zhwiki",
+  "description_en": "Polish mathematician and astronomer (1473-1543)",
+  "bio_en": "Nicolaus Copernicus (19 February 1473 – 24 May 1543) was a Renaissance polymath who formulated a model of the universe that placed the Sun rather than Earth at its center. The publication of Copernicus's model in his book De revolutionibus orbium coelestium (On the Revolutions of the Celestial Spheres), just before his death in 1543, was a major event in the history of science, triggering the Copernican Revolution and making a pioneering contribution to the Scientific Revolution.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,134 @@
+{
+  "id": "Q345012",
+  "qid": "Q345012",
+  "slug": "huineng",
+  "name_zh": "惠能",
+  "name_en": "Huineng",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 638,
+  "death_year": 713,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 22.70027,
+      "lon": 112.22515,
+      "place": "Xinxing County",
+      "period": [
+        638,
+        713
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Post-Ming Warlords",
+          "start": 1650,
+          "end": 1715
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1715,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 24.80113,
+      "lon": 113.59271,
+      "place": "Shaoguan",
+      "period": [
+        713,
+        713
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Huineng"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Huineng [Hui-neng]"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 35,
+  "birth_place": "Xinxing County",
+  "description": "禪宗南宗第六代祖師",
+  "bio": "惠能（638年—713年），又作慧能，俗姓盧，生於唐代嶺南道新州（今廣東新興縣），由禪宗五祖弘忍親授衣缽，世稱禪宗（南宗）六祖。惠能開創了漢傳佛教禪宗南宗，是為曹溪禪。唐柳宗元 《曹溪大鑒禪師碑》：「凡言禪，皆本曹溪。」現代史學家陳寅恪贊其：「特提出直指人心、見性成佛之旨，一掃僧徒繁瑣章句之學，摧陷廓清，發聾振聵，固我國佛教史上一大事也」。其弟子眾多，嗣法四十三人。六祖惠能的南宗頓教禪法，經其法嗣的弘揚，繁衍出臨濟宗、溈仰宗、曹洞宗、雲門宗、法眼宗以及臨濟門下的楊歧派和黃龍派，史稱南禪「一花五葉」和「五家七宗」。\n惠能主張「佛在我心，淨心自悟，見性成佛」和「暗不自暗，以明故暗，以明變暗，來去相因」等宗旨，提倡修行學法須先「識自本心、見自本性」。在為大眾解釋功德淨土時，提出「身中淨土」「自性西方」。又認為「法無頓漸，人有利鈍」「若識自性，一悟即至佛地」，大倡直接易簡的頓悟法門，但惠能並不過分強調頓漸之分。禪宗六祖將佛教中國化、平民化，創立了中國特色的佛學教派。實際上，惠能的禪宗思想早已遠遠超出了宗教的範疇，而成為中國古代思想、學術的重要組成部分，成為人類智慧的結晶。根據惠能法語整理而成的《六祖壇經》，不僅是中國本土佛教史上惟一的經書，更是研究中國和世界佛教史、文化史、思想史、哲學史的典籍。",
+  "bio_source": "zhwiki",
+  "description_en": "semi-legendary Chinese Chan patriarch",
+  "bio_en": "Dajian Huineng or Hui-neng (traditional Chinese: 大鑒惠能; pinyin: Dàjiàn Huìnéng; Cantonese Jyutping: daai6 gaam3 wai6 nang4; Wade–Giles: Ta⁴-chien⁴ Hui⁴-nêng²; Japanese: Daikan Enō; Korean: Daegam Hyeneung; trad. 638-713), also commonly known as the Sixth Patriarch or Sixth Ancestor of Chan (traditional Chinese: 禪宗六祖), is a semi-legendary but central figure in the early history of Chinese Chan Buddhism.\nAccording to tradition Huineng was an uneducated layman who suddenly attained awakening (Chinese: 見性, jianxing) upon hearing the Diamond Sutra.",
+  "bio_en_source": "enwiki"
+}

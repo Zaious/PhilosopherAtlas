@@ -1,0 +1,142 @@
+{
+  "id": "Q188903",
+  "qid": "Q188903",
+  "slug": "mencius",
+  "name_zh": "孟子",
+  "name_en": "Mencius",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -371,
+  "death_year": -288,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 35.406,
+      "lon": 116.975,
+      "place": "Zhu",
+      "period": [
+        -371,
+        -288
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Toba Wei",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Mencius"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Mencius"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Mencius [Mengzi]"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Mencius"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 5,
+  "sitelinks": 106,
+  "birth_place": "Zhu",
+  "description": "中國戰國時期儒家思想家",
+  "bio": "孟子（前372年—前289年），姬姓，孟氏，名軻，鄒國（今山東省鄒城市）人，戰國時期儒家代表人物。其字號在漢代以前的古書未有記載，但曹魏、晉代之後卻傳出子車、子居、子輿、子展等不同的字號。生卒年月因史傳未記載而說法繁多，其中以《孟子世家譜》上所記載之生於周烈王四年（前372年），卒於周赧王二十六年（前289年）較為多數學者採用。\n孟子之弟子萬章與其餘弟子著有《孟子》一書。繼承並發揚孔子的思想，成為僅次於孔子的一代儒家宗師，獲尊稱亞聖（僅次於「至聖」孔子），與孔子合稱為「孔孟」。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese Confucian philosopher (372–289 BC)",
+  "bio_en": "Mencius (孟子, Mèngzǐ, MEN-shee-əs; c. 371 – c. 289 BC), born Meng Ke (孟軻), was a Chinese Confucian philosopher, often described as the Second Sage (亞聖) to reflect his traditional esteem relative to Confucius himself. He was part of Confucius's fourth generation of disciples, inheriting his ideology and developing it further. Living during the Warring States period, he is said to have spent much of his life travelling around the states offering counsel to different rulers. Conversations with these rulers form the basis of the Mencius, which would later be canonised as a Confucian classic.\nOne primary principle of his work is that human nature is righteous and humane.",
+  "bio_en_source": "enwiki"
+}

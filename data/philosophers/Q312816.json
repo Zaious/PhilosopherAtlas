@@ -1,0 +1,129 @@
+{
+  "id": "Q312816",
+  "qid": "Q312816",
+  "slug": "pseudodionysius-the-areopagite",
+  "name_zh": "偽狄奧尼修斯",
+  "name_en": "Pseudo-Dionysius the Areopagite",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "approximate",
+  "active_regions": [
+    {
+      "lat": 36.2,
+      "lon": 36.16,
+      "place": null,
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Diocletianus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 700
+        },
+        {
+          "polity": "Umayyad Caliphate",
+          "start": 700,
+          "end": 800
+        },
+        {
+          "polity": "Abbasid Caliphate",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Ilkhanate",
+          "start": 1279,
+          "end": 1400
+        },
+        {
+          "polity": "Timurid Empire",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "Mamluke Sultanate",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1530,
+          "end": 1920
+        },
+        {
+          "polity": "Syria (France)",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Turkey",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Pseudo-Dionysius the Areopagite"
+    }
+  ],
+  "works": [
+    {
+      "title": "De Coelesti Hierarchia",
+      "title_zh": "天階序論",
+      "year": null,
+      "qid": "Q5244319",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": null,
+  "description": "Greek philosopher",
+  "bio": "亞略巴古的偽狄奧尼修斯（古希臘語：Διονύσιος ὁ Ἀρεοπαγίτης）是5世紀晚期至6世紀早期的一位基督教神學家和哲學家，他使用假名，稱自己為「亞略巴古的丟尼修」。藉此，偽狄奧尼修斯的作品在東西方獲得了很大權威，尤其是對基督教神秘主義如埃克哈特大師產生巨大影響。隨著15世紀，其作品被發現和丟尼修的作品出自不同時代，其影響力開始下降。",
+  "bio_source": "zhwiki",
+  "description_en": "Greek philosopher",
+  "bio_en": "Pseudo-Dionysius the Areopagite (or Dionysius the Pseudo-Areopagite) was a Greek author, Christian theologian and Neoplatonic philosopher of the late 5th to early 6th century, who wrote a set of works known as the Corpus Areopagiticum or Corpus Dionysiacum. Through his writing in Mystical Theology, he has been identified as the \"progenitor of apophatic or negative theology.\"\n\nThe author pseudepigraphically identifies himself in the corpus as \"Dionysios\", portraying himself as Dionysius the Areopagite, the Athenian convert of Paul the Apostle mentioned in Acts 17:34.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,139 @@
+{
+  "id": "Q2106841",
+  "qid": "Q2106841",
+  "slug": "susan-stebbing",
+  "name_zh": null,
+  "name_en": "Susan Stebbing",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.61712,
+      "lon": -0.17426,
+      "place": "North Finchley",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Constantinus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Anglo-Saxons",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Cantia",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Essex",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "England",
+          "start": 1000,
+          "end": 1200
+        },
+        {
+          "polity": "Angevin Empire",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "English territory",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "England",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "England and Ireland",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.507222222,
+      "lon": -0.1275,
+      "place": "London",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Stebbing, Susan"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Stebbing, Susan"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "North Finchley",
+  "description": "British philosopher (1885-1943)",
+  "bio": null,
+  "bio_source": null,
+  "description_en": "British philosopher (1885-1943)",
+  "bio_en": "Lizzie Susan Stebbing (2 December 1885 – 11 September 1943) was a British philosopher. She belonged to the 1930s generation of analytic philosophy, and was a founder in 1933 of the journal Analysis. Stebbing was the first woman to hold a philosophy chair in the United Kingdom, as well as the first female President of Humanists UK.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,147 @@
+{
+  "id": "Q76356",
+  "qid": "Q76356",
+  "slug": "hansgeorg-gadamer",
+  "name_zh": "漢斯-格奧爾格·伽達默爾",
+  "name_en": "Hans-Georg Gadamer",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1900,
+  "death_year": 2002,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 50.816666666,
+      "lon": 8.766666666,
+      "place": "Marburg",
+      "period": [
+        1900,
+        2002
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Germany",
+          "start": 1900,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (UK)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 49.412222222,
+      "lon": 8.71,
+      "place": "Heidelberg",
+      "period": [
+        2002,
+        2002
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.3406321,
+      "lon": 12.3747329,
+      "place": "Leipzig",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51,
+      "lon": 10,
+      "place": "Germany",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Gadamer, Hans-Georg"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Gadamer, Hans-Georg"
+    }
+  ],
+  "works": [
+    {
+      "title": "Truth and Method",
+      "title_zh": "真理與方法",
+      "year": 1960,
+      "qid": "Q838746",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Relevance of the Beautiful and Other Essays",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q65220228",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 78,
+  "birth_place": "Marburg",
+  "description": "德國哲學家（1900－2002）",
+  "bio": "漢斯-格奧爾格·伽達默爾（德語：Hans-Georg Gadamer，1900年2月11日—2002年3月13日），德國著名哲學家，詮釋學大師，二十世紀最具影響力的哲學家之一。其1960年出版著作《真理與方法》使其聞名於世。他對詮釋學作出了巨大貢獻，他的哲學精神和人生實踐統一在這樣一個問題上：對話和理解如何可能是此在（Dasein）的一種存在方式。他的一生都在研究對話和理解，他的教學和著述也都是在與聽眾的對話中展開的。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher (1900–2002)",
+  "bio_en": "Hans-Georg Gadamer (; German: [ˈɡaːdamɐ]; 11 February 1900 – 13 March 2002) was a German philosopher of the continental tradition, best known for his 1960 magnum opus on hermeneutics, Truth and Method (Wahrheit und Methode).",
+  "bio_en_source": "enwiki"
+}

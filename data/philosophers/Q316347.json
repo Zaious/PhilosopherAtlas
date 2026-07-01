@@ -1,0 +1,137 @@
+{
+  "id": "Q316347",
+  "qid": "Q316347",
+  "slug": "thomas-reid",
+  "name_zh": "托馬斯·里德",
+  "name_en": "Thomas Reid",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 57.0205,
+      "lon": -2.53855,
+      "place": "Strachan",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Picts",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Scotland",
+          "start": 1000,
+          "end": 1492
+        },
+        {
+          "polity": "Scottland",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Scotland",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Scottalnd",
+          "start": 1650,
+          "end": 1715
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 55.861111111,
+      "lon": -4.25,
+      "place": "Glasgow",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Reid, Thomas"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Reid, Thomas"
+    }
+  ],
+  "works": [
+    {
+      "title": "Essays on the Intellectual Powers of Man",
+      "title_zh": null,
+      "year": 1785,
+      "qid": "Q19096493",
+      "source": "wikidata"
+    },
+    {
+      "title": "An Inquiry into the Human Mind: on the Principles of Common Sense",
+      "title_zh": null,
+      "year": 1764,
+      "qid": "Q107264104",
+      "source": "wikidata"
+    },
+    {
+      "title": "Essays on the Active Powers of the Human Mind",
+      "title_zh": null,
+      "year": 1788,
+      "qid": "Q107264545",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Strachan",
+  "description": "Scottish philosopher (1710–1796)",
+  "bio": "湯瑪斯·裡德（英語：Thomas Reid，1710年4月26日—1796年10月7日）是18世紀蘇格蘭啟蒙運動時期哲學家，蘇格蘭常識學派的創始人。裡德開始任教於亞伯丁大學，後到格拉斯哥大學接任亞當·斯密成為該校的道德哲學講座教授。",
+  "bio_source": "zhwiki",
+  "description_en": "Scottish philosopher (1710–1796)",
+  "bio_en": "Thomas Reid (; 7 May (O.S. 26 April) 1710 – 7 October 1796) was a religiously trained Scottish philosopher best known for his philosophical method, his theory of perception, and its wide implications on epistemology, and as the developer and defender of an agent-causal theory of free will. He also focused extensively on ethics, theory of action, language and philosophy of mind. \nHe was the founder of the Scottish School of Common Sense and played an integral role in the Scottish Enlightenment. In 1783 he was a joint founder of the Royal Society of Edinburgh.",
+  "bio_en_source": "enwiki"
+}

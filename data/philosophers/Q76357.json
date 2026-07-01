@@ -1,0 +1,201 @@
+{
+  "id": "Q76357",
+  "qid": "Q76357",
+  "slug": "jrgen-habermas",
+  "name_zh": "于爾根·哈伯瑪斯",
+  "name_en": "Jürgen Habermas",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.225556,
+      "lon": 6.776667,
+      "place": "Düsseldorf",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Constantinus)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Franks",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Frankish Kingdom",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Carolingian Empire",
+          "start": 800,
+          "end": 900
+        },
+        {
+          "polity": "East Francia",
+          "start": 900,
+          "end": 1000
+        },
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1000,
+          "end": 1783
+        },
+        {
+          "polity": "Prussia",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (UK)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 47.997222222,
+      "lon": 11.340555555,
+      "place": "Starnberg",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.110555555,
+      "lon": 8.682222222,
+      "place": "Frankfurt",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.816666666,
+      "lon": 8.766666666,
+      "place": "Marburg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Habermas, Jürgen"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Habermas, Jürgen"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Theory of Communicative Action",
+      "title_zh": "溝通行動理論",
+      "year": 1981,
+      "qid": "Q1362751",
+      "source": "wikidata"
+    },
+    {
+      "title": "Legitimation Crisis",
+      "title_zh": "晚期資本主義合法化問題",
+      "year": 1973,
+      "qid": "Q15891166",
+      "source": "wikidata"
+    },
+    {
+      "title": "Knowledge and Human Interests",
+      "title_zh": null,
+      "year": 1968,
+      "qid": "Q1355022",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q1535485",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1535485",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Düsseldorf",
+  "description": "德国哲学家、社会学家（1929—2026）",
+  "bio": "尤爾根·哈伯瑪斯（德語：Jürgen Habermas，發音：[ˈjʏʁɡn̩ ˈhaːbɐmaːs] ；1929年6月18日—2026年3月14日），德國當代最重要的哲學家、社會學家之一，為西方馬克思主義法蘭克福學派第二代的中堅人物。\n哈伯瑪斯歷任海德堡大學教授、法蘭克福大學教授、法蘭克福大學社會研究所所長以及馬克斯普朗克學會生活世界研究所所長，於1994年榮休。他繼承和發展了康德哲學，致力於重建「啟蒙」傳統，視現代性為「尚未完成之工程」，提出了著名的溝通理性的理論，對後現代主義思潮進行了深刻的對話及有力的批判。",
+  "bio_source": "zhwiki",
+  "description_en": "German sociologist and philosopher (1929–2026)",
+  "bio_en": "Jürgen Habermas (18 June 1929 – 14 March 2026) was a German philosopher and social theorist in the tradition of critical theory and pragmatism. His work addressed communicative rationality and the public sphere. He held professorships at Heidelberg University and Goethe University Frankfurt and directed the Max Planck Institute in Starnberg.\nAssociated with the Frankfurt School, Habermas's work focused on the foundations of epistemology and social theory, the analysis of advanced capitalism and democracy, the rule of law in a critical social-evolutionary context, and contemporary politics, particularly German politics.",
+  "bio_en_source": "enwiki"
+}

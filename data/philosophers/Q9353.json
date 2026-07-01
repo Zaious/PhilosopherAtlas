@@ -1,0 +1,149 @@
+{
+  "id": "Q9353",
+  "qid": "Q9353",
+  "slug": "john-locke",
+  "name_zh": "約翰·洛克",
+  "name_en": "John Locke",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1632,
+  "death_year": 1704,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.3617,
+      "lon": -2.7606,
+      "place": "Wrington",
+      "period": [
+        1632,
+        1704
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "England and Ireland",
+          "start": 1600,
+          "end": 1715
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.756,
+      "lon": 0.212,
+      "place": "High Laver",
+      "period": [
+        1704,
+        1704
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Locke, John"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Locke, John"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Locke, John"
+    }
+  ],
+  "works": [
+    {
+      "title": "Some Thoughts Concerning Education",
+      "title_zh": "教育漫話",
+      "year": null,
+      "qid": "Q2471642",
+      "source": "wikidata"
+    },
+    {
+      "title": "A Letter Concerning Toleration",
+      "title_zh": "論宗教寬容：致友人的一封信",
+      "year": 1689,
+      "qid": "Q914139",
+      "source": "wikidata"
+    },
+    {
+      "title": "Two Treatises of Government",
+      "title_zh": "政府論",
+      "year": 1690,
+      "qid": "Q231949",
+      "source": "wikidata"
+    },
+    {
+      "title": "An Essay Concerning Human Understanding",
+      "title_zh": "人類理解論",
+      "year": 1690,
+      "qid": "Q482438",
+      "source": "wikidata"
+    },
+    {
+      "title": "Of the Conduct of the Understanding",
+      "title_zh": null,
+      "year": 1706,
+      "qid": "Q7078837",
+      "source": "wikidata"
+    },
+    {
+      "title": "The prince and the cobbler",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q10339965",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 206,
+  "birth_place": "Wrington",
+  "description": "英國哲學家和醫生（1632－1704）",
+  "bio": "約翰·洛克（英語：John Locke，1632年8月29日—1704年10月28日，FRS），著名英國哲學家，最具影響力的啟蒙哲學家之一，並被廣泛形容為自由主義之父。在知識論上，洛克與喬治·貝克萊、大衛·休謨三人被列為英國經驗主義的代表人物，同時洛克也在社會契約理論上做出重要貢獻。他發展出了一套與湯瑪斯·霍布斯的自然狀態不同的理論，主張政府只有在取得被統治者的同意，並且保障人民擁有生命、自由、和財產的自然權利時，其統治才有正當性。洛克相信只有在取得被統治者的同意時，社會契約才會成立，如果缺乏了這種同意，那麼人民便有推翻政府的權利。約翰·洛克將國家權力分為立法權、行政權和對外權，並主張立法權與行政權的分立，行政權與對外權的統一；立法權是國家最高權力。\n洛克的思想對於後代政治哲學的發展產生巨大影響，並且被廣泛視為是啟蒙時代最具影響力的思想家和自由主義者。他的著作也大為影響了伏爾泰和盧梭，以及許多蘇格蘭啟蒙運動的思想家和美國開國元勳。《美國獨立宣言》亦受到他的古典共和主義觀念和自由主義觀念影響。\n洛克的精神哲學理論通常被視為是現代主義中「本體」以及自我理論的奠基者，也影響了後來大衛·休謨、讓·雅各·盧梭、與伊曼努爾·康德等人的著作。洛克是第一個以連續的「意識」來定義自我概念的哲學家，他也提出了心靈是一塊「白板」的假設。與笛卡爾或基督教哲學不同的是，洛克認為人生下來是不帶有任何記憶和思想的。",
+  "bio_source": "zhwiki",
+  "description_en": "English philosopher and physician (1632-1704)",
+  "bio_en": "John Locke (; 29 August 1632 – 28 October 1704) was an English philosopher and physician, widely regarded as one of the most influential of the Enlightenment thinkers and commonly known as the \"father of liberalism\". His important works include A Letter Concerning Toleration (1689), Two Treatises of Government (1689/90), both published anonymously, and An Essay Concerning Human Understanding (1689/90). His writing on toleration contends that religion is a matter for the individual and that the churches are voluntary associations, ruling out religious coercion and uniformity; these lead to the idea of separation of church and state.",
+  "bio_en_source": "enwiki"
+}

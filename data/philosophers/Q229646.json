@@ -1,0 +1,109 @@
+{
+  "id": "Q229646",
+  "qid": "Q229646",
+  "slug": "gertrude-elizabeth-margaret-anscombe",
+  "name_zh": "伊莉莎白·安斯康姆",
+  "name_en": "Gertrude Elizabeth Margaret Anscombe",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 52.6653,
+      "lon": -8.6238,
+      "place": "Limerick",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Irlanda",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Celtic kingdoms",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "English territory",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "England",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "England and Ireland",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "Kingdom of Ireland",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "Ireland",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 52.208055555,
+      "lon": 0.1225,
+      "place": "Cambridge",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Anscombe, Gertrude Elizabeth Margaret"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Anscombe, G.E.M."
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Limerick",
+  "description": "British analytic philosopher",
+  "bio": "伊莉莎白·安斯康姆（英語：Gertrude Elizabeth Margaret Anscombe；1919年3月18日—2001年1月5日），英國著名分析哲學家，師從路德維希·維根斯坦。",
+  "bio_source": "zhwiki",
+  "description_en": "British analytic philosopher",
+  "bio_en": "Gertrude Elizabeth Margaret Anscombe (; 18 March 1919 – 5 January 2001), usually cited as G. E. M. Anscombe or Elizabeth Anscombe, was a British analytic philosopher. She wrote on the philosophy of mind, philosophy of action, philosophical logic, philosophy of language, and ethics. She was a prominent figure of analytical Thomism, a fellow of Somerville College, Oxford, and a professor of philosophy at the University of Cambridge.\nAnscombe was a student of Ludwig Wittgenstein and became an authority on his work and edited and translated many books drawn from his writings, above all his Philosophical Investigations.",
+  "bio_en_source": "enwiki"
+}

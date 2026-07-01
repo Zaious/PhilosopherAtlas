@@ -1,0 +1,152 @@
+{
+  "id": "Q187172",
+  "qid": "Q187172",
+  "slug": "bodhidharma",
+  "name_zh": "菩提達摩",
+  "name_en": "Bodhidharma",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 440,
+  "death_year": 540,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 12.830833333,
+      "lon": 79.707777777,
+      "place": "Kanchipuram",
+      "period": [
+        440,
+        540
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Hindu kingdoms",
+          "start": 400,
+          "end": 500
+        },
+        {
+          "polity": "Pallavas",
+          "start": 500,
+          "end": 800
+        },
+        {
+          "polity": "Pallava state",
+          "start": 800,
+          "end": 900
+        },
+        {
+          "polity": "Pallava",
+          "start": 900,
+          "end": 1000
+        },
+        {
+          "polity": "Chola state",
+          "start": 1000,
+          "end": 1100
+        },
+        {
+          "polity": "Cholas",
+          "start": 1100,
+          "end": 1200
+        },
+        {
+          "polity": "Chola state",
+          "start": 1200,
+          "end": 1492
+        },
+        {
+          "polity": "Vijayanagara",
+          "start": 1492,
+          "end": 1650
+        },
+        {
+          "polity": "Golkonda",
+          "start": 1650,
+          "end": 1700
+        },
+        {
+          "polity": "Mughal Empire",
+          "start": 1700,
+          "end": 1783
+        },
+        {
+          "polity": "Carnatic",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "British East India Company",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "British Raj",
+          "start": 1880,
+          "end": 1945
+        },
+        {
+          "polity": "India",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 34.50709,
+      "lon": 112.93569,
+      "place": "Shaolin Monastery",
+      "period": [
+        540,
+        540
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bodhidharma"
+    }
+  ],
+  "works": [
+    {
+      "title": "Long Scroll of the Treatise on the Two Entrances and Four Practices",
+      "title_zh": "菩提達磨大師略辨大乘入道四行觀",
+      "year": null,
+      "qid": "Q6673220",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 66,
+  "birth_place": "Kanchipuram",
+  "description": "中國禪宗初代祖師",
+  "bio": "菩提達摩（梵語：बोधिधर्म，羅馬化：Bodhidharma，[boːd̪ʱid̪ʱɐɽmɐ]，382年—536年），又作菩提達磨，簡稱達摩，為南天竺、波斯人，經海路將大乘佛教禪宗帶入中國，為中國禪宗之開創者，被尊稱為達摩祖師、「東土第1代祖師」，並與寶誌禪師、傅大士合稱梁代3大士。\n據說達摩在南北朝時來到南朝梁，梁武帝曾遣使者迎入金陵，但他和梁武帝話不投機。傳說達摩轉投北魏少室山少林寺面壁閉關，並撰有《少室六門集》，不過近世學者認為其中僅有《二入四行論》為達摩親傳，且達摩未必到過少林寺。民間傳說達摩是少林武術瑰寶《易筋經》、《洗髓經》、少林七十二絕技創造者，所以江湖幫派（如洪門、青幫等）、跌打師傅、少林派門人多奉祀其為祖師。達摩的事蹟繁多，是位擁有諸多神妙傳奇的人物。",
+  "bio_source": "zhwiki",
+  "description_en": "Indian-Chinese philosopher and Buddhist Monk",
+  "bio_en": "Bodhidharma  was a semi-legendary Buddhist monk who lived during the 5th or 6th century CE. He is traditionally credited as the transmitter of Chan Buddhism to China, and is regarded as its first Chinese patriarch. He is also popularly regarded as the founder of Shaolin kung fu, an idea popularized in the 20th century, but based on the 17th century Yijin Jing and the Daoist association of daoyin gymnastics with Bodhidharma. \nLittle contemporary biographical information on Bodhidharma exists, and subsequent accounts are layered with legend and unreliable details.",
+  "bio_en_source": "enwiki"
+}

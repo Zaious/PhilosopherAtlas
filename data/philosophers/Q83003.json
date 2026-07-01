@@ -1,0 +1,108 @@
+{
+  "id": "Q83003",
+  "qid": "Q83003",
+  "slug": "antonio-gramsci",
+  "name_zh": "安東尼奧·葛蘭西",
+  "name_en": "Antonio Gramsci",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1891,
+  "death_year": 1937,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 39.766666666,
+      "lon": 8.816666666,
+      "place": "Ales",
+      "period": [
+        1891,
+        1937
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 41.893055555,
+      "lon": 12.482777777,
+      "place": "Rome",
+      "period": [
+        1937,
+        1937
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 41.90106127,
+      "lon": 12.478650254,
+      "place": "Palazzo Montecitorio",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Gramsci, Antonio"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Prison Notebooks",
+      "title_zh": "獄中札記",
+      "year": 1948,
+      "qid": "Q1113267",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 124,
+  "birth_place": "Ales",
+  "description": "義大利政治人物（1891－1937）",
+  "bio": "安東尼歐·弗朗切斯科·葛蘭西（義大利語：Antonio Francesco Gramsci，發音：[anˈtɔːnjo franˈtʃesko ˈɡramʃi] ；1891年1月23日—1937年4月27日）是義大利共產主義思想家，也是義大利共產黨的創始人和領導人之一。他的政治思想被稱為葛蘭西主義。",
+  "bio_source": "zhwiki",
+  "description_en": "Italian Marxist philosopher, writer, and politician (1891–1937)",
+  "bio_en": "Antonio Francesco Gramsci (UK:  GRAM-shee, US:  GRAHM-shee; Italian: [anˈtɔːnjo franˈtʃesko ˈɡramʃi] ; 22 January 1891 – 27 April 1937) was an Italian Marxist philosopher, journalist and politician. He was a founding member and one-time leader of the Italian Communist Party. A vocal critic of Benito Mussolini and fascism, he was imprisoned in 1926, and remained in prison until shortly before his death in 1937.\nDuring his imprisonment, Gramsci wrote more than 30 notebooks and 3,000 pages of history and analysis. His Prison Notebooks are considered a highly original contribution to 20th-century political theory.",
+  "bio_en_source": "enwiki"
+}

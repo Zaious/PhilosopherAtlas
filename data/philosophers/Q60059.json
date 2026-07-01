@@ -1,0 +1,217 @@
+{
+  "id": "Q60059",
+  "qid": "Q60059",
+  "slug": "albertus-magnus",
+  "name_zh": "艾爾伯圖斯·麥格努斯",
+  "name_en": "Albertus Magnus",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1200,
+  "death_year": 1280,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.566666666,
+      "lon": 10.433333333,
+      "place": "Lauingen",
+      "period": [
+        1200,
+        1280
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1200,
+          "end": 1783
+        },
+        {
+          "polity": "Bavaria",
+          "start": 1783,
+          "end": 1800
+        },
+        {
+          "polity": "Swabia",
+          "start": 1800,
+          "end": 1815
+        },
+        {
+          "polity": "Bavaria",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (USA)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 50.942222222,
+      "lon": 6.957777777,
+      "place": "Cologne",
+      "period": [
+        1280,
+        1280
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.016666666,
+      "lon": 12.083333333,
+      "place": "Regensburg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.15,
+      "lon": 9.95,
+      "place": "Hildesheim",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Albert the Great [Albertus Magnus]"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "De vegetabilis et plantis libri septem",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q2839792",
+      "source": "wikidata"
+    },
+    {
+      "title": "Secreta Mulierum",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q65081911",
+      "source": "wikidata"
+    },
+    {
+      "title": "De homine",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q71755022",
+      "source": "wikidata"
+    },
+    {
+      "title": "De mineralibus",
+      "title_zh": null,
+      "year": 1250,
+      "qid": "Q107042674",
+      "source": "wikidata"
+    },
+    {
+      "title": "De passionibus aeris",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q134506771",
+      "source": "wikidata"
+    },
+    {
+      "title": "De meteoris",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q134506777",
+      "source": "wikidata"
+    },
+    {
+      "title": "De quindecim problematibus",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q134506789",
+      "source": "wikidata"
+    },
+    {
+      "title": "De animalibus",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q134506833",
+      "source": "wikidata"
+    },
+    {
+      "title": "Quaestiones super De Animalibus",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q134506839",
+      "source": "wikidata"
+    },
+    {
+      "title": "Biblia mariana",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q134506842",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 94,
+  "birth_place": "Lauingen",
+  "description": "German-Dominican friar and saint (c. 1200–1280)",
+  "bio": "艾爾伯圖斯·麥格努斯（拉丁語：Albertus Magnus，約1200年—1280年11月15日）是一位中世紀歐洲重要的哲學家和神學家，他是多明我會神父，由於他知識豐富而著名，他提倡神學與科學和平並存。有人認為他是中世紀時期德國最偉大的哲學家和神學家。他也是首位將亞里斯多德的學說與基督教哲學綜合到一起的中世紀學者。羅馬天主教將他列入36位教會聖師之一。",
+  "bio_source": "zhwiki",
+  "description_en": "German-Dominican friar and saint (c. 1200–1280)",
+  "bio_en": "Albertus Magnus (c. 1200 – 15 November 1280), also known as Saint Albert the Great, Albert of Swabia, Albert von Bollstadt, or Albert of Cologne, was a German Dominican friar, philosopher, scientist, and bishop. He is considered one of the greatest medieval philosophers and thinkers.\nCanonized in 1931, he was known during his lifetime as Doctor universalis and Doctor expertus; late in his life the sobriquet Magnus was appended to his name. Scholars such as James A. Weisheipl and Joachim R. Söder have referred to him as the greatest German philosopher and theologian of the Middle Ages. The Catholic Church distinguishes him as one of the Doctors of the Church.",
+  "bio_en_source": "enwiki"
+}

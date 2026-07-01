@@ -1,0 +1,155 @@
+{
+  "id": "Q81244",
+  "qid": "Q81244",
+  "slug": "karl-popper",
+  "name_zh": "卡爾·波普",
+  "name_en": "Karl Popper",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1902,
+  "death_year": 1994,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.208333333,
+      "lon": 16.3725,
+      "place": "Vienna",
+      "period": [
+        1902,
+        1994
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Austria Hungary",
+          "start": 1900,
+          "end": 1914
+        },
+        {
+          "polity": "Austro-Hungarian Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Austria",
+          "start": 1920,
+          "end": 1938
+        },
+        {
+          "polity": "Germany",
+          "start": 1938,
+          "end": 1945
+        },
+        {
+          "polity": "Austria",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.3242,
+      "lon": -0.0969,
+      "place": "Kenley",
+      "period": [
+        1994,
+        1994
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Popper, Karl"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Popper, Karl"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Poverty of Historicism",
+      "title_zh": "歷史決定論的貧困",
+      "year": 1957,
+      "qid": "Q3283744",
+      "source": "wikidata"
+    },
+    {
+      "title": "Unended Quest",
+      "title_zh": "無盡的探索",
+      "year": 1976,
+      "qid": "Q19570133",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Logic of Scientific Discovery",
+      "title_zh": "科學發現的邏輯",
+      "year": 1934,
+      "qid": "Q1868040",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Open Society and Its Enemies",
+      "title_zh": "開放社會及其敵人",
+      "year": 1945,
+      "qid": "Q1066598",
+      "source": "wikidata"
+    },
+    {
+      "title": "Conjectures and Refutations",
+      "title_zh": null,
+      "year": 1963,
+      "qid": "Q2909277",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Self and Its Brain",
+      "title_zh": null,
+      "year": 1977,
+      "qid": "Q31080353",
+      "source": "wikidata"
+    },
+    {
+      "title": "Objective Knowledge",
+      "title_zh": null,
+      "year": 1979,
+      "qid": "Q107335607",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 128,
+  "birth_place": "Vienna",
+  "description": "科學哲學家、社學哲學家（1902－1994）",
+  "bio": "卡爾·雷蒙·博普爾爵士（英語：Sir Karl Raimund Popper，1902年7月28日—1994年9月17日），奧地利-英國哲學家，評論家與自由主義思想家；是批判理性主義的創設者，科學哲學的代表人物。\n博普爾最著名的理論，在於對經典的觀測-歸納法的批判，提出「從實驗中證偽的」的評判標準：區別「科學的」與「非科學的」。在政治上，他擁護民主和自由主義，並提出一系列社會批判法則，為「開放社會」奠定理論根基。",
+  "bio_source": "zhwiki",
+  "description_en": "Austrian-British philosopher of science and social and política e falsificationism and for criticism of Plato, Hegel and Marx as totalitarian opponents of open society (1902-1994)",
+  "bio_en": "Sir Karl Raimund Popper (28 July 1902 – 17 September 1994) was an Austrian–British philosopher, academic and social commentator. One of the 20th century's most influential philosophers of science, Popper is known for his rejection of the classical inductivist views on the scientific method in favour of empirical falsification made possible by his falsifiability criterion, and for founding the Department of Philosophy at the London School of Economics and Political Science. According to Popper, a theory in the empirical sciences can never be proven, but it can be falsified, meaning that it can (and should) be scrutinised with decisive experiments.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "Q42156",
+  "qid": "Q42156",
+  "slug": "henri-bergson",
+  "name_zh": "亨利·柏格森",
+  "name_en": "Henri Bergson",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1859,
+  "death_year": 1941,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        1859,
+        1941
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1815,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bergson, Henri"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bergson, Henri"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 137,
+  "birth_place": "Paris",
+  "description": "法國哲學家",
+  "bio": "亨利·柏格森（法語：Henri Bergson，發音：[ɑ̃ʁi bɛʁksɔn]；1859年10月18日—1941年1月4日），法國哲學家，以優美的文筆和具豐富吸引力的思想著稱。1928年，以《創造進化論》獲得1927年度的諾貝爾文學獎。",
+  "bio_source": "zhwiki",
+  "description_en": "French philosopher (1859–1941)",
+  "bio_en": "Henri-Louis Bergson (; French: [bɛʁksɔn]; 18 October 1859 – 4 January 1941) was a French philosopher who was influential in the traditions of analytic philosophy and continental philosophy, especially during the first half of the 20th century until the Second World War, but also after 1966 when Gilles Deleuze published Le Bergsonisme.\nBergson is known for his arguments that processes of immediate experience and intuition are more significant than abstract rationalism and science for understanding reality. Bergson was awarded the 1927 Nobel Prize in Literature \"in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented\".",
+  "bio_en_source": "enwiki"
+}

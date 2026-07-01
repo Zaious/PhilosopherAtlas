@@ -1,0 +1,230 @@
+{
+  "id": "Q9438",
+  "qid": "Q9438",
+  "slug": "thomas-aquinas",
+  "name_zh": "多瑪斯·阿奎那",
+  "name_en": "Thomas Aquinas",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1225,
+  "death_year": 1274,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 41.547829,
+      "lon": 13.670404,
+      "place": "castle of the counts of Aquino",
+      "period": [
+        1225,
+        1274
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Papal States",
+          "start": 1200,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 41.43808,
+      "lon": 13.195656,
+      "place": "Fossanova Abbey",
+      "period": [
+        1274,
+        1274
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 41.4764273,
+      "lon": 13.71206265,
+      "place": "Aquino",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Aquinas, Thomas"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Aquinas, Thomas"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Aquinas, Thomas"
+    }
+  ],
+  "works": [
+    {
+      "title": "Summa Theologica",
+      "title_zh": "神學大全",
+      "year": null,
+      "qid": "Q653871",
+      "source": "wikidata"
+    },
+    {
+      "title": "Quinque viae",
+      "title_zh": "五種方法",
+      "year": null,
+      "qid": "Q1192931",
+      "source": "wikidata"
+    },
+    {
+      "title": "Summa contra Gentiles",
+      "title_zh": "哲學大全",
+      "year": null,
+      "qid": "Q604274",
+      "source": "wikidata"
+    },
+    {
+      "title": "De regimine principum",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q331046",
+      "source": "wikidata"
+    },
+    {
+      "title": "Compendium theologiae",
+      "title_zh": null,
+      "year": 1267,
+      "qid": "Q2990401",
+      "source": "wikidata"
+    },
+    {
+      "title": "De unitate intellectus contra averroistas",
+      "title_zh": null,
+      "year": 1270,
+      "qid": "Q106583055",
+      "source": "wikidata"
+    },
+    {
+      "title": "Expositio super librum de causis",
+      "title_zh": null,
+      "year": 1272,
+      "qid": "Q109285937",
+      "source": "wikidata"
+    },
+    {
+      "title": "Commentary on Aristotle's Metaphysics",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q113665534",
+      "source": "wikidata"
+    },
+    {
+      "title": "Quaestio disputata De anima",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q131961777",
+      "source": "wikidata"
+    },
+    {
+      "title": "Postilla super Psalmos",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q136745633",
+      "source": "wikidata"
+    },
+    {
+      "title": "Super Boetium De Trinitate",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q136749417",
+      "source": "wikidata"
+    },
+    {
+      "title": "Sententia super Meteora",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q136749501",
+      "source": "wikidata"
+    },
+    {
+      "title": "De emptione et venditione",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q136749645",
+      "source": "wikidata"
+    },
+    {
+      "title": "Commentarium super Job",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q136749660",
+      "source": "wikidata"
+    },
+    {
+      "title": "Scriptum super libros Sententiarum",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q136749664",
+      "source": "wikidata"
+    },
+    {
+      "title": "De ente et essentia",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q136749669",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 207,
+  "birth_place": "castle of the counts of Aquino",
+  "description": "教會聖師，中世紀經院哲學家、神學家",
+  "bio": "聖多瑪斯·阿奎那（拉丁語：St. Thomas Aquinas；義大利語：Tommaso d'Aquino；約1225年—1274年3月7日；常譯為託馬斯·阿奎那或湯瑪斯·阿奎那），是歐洲中世紀經院派哲學家和神學家。他是自然神學最早的提倡者之一，也是多瑪斯主義的創立者，成為天主教長期以來哲學研究的重要根據，著作以《神學大全》最為知名。\n天主教會認為，阿奎那是史上最偉大的神學家，並將其評為36位教會聖師之一，又稱神學界之王、天使博士（天使聖師）或全能博士。",
+  "bio_source": "zhwiki",
+  "description_en": "Italian Dominican friar, philosopher, Catholic priest, and Doctor of the Church (1225–1274)",
+  "bio_en": "Thomas Aquinas (  ə-KWY-nəs; Italian: Tommaso d'Aquino, lit. 'Thomas of Aquino'; c. 1225 – 7 March 1274) was an Italian Dominican friar and priest, theologian, and philosopher. He is considered one of the most influential thinkers in the history of Catholic theology and Western philosophy.\nThomas was a proponent of natural theology and the father of a school of thought (encompassing both theology and philosophy) known as Thomism. He argued that God is the source of the light of natural reason and the light of faith. He embraced several ideas put forward by Aristotle and sought to synthesize Aristotelian philosophy with the principles of Christianity.",
+  "bio_en_source": "enwiki"
+}

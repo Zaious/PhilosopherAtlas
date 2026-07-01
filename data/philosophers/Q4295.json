@@ -1,0 +1,208 @@
+{
+  "id": "Q4295",
+  "qid": "Q4295",
+  "slug": "peter-abelard",
+  "name_zh": "彼得·阿伯拉爾",
+  "name_en": "Peter Abelard",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1079,
+  "death_year": 1142,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 47.138333,
+      "lon": -1.335833,
+      "place": "Le Pallet",
+      "period": [
+        1079,
+        1142
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Kingdom of France",
+          "start": 1000,
+          "end": 1200
+        },
+        {
+          "polity": "Angevin Empire",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "France",
+          "start": 1279,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 46.781111111,
+      "lon": 4.853888888,
+      "place": "Chalon-sur-Saône",
+      "period": [
+        1142,
+        1142
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Abelard, Peter"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Abelard [Abailard], Peter"
+    }
+  ],
+  "works": [
+    {
+      "title": "Ethica",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q42189653",
+      "source": "wikidata"
+    },
+    {
+      "title": "Introductio ad theologiam",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138309912",
+      "source": "wikidata"
+    },
+    {
+      "title": "Theologia christiana",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138311325",
+      "source": "wikidata"
+    },
+    {
+      "title": "Planctus Israel super Samson",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138311554",
+      "source": "wikidata"
+    },
+    {
+      "title": "Expositio in Hexaemeron",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138312550",
+      "source": "wikidata"
+    },
+    {
+      "title": "Epistola de Dionysio Areopagita",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138312587",
+      "source": "wikidata"
+    },
+    {
+      "title": "Theologia summi boni",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138312595",
+      "source": "wikidata"
+    },
+    {
+      "title": "Sermons",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138312602",
+      "source": "wikidata"
+    },
+    {
+      "title": "Letters",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138312609",
+      "source": "wikidata"
+    },
+    {
+      "title": "Sic et Non",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1227813",
+      "source": "wikidata"
+    },
+    {
+      "title": "Historia Calamitatum",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q2960332",
+      "source": "wikidata"
+    },
+    {
+      "title": "Dialectica",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q3706551",
+      "source": "wikidata"
+    },
+    {
+      "title": "Collationes",
+      "title_zh": null,
+      "year": 1133,
+      "qid": "Q21436484",
+      "source": "wikidata"
+    },
+    {
+      "title": "Expositio in Epistolam ad Romanos",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q42189772",
+      "source": "wikidata"
+    },
+    {
+      "title": "Letters of Abelard and Heloise",
+      "title_zh": null,
+      "year": 1200,
+      "qid": "Q120629836",
+      "source": "wikidata"
+    },
+    {
+      "title": "Hymnarius Paraclithensis",
+      "title_zh": null,
+      "year": 1200,
+      "qid": "Q136212381",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 102,
+  "birth_place": "Le Pallet",
+  "description": "French scholastic philosopher, theologian and preeminent logician (c.1079-1142)",
+  "bio": "皮埃爾·亞伯拉爾（法語：Pierre Abélard，/ˈæbəlɑːrd/，1079年—1142年4月21日），又以彼得·亞伯拉德（英語：Peter Abelard；拉丁語：Petrus Abaelardus/Abailardus）之名聞名，是法國著名天主教神學家、經院哲學家、邏輯學家、神學家、詩人、作曲家和音樂家。一般認為他開創概念論之先河。阿伯拉生於法國布列塔尼半島南特以東約10公里的勒帕萊出生，卒於法國索恩河畔沙隆的聖馬塞爾修道院。\n在哲學方面，他以透過唯名論和概念論對普遍問題的邏輯解決方案以及他在倫理學上開創性的意圖而聞名。他通常被稱為「十二世紀的笛卡爾」，深刻影響了盧梭、康德和斯賓諾莎。他有時被認為是現代經驗主義的主要先驅。\n在歷史和流行文化中，他最出名的是與他才華橫溢的學生和後來的妻子埃洛伊斯之間充滿激情和苦難的愛情以及激烈的哲學交流。他是中世紀婦女及其受教育權利的捍衛者。 在將埃洛伊斯送到布列塔尼的一個修道院以保護她，免受這種禁忌愛情以及來自叔叔的虐待後，他被她的叔叔派來的男人襲擊並且強行閹割。即使在這件事之後兩人都引退到修道院後，埃洛伊斯仍然認為自己是他的妻子，當亞伯拉爾的教義被教宗英諾森二世否定，且他本人被視為異教徒時，埃洛伊斯公開為他辯護。亞伯拉爾同時宣稱埃洛伊斯是無辜的，她出於愛而犯罪。\n在天主教神學中，他最著名的是他對靈薄獄概念的發展，以及他對贖罪的道德影響理論的介紹。",
+  "bio_source": "zhwiki",
+  "description_en": "French scholastic philosopher, theologian and preeminent logician (c.1079-1142)",
+  "bio_en": "Peter Abelard (12 February 1079 – 21 April 1142) was a medieval French scholastic, philosopher, leading logician, theologian, teacher, musician, composer, and poet.\nIn philosophy, he is celebrated for his logical solution to the problem of universals via nominalism and conceptualism and his pioneering of intent in ethics. Often referred to as the \"Descartes of the twelfth century\", he is considered a forerunner of Rousseau, Kant, and Spinoza. He is sometimes credited as a chief forerunner of modern empiricism.\nIn Catholic theology, he is best known for his development of the concept of limbo, and his introduction of the moral influence theory of atonement.",
+  "bio_en_source": "enwiki"
+}

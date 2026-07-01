@@ -1,0 +1,134 @@
+{
+  "id": "Q39837",
+  "qid": "Q39837",
+  "slug": "averroes",
+  "name_zh": "伊本·魯世德",
+  "name_en": "Averroes",
+  "tradition": "islamic",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1126,
+  "death_year": 1198,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.89,
+      "lon": -4.78,
+      "place": "Córdoba",
+      "period": [
+        1126,
+        1198
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Almoravid dynasty",
+          "start": 1100,
+          "end": 1200
+        },
+        {
+          "polity": "Almohad Caliphate",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "Castile",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Castille",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Spain",
+          "start": 1530,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 31.62947,
+      "lon": -7.98108,
+      "place": "Marrakech",
+      "period": [
+        1198,
+        1198
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Averroes [Ibn Rushd]"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Ibn Rushd [Averroes]"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Incoherence of the Incoherence",
+      "title_zh": "不一致的不一致性",
+      "year": 1100,
+      "qid": "Q3675181",
+      "source": "wikidata"
+    },
+    {
+      "title": "Bidayat al-Mujtahid",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q12197641",
+      "source": "wikidata"
+    },
+    {
+      "title": "Colliget",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q18643682",
+      "source": "wikidata"
+    },
+    {
+      "title": "On the Harmony of Religions and Philosophy",
+      "title_zh": null,
+      "year": 1179,
+      "qid": "Q28222009",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 130,
+  "birth_place": "Córdoba",
+  "description": "中世紀伊斯蘭哲學家",
+  "bio": "阿布·瓦利德·穆罕默德·伊本·艾哈邁德·伊本·魯世德（阿拉伯語：أبو الوليد محمد ابن احمد ابن رشد，1126年4月14日—1198年12月11日），西方人稱之為阿威羅伊（拉丁語：Averroes），伊斯蘭黃金時代哲學家和博學家，研究古希臘哲學、伊斯蘭哲學、伊斯蘭教法學、醫學、心理學、政治學、音樂、地理、數學、天文和物理學。\n伊本·魯世德支援亞里斯多德的哲學，反對安薩裡的神學理論，認為一切現象都遵從神創造的自然規律，而不是因神的意願而發生。他對西方哲學有重要的影響，被稱作「西歐世俗思想之父」。他對亞里斯多德思想和著作的傳播起了重要作用。",
+  "bio_source": "zhwiki",
+  "description_en": "Arab Andalusian Muslim writer and philosopher (1126–1198)",
+  "bio_en": "Ibn Rushd (14 April 1126 – 11 December 1198), Latinized as Averroes, was an Andalusian polymath and jurist who was proficient in a variety of intellectual fields, including philosophy, theology, medicine, astronomy, physics, psychology, mathematics, neurology,  Islamic jurisprudence and law, and linguistics. The author of more than 100 books and treatises, his philosophical works include numerous commentaries on Aristotle, for which he was known in the Western world as \"The Commentator\" and \"Father of Rationalism\".\nAverroes was a strong proponent of Aristotelianism; he attempted to restore what he considered the original teachings of Aristotle and opposed the Neoplatonist…",
+  "bio_en_source": "enwiki"
+}

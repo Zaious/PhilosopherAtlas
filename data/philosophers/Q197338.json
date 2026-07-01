@@ -1,0 +1,111 @@
+{
+  "id": "Q197338",
+  "qid": "Q197338",
+  "slug": "zhang-zai",
+  "name_zh": "張載",
+  "name_en": "Zhang Zai",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1020,
+  "death_year": 1077,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 34.795,
+      "lon": 114.345,
+      "place": "Kaifeng",
+      "period": [
+        1020,
+        1077
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Zhang Zai"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Zhang Zai"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Zhang Zai [Chang Tsai]"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 4,
+  "sitelinks": 26,
+  "birth_place": "Kaifeng",
+  "description": "北宋思想家、北宋五子之一（1020－1077）",
+  "bio": "張載（1020年—1077年），字子厚，自號橫渠，世稱橫渠先生，大梁（今開封）人，北宋士大夫、官員及思想家。張載早年有意從軍，後改習儒學，高中進士，曾在地方上出任知縣、判官之職，後入朝出任校書郎，退隱後著書講學。張載是宋明理學的奠基人，北宋「五子」之一，在宋明理學一直享有崇高地位，得以從祀孔廟。哲理思想上，張載強調「太虛即氣」，氣為宇宙的根本實體，萬物皆由氣凝聚而成，陰陽兩氣互相作用交感，引起天地間無窮變化，而萬物運化都依循自然之理。張載倫理學的綱要，是教人透過「知禮成性」以變化氣質，最終成為聖人。他提出性二元論，指出人有「天地之性」與「氣質之性」，前者純善，後者則是世間惡的根源。張載認為知識可分兩種，即「見聞之知」與「德性之知」，人只有依靠德性之知，才能夠認識最高的良善道德領域，而感官經驗對於追求道德也是必需的。張載在《西銘》提出民胞物與的主張，闡揚博愛利他的精神，成為影響後世深遠的名篇。宗教方面，他批評佛學的唯識論，反對其以為唯一的實在是人的心靈意識。政治思想方面，張載意欲恢復三代之治，實施封建制、井田制與宗法制。張載之學是宋代理學一重要分支，對後世王廷相、王夫之、譚嗣同等人都有重大影響。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese philosopher, essayist, politician, writer, and cosmologist (1020-1077)",
+  "bio_en": "Zhang Zai (simplified Chinese: 张载; traditional Chinese: 張載; pinyin: Zhāng Zài; Wade–Giles: Chang Tsai) (1020–1077) was a Chinese philosopher and politician. He is best known for laying out four ontological goals for intellectuals: to build up the manifestations of Heaven and Earth's spirit, to build up good life for the populace, to develop past sages' endangered scholarship, and to open up eternal peace.",
+  "bio_en_source": "enwiki"
+}

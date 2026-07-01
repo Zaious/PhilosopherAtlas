@@ -1,0 +1,171 @@
+{
+  "id": "Q9441",
+  "qid": "Q9441",
+  "slug": "the-buddha",
+  "name_zh": "釋迦牟尼",
+  "name_en": "The Buddha",
+  "tradition": "indian",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -500,
+  "death_year": -500,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 27.4814,
+      "lon": 83.275829,
+      "place": "Lumbini",
+      "period": [
+        -500,
+        -500
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Hindu kingdoms",
+          "start": 100,
+          "end": 200
+        },
+        {
+          "polity": "Magadha",
+          "start": 200,
+          "end": 300
+        },
+        {
+          "polity": "Gupta Empire",
+          "start": 300,
+          "end": 600
+        },
+        {
+          "polity": "Kanauj",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tibetan Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Rajput kingdoms",
+          "start": 1000,
+          "end": 1100
+        },
+        {
+          "polity": "Pratiharas",
+          "start": 1100,
+          "end": 1200
+        },
+        {
+          "polity": "Nepal",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "Sultanate of Delhi",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Nepal",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Sultanate of Delhi",
+          "start": 1500,
+          "end": 1530
+        },
+        {
+          "polity": "Mughal Empire",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Nepal",
+          "start": 1650,
+          "end": 1700
+        },
+        {
+          "polity": "Mughal Empire",
+          "start": 1700,
+          "end": 1783
+        },
+        {
+          "polity": "Nepal",
+          "start": 1783,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 26.740277777,
+      "lon": 83.888888888,
+      "place": "Kushinagar",
+      "period": [
+        -500,
+        -500
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 22.8,
+      "lon": 83,
+      "place": "India",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 28,
+      "lon": 84,
+      "place": "Nepal",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Buddha"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Buddha"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 273,
+  "birth_place": "Lumbini",
+  "description": "古印度思想家、佛教的創始人",
+  "bio": "悉達多·喬達摩（梵語：सिद्धार्थ गौतम，羅馬化：Siddhārtha Gautama；前623／563／480年—前543／483／400年），號稱釋迦牟尼，被普遍稱為佛陀，古印度地區思想家、哲學家。古代印度河-恆河平原地區的苦行者和宗教導師，生活於前六至前五世紀左右，佛教創始人。根據佛教傳説，釋迦牟尼出生於藍毗尼（今尼泊爾南部附近）的王族家庭，為剎帝利種姓，後來出家並遊走四方，在經歷了託缽乞食、苦行和冥想的生活之後，他在位於現今印度比哈爾邦的菩提伽耶證得涅槃，之後，佛陀遊歷於印度河-恆河平原下游地區，弘法並成立僧團（僧伽）。佛教傳統認為，他最終在拘屍那羅（今印度北方邦）完寂，並且達到涅槃（「徹底解脫於有為法」）這一境界。\n根據佛教傳統，佛陀教導了一條介於感官享樂與嚴苛苦行之間的中道，以求使人能夠從無明、貪欲、輪迴及苦痛中解脫出來。他所提出的核心教義被概括為四聖諦及八正道，這是一種心性訓練，包括道德修行、慈悲待人，以及諸如禁慾、正念和禪定（真正的禪修）等禪修方法。他教義的另一個關鍵要素是五蘊和緣起，描述了所有法（包括心理狀態和具體事物）如何產生和消亡一事，根據相關觀點，它們依賴其他法，本身並不獨立存在（自性）。",
+  "bio_source": "zhwiki",
+  "description_en": "Indian philosopher and the founder of Buddhism (623 or 563 BCE – 543 or 483 BCE)",
+  "bio_en": "Siddhartha Gautama, most commonly referred to as the Buddha (lit. 'the awakened one'), was a wandering ascetic and religious teacher who lived in the eastern Indo-Gangetic Plains during the 6th or 5th century BCE and founded Buddhism. According to Buddhist legends, he was born in Lumbini, in what is now Nepal, to royal parents of the Shakya clan, but renounced his home life to live as a wandering ascetic. After leading a life of mendicancy, asceticism, and meditation, he attained nirvana at Bodh Gaya in what is now Bihar, India. The Buddha then wandered through the lower Indo-Gangetic Plain, teaching and building a monastic order (sangha).",
+  "bio_en_source": "enwiki"
+}

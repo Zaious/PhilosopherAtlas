@@ -1,0 +1,258 @@
+{
+  "id": "Q43746",
+  "qid": "Q43746",
+  "slug": "bonaventure",
+  "name_zh": "聖文德",
+  "name_en": "Bonaventure",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1221,
+  "death_year": 1274,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 42.63,
+      "lon": 12.089166666,
+      "place": "Bagnoregio",
+      "period": [
+        1221,
+        1274
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1200,
+          "end": 1530
+        },
+        {
+          "polity": "Florence",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Tuscany",
+          "start": 1650,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 45.7675,
+      "lon": 4.835,
+      "place": "Lyon",
+      "period": [
+        1274,
+        1274
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bonaventure"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Bonaventure"
+    }
+  ],
+  "works": [
+    {
+      "title": "Vitis mystica",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q138605124",
+      "source": "wikidata"
+    },
+    {
+      "title": "Summa theologiae",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138605149",
+      "source": "wikidata"
+    },
+    {
+      "title": "Soliloquium de quatuor mentalibus exercitiis",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138605166",
+      "source": "wikidata"
+    },
+    {
+      "title": "Quaestiones de perfectione evangelica",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138605172",
+      "source": "wikidata"
+    },
+    {
+      "title": "Officium de passione Domini",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138605179",
+      "source": "wikidata"
+    },
+    {
+      "title": "Legenda minor Sancti Francisci",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138605187",
+      "source": "wikidata"
+    },
+    {
+      "title": "Legenda maior Sancti Francisci",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138606297",
+      "source": "wikidata"
+    },
+    {
+      "title": "De triplici via",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138606334",
+      "source": "wikidata"
+    },
+    {
+      "title": "De sex alis Seraphin",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138606356",
+      "source": "wikidata"
+    },
+    {
+      "title": "Quaestiones disputatae de scientia Christi",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138606370",
+      "source": "wikidata"
+    },
+    {
+      "title": "De Regno Dei descripto in parabolis evangelicis",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138606389",
+      "source": "wikidata"
+    },
+    {
+      "title": "De reductione artium ad theologiam",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138606401",
+      "source": "wikidata"
+    },
+    {
+      "title": "De perfectione vitae ad sorores",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138606414",
+      "source": "wikidata"
+    },
+    {
+      "title": "Quaestiones disputatae de mysterio Trinitatis",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138606501",
+      "source": "wikidata"
+    },
+    {
+      "title": "Commentaria in quattuor libros sententiarum Magistri Petri Lombardi",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138606505",
+      "source": "wikidata"
+    },
+    {
+      "title": "Collationes de septem donis Spiritus Sanctis",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138606537",
+      "source": "wikidata"
+    },
+    {
+      "title": "Collationes de decem praeceptis",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q138606541",
+      "source": "wikidata"
+    },
+    {
+      "title": "Breviloquium",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q911341",
+      "source": "wikidata"
+    },
+    {
+      "title": "Collationes in Hexaemeron",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q1108918",
+      "source": "wikidata"
+    },
+    {
+      "title": "Itinerarium mentis in Deum",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q3155953",
+      "source": "wikidata"
+    },
+    {
+      "title": "Lignum vitae",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q135684942",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 79,
+  "birth_place": "Bagnoregio",
+  "description": "Franciscan, bishop, cardinal, Doctor of the Church, Catholic saint",
+  "bio": "聖文德，或譯為聖文都辣、波拿文德拉、波那文都，O.F.M.（義大利語：San Bonaventura，1221年—1274年），是中世紀義大利的神學家及哲學家。作為第七任方濟各會總會長，曾任阿爾巴諾教區領銜主教。\n文德於1482年4月14被教宗西斯都四世尊奉為聖人，並於1588年被教宗西斯都五世列為教會聖師之一。文德因其完備的品德，被尊稱為「色勒芬天使博士」(拉丁語：Doctor Seraphicus)和「方濟各會第二會祖」。\n許多署名為文德中世紀的作品（其實並非文德所寫），被以「偽文德文集」為名收集起來。",
+  "bio_source": "zhwiki",
+  "description_en": "Franciscan, bishop, cardinal, Doctor of the Church, Catholic saint",
+  "bio_en": "Bonaventure (born Giovanni di Fidanza; 1221 – 15 July 1274) was an Italian Catholic Franciscan bishop, cardinal, scholastic theologian and philosopher.\nThe seventh Minister General of the Order of Friars Minor, he also served for a time as Bishop of Albano. He was canonised on 14 April 1482 by Pope Sixtus IV. In 1588 Pope Sixtus V declared him a Doctor of the Church named as the \"Seraphic Doctor\" (Latin: Doctor Seraphicus). His feast day is 15 July.\nMany writings from the Middle Ages once attributed to him have been subsequently re-classified under the name \"Pseudo-Bonaventure\".",
+  "bio_en_source": "enwiki"
+}

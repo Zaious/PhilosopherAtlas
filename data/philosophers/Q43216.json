@@ -1,0 +1,150 @@
+{
+  "id": "Q43216",
+  "qid": "Q43216",
+  "slug": "epicurus",
+  "name_zh": "伊比鳩魯",
+  "name_en": "Epicurus",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -341,
+  "death_year": -269,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.689444,
+      "lon": 26.943056,
+      "place": "Samos",
+      "period": [
+        -341,
+        -269
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 37.984166666,
+      "lon": 23.728055555,
+      "place": "Athens",
+      "period": [
+        -269,
+        -269
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 39.104812,
+      "lon": 26.552371,
+      "place": "Mytilene",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 39.1114,
+      "lon": 26.5621,
+      "place": "Mytilene",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 40.343889,
+      "lon": 26.683611,
+      "place": "Lampsacus",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 40.346685,
+      "lon": 26.699162,
+      "place": "Lampsacus",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 37.972222222,
+      "lon": 23.722222222,
+      "place": "Classical Athens",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 37.69083333,
+      "lon": 26.93833333,
+      "place": "Samos",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 38.0165425,
+      "lon": 23.871857,
+      "place": "Gargettos",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Epicurus"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Epicurus"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 150,
+  "birth_place": "Samos",
+  "description": "哲學家",
+  "bio": "伊比鳩魯（古希臘語：Ἐπίκουρος，前341年—前270年），古希臘哲學家、伊比鳩魯學派的創始人。其成功地發展了阿瑞斯提普斯的享樂主義，並將之與德謨克利特的原子論結合起來。他的學說的主要宗旨就是要達到不受幹擾的寧靜狀態。\n伊比鳩魯生於公元前341年愛琴海的薩摩斯島，但父母親都是雅典人。柏拉圖的弟子首先向他傳授了哲學。公元前323年，亞歷山大大帝去世，在隨後的政治衝突中，伊比鳩魯和家人被迫遷往科洛芬（Colophon ）（今土耳其境內）。在那裡，他跟隨德謨克利特的學徒瑙西法尼斯（Nausiphanes）繼續學習。公元前307年，他開始在雅典建立了一個學派，這個學派在他去世之前一直在雅典活動。傳說中該學派坐落於他的住房和庭院內，與外部世界完全隔絕，因此被人稱為「花園哲學家」。據說在庭院的入口處有一塊告示牌寫著：「陌生人，你將在此過著舒適的生活。在這裡享樂乃是至善之事。」\n伊比鳩魯的學說和蘇格拉底及柏拉圖最大的不同在於，前者強調遠離責任和社會活動。伊比鳩魯認為，最大的善來自快樂，沒有快樂就沒有善。快樂包括肉體上的快樂，也包括精神上的快樂。而真正的快樂來自簡單的生活，沒有恐懼和焦慮。相較之下，追求財富、權力和名聲只會帶來痛苦和折磨。",
+  "bio_source": "zhwiki",
+  "description_en": "ancient Greek philosopher",
+  "bio_en": "Epicurus (, EH-pih-KURE-əs; Ancient Greek: Ἐπίκουρος Epikouros; 341–270 BC) was an ancient Greek philosopher who founded the philosophical school of Epicureanism, which taught that management of one's desires, removal of unnecessary fears, friendship, and virtuous living led to a pleasant life and constant happiness, the highest good.\nEpicurus advocated that people were best able to pursue philosophy by living a self-sufficient life surrounded by friends; he and his followers were known for eating simple meals and discussing a wide range of philosophical subjects at \"The Garden\", the school he established in Athens.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "Q379836",
+  "qid": "Q379836",
+  "slug": "liang-chichao",
+  "name_zh": "梁啟超",
+  "name_en": "Liang Chi-chao",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1873,
+  "death_year": 1929,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 22.5151,
+      "lon": 113.0274,
+      "place": "Huicheng Subdistrict",
+      "period": [
+        1873,
+        1929
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 39.91128,
+      "lon": 116.40953,
+      "place": "Peking Union Medical College Hospital",
+      "period": [
+        1929,
+        1929
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 35.844722222,
+      "lon": 103.451944444,
+      "place": "People's Republic of China",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 39.90403,
+      "lon": 116.407526,
+      "place": "Beijing",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Liang Qichao"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 35,
+  "birth_place": "Huicheng Subdistrict",
+  "description": "中國思想家和政治家",
+  "bio": "梁啟超（1873年2月23日—1929年1月19日），署名作梁𠷠超，字卓如、宏猷、任甫，別號任公、飲冰室主人，廣東省廣州府新會縣潮居都茶坑鄉人，人稱梁新會。他在青年時期與康有為合作進行戊戌變法，失敗後流亡日本，在海外推動清朝君主立憲。清末時期，他首次提出中華民族的概念。被稱為「百科全書式的人物」。\n中華民國建立，他一度入袁世凱政府，先後擔任司法總長、幣制局長等職務，之後對袁世凱稱帝不滿，與蔡鍔等密謀發動護國運動倒袁。他還反對張勳復闢帝制而發起武裝行動討張，並一度加入段祺瑞政府擔任財政總長，兼任鹽務總署督辦等職務。退出政壇後，倡導新文化，致力文教事業，並支援五四青年愛國運動，為清華國學研究院四大導師之一，並擔任京師圖書館館長。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese politician, activist and journalist (1873–1929)",
+  "bio_en": "Liang Qichao (Chinese: 梁啓超; Wade–Giles: Liang2 Chʻi3-chʻao1; Jyutping: Loeng4 Kai2 Ciu1; February 23, 1873 – January 19, 1929) was a Chinese politician, social and political activist, journalist, and intellectual. His thought had a significant influence on the political reformation of modern China. He inspired Chinese scholars and activists with his writings and reform movements. His translations of Western and Japanese books into Chinese further introduced new theories and ideas and inspired young activists. Liang was of Taishanese descent.\nIn his youth, Liang joined his teacher Kang Youwei in the Hundred Days' Reform of 1898.",
+  "bio_en_source": "enwiki"
+}

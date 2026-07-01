@@ -1,0 +1,157 @@
+{
+  "id": "Q58586",
+  "qid": "Q58586",
+  "slug": "edmund-husserl",
+  "name_zh": "埃德蒙德·胡塞爾",
+  "name_en": "Edmund Husserl",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1859,
+  "death_year": 1938,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 49.472222222,
+      "lon": 17.110555555,
+      "place": "Prostějov",
+      "period": [
+        1859,
+        1938
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Austrian Empire",
+          "end": 1867,
+          "start": 1804
+        },
+        {
+          "polity": "Austria-Hungary",
+          "end": 1918,
+          "start": 1867
+        },
+        {
+          "polity": "Czechoslovakia",
+          "end": 1992,
+          "start": 1918
+        },
+        {
+          "polity": "Czech Republic",
+          "end": null,
+          "start": 1993
+        }
+      ],
+      "polity_source": "curated"
+    },
+    {
+      "lat": 47.995,
+      "lon": 7.85,
+      "place": "Freiburg im Breisgau",
+      "period": [
+        1938,
+        1938
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.533888888,
+      "lon": 9.935555555,
+      "place": "Göttingen",
+      "period": [
+        1901,
+        1916
+      ],
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.2075,
+      "lon": 16.365,
+      "place": "Austria–Hungary",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.593888888,
+      "lon": 17.250833333,
+      "place": "Olomouc",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Husserl, Edmund"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Husserl, Edmund"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Husserl, Edmund"
+    }
+  ],
+  "works": [
+    {
+      "title": "Logical Investigations",
+      "title_zh": "邏輯研究",
+      "year": null,
+      "qid": "Q3421975",
+      "source": "wikidata"
+    },
+    {
+      "title": "legitimacy",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q13429922",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 101,
+  "birth_place": "Prostějov",
+  "description": "德國哲學家（1859－1938）",
+  "bio": "愛德蒙·古斯塔夫·阿爾布雷希特·胡塞爾（德語：Edmund Gustav Albrecht Husserl，1859年4月8日—1938年4月26日），德國哲學家，現象學學派的奠基人。他被廣泛認為是20世紀最有影響力的哲學家之一，其思想深刻影響了存在主義、詮釋學、解構主義等歐陸哲學的主要流派。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher, known as the father of phenomenology (*1859 – †1938)",
+  "bio_en": "Edmund Gustav Albrecht Husserl (Austrian German: [ˈɛdmʊnd ˈhʊsɐl]; 8 April 1859 – 27 April 1938) was an Austrian-German philosopher and mathematician who established the school of phenomenology.\nIn his early work, he elaborated critiques of historicism and of psychologism in logic based on analyses of intentionality. In his mature work, he sought to develop a systematic foundational science based on the so-called phenomenological reduction. Arguing that transcendental consciousness sets the limits of all possible knowledge, Husserl redefined phenomenology as a transcendental idealist philosophy.",
+  "bio_en_source": "enwiki"
+}

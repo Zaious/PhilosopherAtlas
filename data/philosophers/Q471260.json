@@ -1,0 +1,104 @@
+{
+  "id": "Q471260",
+  "qid": "Q471260",
+  "slug": "josiah-royce",
+  "name_zh": "喬賽亞·羅伊斯",
+  "name_en": "Josiah Royce",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 39.219167,
+      "lon": -121.058333,
+      "place": "Grass Valley",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Desert hunter-gatherers",
+          "start": 100,
+          "end": 1492
+        },
+        {
+          "polity": "Nisenan",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Pomo",
+          "start": 1500,
+          "end": 1530
+        },
+        {
+          "polity": "Patwin",
+          "start": 1530,
+          "end": 1783
+        },
+        {
+          "polity": "Vice-Royalty of New Spain",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "United States of America",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "United States",
+          "start": 1914,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 42.375,
+      "lon": -71.106111111,
+      "place": "Cambridge",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Royce, Josiah"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Royce, Josiah"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Grass Valley",
+  "description": "American philosopher (1855–1916)",
+  "bio": "喬賽亞·羅伊斯（Josiah Royce，1855年11月20日—1916年9月14日）是美國實用主義和客觀唯心主義哲學家，美國客觀唯心主義的開創者，新黑格爾主義以及絕對唯心主義的代表人物之一。喬賽亞·羅伊斯反對唯物主義 。\n1849年，喬賽亞·羅伊斯的父母為淘金熱而移居加利福尼亞州。11歲時，其父母移居舊金山郊區。少年時期，他就對數學感興趣。1871年進入加州大學伯克利分校就讀英語系，並自學哲學，期間主要閱讀約翰·斯圖爾特·密爾和赫伯特·斯賓塞的著作。1875年大學畢業後到德國學習一年，期間在哥廷根大學和萊比錫大學學習，受教於魯道夫·赫爾曼·陸宰、威廉·文德爾班等人，並攻讀弗里德里希·謝林、阿圖爾·叔本華和康德的哲學理論，此時喬賽亞·羅伊斯開始受到德國唯心主義的影響。1876年返美後，喬賽亞·羅伊斯到霍普金斯大學攻讀哲學博士學位，並且學習黑格爾哲學。畢業後回到加州大學伯克利分校任英語系講師，講授文學、邏輯學和修辭學等。\n1885年，他被聘為哈佛大學助理教授。1892年升為正教授。他在哈佛大學執教30餘年，直至去世。",
+  "bio_source": "zhwiki",
+  "description_en": "American philosopher (1855–1916)",
+  "bio_en": "Josiah Royce (; November 20, 1855 – September 14, 1916) was an American pragmatist and objective idealist philosopher and the founder of American idealism. His philosophical ideas included his joining of pragmatism and idealism, his philosophy of loyalty, and his defense of absolutism.\nRoyce's essay \"A Word for the Times\" (December 1914) was quoted in the 1936 State of the Union Address by Franklin Delano Roosevelt: \"The human race now passes through one of its great crises. New ideas, new issues – a new call for men to carry on the work of righteousness, of charity, of courage, of patience, and of loyalty.",
+  "bio_en_source": "enwiki"
+}

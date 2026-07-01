@@ -1,0 +1,144 @@
+{
+  "id": "Q28959",
+  "qid": "Q28959",
+  "slug": "han-fei",
+  "name_zh": "韓非",
+  "name_en": "Han Fei",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -279,
+  "death_year": -232,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 34.39621,
+      "lon": 113.7249,
+      "place": "Xinzheng",
+      "period": [
+        -279,
+        -232
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Toba Wei",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Han Fei"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Han Fei"
+    }
+  ],
+  "works": [
+    {
+      "title": "Han Feizi",
+      "title_zh": "韓非子",
+      "year": -300,
+      "qid": "Q1075382",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 72,
+  "birth_place": "Xinzheng",
+  "description": "中國戰國末期思想家",
+  "bio": "韓非（約前281年—前233年），為中國戰國末期韓國的宗室公子，又稱公子非。思想家，為中國古代法家思想的代表人物，認為應該要「法」、「術」、「勢」三者並重，是法家的集大成者。其著作收在《韓非子》。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese Legalist, 280–233 BCE",
+  "bio_en": "Han Fei (c. 280 – 233 BC), also known as Han Feizi or Han Fei Tzu, was a Chinese Legalist philosopher and statesman during the Warring States period. He was a prince of the state of Han.\nHan Fei is often considered the greatest representative of Legalism for the Han Feizi, a later anthology of writings traditionally attributed to him, which synthesized the methods of his predecessors. Han Fei's ideas are sometimes compared with those of Niccolò Machiavelli, author of The Prince. Zhuge Liang is said to have attached great importance to the Han Feizi.\nAfter the early demise of the Qin dynasty, the Legalist school was officially vilified by the Han dynasty that succeeded it.",
+  "bio_en_source": "enwiki"
+}

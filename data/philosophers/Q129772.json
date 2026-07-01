@@ -1,0 +1,119 @@
+{
+  "id": "Q129772",
+  "qid": "Q129772",
+  "slug": "xenophon",
+  "name_zh": "色諾芬",
+  "name_en": "Xenophon",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": true,
+  "birth_year": -430,
+  "death_year": -353,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.9672025,
+      "lon": 23.9186855,
+      "place": "Erchia",
+      "period": [
+        -430,
+        -353
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Galerius)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 800
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 800,
+          "end": 1492
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1492,
+          "end": 1880
+        },
+        {
+          "polity": "Greece",
+          "start": 1880,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 37.938611111,
+      "lon": 22.927222222,
+      "place": "Corinth",
+      "period": [
+        -353,
+        -353
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Xenophon"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Hiero",
+      "title_zh": "希爾羅",
+      "year": null,
+      "qid": "Q1435976",
+      "source": "wikidata"
+    },
+    {
+      "title": "Cyropaedia",
+      "title_zh": "居魯士的教育",
+      "year": null,
+      "qid": "Q1145374",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 127,
+  "birth_place": "Erchia",
+  "description": "Greek philosopher, historian, soldier (c. 430–355/354 BC)",
+  "bio": "色諾芬（Ξενοφών，前427年—前355年）雅典人。軍事家，文史學家。他以記錄當時的希臘歷史、蘇格拉底語錄而著稱。",
+  "bio_source": "zhwiki",
+  "description_en": "Greek philosopher, historian, soldier (c. 430–355/354 BC)",
+  "bio_en": "Xenophon of Athens (; Ancient Greek: Ξενοφῶν; c. 430 – 355/354 BC) was a Greek military leader, philosopher, and historian. At the age of 30, he was elected as one of the leaders of the retreating Greek mercenaries, the Ten Thousand, who had been part of Cyrus the Younger's attempt to seize control of the Achaemenid Empire. As the military historian Theodore Ayrault Dodge wrote, \"the centuries since have devised nothing to surpass the genius of this warrior\".\nFor at least two millennia, it has been debated whether Xenophon was first and foremost a general, historian, or philosopher. For the majority of time in the past two millennia, Xenophon was recognised as a philosopher.",
+  "bio_en_source": "enwiki"
+}

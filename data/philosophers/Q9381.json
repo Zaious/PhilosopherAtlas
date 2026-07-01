@@ -1,0 +1,115 @@
+{
+  "id": "Q9381",
+  "qid": "Q9381",
+  "slug": "adam-smith",
+  "name_zh": "亞當·斯密",
+  "name_en": "Adam Smith",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1723,
+  "death_year": 1790,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 56.110730555,
+      "lon": -3.167369444,
+      "place": "Kirkcaldy",
+      "period": [
+        1723,
+        1790
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 55.953333333,
+      "lon": -3.189166666,
+      "place": "Edinburgh",
+      "period": [
+        1790,
+        1790
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 57,
+      "lon": -5,
+      "place": "Scotland",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Smith, Adam"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "The Theory of Moral Sentiments",
+      "title_zh": "道德情操論",
+      "year": 1759,
+      "qid": "Q1438448",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Wealth of Nations",
+      "title_zh": "國富論",
+      "year": 1776,
+      "qid": "Q233562",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 219,
+  "birth_place": "Kirkcaldy",
+  "description": "18世紀蘇格蘭哲學家、經濟學家",
+  "bio": "亞當·史密斯（英語：Adam Smith，1723年6月5日（受洗）—1790年7月17日），18世紀蘇格蘭哲學家、經濟學家，常被譽為「經濟學之父」或「資本主義之父」。他寫了兩本經典著作：《道德情操論》和《國富論》，其中《國富論》試圖闡述歐洲產業和商業發展歷史，是第一本現代的系統化經濟學著作，被視為經濟學思想發展的里程碑。這一著作提出了許多經典理論，包括自由市場經濟、勞動分工、絕對利益和市場自發調節等觀念，奠定了古典自由市場經濟理論的基礎。\n史密斯早年在格拉斯哥大學和牛津大學貝利奧爾學院學習道德哲學。畢業後他在愛丁堡大學成功舉辦了一系列公開演講，並和另一位蘇格蘭啟蒙運動的代表人物大衛·休謨建立深厚的哲學友誼。史密斯隨後獲得格拉斯哥大學的教授職位，在課堂上講授道德哲學和經濟學等主題。他在教學期間同時撰寫並出版了《道德情操論》。接著他擔任了一名貴族的家庭教師，藉此機會遊歷歐洲，並結識了啟蒙運動時期其他的知識領袖。為了回應當時透過減少進口、增加出口來保護國家市場和商人的常見政策（即後世所謂的重商主義） ，史密斯寫出了《國富論》，奠定了古典自由市場經濟理論的基礎。在這本書和其他著作中，他發展了勞動專業分工的概念，並闡述了個體理性的自身利益和競爭如何帶來整體的經濟繁榮。他的著作整體而言對經濟學、政治哲學和道德哲學的發展產生了深遠的影響。",
+  "bio_source": "zhwiki",
+  "description_en": "Scottish moral philosopher and political economist (1723–1790)",
+  "bio_en": "Adam Smith (baptised 16 June  [O.S. 5 June] 1723 – 17 July 1790) was a Scottish economist and philosopher who was a pioneer in the field of political economy and key figure during the Scottish Enlightenment. Seen by many as the \"father of economics\", or the \"father of capitalism\", he is primarily known for two classic works: The Theory of Moral Sentiments (1759) and An Inquiry into the Nature and Causes of the Wealth of Nations (1776). The latter, often abbreviated as The Wealth of Nations, is regarded as his magnum opus, marking the inception of modern economic scholarship as a comprehensive system and an academic discipline.",
+  "bio_en_source": "enwiki"
+}

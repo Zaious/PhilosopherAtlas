@@ -1,0 +1,105 @@
+{
+  "id": "Q714369",
+  "qid": "Q714369",
+  "slug": "dai-zhen",
+  "name_zh": "戴震",
+  "name_en": "Dai Zhen",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1724,
+  "death_year": 1777,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 29.78949,
+      "lon": 118.1828,
+      "place": "Xiuning County",
+      "period": [
+        1724,
+        1777
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Manchu Empire",
+          "start": 1715,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 39.90403,
+      "lon": 116.407526,
+      "place": "Beijing",
+      "period": [
+        1777,
+        1777
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Dai Zhen"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Dai Zhen [Tai Chen]"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Dai Zhen"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 4,
+  "sitelinks": 24,
+  "birth_place": "Xiuning County",
+  "description": "清代語言學家、思想家",
+  "bio": "戴震（1724年1月19日—1777年7月1日），字慎修，號東原，安徽省徽州府休寧縣（今黃山市屯溪區）人，中國清代語言學家、思想家。曾六次會試未中。晚年因學術成就顯著，乾隆帝特招入館任《四庫全書》纂修官，賜同進士出身，授翰林院庶吉士。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese scholar",
+  "bio_en": "Dai Zhen (Chinese: 戴震; pinyin: Dài Zhèn; Wade–Giles: Tai Chen, January 19, 1724 – July 1, 1777), courtesy name Shenxiu (慎修), art name Dongyuan (東原), was a  Chinese philosopher of the Qing dynasty. Hailing from Xiuning, Anhui Dai was a versatile scholar who made great contributions to mathematics, geography, phonology and philosophy. His philosophical and philological critiques of Neo-Confucianism continue to be influential. In 1733, Dai was recruited by scholar Ji Yun to be one of the editors of the official encyclopedia and collection of books, Siku Quanshu.",
+  "bio_en_source": "enwiki"
+}

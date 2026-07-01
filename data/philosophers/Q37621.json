@@ -1,0 +1,135 @@
+{
+  "id": "Q37621",
+  "qid": "Q37621",
+  "slug": "thomas-hobbes",
+  "name_zh": "湯瑪斯·霍布斯",
+  "name_en": "Thomas Hobbes",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1588,
+  "death_year": 1679,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.5854,
+      "lon": -2.10135,
+      "place": "Westport",
+      "period": [
+        1588,
+        1679
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "England and Ireland",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 53.168777,
+      "lon": -1.308742,
+      "place": "Hardwick Hall",
+      "period": [
+        1679,
+        1679
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hobbes, Thomas"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hobbes, Thomas"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hobbes, Thomas"
+    }
+  ],
+  "works": [
+    {
+      "title": "Leviathan",
+      "title_zh": "利維坦",
+      "year": 1651,
+      "qid": "Q193034",
+      "source": "wikidata"
+    },
+    {
+      "title": "De Cive",
+      "title_zh": "論公民",
+      "year": 1642,
+      "qid": "Q1149540",
+      "source": "wikidata"
+    },
+    {
+      "title": "De Corpore",
+      "title_zh": null,
+      "year": 1655,
+      "qid": "Q5244329",
+      "source": "wikidata"
+    },
+    {
+      "title": "De Homine",
+      "title_zh": null,
+      "year": 1658,
+      "qid": "Q129759346",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 159,
+  "birth_place": "Westport",
+  "description": "英國哲學家",
+  "bio": "湯瑪斯·霍布斯（英語：Thomas Hobbes，1588年4月5日—1679年12月4日），是英國的政治哲學家，現代自由主義政治哲學體系的奠基者。他也創立了機械唯物主義的完整體系，認為宇宙是所有機械地運動著的廣延物體的總和。他提出「自然狀態」和國家起源說，認為國家是人們為了遵守「自然法」而訂立契約所形成的，是一部人造的機器人，當君主可以履行該契約所約定的保證人民安全的職責時，人民應該對君主完全忠誠。他於1651年所出版的《利維坦》一書，為之後所有的西方政治哲學發展奠定根基。霍布斯的思想對其後的孟德斯鳩和尚-雅克·盧梭有深刻影響，但同時，他的社會契約論與絕對君主制相較又有其獨特性。\n雖然霍布斯最知名的是有關政治哲學的著作，但亦也有許多其他主題的著作，涵蓋了歷史、幾何學、倫理學、物理學、神學及法學。除此之外，霍布斯認為人性的行為都是出於自私（self-centred）的，這也成為哲學人類學研究的重要理論。",
+  "bio_source": "zhwiki",
+  "description_en": "English philosopher (1588–1679)",
+  "bio_en": "Thomas Hobbes ( HOBZ; 5 April 1588 – 4 December 1679) was an English philosopher and political theorist, best known for his 1651 book Leviathan, in which he expounds an influential formulation of social contract theory. He is considered to be one of the founders of modern political philosophy.\nIn his early life, overshadowed by his father's departure following a fight, he was taken under the care of his wealthy uncle. Hobbes's academic journey began in Westport, leading him to the University of Oxford, where he was exposed to classical literature and mathematics. He then graduated from the University of Cambridge in 1608.",
+  "bio_en_source": "enwiki"
+}

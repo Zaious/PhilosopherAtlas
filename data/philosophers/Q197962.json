@@ -1,0 +1,125 @@
+{
+  "id": "Q197962",
+  "qid": "Q197962",
+  "slug": "zhou-dunyi",
+  "name_zh": "周敦頤",
+  "name_en": "Zhou Dunyi",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1017,
+  "death_year": 1073,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 25.522,
+      "lon": 111.6,
+      "place": null,
+      "period": [
+        1017,
+        1073
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 29.5725,
+      "lon": 115.973333333,
+      "place": "Mount Lu",
+      "period": [
+        1073,
+        1073
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Zhou Dunyi"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Zhou Dunyi"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Zhou Dunyi [Chou Tun-i]"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 4,
+  "sitelinks": 30,
+  "birth_place": null,
+  "description": "北宋理學家",
+  "bio": "周敦頤（1017年—1073年7月24日），原名敦實，字茂叔，後避宋英宗諱，改名敦頤，號濂溪，學者稱濂溪先生。道州營道縣（今湖南道縣）人，北宋官員、學者，是宋明理學理論基礎的創始人之一。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese cosmologist, philosopher and writer (1017–1073)",
+  "bio_en": "Zhou Dunyi (Chinese: 周敦頤; Wade–Giles: Chou Tun-i; 1017–1073) was a Chinese cosmologist, philosopher, and writer during the Song dynasty. He conceptualized the Neo-Confucian cosmology of the day, explaining the relationship between human conduct and universal forces. In this way, he emphasizes that humans can master their qi (\"spirit\") in order to accord with nature. He was a major influence to Zhu Xi, who was the architect of Neo-Confucianism.  Zhou Dunyi was mainly concerned with Taiji (supreme polarity) and Wuji (limitless potential), the yin and yang, and the wu xing (the five phases).",
+  "bio_en_source": "enwiki"
+}

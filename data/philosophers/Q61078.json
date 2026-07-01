@@ -1,0 +1,173 @@
+{
+  "id": "Q61078",
+  "qid": "Q61078",
+  "slug": "walter-benjamin",
+  "name_zh": "瓦爾特·本雅明",
+  "name_en": "Walter Benjamin",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1892,
+  "death_year": 1940,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 52.516666666,
+      "lon": 13.383333333,
+      "place": "Berlin",
+      "period": [
+        1892,
+        1940
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (Soviet)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "East Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 42.426666666,
+      "lon": 3.159444444,
+      "place": "Portbou",
+      "period": [
+        1940,
+        1940
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 46.94798,
+      "lon": 7.44743,
+      "place": "Bern",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.110555555,
+      "lon": 8.682222222,
+      "place": "Frankfurt",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Benjamin, Walter"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "The Work of Art in the Age of Mechanical Reproduction",
+      "title_zh": "機械複製時代的藝術作品",
+      "year": 1936,
+      "qid": "Q1169425",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Origin of German Tragic Drama",
+      "title_zh": "德國悲劇的起源",
+      "year": null,
+      "qid": "Q7755349",
+      "source": "wikidata"
+    },
+    {
+      "title": "The arcades project",
+      "title_zh": "〈拱廊計畫〉",
+      "year": 1939,
+      "qid": "Q4785097",
+      "source": "wikidata"
+    },
+    {
+      "title": "Theses on the Philosophy of History",
+      "title_zh": null,
+      "year": 1942,
+      "qid": "Q330979",
+      "source": "wikidata"
+    },
+    {
+      "title": "One Way Street",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q112788507",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 99,
+  "birth_place": "Berlin",
+  "description": "德國哲學家、文化評論家（Walter Benjamin，1892—1940）",
+  "bio": "瓦爾特·本迪克斯·舍恩弗利斯·班雅明（德語：Walter Bendix Schönflies Benjamin，1892年7月15日—1940年9月26日），是出身德國的阿什肯納茲猶太裔哲學家、文化評論家和散文家。他的思想與學說結合了德國唯心主義、浪漫主義、西方馬克思主義和猶太神秘主義的元素，對美學理論、文學批評和歷史唯物主義做出了持久而有影響力的貢獻，在當時被認為是文化研究領域的思想領導者。他與法蘭克福學派有聯絡，尤其是與狄奧多·阿多諾的友誼讓他的思想和寫作受到了影響。他還與劇作家貝託爾特·布萊希特和卡巴拉學者格爾肖姆·朔勒姆等思想家保持友誼關係。他與政治理論家和哲學家漢娜·阿倫特曾有姻親關係，源於她與他的堂兄君特·安德斯的婚姻。\n他最著名的作品包括論文〈機械複製時代的藝術作品〉和〈歷史哲學論綱〉。他作為文學評論家的主要工作包括關於波德萊爾、歌德、卡夫卡、克勞斯、列斯科夫、普魯斯特、瓦爾澤和翻譯理論的文章。他也將法文作品，夏勒·波德萊爾的《惡之花》和馬塞爾·普魯斯特的《追憶似水年華》翻譯成了德文。\n他是土生土長的柏林人，完成學業後因為無法擔任自己想要的法蘭克福大學教職，返回柏林以自由撰稿人為職。期間也曾赴蘇聯、法國生活。1933年，他作為世俗猶太人為了躲避納粹德國政府而流亡巴黎。1940年，德意志國防軍進攻法國，他在試圖逃離時，在西班牙邊境小鎮波爾沃附近自殺而死。",
+  "bio_source": "zhwiki",
+  "description_en": "German cultural critic, philosopher and social critic (1892–1940)",
+  "bio_en": "Walter Bendix Schönflies Benjamin ( BEN-yə-min; German: [ˈvaltɐ ˈbɛnjamiːn] ; 15 July 1892 – 26 September 1940) was a German philosopher, cultural critic, media theorist, and essayist. An eclectic thinker who combined elements of German idealism, Jewish mysticism, Western Marxism, and post-Kantianism, he made contributions to the philosophy of history, metaphysics, historical materialism, criticism, and aesthetics, and had an oblique but overwhelmingly influential impact on the resurrection of the Kabbalah by virtue of his life-long epistolary relationship with Gershom Scholem.\nIn popular culture and left-wing journalism he often appears as an exemplar whose experience is…",
+  "bio_en_source": "enwiki"
+}

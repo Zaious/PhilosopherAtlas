@@ -1,0 +1,129 @@
+{
+  "id": "Q272615",
+  "qid": "Q272615",
+  "slug": "john-langshaw-austin",
+  "name_zh": "約翰·奧斯丁",
+  "name_en": "John Langshaw Austin",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 54.048889,
+      "lon": -2.801389,
+      "place": "Lancaster",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Constantinus)",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Western Roman Empire",
+          "start": 500,
+          "end": 800
+        },
+        {
+          "polity": "Mercia",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "England",
+          "start": 1000,
+          "end": 1200
+        },
+        {
+          "polity": "Angevin Empire",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "English territory",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "England",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "England and Ireland",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1715,
+          "end": 1815
+        },
+        {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "start": 1815,
+          "end": 1938
+        },
+        {
+          "polity": "United Kingdom",
+          "start": 1938,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.751944444,
+      "lon": -1.257777777,
+      "place": "Oxford",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Austin, John Langshaw"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Austin, John Langshaw"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Lancaster",
+  "description": "English philosopher (1911–1960)",
+  "bio": "約翰·朗肖·奧斯丁（英語：John Langshaw Austin，著作常署名 J. L. Austin，1911年3月26日—1960年2月8日）英國哲學家，屬於分析哲學學派，以語言哲學為專長。\n1929年開始在牛津大學貝利奧爾學院學習，1935年在牛津大學畢業後留校任教。在二戰期間，他在軍事情報機關服役，任陸軍中校。1952 年任牛津道德哲學講席教授。\n奧斯丁在五十年代中期訪問了哈佛大學和加州大學伯克利分校，並於1955年在哈佛大學講授威廉·詹姆斯講座。正是在這個時候，他遇見了喬姆斯基，並成為了朋友。他從1956年到1957年擔任亞里斯多德學會會長。\n奧斯丁生前沒有發表過著作，他的講演稿和課堂筆記於死後被集輯出版，包括《哲學論文集》、《怎樣用語言做事》(1961年 )、《感覺與潛感覺物件》(1962年)。",
+  "bio_source": "zhwiki",
+  "description_en": "English philosopher (1911–1960)",
+  "bio_en": "John Langshaw Austin (26 March 1911 – 8 February 1960) was an English philosopher of language and leading proponent of ordinary language philosophy, best known for developing the theory of speech acts.\nAustin pointed out that we use language to do things as well as to assert things, and that the utterance of a statement like \"I promise to do so-and-so\" is best understood as doing something—here, making a promise—rather than making an assertion about anything; hence the title of one of his best-known works, How to Do Things with Words (1955).\nAustin, in formulating this theory of speech acts, mounts a significant challenge to the philosophy of language, far beyond merely e…",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "Q9294",
+  "qid": "Q9294",
+  "slug": "ibn-khaldun",
+  "name_zh": "伊本·赫勒敦",
+  "name_en": "Ibn Khaldun",
+  "tradition": "islamic",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1332,
+  "death_year": 1406,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 36.8065,
+      "lon": 10.1815,
+      "place": "Tunis",
+      "period": [
+        1332,
+        1406
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Hafsid Caliphate",
+          "start": 1300,
+          "end": 1530
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1530,
+          "end": 1715
+        },
+        {
+          "polity": "Tunis",
+          "start": 1715,
+          "end": 1880
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1880,
+          "end": 1900
+        },
+        {
+          "polity": "Tunisia",
+          "start": 1900,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 30.044444444,
+      "lon": 31.235833333,
+      "place": "Cairo",
+      "period": [
+        1406,
+        1406
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Ibn Khaldun"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Muqaddimah",
+      "title_zh": "歷史緒論",
+      "year": null,
+      "qid": "Q1259616",
+      "source": "wikidata"
+    },
+    {
+      "title": "The book of lessons",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q960651",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 164,
+  "birth_place": "Tunis",
+  "description": "阿拉伯史學家、社會學家（1332－1406）",
+  "bio": "伊本·赫勒敦（阿拉伯語：ابن خلدون，1332年5月27日—1406年3月19日），又譯伊本·哈勒敦，全名為阿布·扎伊德·瓦利·代因·阿卜杜勒-拉赫曼·伊本·穆罕默德·伊本·穆罕默德·伊本·穆罕默德·伊本·哈桑·伊本·穆罕默德·伊本·賈比爾·伊本·穆罕默德·伊本·易卜拉欣·伊本·阿卜杜勒-拉赫曼·伊本·赫勒敦·哈德拉米·伊什比利（阿拉伯語：أبو زيد عبد الرحمن بن محمد بن خلدون الحضرمي，Abū Zayd ʿAbdu r-Raḥmān bin Muḥammad bin Khaldūn Al-Ḥaḍrami），阿拉伯穆斯林學者、歷史學家、經濟學家、社會學家，被認為為人口統計學之父。1332年出生於突尼西亞，是塞維亞的阿拉伯貴族的後裔 （8世紀時跟隨阿拉伯軍隊出徵到安達盧西亞，後遷到北非）。自幼跟從父親學習《古蘭經》和阿拉伯文，又到宰圖那大學學習深造，受到系統的伊斯蘭教育。1352年開始從政。1378年寫成作《歷史緒論》。1406年3月19日在開羅逝世。\n伊本·赫勒敦最著名的著作是《歷史緒論》(Muqaddimah或Prolegomena），在自傳中稱這本書是他用六個月時間寫成的，這本書影響了17至19世紀的鄂圖曼歷史學家，如Kâtip Çelebi、Mustafa Naima和艾哈邁德·傑夫代特帕夏，他們利用這本書的理論分析了鄂圖曼帝國的興衰。",
+  "bio_source": "zhwiki",
+  "description_en": "Arab historiographer and historian",
+  "bio_en": "Ibn Khaldun (27 May 1332 – 17 March 1406, 732–808 AH) was an Arab scholar, historian, philosopher, and sociologist. He is widely acknowledged to be one of the greatest social scientists of the Middle Ages, and is considered by a number of scholars to be a major forerunner of historiography, sociology, economics, and demography studies.\nHis best-known book is the Muqaddimah or Prolegomena (\"Introduction\"), which he wrote in six months as he states in his autobiography. It later influenced 17th-century and 19th-century Ottoman historians such as Kâtip Çelebi, Mustafa Naima and Ahmed Cevdet Pasha, who used its theories to analyze the growth and decline of the Ottoman Empire.",
+  "bio_en_source": "enwiki"
+}

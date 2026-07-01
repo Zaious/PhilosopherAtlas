@@ -1,0 +1,294 @@
+{
+  "id": "Q1067",
+  "qid": "Q1067",
+  "slug": "dante-alighieri",
+  "name_zh": "但丁·阿利吉耶里",
+  "name_en": "Dante Alighieri",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1265,
+  "death_year": 1321,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 43.771388888,
+      "lon": 11.254166666,
+      "place": "Florence",
+      "period": [
+        1265,
+        1321
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1200,
+          "end": 1530
+        },
+        {
+          "polity": "Florence",
+          "start": 1530,
+          "end": 1650
+        },
+        {
+          "polity": "Tuscany",
+          "start": 1650,
+          "end": 1880
+        },
+        {
+          "polity": "Italy",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "Kingfom of Italy",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Italy",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 44.416111111,
+      "lon": 12.201666666,
+      "place": "Ravenna",
+      "period": [
+        1321,
+        1321
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        1309,
+        null
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 41.893055555,
+      "lon": 12.482777777,
+      "place": "Rome",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 45.466944444,
+      "lon": 9.19,
+      "place": "Milan",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 44.407186111,
+      "lon": 8.933983333,
+      "place": "Genoa",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 44.493888888,
+      "lon": 11.342777777,
+      "place": "Bologna",
+      "period": [
+        1286,
+        null
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 45.438611111,
+      "lon": 10.992777777,
+      "place": "Verona",
+      "period": [
+        1313,
+        1318
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 45.665833333,
+      "lon": 12.245555555,
+      "place": "Treviso",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 44.222777777,
+      "lon": 12.041388888,
+      "place": "Forlì",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 43.85,
+      "lon": 10.516666666,
+      "place": "Lucca",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 43.463055555,
+      "lon": 11.878055555,
+      "place": "Arezzo",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Dante Alighieri"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "De Monarchia",
+      "title_zh": "論世界帝國",
+      "year": 1316,
+      "qid": "Q134221",
+      "source": "wikidata"
+    },
+    {
+      "title": "Eclogues",
+      "title_zh": "牧歌 (但丁)",
+      "year": 1719,
+      "qid": "Q921273",
+      "source": "wikidata"
+    },
+    {
+      "title": "論俗語",
+      "title_zh": "論俗語",
+      "year": 1303,
+      "qid": "Q18081",
+      "source": "wikidata"
+    },
+    {
+      "title": "Vita Nuova",
+      "title_zh": "新生",
+      "year": 1295,
+      "qid": "Q18084",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Divine Comedy",
+      "title_zh": "神曲",
+      "year": null,
+      "qid": "Q40185",
+      "source": "wikidata"
+    },
+    {
+      "title": "Convivio",
+      "title_zh": null,
+      "year": 1304,
+      "qid": "Q666014",
+      "source": "wikidata"
+    },
+    {
+      "title": "Le Rime",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1092462",
+      "source": "wikidata"
+    },
+    {
+      "title": "Epistles",
+      "title_zh": null,
+      "year": 1303,
+      "qid": "Q3730666",
+      "source": "wikidata"
+    },
+    {
+      "title": "Questio de situ et formae aque et terre",
+      "title_zh": null,
+      "year": 1300,
+      "qid": "Q122600816",
+      "source": "wikidata"
+    },
+    {
+      "title": "L'oracion che fe Danti a la morte",
+      "title_zh": null,
+      "year": 1400,
+      "qid": "Q133260773",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 269,
+  "birth_place": "Florence",
+  "description": "義大利著名詩人",
+  "bio": "但丁·阿利吉耶裡（義大利語：Dante Alighieri， 1265年5月29日—1321年9月14日），通稱但丁（Dante），義大利中世紀詩人、作家及哲學家，是義大利語文學史上最具代表性的作家，也是歐洲文藝復興時期的開拓人物，他的史詩《神曲》留名後世。他在義大利被稱為至高詩人（義大利語：il Sommo Poeta），也被認為是現代義大利語的奠基者。但丁、法蘭切斯科·佩脫拉克與喬萬尼·薄伽丘三人是文藝復興時期的文學界先驅，被譽為「文藝復興三傑」（tre corone）。",
+  "bio_source": "zhwiki",
+  "description_en": "Florentine poet, writer, and philosopher (c. 1265–1321)",
+  "bio_en": "Dante Alighieri (Italian: [ˈdante aliˈɡjɛːri]; most likely baptized Durante di Alighiero degli Alighieri; c. May 1265 – September 14, 1321), widely known mononymously as Dante, was an Italian poet, writer, and philosopher. His Divine Comedy, originally called Comedìa (modern Italian: Commedia) and later christened Divina by Giovanni Boccaccio, is widely considered one of the most important poems of the Middle Ages and the greatest literary work in the Italian language.\nAt a time when Latin was still the dominant language for scholarly and literary writing—and when many Italian poets drew inspiration from French or Provençal traditions—Dante broke with both by writing in t…",
+  "bio_en_source": "enwiki"
+}

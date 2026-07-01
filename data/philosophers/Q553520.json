@@ -1,0 +1,164 @@
+{
+  "id": "Q553520",
+  "qid": "Q553520",
+  "slug": "yang-xiong",
+  "name_zh": "揚雄",
+  "name_en": "Yang Xiong",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -52,
+  "death_year": 18,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 30.798611111,
+      "lon": 103.898888888,
+      "place": "Pidu District",
+      "period": [
+        -52,
+        18
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Jin Empire",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Yang Xiong"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Yang Xiong"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Yang Xiong [Yang Hsiung]"
+    }
+  ],
+  "works": [
+    {
+      "title": "Collected Works of Yang Ziyun",
+      "title_zh": "揚子雲集",
+      "year": null,
+      "qid": "Q99692378",
+      "source": "wikidata"
+    },
+    {
+      "title": "Fa yan",
+      "title_zh": "法言",
+      "year": null,
+      "qid": "Q10379842",
+      "source": "wikidata"
+    },
+    {
+      "title": "Taixuanjing",
+      "title_zh": "太玄",
+      "year": null,
+      "qid": "Q1072297",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 27,
+  "birth_place": "Pidu District",
+  "description": "西漢哲學家、文學家、語言學家",
+  "bio": "揚雄（前53年—18年），字子雲，姓名又作楊雄，蜀郡成都（今四川成都郫都區）人，西漢哲學家、文學家、語言學家。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese linguist, poet and writer (53 BCE – 18 CE)",
+  "bio_en": "Yang Xiong (Chinese: 揚雄; 53 BCE – 18 CE), courtesy name Ziyun (子雲), was a Chinese philosopher, poet, linguist and politician of the Western Han dynasty known for his philosophical writings and fu poetry compositions.",
+  "bio_en_source": "enwiki"
+}

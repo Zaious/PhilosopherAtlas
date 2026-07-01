@@ -1,0 +1,109 @@
+{
+  "id": "Q76499",
+  "qid": "Q76499",
+  "slug": "johann-georg-hamann",
+  "name_zh": "約翰·格奧爾格·哈曼",
+  "name_en": "Johann Georg Hamann",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": null,
+  "death_year": null,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 54.711472,
+      "lon": 20.509306,
+      "place": "Königsberg",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Monastic State of the Teutonic Knights",
+          "end": 1525,
+          "start": 1255
+        },
+        {
+          "polity": "Duchy of Prussia",
+          "end": 1701,
+          "start": 1525
+        },
+        {
+          "polity": "Kingdom of Prussia",
+          "end": 1871,
+          "start": 1701
+        },
+        {
+          "polity": "German Empire",
+          "end": 1918,
+          "start": 1871
+        },
+        {
+          "polity": "Weimar Republic",
+          "end": 1933,
+          "start": 1918
+        },
+        {
+          "polity": "Nazi Germany",
+          "end": 1945,
+          "start": 1933
+        },
+        {
+          "polity": "Soviet Union",
+          "end": 1991,
+          "start": 1945
+        },
+        {
+          "polity": "Russian Federation",
+          "end": null,
+          "start": 1991
+        }
+      ],
+      "polity_source": "curated"
+    },
+    {
+      "lat": 51.9625,
+      "lon": 7.625555555,
+      "place": "Münster",
+      "period": [
+        null,
+        null
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hamann, Johann Georg"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Hamann, Johann Georg"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": null,
+  "birth_place": "Königsberg",
+  "description": "German philosopher (1730-1788)",
+  "bio": "約翰·格奧爾格·哈曼（Johann Georg Hamann，德語：[ˈhaːman]；1730年8月27日—1788年6月21日）是來自柯尼斯堡的德國路德派哲學家，被稱為「北方巫師」，是後康德哲學的領袖人物之一。他的學生赫爾德將他的作品用作狂飆突進運動的主要支持者，並與反啟蒙運動和浪漫主義有關。  \n他向同樣來自柯尼斯堡的康德介紹了休謨（將他從「教條式的沉睡」中喚醒）和盧梭的作品。哈曼受到休謨的影響，但他用他的觀點來支援而不是反對基督教。\n歌德和克爾凱郭爾都認為他是他那個時代最優秀的人。他也對黑格爾和弗里德里希·海因裡希·雅各比有重要影響。 早在語言學轉向之前，哈曼就認為，認識論應該被語言哲學取代。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher (1730-1788)",
+  "bio_en": "Johann Georg Hamann (; German: [ˈhaːman]; 27 August 1730 – 21 June 1788) was a German Lutheran philosopher from Königsberg. Known by the pen name \"the Magus (Wizard) of the North\", he was one of the leading figures of post-Kantian philosophy. His work was used by his student Johann Gottfried Herder as the main support of the Sturm und Drang movement, and is associated with the Counter-Enlightenment and Romanticism.\nHe introduced Kant, also from Königsberg, to the works of both Hume – which Kant credited with waking him from his \"dogmatic slumber\" – and Rousseau.",
+  "bio_en_source": "enwiki"
+}

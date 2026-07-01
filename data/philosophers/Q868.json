@@ -1,0 +1,205 @@
+{
+  "id": "Q868",
+  "qid": "Q868",
+  "slug": "aristotle",
+  "name_zh": "亞里斯多德",
+  "name_en": "Aristotle",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -383,
+  "death_year": -321,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 40.59083333,
+      "lon": 23.79416667,
+      "place": "Stageira",
+      "period": [
+        -383,
+        -321
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 38.4624,
+      "lon": 23.5971,
+      "place": "Chalcis",
+      "period": [
+        -321,
+        -321
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 38.457139,
+      "lon": 23.62194,
+      "place": "Chalcis",
+      "period": [
+        -321,
+        -321
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 37.984166666,
+      "lon": 23.728055555,
+      "place": "Athens",
+      "period": [
+        -334,
+        -322
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 39.490556,
+      "lon": 26.336667,
+      "place": "Assos",
+      "period": [
+        -346,
+        -344
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 39.491621,
+      "lon": 26.339656,
+      "place": "Assos",
+      "period": [
+        -346,
+        -344
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Aristotle"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Aristotle"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Aristotle"
+    }
+  ],
+  "works": [
+    {
+      "title": "Politics",
+      "title_zh": "政治學",
+      "year": null,
+      "qid": "Q69539",
+      "source": "wikidata"
+    },
+    {
+      "title": "Metaphysics",
+      "title_zh": "形而上學 (亞里斯多德)",
+      "year": null,
+      "qid": "Q661655",
+      "source": "wikidata"
+    },
+    {
+      "title": "Meteorology",
+      "title_zh": "天象論",
+      "year": null,
+      "qid": "Q2741164",
+      "source": "wikidata"
+    },
+    {
+      "title": "eudaimonia",
+      "title_zh": "心盛幸福",
+      "year": null,
+      "qid": "Q1771260",
+      "source": "wikidata"
+    },
+    {
+      "title": "Poetics",
+      "title_zh": "詩學",
+      "year": null,
+      "qid": "Q264714",
+      "source": "wikidata"
+    },
+    {
+      "title": "Physics",
+      "title_zh": "物理學 (亞里士多德)",
+      "year": null,
+      "qid": "Q1051198",
+      "source": "wikidata"
+    },
+    {
+      "title": "Constitution of the Athenians",
+      "title_zh": "雅典政制",
+      "year": null,
+      "qid": "Q382282",
+      "source": "wikidata"
+    },
+    {
+      "title": "Nicomachean Ethics",
+      "title_zh": "尼各馬可倫理學",
+      "year": null,
+      "qid": "Q474537",
+      "source": "wikidata"
+    },
+    {
+      "title": "Organon",
+      "title_zh": "工具論",
+      "year": null,
+      "qid": "Q500930",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 316,
+  "birth_place": "Stageira",
+  "description": "古典希臘哲學家，柏拉圖學生和西方哲學的創始人",
+  "bio": "亞里斯多德（希臘語：Αριστοτέλης，Aristotélēs，前384年6月19日—前322年3月7日），古希臘哲學家，柏拉圖的學生、亞歷山大大帝的老師。他及他的學派劃分了後世西方許多學科，包括了物理學、形上學、詩歌（包括戲劇）、音樂、生物學、經濟學、動物學、邏輯學、政治、政府、以及倫理學。和柏拉圖、蘇格拉底（柏拉圖的老師）一起被譽為西方哲學的奠基者。亞里斯多德的著作是西方哲學的第一個廣泛系統，包含道德、美學、邏輯和科學、政治和形上學。\n亞里斯多德關於物理學的思想深刻地塑造了中世紀的學術思想，其影響力延伸到了文藝復興時期，最終被牛頓物理學取代。在動物科學方面，他的一些意見僅在19世紀被確信是準確的。他的學術領域還包括早期關於形式邏輯理論的研究，最終這些研究在19世紀被合併到了現代形式邏輯理論裡。在形上學方面，亞里斯多德的哲學和神學思想在伊斯蘭教和猶太教的傳統上產生了深遠影響，在中世紀，它繼續影響著基督教神學，尤其是天主教教會的學術傳統。他的倫理學，雖然自始至終都具有深刻的影響，後來也隨著新興現代美德倫理的到來獲得了新生。今天亞里斯多德的哲學仍然活躍在學術研究的各個方面。在經濟學方面，亞里斯多德對於經濟活動的分類與看法持續影響到中世紀與重農主義，直到被亞當斯密的古典經濟學派取代為止。",
+  "bio_source": "zhwiki",
+  "description_en": "4th-century BCE Classical Greek philosopher and polymath",
+  "bio_en": "Aristotle (Ancient Greek: Ἀριστοτέλης, romanized: Aristotélēs; 384–322 BC) was an ancient Greek philosopher and polymath. His writings span the natural sciences, philosophy, linguistics, economics, politics, psychology, and the arts. As the founder of the Peripatetic school of philosophy in the Lyceum in Athens, he began the wider Aristotelian tradition that followed, which set the groundwork for the development of modern science.\nLittle is known about Aristotle's life. He was born in the city of Stagira in Chalkidiki (northern Greece) during the Classical period. His father, Nicomachus, died when Aristotle was a child, and he was brought up by a guardian.",
+  "bio_en_source": "enwiki"
+}

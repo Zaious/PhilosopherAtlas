@@ -1,0 +1,227 @@
+{
+  "id": "Q8011",
+  "qid": "Q8011",
+  "slug": "avicenna",
+  "name_zh": "伊本·西拿",
+  "name_en": "Avicenna",
+  "tradition": "islamic",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 980,
+  "death_year": 1037,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 39.994444444,
+      "lon": 64.379166666,
+      "place": "Afshona",
+      "period": [
+        980,
+        1037
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Samanid Empire",
+          "start": 900,
+          "end": 1100
+        },
+        {
+          "polity": "Karkhanids",
+          "start": 1100,
+          "end": 1200
+        },
+        {
+          "polity": "Kara Khitai Khaganate",
+          "start": 1200,
+          "end": 1279
+        },
+        {
+          "polity": "Chagatai Khanate",
+          "start": 1279,
+          "end": 1400
+        },
+        {
+          "polity": "Timurid Empire",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "Timurid Emirates",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Khiva Khanate",
+          "start": 1530,
+          "end": 1783
+        },
+        {
+          "polity": "central Asian khanates",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Turan",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "Russian Empire",
+          "start": 1880,
+          "end": 1920
+        },
+        {
+          "polity": "USSR",
+          "start": 1920,
+          "end": 1930
+        },
+        {
+          "polity": "White Russia",
+          "start": 1930,
+          "end": 1938
+        },
+        {
+          "polity": "USSR",
+          "start": 1938,
+          "end": 1994
+        },
+        {
+          "polity": "Uzbekistan",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 34.8,
+      "lon": 48.516666666,
+      "place": "Hamadan",
+      "period": [
+        1037,
+        1037
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 39.774722222,
+      "lon": 64.428611111,
+      "place": "Bukhara",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 32.6525,
+      "lon": 51.675,
+      "place": "Isfahan",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 36.846666666,
+      "lon": 54.43,
+      "place": "Gorgan",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 41.5345,
+      "lon": 60.6249,
+      "place": "Urgench",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 35.5975,
+      "lon": 51.434444444,
+      "place": "Ray",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Avicenna [Ibn Sina]"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Ibn Sina [Avicenna]"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Book of Healing",
+      "title_zh": "治療論",
+      "year": 1027,
+      "qid": "Q1030940",
+      "source": "wikidata"
+    },
+    {
+      "title": "Canon of Medicine",
+      "title_zh": "醫典",
+      "year": 1025,
+      "qid": "Q466060",
+      "source": "wikidata"
+    },
+    {
+      "title": "Al-isharat wa al-tanbihat",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q22948618",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 193,
+  "birth_place": "Afshona",
+  "description": "波斯哲學家、醫學家、科學家（980-1037）",
+  "bio": "阿布·阿里·海珊·本·阿卜杜拉·本·哈桑·本·阿里·本·西那（阿拉伯文：أبو علي الحسين بن عبد الله بن الحسن بن علي بن سينا，波斯文：ابوعلی حسین بن عبدالله بن حسن بن علي بن سینا；980年—1037年6月），一般簡稱伊本·西那（阿拉伯文、波斯文：ابن سينا），歐洲人稱其為阿維森納（又譯阿維真納；希臘語：Aβιτζιανός，拉丁語：Avicenna）。塔吉克人，生於布哈拉附近。中世紀波斯哲學家、醫學家、自然科學家、文學家，被被譽為「現代醫學之父」。\n伊本·西那青年時曾任宮廷御醫；二十歲時，因王朝覆滅而遷居花剌子模；十一年後，因政治原因逃至伊朗。他博學多才，有多方面的成就。醫學上，豐富了內科知識，重視解剖，所著《醫典》是十七世紀以前亞洲、歐洲廣大地區的主要醫學教科書和參考書。哲學上，他是阿拉伯/波斯亞里斯多德學派的主要代表之一。持二元論，並創造了自己的學說。肯定物質世界是永恆的、不可創造的，同時又承認真主是永恆的。主張靈魂不滅，也不輪迴，反對死者復活之說。主要著作還有《治療之書》、《醫典》等。",
+  "bio_source": "zhwiki",
+  "description_en": "Persian polymath, physician and philosopher (c. 980–1037)",
+  "bio_en": "Ibn Sina (c. 980 – 22 June 1037), commonly known in the West as Avicenna ( A(H)V-ih-SEN-ə), was a preeminent philosopher and physician of the Muslim world. He was a seminal figure of the Islamic Golden Age, serving in the courts of various Iranian rulers, and was influential to medieval European medical and Scholastic thought. Avicenna is considered one of the greatest thinkers and medical scholars in history.\nOften described as the father of early modern medicine, Avicenna's most famous works are The Book of Healing, a philosophical and scientific encyclopedia, and The Canon of Medicine, a medical encyclopedia that became a standard medical text at many medieval European…",
+  "bio_en_source": "enwiki"
+}

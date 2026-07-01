@@ -1,0 +1,197 @@
+{
+  "id": "Q9546",
+  "qid": "Q9546",
+  "slug": "alghazali",
+  "name_zh": "安薩里",
+  "name_en": "Al-Ghazali",
+  "tradition": "islamic",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1056,
+  "death_year": 1111,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 36.486138888,
+      "lon": 59.517555555,
+      "place": "Tus",
+      "period": [
+        1056,
+        1111
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Ghaznavid Emirate",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Ilkhanate",
+          "start": 1279,
+          "end": 1400
+        },
+        {
+          "polity": "Timurid Empire",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "Timurid Emirates",
+          "start": 1492,
+          "end": 1530
+        },
+        {
+          "polity": "Safavid Empire",
+          "start": 1530,
+          "end": 1783
+        },
+        {
+          "polity": "Afghanistan",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Persia",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Iran",
+          "start": 1920,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 35.216667,
+      "lon": 38.583333,
+      "place": "Syria",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 31.776679,
+      "lon": 35.234156,
+      "place": "Jerusalem",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 33.315277777,
+      "lon": 44.366111111,
+      "place": "Baghdad",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 33.513,
+      "lon": 36.292,
+      "place": "Damascus",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 36.213333333,
+      "lon": 58.795833333,
+      "place": "Nishapur",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "al-Ghazālī"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "al-Ghazali"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Incoherence of the Philosophers",
+      "title_zh": "哲學家的矛盾",
+      "year": 1095,
+      "qid": "Q2736005",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Alchemy of Happiness",
+      "title_zh": "快樂的鍊金術",
+      "year": null,
+      "qid": "Q2784563",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Revival of the Religious Sciences",
+      "title_zh": null,
+      "year": 1105,
+      "qid": "Q4165276",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Moderation in Belief",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q12184084",
+      "source": "wikidata"
+    },
+    {
+      "title": "On Legal theory of Muslim Jurisprudence",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q12192939",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 142,
+  "birth_place": "Tus",
+  "description": "波斯穆斯林神學家，法學家，哲學家和神秘主義者",
+  "bio": "安薩裡（阿拉伯語：ٱلْغَزَّالِيّ，1058年—1111年12月19日），一作加扎裡，拉丁名阿爾加惹爾（Algazel），全名阿布•哈米德•穆罕默德•本·穆罕默德·圖西·安薩裡（阿拉伯語：أَبُو حَامِد مُحَمَّد بْن مُحَمَّد ٱلطُّوسِيّ ٱلْغَزَّالِيّ），在波斯圖斯出生及逝世，為伊斯蘭教神學家、法理學家、哲學家、宇宙學家、心理學家和神秘主義者，是遜尼派伊斯蘭思想史上的重要人物。\n安薩裡被普遍認為是懷疑論的先驅，在他的主要著作《哲學家的矛盾》中，他改變了早期伊斯蘭哲學的方向，將它由伊斯蘭玄學帶入因果論的時代。\n部分歷史學家認為，安薩裡是繼穆罕默德後，最有影響力的穆斯林，在伊斯蘭文明中將安薩裡視為是穆賈迪德，也就是復興者，依照傳統每世紀會有一個復興者出現，復興他們的信仰。但也有學者認為他從在科學和信仰上的運動反而是伊斯蘭科學進展的損害。安薩裡的著作也改變了伊斯蘭教的哲學，像早期的伊斯蘭新柏拉圖主義是以古希臘哲學，但在受到安薩裡駁斥後，一直無法恢復過來。安薩裡也提出了當時正統的伊斯蘭信仰，和蘇菲主義有密切的關係。後來正統伊斯蘭信仰和伊斯蘭神秘主義仍然各自發展，但保有對彼此的接納，因此不會試圖譴責或掃除消滅另外一方。",
+  "bio_source": "zhwiki",
+  "description_en": "Persian Sunni Muslim scholar and mystic (c.1058–1111)",
+  "bio_en": "Al-Ghazali, (Persian: ابو حامد محمد ابن محمد غزالی توسی, romanized: Abū Ḥāmid Muḥammad ibn Muḥammad Ghazālī Ṭūsi  (c. 1058 – 19 December 1111), Latinized as Algazelus, was a Shafi'i Sunni Muslim Persian scholar and polymath. He is known as one of the most prominent and influential jurisconsults, legal theoreticians, muftis, philosophers, theologians, logicians and mystics in Islamic history.\nHe is considered to be the 11th century's mujaddid, a renewer of the faith, who, according to the prophetic hadith, appears once every 100 years to restore the faith of the Islamic community.",
+  "bio_en_source": "enwiki"
+}

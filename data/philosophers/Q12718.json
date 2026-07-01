@@ -1,0 +1,73 @@
+{
+  "id": "Q12718",
+  "qid": "Q12718",
+  "slug": "auguste-comte",
+  "name_zh": "奧古斯特·孔德",
+  "name_en": "Auguste Comte",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1798,
+  "death_year": 1857,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 43.610919444,
+      "lon": 3.877230555,
+      "place": "Montpellier",
+      "period": [
+        1798,
+        1857
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1783,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": [
+        1857,
+        1857
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Comte, Auguste"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 133,
+  "birth_place": "Montpellier",
+  "description": "法國哲學家（1798－1857）",
+  "bio": "奧古斯特·孔德（法語：Auguste Comte；1798年1月19日—1857年9月5日）是一位法國哲學家，他開創了當代社會學學科領域並建立其重要基礎，且率先完整闡述現代實證主義之內容。",
+  "bio_source": "zhwiki",
+  "description_en": "French philosopher, mathematician and sociologist (1798–1857)",
+  "bio_en": "Isidore Auguste Marie François Xavier Comte (; French: [oɡyst(ə) kɔ̃t] ; 19 January 1798 – 5 September 1857) was a French philosopher, mathematician and writer who formulated the doctrine of positivism. He is often regarded as the first philosopher of science in the modern sense of the term. Comte's ideas were fundamental to the development of sociology, with him inventing the very term and treating the discipline as the crowning achievement of the sciences.\nInfluenced by Henri de Saint-Simon, Comte's work attempted to remedy the social disorder caused by the French Revolution, which he believed indicated an imminent transition to a new form of society.",
+  "bio_en_source": "enwiki"
+}

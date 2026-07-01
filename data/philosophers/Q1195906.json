@@ -1,0 +1,84 @@
+{
+  "id": "Q1195906",
+  "qid": "Q1195906",
+  "slug": "gu-yanwu",
+  "name_zh": "顧炎武",
+  "name_en": "Gu Yanwu",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1613,
+  "death_year": 1682,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 31.38674,
+      "lon": 120.97655,
+      "place": "Kunshan",
+      "period": [
+        1613,
+        1682
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1600,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Gu Yanwu"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 25,
+  "birth_place": "Kunshan",
+  "description": "明末清初學者、思想家",
+  "bio": "顧炎武（1613年7月15日—1682年2月15日），原名絳，字寧人。明亡後，改名炎武，亦曾化名蔣山傭。學者尊為亭林先生，直隸蘇州府崑山縣（今江蘇崑山市）人，明末清初思想家、學者。與黃宗羲、王夫之並稱「明末三大儒」、「明末三先生」或「明末三大思想家」。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese philologist and geographer (1613–1682)",
+  "bio_en": "Gu Yanwu (Chinese: 顧炎武; pinyin: Gù Yánwǔ; Wade–Giles: Ku4 Yen2-wu3, 1613 – 1682) was a Chinese historian, philologist, and poet. After failing to advance through the civil service examination system and surviving the upheaval of the Qing conquest of the Ming dynasty, he became an itinerant scholar, traveling across much of China while collecting notes for his work.\nBorn to a family of scholar-officials in the village of Qiandun in modern Kunshan, Jiangsu, Gu was adopted as the grandchild of his paternal uncle as an infant. He was tutored in the Chinese classics by his adoptive family, and began to pursue advancement in the imperial examination system.",
+  "bio_en_source": "enwiki"
+}

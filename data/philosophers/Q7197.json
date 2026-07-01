@@ -1,0 +1,173 @@
+{
+  "id": "Q7197",
+  "qid": "Q7197",
+  "slug": "simone-de-beauvoir",
+  "name_zh": "西蒙·德·波娃",
+  "name_en": "Simone de Beauvoir",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1908,
+  "death_year": 1986,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.850530555,
+      "lon": 2.332233333,
+      "place": "6th arrondissement of Paris",
+      "period": [
+        1908,
+        1986
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "France",
+          "start": 1900,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 48.833022222,
+      "lon": 2.326888888,
+      "place": "14th arrondissement of Paris",
+      "period": [
+        1986,
+        1986
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.856666666,
+      "lon": 2.352222222,
+      "place": "Paris",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 43.296666666,
+      "lon": 5.376388888,
+      "place": "Marseille",
+      "period": [
+        1931,
+        1932
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.443055555,
+      "lon": 1.1025,
+      "place": "Rouen",
+      "period": [
+        1932,
+        1937
+      ],
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Beauvoir, Simone de"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Beauvoir, Simone de"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Beauvoir, Simone de"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Mandarins",
+      "title_zh": "名士風流",
+      "year": 1954,
+      "qid": "Q1214721",
+      "source": "wikidata"
+    },
+    {
+      "title": "When Things of the Spirit Come First",
+      "title_zh": "當東西的靈魂先來",
+      "year": 1979,
+      "qid": "Q151578",
+      "source": "wikidata"
+    },
+    {
+      "title": "She Came to Stay",
+      "title_zh": "女賓",
+      "year": 1943,
+      "qid": "Q859773",
+      "source": "wikidata"
+    },
+    {
+      "title": "Pyrrhus and Cineas",
+      "title_zh": "皮瑞斯與辛尼阿斯",
+      "year": 1944,
+      "qid": "Q3411417",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Second Sex",
+      "title_zh": "第二性",
+      "year": 1949,
+      "qid": "Q470098",
+      "source": "wikidata"
+    },
+    {
+      "title": "Force of Circumstance",
+      "title_zh": null,
+      "year": 1963,
+      "qid": "Q968115",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 183,
+  "birth_place": "6th arrondissement of Paris",
+  "description": "法國作家、存在主義哲學家（1908－1986）",
+  "bio": "西蒙·露西·埃內斯蒂娜·瑪麗·貝特朗·德·波娃（法語：Simone Lucie Ernestine Marie Bertrand de Beauvoir；1908年1月9日—1986年4月14日），法國作家、存在主義哲學家、女權主義活動家、社會理論家。她的思想、學說等，對女權主義式存在主義、女權主義理論都產生重大影響，成為當代女權主義的基礎。她撰寫了關於哲學、政治、社會議題的小說、散文、傳記、自傳、回憶錄、專著。她以論文《第二性》聞名，該論文詳細分析女性受壓迫的情況，從哲學高度上建立了當代女權主義。她曾獲頒1954年龔固爾文學獎、1975年耶路撒冷獎、1978年奧地利國家歐洲文學獎。",
+  "bio_source": "zhwiki",
+  "description_en": "French philosopher, social theorist and activist (1908–1986)",
+  "bio_en": "Simone Lucie Ernestine Marie Bertrand de Beauvoir (9 January 1908 – 14 April 1986) was a French existentialist philosopher, writer, social theorist, and feminist activist. Though she did not consider herself a philosopher, nor was she considered one at the time of her death, she had a significant influence on both feminist existentialism and feminist theory.\nBeauvoir wrote novels, essays, short stories, biographies, autobiographies, and monographs on philosophy, politics, and social issues. She was best known for her \"trailblazing work in feminist philosophy\", The Second Sex (1949), a detailed analysis of women's oppression and a foundational tract of contemporary feminism.",
+  "bio_en_source": "enwiki"
+}

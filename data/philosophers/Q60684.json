@@ -1,0 +1,129 @@
+{
+  "id": "Q60684",
+  "qid": "Q60684",
+  "slug": "novalis",
+  "name_zh": "諾瓦利斯",
+  "name_en": "Novalis",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1772,
+  "death_year": 1801,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 51.666666666,
+      "lon": 11.533055555,
+      "place": "Wiederstedt",
+      "period": [
+        1772,
+        1801
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1715,
+          "end": 1783
+        },
+        {
+          "polity": "Anhalt",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (Soviet)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "East Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 51.2,
+      "lon": 11.966666666,
+      "place": "Weißenfels",
+      "period": [
+        1801,
+        1801
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Novalis"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Hymns to the Night",
+      "title_zh": null,
+      "year": 1800,
+      "qid": "Q128670",
+      "source": "wikidata"
+    },
+    {
+      "title": "Heinrich von Ofterdingen",
+      "title_zh": null,
+      "year": 1802,
+      "qid": "Q58178849",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 114,
+  "birth_place": "Wiederstedt",
+  "description": "German poet and writer (1772-1801)",
+  "bio": "諾瓦利斯（德語：Novalis，1772年5月2日—1801年3月25日），原名格奧爾格·菲利普·弗里德里希·馮·哈登柏格男爵（德語：Georg Philipp Friedrich Freiherr von Hardenberg），德國浪漫主義詩人、作家、哲學家。著有詩歌《夜之讚歌》（1800），《聖歌》（1799），小說《海因裡希·馮·奧弗特丁根》等。",
+  "bio_source": "zhwiki",
+  "description_en": "German poet and writer (1772-1801)",
+  "bio_en": "Georg Philipp Friedrich Freiherr von Hardenberg (2 May 1772 – 25 March 1801), better known by his pen name Novalis (; German: [noˈvaːlɪs]), was a German aristocrat and polymath, who was a poet, novelist, philosopher and mystic. He is regarded as an influential figure in Jena Romanticism.\nNovalis was born into a minor aristocratic family in Electoral Saxony. He was the second of eleven children; his early household observed a strict Pietist faith. He studied law at the University of Jena, the University of Leipzig, and the University of Wittenberg. While at Jena, he published his first poem and befriended the playwright and fellow poet Friedrich Schiller.",
+  "bio_en_source": "enwiki"
+}

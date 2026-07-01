@@ -1,0 +1,99 @@
+{
+  "id": "Q11812",
+  "qid": "Q11812",
+  "slug": "thomas-jefferson",
+  "name_zh": "湯瑪斯·傑佛遜",
+  "name_en": "Thomas Jefferson",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1743,
+  "death_year": 1826,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 38.0131,
+      "lon": -78.3956,
+      "place": "Shadwell",
+      "period": [
+        1743,
+        1826
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United States of America",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "United States",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "United States of America",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "United States",
+          "start": 1914,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 38.010305555,
+      "lon": -78.452333333,
+      "place": "Monticello",
+      "period": [
+        1826,
+        1826
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.8717,
+      "lon": 2.3032,
+      "place": "Hôtel de Langeac",
+      "period": null,
+      "anchor": "residence",
+      "source_property": "P551",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Jefferson, Thomas"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 2,
+  "sitelinks": 222,
+  "birth_place": "Shadwell",
+  "description": "第3屆美國總統",
+  "bio": "湯瑪斯·傑弗遜（英語：Thomas Jefferson，1743年4月13日—1826年7月4日），第三任美國總統（1801年－1809年）。同時也是《美國獨立宣言》主要起草人，及美國開國元勛中最具影響力者之一。其任期中之重大事件包括路易斯安那購地案（1803年）、1807年禁運法案、路易斯與克拉克探勘（1804－1806）等。\n身為政治學家，傑弗遜秉持古典自由主義與共和主義，制定《維吉尼亞宗教自由法》（Virginia Statute for Religious Freedom, 1779, 1786）；該法日後成為美國憲法第一修正案創設條文之基礎，傑弗遜民主（Jeffersonian democracy）因他而得名。1792年傑弗遜創立並領導民主共和黨（民主黨之前身）。傑弗遜曾為第二任維吉尼亞州州長（1779年－1781年）、第一任美國國務卿（1789年－1793年）、與第二任美國副總統（1797年－1801年）。1800年傑弗遜擊敗競逐連任的亞當斯當選美國第三任總統，此後他創立的政黨統治美國達四分之一世紀，直至1824年分裂為止。\n除了政治事業外，傑弗遜同時也是農學、園藝學、建築學、詞源學、考古學、數學、密碼學、測量學與古生物學等學科的專家；又身兼作家、律師與小提琴手；也是維吉尼亞大學的創辦人。",
+  "bio_source": "zhwiki",
+  "description_en": "Founding Father, U.S. president from 1801 to 1809 (1743–1826)",
+  "bio_en": "Thomas Jefferson (April 13 [O.S. April 2], 1743 – July 4, 1826) was a Founding Father and the third president of the United States from 1801 to 1809. He was the second vice president under John Adams. Jefferson was the primary author of the Declaration of Independence, and a leading proponent of democracy, republicanism and natural rights.\nJefferson was born into the Colony of Virginia's planter class. During the American Revolution, he represented Virginia in the Second Continental Congress, which unanimously adopted the Declaration of Independence.",
+  "bio_en_source": "enwiki"
+}

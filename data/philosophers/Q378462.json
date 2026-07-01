@@ -1,0 +1,126 @@
+{
+  "id": "Q378462",
+  "qid": "Q378462",
+  "slug": "wang-yangming",
+  "name_zh": "王陽明",
+  "name_en": "Wang Yangming",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1472,
+  "death_year": 1529,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 30.037195,
+      "lon": 121.15463,
+      "place": "Yuyao City",
+      "period": [
+        1472,
+        1529
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Great Khanate",
+          "start": 1400,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 25.829166666,
+      "lon": 114.933611111,
+      "place": "Ganzhou",
+      "period": [
+        1529,
+        1529
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wang Shouren"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wang Shouren"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wang Yangming [Wang Shou-Jen]"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Wang Yangming"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 5,
+  "sitelinks": 46,
+  "birth_place": "Yuyao City",
+  "description": "中國明代哲學家、軍事家 (1472–1529)",
+  "bio": "王守仁（1472年10月31日—1529年1月9日），幼名雲，字伯安，號陽明子，浙江紹興府餘姚縣（今浙江省餘姚市）人，明代中期乃至中國歷史上重要和影響深遠的思想家、哲學家、書法家、文學家、政治家、軍事家、重臣、教育家、儒生、陽明學者、心理學家，也是漢字文化圈中最重要的儒家學者之一，在儒家之中佔有極其重要的地位。官至南京兵部尚書、都察院左都御史，因平定宸濠之亂等軍功而封爵新建伯，隆慶時追贈侯爵。諡文成。\n他是陸王心學之集大成者，不但精通儒、釋、道三教，而且能統軍徵戰。\n因他曾在貴陽修文陽明洞天居住，自號「陽明子」，故被學者稱為「陽明先生」，後世一般稱王陽明，其學說世稱「陽明學」，在中國、日本、朝鮮半島都有重要而深遠的影響。",
+  "bio_source": "zhwiki",
+  "description_en": "Chinese philosopher and general (1472–1529)",
+  "bio_en": "Wang Shouren (Chinese: 王守仁, 26 October 1472 – 9 January 1529), courtesy name Bo'an (Chinese: 伯安), art name Yangmingzi (traditional Chinese: 陽明子; simplified Chinese: 阳明子), usually referred to as Wang Yangming (traditional Chinese: 王陽明; simplified Chinese: 王阳明), was a Chinese statesman, general, and Neo-Confucian philosopher during the Ming dynasty. After Zhu Xi, he is commonly regarded as the most important Neo-Confucian thinker, for his interpretations of Confucianism that denied the rationalist dualism of the orthodox philosophy of Zhu Xi.",
+  "bio_en_source": "enwiki"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "Q180989",
+  "qid": "Q180989",
+  "slug": "jane-addams",
+  "name_zh": "珍·亞當斯",
+  "name_en": "Jane Addams",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1860,
+  "death_year": 1935,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 42.375,
+      "lon": -89.6339,
+      "place": "Cedarville",
+      "period": [
+        1860,
+        1935
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "United States",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "United States of America",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "United States",
+          "start": 1914,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 41.881944444,
+      "lon": -87.627777777,
+      "place": "Chicago",
+      "period": [
+        1935,
+        1935
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Addams, Jane"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Addams, Jane"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 3,
+  "sitelinks": 97,
+  "birth_place": "Cedarville",
+  "description": "美國新聞工作者",
+  "bio": "勞拉·珍·亞當斯（英語：Laura Jane Addams；1860年9月6日—1935年5月21日），美國社會工作者、社會學家、哲學家和社會活動家。美國芝加哥赫爾宮協會的創始人。她因爭取婦女、黑人移居的權利而獲1931年諾貝爾和平獎，也是美國第一個贏得諾貝爾和平獎的女性。她還是美國睦鄰運動的發起人。一生致力於消除貧困、捍衛婦女兒童權益及推動世界和平。",
+  "bio_source": "zhwiki",
+  "description_en": "American feminist social activist, reformer, social worker, sociologist, philosopher, and writer (1860–1935)",
+  "bio_en": "Laura Jane Addams (September 6, 1860 – May 21, 1935) was an American settlement activist, reformer, social worker, sociologist, public administrator, philosopher, and author. She was a leader in the history of social work and women's suffrage. In 1889, Addams co-founded Hull House, one of America's most famous settlement houses, in Chicago, Illinois, providing extensive social services to poor, largely immigrant families. Philosophically a \"radical pragmatist\", she was arguably the first woman public philosopher in the United States.",
+  "bio_en_source": "enwiki"
+}

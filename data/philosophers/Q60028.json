@@ -1,0 +1,192 @@
+{
+  "id": "Q60028",
+  "qid": "Q60028",
+  "slug": "gottlob-frege",
+  "name_zh": "戈特洛布·弗雷格",
+  "name_en": "Gottlob Frege",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1848,
+  "death_year": 1925,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 53.8925,
+      "lon": 11.465,
+      "place": "Wismar",
+      "period": [
+        1848,
+        1925
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Mecklenburg-Schwerin",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (Soviet)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "East Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 53.766666666,
+      "lon": 11.466666666,
+      "place": "Bad Kleinen",
+      "period": [
+        1925,
+        1925
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Frege, Gottlob"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Frege, Gottlob"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Frege, Gottlob"
+    }
+  ],
+  "works": [
+    {
+      "title": "Frege's propositional calculus",
+      "title_zh": "弗雷格命題演算",
+      "year": null,
+      "qid": "Q714691",
+      "source": "wikidata"
+    },
+    {
+      "title": "Begriffsschrift",
+      "title_zh": "概念文字",
+      "year": 1879,
+      "qid": "Q814390",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Foundations of Arithmetic",
+      "title_zh": "算術基礎",
+      "year": 1884,
+      "qid": "Q732146",
+      "source": "wikidata"
+    },
+    {
+      "title": "principle of compositionality",
+      "title_zh": "複合性原理",
+      "year": null,
+      "qid": "Q936559",
+      "source": "wikidata"
+    },
+    {
+      "title": "Q330955",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q330955",
+      "source": "wikidata"
+    },
+    {
+      "title": "Frege's theorem",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q1052005",
+      "source": "wikidata"
+    },
+    {
+      "title": "Frege's Puzzle",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q5501313",
+      "source": "wikidata"
+    },
+    {
+      "title": "Frege system",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q5501318",
+      "source": "wikidata"
+    },
+    {
+      "title": "Frege–Church ontology",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q5501323",
+      "source": "wikidata"
+    },
+    {
+      "title": "Grundgesetze der Arithmetik",
+      "title_zh": null,
+      "year": 1893,
+      "qid": "Q101071186",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 92,
+  "birth_place": "Wismar",
+  "description": "德國數學家、邏輯學家、哲學家",
+  "bio": "弗里德里希·路德維希·戈特洛布·弗雷格（德語：Friedrich Ludwig Gottlob Frege，發音：[ˈɡɔtlop ˈfʁeːɡə]；1848年11月8日—1925年7月26日），德國著名數學家、邏輯學家和哲學家，是數理邏輯和分析哲學的奠基人。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher, logician, and mathematician (1848–1925)",
+  "bio_en": "Friedrich Ludwig Gottlob Frege (; German: [ˈɡɔtloːp ˈfreːɡə]; 8 November 1848 – 26 July 1925) was a German philosopher, logician, and mathematician. He was a mathematics professor at the University of Jena, and is understood by many to be the father of analytic philosophy, concentrating on the philosophy of language, logic, and mathematics. Though he was largely ignored during his lifetime, Giuseppe Peano (1858–1932), Bertrand Russell (1872–1970), and, to some extent, Ludwig Wittgenstein (1889–1951) introduced his work to later generations of philosophers.",
+  "bio_en_source": "enwiki"
+}

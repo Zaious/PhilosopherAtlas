@@ -1,0 +1,24 @@
+Q9546 | Al-Ghazali | birth=1056 | place=Tus
+Q9235 | Georg Wilhelm Friedrich Hegel | birth=1770 | place=Stuttgart
+Q183372 | Alfred North Whitehead | birth=1861 | place=Ramsgate
+Q83041 | Anaxagoras | birth=-499 | place=Klazomenai
+Q345012 | Huineng | birth=638 | place=Xinxing County
+Q1399 | Niccolò Machiavelli | birth=1469 | place=Florence
+Q193670 | Frantz Fanon | birth=1925 | place=Fort-de-France
+Q102585 | Johann Gottlieb Fichte | birth=1762 | place=Rammenau
+Q445626 | Dong Zhongshu | birth=-178 | place=Jing County
+Q178709 | Giambattista Vico | birth=1668 | place=Naples
+Q214816 | Pierre Bayle | birth=1647 | place=Carla-Bayle
+Q134189 | Plotinus | birth=205 | place=Asyut
+Q8011 | Avicenna | birth=980 | place=Afshona
+Q76519 | Rudolf Carnap | birth=1891 | place=Wuppertal
+Q81244 | Karl Popper | birth=1902 | place=Vienna
+Q152388 | Theodor W. Adorno | birth=1903 | place=Frankfurt
+Q724293 | Sengzhao | birth=374 | place=None
+Q237833 | George Santayana | birth=1863 | place=San Bernardo street
+Q28959 | Han Fei | birth=-279 | place=Xinzheng
+Q212639 | Maurice Merleau-Ponty | birth=None | place=None
+Q188569 | William Godwin | birth=1756 | place=Wisbech
+Q180989 | Jane Addams | birth=1860 | place=Cedarville
+Q1362266 | Gongsun Long | birth=-324 | place=None
+Q4295 | Peter Abelard | birth=1079 | place=Le Pallet

@@ -1,0 +1,136 @@
+{
+  "id": "Q272411",
+  "qid": "Q272411",
+  "slug": "mozi",
+  "name_zh": "墨子",
+  "name_en": "Mozi",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -469,
+  "death_year": -390,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 35.113,
+      "lon": 117.159,
+      "place": "Lu",
+      "period": [
+        -469,
+        -390
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Han",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Jin",
+          "start": 300,
+          "end": 500
+        },
+        {
+          "polity": "Toba Wei",
+          "start": 500,
+          "end": 600
+        },
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Mozi"
+    },
+    {
+      "source_id": "feng_youlan",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Mozi"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Mozi [Mo-tzu]"
+    }
+  ],
+  "works": [],
+  "works_sources": [],
+  "k": 4,
+  "sitelinks": 67,
+  "birth_place": "Lu",
+  "description": "中國戰國時期思想家",
+  "bio": "墨子（前468年？—前376年），子姓，墨氏，名翟，春秋末戰國初期宋國（今河南商丘）人，一說魯國（今山東滕州木石鎮）人，是中國著名思想家、科學家、教育家、軍事家、通才。\n提出了「非儒」、「兼愛」、「非攻」、「尚賢」、「尚同」、「天志」、「明鬼」、「非命」、「非樂」、「節葬」、「節用」、「交相利」等觀點，創立墨家學說，並有《墨子》一書傳世。墨家在當時影響很大，墨子因反儒，創立墨學。重視科學。《墨子》一書中體現的墨子的思想在後世仍具有一定影響，廣為流傳的《千字文》中便記載了出自《墨子·所染》的「墨悲絲染」的故事。到了清朝，隨著諸子學的興起，學者對墨子思想的研究又提升到新的高度。\n2016年，中國發射的全球首顆量子科學實驗衛星定名為「墨子號」，以紀念墨子。",
+  "bio_source": "zhwiki",
+  "description_en": "5th-century BC Chinese philosopher and founder of Mohism",
+  "bio_en": "Mozi, personal name Mo Di,\nwas a Chinese philosopher, logician, and the founder of the Mohist school of thought, making him one of the most important figures of the Warring States period (c. 475 – 221 BCE). Alongside Confucianism, Mohism became the most prominent organized school of the Hundred Schools of Thought throughout the period. The Mozi is an anthology of writings traditionally attributed to Mozi and to his followers.",
+  "bio_en_source": "enwiki"
+}

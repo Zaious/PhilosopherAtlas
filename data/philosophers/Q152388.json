@@ -1,0 +1,216 @@
+{
+  "id": "Q152388",
+  "qid": "Q152388",
+  "slug": "theodor-w-adorno",
+  "name_zh": "狄奧多·阿多諾",
+  "name_en": "Theodor W. Adorno",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1903,
+  "death_year": 1969,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 50.110555555,
+      "lon": 8.682222222,
+      "place": "Frankfurt",
+      "period": [
+        1903,
+        1969
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Germany",
+          "start": 1900,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (USA)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 46.292222222,
+      "lon": 7.882777777,
+      "place": "Visp",
+      "period": [
+        1969,
+        1969
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 40.712777777,
+      "lon": -74.006111111,
+      "place": "New York City",
+      "period": [
+        1938,
+        1941
+      ],
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 34.05223,
+      "lon": -118.24368,
+      "place": "Los Angeles",
+      "period": [
+        1941,
+        1949
+      ],
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.208333333,
+      "lon": 16.3725,
+      "place": "Vienna",
+      "period": [
+        1925,
+        1926
+      ],
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 51.751944444,
+      "lon": -1.257777777,
+      "place": "Oxford",
+      "period": [
+        1934,
+        1937
+      ],
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Adorno, Theodor"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Adorno, Theodor W."
+    }
+  ],
+  "works": [
+    {
+      "title": "Dialectic of Enlightenment",
+      "title_zh": "啟蒙辯證法",
+      "year": 1944,
+      "qid": "Q1208415",
+      "source": "wikidata"
+    },
+    {
+      "title": "Negative Dialectics",
+      "title_zh": "否定辯證法",
+      "year": 1966,
+      "qid": "Q1974273",
+      "source": "wikidata"
+    },
+    {
+      "title": "Minima Moralia",
+      "title_zh": null,
+      "year": 1951,
+      "qid": "Q1520631",
+      "source": "wikidata"
+    },
+    {
+      "title": "Aesthetic Theory",
+      "title_zh": null,
+      "year": 1970,
+      "qid": "Q4688582",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Authoritarian Personality",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q7714949",
+      "source": "wikidata"
+    },
+    {
+      "title": "Gesammelte Schriften",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q17355831",
+      "source": "wikidata"
+    },
+    {
+      "title": "Philosophie und Musik",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q17484888",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 103,
+  "birth_place": "Frankfurt",
+  "description": "德國社會學家（Theodor W. Adorno，1903—1969）",
+  "bio": "狄奧多·W·阿多諾（德語：Theodor W. Adorno; 發音：[ˌteːodoːɐ̯ ʔaˈdɔʁno] ；1903年9月11日—1969年8月6日），德國社會學家，同時也是一位哲學家、音樂家以及作曲家。他是法蘭克福學派的成員之一，該學派的其他成員還包括了霍克海默、本雅明、馬庫色、哈貝馬斯等人。他同時也擔任過「電臺計畫」的音樂部主任。\n在成為青年樂評以及業餘社會學家之前，阿多諾本質上是個哲學思想家。外界給予他「社會哲學家」這個稱號，是著重在他的哲學思想中關於社會批判的面向，其社會批判思想也讓他自1945年起在法蘭克福學派的批判理論中取得顯赫的學術地位。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher, sociologist and theorist (1903–1969)",
+  "bio_en": "Theodor W. Adorno (; German: [ˈteːodoːɐ̯ aˈdɔʁno] ; born Theodor Ludwig Wiesengrund; 11 September 1903 – 6 August 1969) was a German philosopher, cultural, and music critic. He was a leading member of the Frankfurt School of critical theory, whose work has come to be associated with thinkers such as Ernst Bloch, Walter Benjamin, Max Horkheimer, Erich Fromm, and Herbert Marcuse, for whom the works of Sigmund Freud, Karl Marx, and G. W. F. Hegel were essential to a critique of modern society.",
+  "bio_en_source": "enwiki"
+}

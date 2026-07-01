@@ -1,0 +1,369 @@
+{
+  "id": "Q859",
+  "qid": "Q859",
+  "slug": "plato",
+  "name_zh": "柏拉圖",
+  "name_en": "Plato",
+  "tradition": "greek",
+  "centrality": "core",
+  "review": false,
+  "birth_year": -428,
+  "death_year": -348,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 37.984166666,
+      "lon": 23.728055555,
+      "place": "Athens",
+      "period": [
+        -428,
+        -348
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Roman Empire",
+          "start": 100,
+          "end": 300
+        },
+        {
+          "polity": "Rome (Galerius)",
+          "start": 300,
+          "end": 400
+        },
+        {
+          "polity": "Eastern Roman Empire",
+          "start": 400,
+          "end": 800
+        },
+        {
+          "polity": "Byzantine Empire",
+          "start": 800,
+          "end": 1492
+        },
+        {
+          "polity": "Ottoman Empire",
+          "start": 1492,
+          "end": 1880
+        },
+        {
+          "polity": "Greece",
+          "start": 1880,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "routledge_series",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Plato"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Plato"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Plato"
+    }
+  ],
+  "works": [
+    {
+      "title": "Euthyphro",
+      "title_zh": "尤西弗羅",
+      "year": -400,
+      "qid": "Q648889",
+      "source": "wikidata"
+    },
+    {
+      "title": "Eryxias",
+      "title_zh": "厄律克西亞篇",
+      "year": null,
+      "qid": "Q2440110",
+      "source": "wikidata"
+    },
+    {
+      "title": "Epinomis",
+      "title_zh": "厄庇諾米斯篇",
+      "year": null,
+      "qid": "Q2440551",
+      "source": "wikidata"
+    },
+    {
+      "title": "Sisyphus",
+      "title_zh": "西緒福篇",
+      "year": null,
+      "qid": "Q2440575",
+      "source": "wikidata"
+    },
+    {
+      "title": "Hippias Major",
+      "title_zh": "大希庇亞篇",
+      "year": null,
+      "qid": "Q634846",
+      "source": "wikidata"
+    },
+    {
+      "title": "Epistles",
+      "title_zh": "書信篇",
+      "year": null,
+      "qid": "Q2170732",
+      "source": "wikidata"
+    },
+    {
+      "title": "Statesman",
+      "title_zh": "政治家篇",
+      "year": null,
+      "qid": "Q669911",
+      "source": "wikidata"
+    },
+    {
+      "title": "The Republic",
+      "title_zh": "理想國",
+      "year": 1963,
+      "qid": "Q123397",
+      "source": "wikidata"
+    },
+    {
+      "title": "Euthydemus",
+      "title_zh": "歐緒德謨篇",
+      "year": null,
+      "qid": "Q6499786",
+      "source": "wikidata"
+    },
+    {
+      "title": "Meno",
+      "title_zh": "美諾篇",
+      "year": null,
+      "qid": "Q746253",
+      "source": "wikidata"
+    },
+    {
+      "title": "Laws",
+      "title_zh": "法律篇",
+      "year": null,
+      "qid": "Q752285",
+      "source": "wikidata"
+    },
+    {
+      "title": "Theaetetus",
+      "title_zh": "泰阿泰德篇",
+      "year": null,
+      "qid": "Q846241",
+      "source": "wikidata"
+    },
+    {
+      "title": "Critias",
+      "title_zh": "克里特阿斯",
+      "year": null,
+      "qid": "Q1335321",
+      "source": "wikidata"
+    },
+    {
+      "title": "Cratylus",
+      "title_zh": "克拉底魯篇",
+      "year": null,
+      "qid": "Q1347394",
+      "source": "wikidata"
+    },
+    {
+      "title": "Ion",
+      "title_zh": "伊安篇",
+      "year": null,
+      "qid": "Q1426781",
+      "source": "wikidata"
+    },
+    {
+      "title": "Menexenus",
+      "title_zh": "美涅克塞努篇",
+      "year": null,
+      "qid": "Q1474843",
+      "source": "wikidata"
+    },
+    {
+      "title": "Hipparchus",
+      "title_zh": "希帕庫篇",
+      "year": null,
+      "qid": "Q1619950",
+      "source": "wikidata"
+    },
+    {
+      "title": "Charmides",
+      "title_zh": "卡爾米德篇",
+      "year": null,
+      "qid": "Q781206",
+      "source": "wikidata"
+    },
+    {
+      "title": "Laches",
+      "title_zh": "拉凱斯篇",
+      "year": null,
+      "qid": "Q1243625",
+      "source": "wikidata"
+    },
+    {
+      "title": "Clitophon",
+      "title_zh": "克利託芬篇",
+      "year": null,
+      "qid": "Q1653767",
+      "source": "wikidata"
+    },
+    {
+      "title": "Lysis",
+      "title_zh": "呂西斯篇",
+      "year": null,
+      "qid": "Q924977",
+      "source": "wikidata"
+    },
+    {
+      "title": "Philebus",
+      "title_zh": "菲力帕斯篇",
+      "year": null,
+      "qid": "Q220972",
+      "source": "wikidata"
+    },
+    {
+      "title": "Second Alcibiades",
+      "title_zh": "阿奇拜得篇之二",
+      "year": null,
+      "qid": "Q1788674",
+      "source": "wikidata"
+    },
+    {
+      "title": "Gorgias",
+      "title_zh": "高爾吉亞篇",
+      "year": null,
+      "qid": "Q264241",
+      "source": "wikidata"
+    },
+    {
+      "title": "Minos",
+      "title_zh": "彌努斯篇",
+      "year": null,
+      "qid": "Q241668",
+      "source": "wikidata"
+    },
+    {
+      "title": "Phaedo",
+      "title_zh": "斐多篇",
+      "year": null,
+      "qid": "Q244161",
+      "source": "wikidata"
+    },
+    {
+      "title": "Crito",
+      "title_zh": "克力同篇",
+      "year": -400,
+      "qid": "Q267634",
+      "source": "wikidata"
+    },
+    {
+      "title": "Apology",
+      "title_zh": "蘇格拉底的申辯",
+      "year": -395,
+      "qid": "Q273668",
+      "source": "wikidata"
+    },
+    {
+      "title": "Timaeus",
+      "title_zh": "蒂邁歐篇",
+      "year": -359,
+      "qid": "Q371884",
+      "source": "wikidata"
+    },
+    {
+      "title": "Parmenides",
+      "title_zh": "巴曼尼得斯篇",
+      "year": null,
+      "qid": "Q1130762",
+      "source": "wikidata"
+    },
+    {
+      "title": "First Alcibiades",
+      "title_zh": "阿奇拜得篇之一",
+      "year": null,
+      "qid": "Q1153509",
+      "source": "wikidata"
+    },
+    {
+      "title": "Sophist",
+      "title_zh": "智者",
+      "year": null,
+      "qid": "Q471715",
+      "source": "wikidata"
+    },
+    {
+      "title": "Symposium",
+      "title_zh": "會飲篇",
+      "year": null,
+      "qid": "Q486727",
+      "source": "wikidata"
+    },
+    {
+      "title": "Protagoras",
+      "title_zh": "普羅泰戈拉篇",
+      "year": null,
+      "qid": "Q520328",
+      "source": "wikidata"
+    },
+    {
+      "title": "Phaedrus",
+      "title_zh": "斐德羅篇",
+      "year": -369,
+      "qid": "Q555862",
+      "source": "wikidata"
+    },
+    {
+      "title": "Hippias Minor",
+      "title_zh": "小希庇亞篇",
+      "year": null,
+      "qid": "Q614640",
+      "source": "wikidata"
+    },
+    {
+      "title": "Rival Lovers",
+      "title_zh": "競爭者篇",
+      "year": null,
+      "qid": "Q572073",
+      "source": "wikidata"
+    },
+    {
+      "title": "Theages",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q2005313",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 4,
+  "sitelinks": 300,
+  "birth_place": "Athens",
+  "description": "古希臘哲學家",
+  "bio": "柏拉圖（古希臘語：Πλάτων，前429年—前347年），古希臘哲學家，雅典人，其著作大多以對話錄形式紀錄，並創辦了著名的柏拉圖學院。柏拉圖是蘇格拉底的學生，亞里斯多德的老師，他們三人被普遍認為是西方哲學的奠基人，史稱「西方三聖」或「希臘三哲」。",
+  "bio_source": "zhwiki",
+  "description_en": "4th-century BCE Greek philosopher",
+  "bio_en": "Plato ( PLAY-toh; Ancient Greek: Πλάτων, Plátōn; born c. 428–423 BC, died 348/347 BC) was an ancient Greek philosopher of Classical Athens who is most commonly considered the foundational thinker of the Western philosophical tradition. An innovator of the literary dialogue and dialectic forms, Plato influenced all the major areas of theoretical philosophy and practical philosophy, and was the founder of the Academy, a philosophical school in Athens where Plato taught the collection of philosophical theories that would later become known as Platonism. \nPlato's most famous contribution is his Theory of Forms (or Ideas), which aims to solve what is now known as the problem of universals.",
+  "bio_en_source": "enwiki"
+}

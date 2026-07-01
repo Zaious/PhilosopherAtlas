@@ -1,0 +1,143 @@
+{
+  "id": "Q42063",
+  "qid": "Q42063",
+  "slug": "xuanzang",
+  "name_zh": "玄奘",
+  "name_en": "Xuanzang",
+  "tradition": "chinese",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 602,
+  "death_year": 664,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 34.72296,
+      "lon": 112.77955,
+      "place": "Yanshi District",
+      "period": [
+        602,
+        664
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Sui Empire",
+          "start": 600,
+          "end": 800
+        },
+        {
+          "polity": "Tang Empire",
+          "start": 800,
+          "end": 1000
+        },
+        {
+          "polity": "Song Empire",
+          "start": 1000,
+          "end": 1279
+        },
+        {
+          "polity": "Great Khanate",
+          "start": 1279,
+          "end": 1492
+        },
+        {
+          "polity": "Ming Empire",
+          "start": 1492,
+          "end": 1500
+        },
+        {
+          "polity": "Ming Chinese Empire",
+          "start": 1500,
+          "end": 1650
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1650,
+          "end": 1783
+        },
+        {
+          "polity": "Qing Empire",
+          "start": 1783,
+          "end": 1815
+        },
+        {
+          "polity": "Manchu Empire",
+          "start": 1815,
+          "end": 1920
+        },
+        {
+          "polity": "Chinese Warlords",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "China",
+          "start": 1945,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 34.90574,
+      "lon": 108.94219,
+      "place": "Tongchuan",
+      "period": [
+        664,
+        664
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "lao_siguang",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Xuanzang"
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Xuanzang [Hsüan-tsang]"
+    }
+  ],
+  "works": [
+    {
+      "title": "Record of the Western Regions",
+      "title_zh": "大唐西域記",
+      "year": null,
+      "qid": "Q1146069",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 77,
+  "birth_place": "Yanshi District",
+  "description": "中國唐朝僧人，知名譯經師，漢傳佛教法相宗創始人",
+  "bio": "玄奘（梵語：जुआनज़ैंग，羅馬化：juānaja़्aiṃga，602年4月6日—664年3月7日），俗姓陳，名禕，洛州緱氏縣（今河南省洛陽市偃師區南境）人，師承印度摩揭陀那爛陀寺戒賢大師，是唐朝三藏法師、中國佛教法相唯識宗奠基人，中國四大翻譯家、漢傳佛教最偉大的譯經師之一。由其口述、弟子辯機撰文的《大唐西域記》為研究古印度史的重要文獻。\n五百羅漢第413尊「明世界尊者」是玄奘。",
+  "bio_source": "zhwiki",
+  "description_en": "7th-century Chinese Buddhist monk and scholar (602–664)",
+  "bio_en": "Xuanzang (Chinese: 玄奘; Wade–Giles: Hsüen Tsang; [ɕɥɛ̌n.tsâŋ]; 6 April 602 – 5 February 664), born Chen Hui or Chen Yi (陳褘 / 陳禕), also known by his Sanskrit Dharma name Mokṣadeva, was a 7th-century Chinese Buddhist monk, scholar, traveller, and translator. He is known for the epoch-making contributions to Chinese Buddhism, the travelogue of his journey to the Indian subcontinent in 629–645, his efforts to bring at least 657 Indian texts to China, and his translations of some of these texts.",
+  "bio_en_source": "enwiki"
+}

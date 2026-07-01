@@ -1,0 +1,139 @@
+{
+  "id": "Q60070",
+  "qid": "Q60070",
+  "slug": "friedrich-wilhelm-joseph-schelling",
+  "name_zh": "弗里德里希·謝林",
+  "name_en": "Friedrich Wilhelm Joseph Schelling",
+  "tradition": "european",
+  "centrality": "core",
+  "review": false,
+  "birth_year": 1775,
+  "death_year": 1854,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 48.801388888,
+      "lon": 9.013055555,
+      "place": "Leonberg",
+      "period": [
+        1775,
+        1854
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Holy Roman Empire",
+          "start": 1715,
+          "end": 1783
+        },
+        {
+          "polity": "Württemberg",
+          "start": 1783,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (USA)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "West Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 46.999722222,
+      "lon": 9.5,
+      "place": "Bad Ragaz",
+      "period": [
+        1854,
+        1854
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 48.1375,
+      "lon": 11.575,
+      "place": "Munich",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    },
+    {
+      "source_id": "iep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Schelling, F.W.J. von"
+    },
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Schelling, Friedrich Wilhelm Joseph von"
+    }
+  ],
+  "works": [
+    {
+      "title": "The Ages of the World",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q17053448",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 3,
+  "sitelinks": 90,
+  "birth_place": "Leonberg",
+  "description": "德國哲學家（1775－1854）",
+  "bio": "弗里德里希·威廉·約瑟夫·馮·謝林（德語：Friedrich Wilhelm Joseph von Schelling，1775年1月27日—1854年8月20日）德國哲學家。一般在哲學史上，謝林是德國唯心主義發展中期的主要人物，處在費希特和黑格爾之間。解讀他的哲學通常不太容易，因為他哲學中關於自然的定義總是不確定的。一些學者認為他是偉大但又捉摸不定的思想家，因為他在觀點間的跳躍對於一個完整的哲學體系來說缺少一些將它們連線起來的力量。另一些人認為謝林總是關注一些常見的話題，尤其是自由、絕對和人與自然之間的關係。\n謝林的思想和費希特一樣也常常被輕視了，尤其是在英語國家。主要原因之一是因為黑格爾後來的崇高地位，他在《哲學史講演錄》中故意貶低了謝林，將謝林描述為德國唯心主義發展過程中的一個小註腳。其次是因為他的自然哲學，它常被一些實證科學家們嘲笑為缺乏邏輯推論和實踐證明的。但他的自然哲學受到了浪漫派和大詩人歌德的欣賞，也得到了德國自然科學的歡迎。",
+  "bio_source": "zhwiki",
+  "description_en": "German philosopher (1775–1854)",
+  "bio_en": "Friedrich Wilhelm Joseph Schelling (German: [ˈfʁiːdʁɪç ˈvɪlhɛlm ˈjoːzɛf ˈʃɛlɪŋ]; 27 January 1775 – 20 August 1854) was a German philosopher. Standard histories of philosophy make him the midpoint in the development of German idealism, situating him between Johann Gottlieb Fichte, his mentor in his early years, and Georg Wilhelm Friedrich Hegel, his one-time university roommate, early friend, and later rival. Interpreting Schelling's philosophy is regarded as difficult because of its evolving nature.\nSchelling's thought in the main has been neglected, especially in the English-speaking world.",
+  "bio_en_source": "enwiki"
+}

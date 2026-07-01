@@ -1,0 +1,259 @@
+{
+  "id": "Q60024",
+  "qid": "Q60024",
+  "slug": "hermann-von-helmholtz",
+  "name_zh": "赫爾曼·馮·亥姆霍茲",
+  "name_en": "Hermann von Helmholtz",
+  "tradition": "european",
+  "centrality": "core",
+  "review": true,
+  "birth_year": 1821,
+  "death_year": 1894,
+  "date_certainty": "exact",
+  "active_regions": [
+    {
+      "lat": 52.4,
+      "lon": 13.066666666,
+      "place": "Potsdam",
+      "period": [
+        1821,
+        1894
+      ],
+      "anchor": "birth",
+      "source_property": "P19",
+      "primary": true,
+      "polity_sequence": [
+        {
+          "polity": "Prussia",
+          "start": 1815,
+          "end": 1880
+        },
+        {
+          "polity": "Germany",
+          "start": 1880,
+          "end": 1914
+        },
+        {
+          "polity": "German Empire",
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "polity": "Germany",
+          "start": 1920,
+          "end": 1945
+        },
+        {
+          "polity": "Germany (Soviet)",
+          "start": 1945,
+          "end": 1960
+        },
+        {
+          "polity": "East Germany",
+          "start": 1960,
+          "end": 1994
+        },
+        {
+          "polity": "Germany",
+          "start": 1994,
+          "end": null
+        }
+      ],
+      "polity_source": "historical-basemaps"
+    },
+    {
+      "lat": 52.516666666,
+      "lon": 13.3,
+      "place": "Charlottenburg",
+      "period": [
+        1894,
+        1894
+      ],
+      "anchor": "death",
+      "source_property": "P20",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 52.516666666,
+      "lon": 13.383333333,
+      "place": "Berlin",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 50.735277777,
+      "lon": 7.102222222,
+      "place": "Bonn",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 49.412222222,
+      "lon": 8.71,
+      "place": "Heidelberg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    },
+    {
+      "lat": 54.711472222,
+      "lon": 20.509305555,
+      "place": "Königsberg",
+      "period": null,
+      "anchor": "work",
+      "source_property": "P937",
+      "primary": false,
+      "polity_sequence": [],
+      "polity_source": null
+    }
+  ],
+  "membership_sources": [
+    {
+      "source_id": "sep",
+      "entry_type": "canon_list",
+      "weight": 1,
+      "raw_name": "Helmholtz, Hermann von"
+    },
+    {
+      "source_id": "wikidata",
+      "entry_type": "dedicated",
+      "weight": 1
+    }
+  ],
+  "works": [
+    {
+      "title": "Helmholtz equation",
+      "title_zh": "亥姆霍茲方程",
+      "year": null,
+      "qid": "Q860615",
+      "source": "wikidata"
+    },
+    {
+      "title": "Helmholtz pitch notation",
+      "title_zh": "亥姆霍茲記號法",
+      "year": null,
+      "qid": "Q1346377",
+      "source": "wikidata"
+    },
+    {
+      "title": "Helmholtz coil",
+      "title_zh": "亥姆霍茲線圈",
+      "year": null,
+      "qid": "Q1603273",
+      "source": "wikidata"
+    },
+    {
+      "title": "Helmholtz free energy",
+      "title_zh": "亥姆霍茲自由能",
+      "year": null,
+      "qid": "Q865821",
+      "source": "wikidata"
+    },
+    {
+      "title": "Young–Helmholtz theory",
+      "title_zh": "楊-亥姆霍茲理論",
+      "year": null,
+      "qid": "Q1257777",
+      "source": "wikidata"
+    },
+    {
+      "title": "Gibbs–Helmholtz equation",
+      "title_zh": "吉布斯－亥姆霍茲方程",
+      "year": null,
+      "qid": "Q900590",
+      "source": "wikidata"
+    },
+    {
+      "title": "Helmholtz resonance",
+      "title_zh": "亥姆霍茲共振器",
+      "year": null,
+      "qid": "Q1569889",
+      "source": "wikidata"
+    },
+    {
+      "title": "Kelvin–Helmholtz instability",
+      "title_zh": "開爾文-亥姆霍茲不穩定性",
+      "year": null,
+      "qid": "Q1571116",
+      "source": "wikidata"
+    },
+    {
+      "title": "Helmholtz's theorems",
+      "title_zh": "亥姆霍茲定理 (流體力學)",
+      "year": null,
+      "qid": "Q985009",
+      "source": "wikidata"
+    },
+    {
+      "title": "Helmholtz decomposition",
+      "title_zh": "亥姆霍茲分解",
+      "year": null,
+      "qid": "Q1153588",
+      "source": "wikidata"
+    },
+    {
+      "title": "conservation of energy",
+      "title_zh": "能量守恆定律",
+      "year": null,
+      "qid": "Q11382",
+      "source": "wikidata"
+    },
+    {
+      "title": "Kelvin–Helmholtz mechanism",
+      "title_zh": "克赫歷程",
+      "year": null,
+      "qid": "Q477816",
+      "source": "wikidata"
+    },
+    {
+      "title": "Helmholtz–Kohlrausch effect",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q5709374",
+      "source": "wikidata"
+    },
+    {
+      "title": "specific Helmholtz energy",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q76359554",
+      "source": "wikidata"
+    },
+    {
+      "title": "molar Helmholtz energy",
+      "title_zh": null,
+      "year": null,
+      "qid": "Q88862986",
+      "source": "wikidata"
+    }
+  ],
+  "works_sources": [
+    {
+      "source": "wikidata",
+      "ref": "P800",
+      "note": null
+    }
+  ],
+  "k": 2,
+  "sitelinks": 85,
+  "birth_place": "Potsdam",
+  "description": "德國物理學家、醫生",
+  "bio": "赫爾曼·路德維希·費迪南德·馮·亥姆霍茲（德語：Hermann Ludwig Ferdinand von Helmholtz，德語發音：[ˈhɛʁman ˈluːtvɪç ˈfɛʁdinant fɔn ˈhɛlmˌhɔlts]；1821年8月31日—1894年9月8日），德國物理學家、醫生。他在多個科學領域做出了重大貢獻，尤其是在流體動力穩定性。德國最大的研究機構協會亥姆霍茲聯合會即以其命名。",
+  "bio_source": "zhwiki",
+  "description_en": "German physicist and physiologist (1821-1894)",
+  "bio_en": "Hermann Ludwig Ferdinand von Helmholtz (31 August 1821 – 8 September 1894; \"von\" since 1883) was a German  physicist and physician who made significant contributions in several scientific fields, particularly hydrodynamic stability. The Helmholtz Association, the largest German association of research institutions, was named in his honour. Helmholtz is remembered for at the time groundbreaking work in natural science linking theory and practical research work.",
+  "bio_en_source": "enwiki"
+}
