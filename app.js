@@ -99,14 +99,24 @@ const tooltip = d3.select('#tooltip');
 
 // ---------- zoom ----------
 let _rafPending = false;
-const zoom = d3.zoom().scaleExtent([1, 80]).translateExtent([[0, 0], [W, H]]).on('zoom', (ev) => {
-  transform = ev.transform;
-  gBasemap.attr('transform', transform);   // strokes use non-scaling-stroke (stay crisp at any zoom)
-  gGrat.attr('transform', transform);
-  gBorders.attr('transform', transform);
-  gTrail.attr('transform', transform);
-  if (!_rafPending) { _rafPending = true; requestAnimationFrame(() => { _rafPending = false; redraw(); }); }  // coalesce redraws to 1/frame
-});
+let _lastRedrawTransform = d3.zoomIdentity;   // transform at last full redraw (overlay re-clustered)
+function scheduleRedraw() { if (!_rafPending) { _rafPending = true; requestAnimationFrame(() => { _rafPending = false; redraw(); }); } }
+const zoom = d3.zoom().scaleExtent([1, 80]).translateExtent([[0, 0], [W, H]])
+  .on('zoom', (ev) => {
+    transform = ev.transform;
+    gBasemap.attr('transform', transform);   // strokes use non-scaling-stroke (stay crisp at any zoom)
+    gGrat.attr('transform', transform);
+    gBorders.attr('transform', transform);
+    gTrail.attr('transform', transform);
+    if (transform.k === _lastRedrawTransform.k) {
+      // pure pan (no scale change): screen-space clusters just shift uniformly — translate the whole
+      // overlay as one group instead of re-clustering + rebuilding the DOM every frame (buttery drag)
+      gOverlay.attr('transform', `translate(${transform.x - _lastRedrawTransform.x},${transform.y - _lastRedrawTransform.y})`);
+    } else {
+      scheduleRedraw();   // scale changed: re-cluster (coalesced to 1/frame)
+    }
+  })
+  .on('end', () => redraw());   // reconcile absolute positions once the gesture settles (clears pan-shift, refills buffer)
 svg.call(zoom);
 
 // ---------- helpers ----------
@@ -149,7 +159,9 @@ function dominantTradition(members) {
 
 // ---------- render ----------
 function redraw() {
-  const pad = 80;   // keep points just off-screen so edges stay populated while panning
+  gOverlay.attr('transform', null);       // clear any pan-shift; positions below are absolute screen coords
+  _lastRedrawTransform = transform;       // remember the transform these positions were computed at
+  const pad = Math.max(W, H);   // ~one viewport of buffer so pan-as-group-translate keeps edges populated
   const all = visibleData();
   all.forEach(d => { const s = screenXY(d); d._sx = s[0]; d._sy = s[1]; });
   // viewport culling: at high zoom most points are off-screen — skip them entirely
@@ -224,8 +236,8 @@ function redraw() {
     .attr('stroke', s => s.selHi ? '#2a1a08' : 'rgba(50,35,15,.55)')
     .attr('stroke-width', s => s.selHi ? 2.6 : 0.7)
     .attr('stroke-dasharray', s => (s.d.review && !s.selHi) ? '1.5,1.2' : null)   // k==2 provisional = dashed
-    .attr('opacity', s => (selId && !s.selHi && focusMode) ? 0.13 : 1)            // focus: dim others when one is selected
-    .attr('filter', 'url(#pinsh)');
+    .attr('opacity', s => (selId && !s.selHi && focusMode) ? 0.13 : 1);           // focus: dim others when one is selected
+  // (per-pin drop-shadow filter removed — SVG filters re-rasterize every frame and were the main pan cost)
 
   // spider legs
   const legs = gOverlay.selectAll('line.leg').data(spiderMembers, m => m.qid);
