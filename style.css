@@ -146,47 +146,47 @@ ul.pregs li{padding:2px 0}
 
 /* ============ responsive (phones / narrow) ============ */
 @media (max-width:760px){
-  #app{grid-template-columns:1fr;grid-template-rows:50px 1fr 52px}
-  #topbar{gap:8px;padding:0 12px}
+  /* 4-row grid: topbar | map (upper half) | panel (lower half) | scrubber */
+  #app{grid-template-columns:1fr;grid-template-rows:50px calc((100vh - 102px) / 2) 1fr 52px}
+  #topbar{grid-row:1;grid-column:1;gap:8px;padding:0 12px}
+  #map{grid-row:2;grid-column:1}
+  #panel{grid-row:3;grid-column:1;position:static;width:auto;height:auto;
+    border-left:none;border-top:2px solid var(--paper-edge);border-radius:0;
+    box-shadow:0 -2px 10px rgba(30,20,8,.15);transform:none !important;transition:none;
+    overflow-y:auto;-webkit-overflow-scrolling:touch;padding-bottom:14px}
+  #panel::before{display:none}
+  #scrubberbar{grid-row:4;grid-column:1}
+
+  /* topbar items */
   #title{font-size:19px;letter-spacing:0}
   #title .sub{display:none}
   #nav{display:none}
-  #repolink{display:none}   /* GitHub link still reachable via the ☰ info modal */
+  #repolink{display:none}
   #navbtn{display:inline-flex;margin-left:6px}
   #langbtn{margin-left:auto;padding:4px 9px;font-size:13px;min-width:34px}
   #searchwrap{margin-left:8px}
-  #search{width:130px;font-size:15px;padding:5px 10px}
+  #search{width:120px;font-size:14px;padding:4px 10px}
   #sresults{width:220px}
 
-  /* panel = bottom sheet — fixed 45vh so map always visible above */
-  #panel{position:fixed;left:0;right:0;bottom:52px;top:auto;width:auto;
-    height:45vh;max-height:45vh;overflow-y:auto;-webkit-overflow-scrolling:touch;
-    z-index:25;border-left:none;border-top:1px solid var(--paper-edge);
-    border-radius:16px 16px 0 0;box-shadow:0 -6px 26px rgba(30,20,8,.4);
-    transform:translateY(112%);transition:transform .28s ease;padding-bottom:14px}
-  #panel.open{transform:translateY(0)}
-  #panel::before{content:'';display:block;width:40px;height:4px;border-radius:2px;background:#c3ac7e;margin:8px auto 0}
-  .pempty{display:none}
-  .biotext{max-height:120px}
-  /* keep map pointer-events above panel area */
-  #map{padding-bottom:0}
+  /* show empty state in panel (always visible) */
+  .pempty{display:block;padding:14px 16px;font-size:13.5px}
+  .biotext{max-height:110px}
 
   /* legend compact */
-  #legend{top:56px;left:8px;width:auto;max-width:64vw;font-size:14px;padding:7px 9px}
+  #legend{top:56px;left:8px;width:auto;max-width:60vw;font-size:13.5px;padding:6px 9px}
 
   /* scrubber compact */
   #scrubberbar{gap:9px;padding:0 12px}
-  #allwrap{font-size:12.5px}
+  #allwrap{font-size:12px}
   #year{min-width:0}
-  #yearlab{min-width:70px;font-size:14px}
+  #yearlab{min-width:68px;font-size:13.5px}
 
-  /* modal fills more, tabs scroll */
-  .mbox{width:94vw;max-height:88vh;padding:0 18px 22px}
-  .mtabs{gap:2px;overflow-x:auto;-webkit-overflow-scrolling:touch}
-  .mtab{font-size:14px;padding:6px 9px;white-space:nowrap}
-  .mpage h2{font-size:19px}
-  .mpage p,.mpage ul,.mpage ol{font-size:15px}
-  .biotext{max-height:200px}
+  /* modal: tabs smaller, content readable */
+  .mbox{width:94vw;max-height:88vh;padding:0 16px 20px}
+  .mtabs{gap:1px;overflow-x:auto;-webkit-overflow-scrolling:touch;padding:12px 0 10px}
+  .mtab{font-size:12.5px;padding:5px 7px;white-space:nowrap;letter-spacing:0}
+  .mpage h2{font-size:17px}
+  .mpage p,.mpage ul,.mpage ol{font-size:14px}
 }
 
 /* about / info modal */
