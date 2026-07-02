@@ -90,7 +90,11 @@ Historical borders and some polity sequences are machine-derived and snapshot-ap
 
 ## Maintainer
 
-**Zaious** — [GitHub](https://github.com/Zaious/PhilosopherAtlas) · [LinkedIn](https://www.linkedin.com/in/zaious/)
+**[Zaious](https://www.linkedin.com/in/zaious/)** — AI Agent Architect · Independent HCI Researcher
+
+An independent researcher and AI agent architect bridging theoretical inquiry with hands-on system design. Currently watering a philosophy skill tree — on the road to becoming an AI philosopher.
+
+[LinkedIn](https://www.linkedin.com/in/zaious/) · [GitHub](https://github.com/Zaious/PhilosopherAtlas)
 
 ---
 
@@ -126,6 +130,10 @@ Historical borders and some polity sequences are machine-derived and snapshot-ap
 
 ## 維護者
 
-**Zaious** — [GitHub](https://github.com/Zaious/PhilosopherAtlas) · [LinkedIn](https://www.linkedin.com/in/zaious/)
+**[Zaious](https://www.linkedin.com/in/zaious/)** — AI Agent 架構師 · 獨立 HCI 研究者
+
+獨立研究者暨 AI Agent 架構師，在理論思辨與親手打造系統之間搭橋。目前正努力灌溉哲學技能點，走在通往「AI 哲學家」的路上。
+
+[LinkedIn](https://www.linkedin.com/in/zaious/) · [GitHub](https://github.com/Zaious/PhilosopherAtlas)
 
 </details>
