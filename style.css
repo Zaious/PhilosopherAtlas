@@ -158,13 +158,18 @@ ul.pregs li{padding:2px 0}
   #search{width:130px;font-size:15px;padding:5px 10px}
   #sresults{width:220px}
 
-  /* panel = bottom sheet */
-  #panel{position:fixed;left:0;right:0;bottom:52px;top:auto;width:auto;max-height:64vh;z-index:25;
-    border-left:none;border-top:1px solid var(--paper-edge);border-radius:16px 16px 0 0;
-    box-shadow:0 -6px 26px rgba(30,20,8,.4);transform:translateY(112%);transition:transform .28s ease;padding-bottom:14px}
+  /* panel = bottom sheet — fixed 45vh so map always visible above */
+  #panel{position:fixed;left:0;right:0;bottom:52px;top:auto;width:auto;
+    height:45vh;max-height:45vh;overflow-y:auto;-webkit-overflow-scrolling:touch;
+    z-index:25;border-left:none;border-top:1px solid var(--paper-edge);
+    border-radius:16px 16px 0 0;box-shadow:0 -6px 26px rgba(30,20,8,.4);
+    transform:translateY(112%);transition:transform .28s ease;padding-bottom:14px}
   #panel.open{transform:translateY(0)}
   #panel::before{content:'';display:block;width:40px;height:4px;border-radius:2px;background:#c3ac7e;margin:8px auto 0}
   .pempty{display:none}
+  .biotext{max-height:120px}
+  /* keep map pointer-events above panel area */
+  #map{padding-bottom:0}
 
   /* legend compact */
   #legend{top:56px;left:8px;width:auto;max-width:64vw;font-size:14px;padding:7px 9px}
