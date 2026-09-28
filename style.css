@@ -127,6 +127,9 @@ ul.pregs li{padding:2px 0}
 #allwrap{font-size:15.5px;color:var(--ink-soft);white-space:nowrap;cursor:pointer}
 #year{flex:1;accent-color:var(--accent);cursor:pointer}
 #yearlab{min-width:96px;text-align:right;font-variant-numeric:tabular-nums;font-weight:700;font-size:17.5px}
+#studiosig{white-space:nowrap;font-size:13px;color:var(--dim);text-decoration:none;
+  padding-left:16px;border-left:1px solid var(--paper-edge)}
+#studiosig:hover{color:var(--accent);text-decoration:underline}
 
 /* tooltip */
 #tooltip{display:none;position:fixed;pointer-events:none;z-index:40;max-width:260px;
@@ -176,10 +179,11 @@ ul.pregs li{padding:2px 0}
   #legend{top:56px;left:8px;width:auto;max-width:60vw;font-size:13.5px;padding:6px 9px}
 
   /* scrubber compact */
-  #scrubberbar{gap:9px;padding:0 12px}
+  #scrubberbar{gap:0 9px;padding:0 12px;flex-wrap:wrap;align-content:center}
   #allwrap{font-size:12px}
   #year{min-width:0}
   #yearlab{min-width:68px;font-size:13.5px}
+  #studiosig{flex-basis:100%;text-align:center;font-size:10.5px;line-height:1.3;padding-left:0;border-left:none}
 
   /* modal: tabs smaller, content readable */
   .mbox{width:94vw;max-height:88vh;padding:0 16px 20px}
